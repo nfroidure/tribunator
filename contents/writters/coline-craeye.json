@@ -1,0 +1,775 @@
+{
+  "writtings": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "id": "2020-09-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "id": "2020-10-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "id": "2020-12-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2021-01-01T00:00:00Z",
+      "id": "2021-01-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "id": "2021-02-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "id": "2021-04-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "id": "2021-06-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "id": "2021-09-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "id": "2021-11-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "id": "2021-12-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "id": "2022-03-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "id": "2022-04-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "id": "2022-05-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "id": "2022-07-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "id": "2022-09-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "id": "2022-11-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "id": "2022-12-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "id": "2023-01-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "id": "2023-03-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "id": "2023-05-douai-notre-ville-coline-craeye"
+    }
+  ],
+  "sentences": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2021-01-01T00:00:00Z",
+      "count": 9
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 4
+    }
+  ],
+  "sentiments": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "date": "2021-01-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 2
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "positive": 3,
+      "neutral": 2,
+      "negative": 0
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 2
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 2,
+      "negative": 2
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 2,
+      "negative": 1
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    }
+  ],
+  "exclamations": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "date": "2021-01-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 3
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 2
+    }
+  ],
+  "questions": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 1
+    }
+  ],
+  "bolds": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-01-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 1
+    }
+  ],
+  "caps": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-01-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "words": [
+    {
+      "word": "année",
+      "count": 18
+    },
+    {
+      "word": "sécurité",
+      "count": 17
+    },
+    {
+      "word": "ville",
+      "count": 10
+    },
+    {
+      "word": "nouveau",
+      "count": 10
+    },
+    {
+      "word": "rentrée",
+      "count": 9
+    },
+    {
+      "word": "faire",
+      "count": 8
+    },
+    {
+      "word": "majorité",
+      "count": 8
+    },
+    {
+      "word": "fête",
+      "count": 8
+    },
+    {
+      "word": "équipe",
+      "count": 7
+    },
+    {
+      "word": "enfant",
+      "count": 7
+    },
+    {
+      "word": "police",
+      "count": 7
+    },
+    {
+      "word": "municipale",
+      "count": 7
+    },
+    {
+      "word": "pouvoir",
+      "count": 7
+    },
+    {
+      "word": "investissement",
+      "count": 7
+    },
+    {
+      "word": "avoir",
+      "count": 6
+    },
+    {
+      "word": "force",
+      "count": 6
+    },
+    {
+      "word": "beau",
+      "count": 6
+    },
+    {
+      "word": "maire",
+      "count": 6
+    },
+    {
+      "word": "santé",
+      "count": 5
+    },
+    {
+      "word": "engagement",
+      "count": 5
+    },
+    {
+      "word": "éducatif",
+      "count": 5
+    },
+    {
+      "word": "quotidien",
+      "count": 5
+    },
+    {
+      "word": "douaisiens",
+      "count": 5
+    },
+    {
+      "word": "cœur",
+      "count": 5
+    },
+    {
+      "word": "renforcer",
+      "count": 5
+    }
+  ],
+  "portrait": "coline-craeye.jpg",
+  "name": "Coline CRAEYE",
+  "mandates": [
+    "Conseillère municipale d’opposition"
+  ],
+  "groups": [
+    "Élus d’opposition : Douai dynamique et durable"
+  ],
+  "groupsIds": [
+    "douai-dynamique-et-durable-dvd"
+  ],
+  "locality": "Douai",
+  "country": "France",
+  "summary": {
+    "sentences": {
+      "mean": 6.3,
+      "min": 4,
+      "max": 9
+    },
+    "exclamations": {
+      "mean": 1.7,
+      "min": 0,
+      "max": 4
+    },
+    "questions": {
+      "mean": 0.1,
+      "min": 0,
+      "max": 1
+    },
+    "bolds": {
+      "mean": 0.9,
+      "min": 0,
+      "max": 2
+    },
+    "caps": {
+      "mean": 0.15,
+      "min": 0,
+      "max": 1
+    },
+    "sentiments": {
+      "positive": {
+        "mean": 0.75,
+        "min": 0,
+        "max": 3
+      },
+      "neutral": {
+        "mean": 4.9,
+        "min": 2,
+        "max": 8
+      },
+      "negative": {
+        "mean": 0.65,
+        "min": 0,
+        "max": 2
+      }
+    }
+  }
+}

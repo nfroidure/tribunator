@@ -1,0 +1,205 @@
+{
+  "writtings": [
+    {
+      "date": "2012-03-01T00:00:00Z",
+      "id": "2012-03-douai-notre-ville-rene-lavarde"
+    }
+  ],
+  "sentences": [
+    {
+      "date": "2012-03-01T00:00:00Z",
+      "count": 9
+    }
+  ],
+  "sentiments": [
+    {
+      "date": "2012-03-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 6,
+      "negative": 2
+    }
+  ],
+  "exclamations": [
+    {
+      "date": "2012-03-01T00:00:00Z",
+      "count": 3
+    }
+  ],
+  "questions": [
+    {
+      "date": "2012-03-01T00:00:00Z",
+      "count": 2
+    }
+  ],
+  "bolds": [
+    {
+      "date": "2012-03-01T00:00:00Z",
+      "count": 1
+    }
+  ],
+  "caps": [
+    {
+      "date": "2012-03-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "words": [
+    {
+      "word": "place",
+      "count": 3
+    },
+    {
+      "word": "refaire",
+      "count": 2
+    },
+    {
+      "word": "ville",
+      "count": 2
+    },
+    {
+      "word": "terrain",
+      "count": 2
+    },
+    {
+      "word": "vente",
+      "count": 2
+    },
+    {
+      "word": "entreprise",
+      "count": 2
+    },
+    {
+      "word": "implanter",
+      "count": 2
+    },
+    {
+      "word": "surface",
+      "count": 2
+    },
+    {
+      "word": "commercial",
+      "count": 2
+    },
+    {
+      "word": "commerce",
+      "count": 2
+    },
+    {
+      "word": "pavé",
+      "count": 1
+    },
+    {
+      "word": "espoir",
+      "count": 1
+    },
+    {
+      "word": "officiel",
+      "count": 1
+    },
+    {
+      "word": "grâce",
+      "count": 1
+    },
+    {
+      "word": "programme",
+      "count": 1
+    },
+    {
+      "word": "investissement",
+      "count": 1
+    },
+    {
+      "word": "complémentaire",
+      "count": 1
+    },
+    {
+      "word": "commission",
+      "count": 1
+    },
+    {
+      "word": "réunir",
+      "count": 1
+    },
+    {
+      "word": "dommage",
+      "count": 1
+    },
+    {
+      "word": "mise",
+      "count": 1
+    },
+    {
+      "word": "propriétaire",
+      "count": 1
+    },
+    {
+      "word": "univers",
+      "count": 1
+    },
+    {
+      "word": "café",
+      "count": 1
+    },
+    {
+      "word": "cinéma",
+      "count": 1
+    }
+  ],
+  "portrait": "default.svg",
+  "name": "René LAVARDE",
+  "mandates": [
+    "Conseiller municipal d’opposition"
+  ],
+  "groups": [
+    "Élus d’opposition : Vivons Douai (Parti Socialiste)"
+  ],
+  "groupsIds": [
+    "vivons-douai-ps"
+  ],
+  "locality": "Douai",
+  "country": "France",
+  "summary": {
+    "sentences": {
+      "mean": 9,
+      "min": 9,
+      "max": 9
+    },
+    "exclamations": {
+      "mean": 3,
+      "min": 3,
+      "max": 3
+    },
+    "questions": {
+      "mean": 2,
+      "min": 2,
+      "max": 2
+    },
+    "bolds": {
+      "mean": 1,
+      "min": 1,
+      "max": 1
+    },
+    "caps": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "sentiments": {
+      "positive": {
+        "mean": 1,
+        "min": 1,
+        "max": 1
+      },
+      "neutral": {
+        "mean": 6,
+        "min": 6,
+        "max": 6
+      },
+      "negative": {
+        "mean": 2,
+        "min": 2,
+        "max": 2
+      }
+    }
+  }
+}

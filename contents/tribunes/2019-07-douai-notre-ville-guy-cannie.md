@@ -1,0 +1,21 @@
+---
+id: "2019-07-douai-notre-ville-guy-cannie"
+author: "Guy CANNIE"
+title: "Conseiller municipal d’opposition"
+group: "Élus d’opposition : Rassemblement Douai Bleu Marine (Rassemblement National)"
+groupId: "rassemblement-douai-bleu-marine-rn"
+date: "2019-07-01T00:00:00Z"
+publication: "douai-notre-ville"
+source: "public/images/sources/douai-notre-ville-2019-07-p2.png"
+language: "fr"
+locality: "Douai"
+country: "France"
+portrait: "guy-cannie.jpg"
+---
+
+**Macron au secours de Chéreau**
+L’aveuglement (piétonisation, faux-semblants…) de M. Chéreau a aggravé la situation du centre-ville,  malgré la multiplication des audits dispendieux souvent inutiles. Sa tactique de défaussement ne trompe pas plus : diluer ses responsabilités vers d’autres, élus ou partenaires économiques ou institutionnels. Soit.
+
+Mais, Douai étant effectivement plus  sinistrée qu’en début de mandat (dépeuplement, faible potentiel fiscal, chômage…), nous bénéficions du dispositif  étatique "… cœur de ville".
+
+Toujours bon à prendre, quoiqu’il reste désolant qu’il faille encore nous en remettre à notre faiblesse… pour espérer nous en sortir. Mais ce miracle est-il suffisant pour justifier M. Chéreau à briguer un 2ème mandat ?

@@ -1,0 +1,265 @@
+{
+  "writtings": [
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "id": "2021-02-douai-notre-ville-guy-caruyer"
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "id": "2022-04-douai-notre-ville-guy-caruyer"
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "id": "2022-12-douai-notre-ville-guy-caruyer"
+    }
+  ],
+  "sentences": [
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 9
+    }
+  ],
+  "sentiments": [
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    }
+  ],
+  "exclamations": [
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "questions": [
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "bolds": [
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "caps": [
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 2
+    }
+  ],
+  "words": [
+    {
+      "word": "enfant",
+      "count": 3
+    },
+    {
+      "word": "repas",
+      "count": 3
+    },
+    {
+      "word": "guerre",
+      "count": 3
+    },
+    {
+      "word": "énergie",
+      "count": 3
+    },
+    {
+      "word": "dépense",
+      "count": 3
+    },
+    {
+      "word": "seuil",
+      "count": 2
+    },
+    {
+      "word": "produit",
+      "count": 2
+    },
+    {
+      "word": "qualité",
+      "count": 2
+    },
+    {
+      "word": "mesure",
+      "count": 2
+    },
+    {
+      "word": "précieuse",
+      "count": 2
+    },
+    {
+      "word": "climatique",
+      "count": 2
+    },
+    {
+      "word": "fossile",
+      "count": 2
+    },
+    {
+      "word": "fête",
+      "count": 2
+    },
+    {
+      "word": "planète",
+      "count": 2
+    },
+    {
+      "word": "jeune",
+      "count": 1
+    },
+    {
+      "word": "crèche",
+      "count": 1
+    },
+    {
+      "word": "manger",
+      "count": 1
+    },
+    {
+      "word": "élève",
+      "count": 1
+    },
+    {
+      "word": "école",
+      "count": 1
+    },
+    {
+      "word": "bénéficier",
+      "count": 1
+    },
+    {
+      "word": "végétarien",
+      "count": 1
+    },
+    {
+      "word": "semaine",
+      "count": 1
+    },
+    {
+      "word": "veillon",
+      "count": 1
+    },
+    {
+      "word": "dépasser",
+      "count": 1
+    },
+    {
+      "word": "savoir",
+      "count": 1
+    }
+  ],
+  "portrait": "guy-caruyer.jpg",
+  "name": "Guy CARUYER",
+  "mandates": [
+    "Conseiller municipal délégué"
+  ],
+  "groups": [
+    "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
+  ],
+  "groupsIds": [
+    "douai-au-coeur-eelv"
+  ],
+  "locality": "Douai",
+  "country": "France",
+  "summary": {
+    "sentences": {
+      "mean": 7.666666666666667,
+      "min": 6,
+      "max": 9
+    },
+    "exclamations": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "questions": {
+      "mean": 0.3333333333333333,
+      "min": 0,
+      "max": 1
+    },
+    "bolds": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "caps": {
+      "mean": 1,
+      "min": 0,
+      "max": 2
+    },
+    "sentiments": {
+      "positive": {
+        "mean": 0.6666666666666666,
+        "min": 0,
+        "max": 2
+      },
+      "neutral": {
+        "mean": 7,
+        "min": 6,
+        "max": 9
+      },
+      "negative": {
+        "mean": 0,
+        "min": 0,
+        "max": 0
+      }
+    }
+  }
+}

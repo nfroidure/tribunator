@@ -1,0 +1,235 @@
+{
+  "writtings": [
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "id": "2021-04-douai-notre-ville-khadija-ahantat"
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "id": "2022-10-douai-notre-ville-khadija-ahantat"
+    }
+  ],
+  "sentences": [
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 8
+    }
+  ],
+  "sentiments": [
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    }
+  ],
+  "exclamations": [
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 2
+    }
+  ],
+  "questions": [
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "bolds": [
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 5
+    }
+  ],
+  "caps": [
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "words": [
+    {
+      "word": "association",
+      "count": 6
+    },
+    {
+      "word": "caritatif",
+      "count": 2
+    },
+    {
+      "word": "logistique",
+      "count": 2
+    },
+    {
+      "word": "point",
+      "count": 2
+    },
+    {
+      "word": "mise",
+      "count": 2
+    },
+    {
+      "word": "femme",
+      "count": 2
+    },
+    {
+      "word": "homme",
+      "count": 2
+    },
+    {
+      "word": "partage",
+      "count": 2
+    },
+    {
+      "word": "être",
+      "count": 2
+    },
+    {
+      "word": "solliciter",
+      "count": 1
+    },
+    {
+      "word": "bénéficiaire",
+      "count": 1
+    },
+    {
+      "word": "augmenter",
+      "count": 1
+    },
+    {
+      "word": "famille",
+      "count": 1
+    },
+    {
+      "word": "précariser",
+      "count": 1
+    },
+    {
+      "word": "touchée",
+      "count": 1
+    },
+    {
+      "word": "chômage",
+      "count": 1
+    },
+    {
+      "word": "étudiant",
+      "count": 1
+    },
+    {
+      "word": "lien",
+      "count": 1
+    },
+    {
+      "word": "social",
+      "count": 1
+    },
+    {
+      "word": "humain",
+      "count": 1
+    },
+    {
+      "word": "manque",
+      "count": 1
+    },
+    {
+      "word": "prise",
+      "count": 1
+    },
+    {
+      "word": "aspect",
+      "count": 1
+    },
+    {
+      "word": "devoir",
+      "count": 1
+    },
+    {
+      "word": "crise",
+      "count": 1
+    }
+  ],
+  "portrait": "khadija-ahantat.jpg",
+  "name": "Khadija AHANTAT",
+  "mandates": [
+    "Adjointe au maire"
+  ],
+  "groups": [
+    "Majorité municipale : Douai au Cœur (Vivre Douai)"
+  ],
+  "groupsIds": [
+    "douai-au-coeur-se"
+  ],
+  "locality": "Douai",
+  "country": "France",
+  "summary": {
+    "sentences": {
+      "mean": 6.5,
+      "min": 5,
+      "max": 8
+    },
+    "exclamations": {
+      "mean": 1,
+      "min": 0,
+      "max": 2
+    },
+    "questions": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "bolds": {
+      "mean": 2.5,
+      "min": 0,
+      "max": 5
+    },
+    "caps": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "sentiments": {
+      "positive": {
+        "mean": 0,
+        "min": 0,
+        "max": 0
+      },
+      "neutral": {
+        "mean": 6,
+        "min": 4,
+        "max": 8
+      },
+      "negative": {
+        "mean": 0.5,
+        "min": 0,
+        "max": 1
+      }
+    }
+  }
+}

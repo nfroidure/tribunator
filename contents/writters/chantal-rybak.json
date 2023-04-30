@@ -1,0 +1,597 @@
+{
+  "writtings": [
+    {
+      "date": "2014-12-01T00:00:00Z",
+      "id": "2014-12-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2015-05-01T00:00:00Z",
+      "id": "2015-05-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2016-04-01T00:00:00Z",
+      "id": "2016-04-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2016-12-01T00:00:00Z",
+      "id": "2016-12-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2018-01-01T00:00:00Z",
+      "id": "2018-01-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2018-04-01T00:00:00Z",
+      "id": "2018-04-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2018-06-01T00:00:00Z",
+      "id": "2018-06-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2018-11-01T00:00:00Z",
+      "id": "2018-11-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2019-05-01T00:00:00Z",
+      "id": "2019-05-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2019-09-01T00:00:00Z",
+      "id": "2019-09-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2019-11-01T00:00:00Z",
+      "id": "2019-11-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2020-02-01T00:00:00Z",
+      "id": "2020-02-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2020-06-01T00:00:00Z",
+      "id": "2020-06-douai-notre-ville-chantal-rybak"
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "id": "2021-05-douai-notre-ville-chantal-rybak"
+    }
+  ],
+  "sentences": [
+    {
+      "date": "2014-12-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2015-05-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2016-04-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2016-12-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2018-01-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2018-04-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2018-06-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2018-11-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2019-05-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2019-09-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2019-11-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2020-02-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2020-06-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 6
+    }
+  ],
+  "sentiments": [
+    {
+      "date": "2014-12-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "date": "2015-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "date": "2016-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "date": "2016-12-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "date": "2018-01-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 1,
+      "negative": 2
+    },
+    {
+      "date": "2018-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2
+    },
+    {
+      "date": "2018-06-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "date": "2018-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2
+    },
+    {
+      "date": "2019-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "date": "2019-09-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "date": "2019-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2
+    },
+    {
+      "date": "2020-02-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "date": "2020-06-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    }
+  ],
+  "exclamations": [
+    {
+      "date": "2014-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2015-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2016-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2016-12-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2018-01-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2018-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-06-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2018-11-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2019-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2019-09-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2019-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2020-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 2
+    }
+  ],
+  "questions": [
+    {
+      "date": "2014-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2015-05-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "date": "2016-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2016-12-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2018-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-11-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2019-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2019-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2019-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "bolds": [
+    {
+      "date": "2014-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2015-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2016-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2016-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2019-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2019-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2019-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 1
+    }
+  ],
+  "caps": [
+    {
+      "date": "2014-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2015-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2016-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2016-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2018-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2019-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2019-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2019-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 1
+    }
+  ],
+  "words": [
+    {
+      "word": "ville",
+      "count": 18
+    },
+    {
+      "word": "nouveau",
+      "count": 10
+    },
+    {
+      "word": "pouvoir",
+      "count": 8
+    },
+    {
+      "word": "budget",
+      "count": 7
+    },
+    {
+      "word": "territoire",
+      "count": 6
+    },
+    {
+      "word": "musée",
+      "count": 6
+    },
+    {
+      "word": "doit",
+      "count": 6
+    },
+    {
+      "word": "année",
+      "count": 5
+    },
+    {
+      "word": "travail",
+      "count": 5
+    },
+    {
+      "word": "commune",
+      "count": 5
+    },
+    {
+      "word": "permettre",
+      "count": 5
+    },
+    {
+      "word": "structure",
+      "count": 4
+    },
+    {
+      "word": "culturel",
+      "count": 4
+    },
+    {
+      "word": "orchestre",
+      "count": 4
+    },
+    {
+      "word": "seul",
+      "count": 4
+    },
+    {
+      "word": "lieu",
+      "count": 4
+    },
+    {
+      "word": "devoir",
+      "count": 4
+    },
+    {
+      "word": "école",
+      "count": 4
+    },
+    {
+      "word": "attractivité",
+      "count": 4
+    },
+    {
+      "word": "centre ville",
+      "count": 4
+    },
+    {
+      "word": "hausse",
+      "count": 4
+    },
+    {
+      "word": "famille",
+      "count": 4
+    },
+    {
+      "word": "faire",
+      "count": 4
+    },
+    {
+      "word": "scolaire",
+      "count": 4
+    },
+    {
+      "word": "logement",
+      "count": 4
+    }
+  ],
+  "portrait": "chantal-rybak.jpg",
+  "name": "Chantal RYBAK",
+  "mandates": [
+    "Conseillère municipale d’opposition"
+  ],
+  "groups": [
+    "Élus d’opposition : Douaisiens passionnément ! (UMP)",
+    "Élus d’opposition : Douai dynamique et durable"
+  ],
+  "groupsIds": [
+    "douaisiens-passionnement-ump",
+    "douai-dynamique-et-durable-dvd"
+  ],
+  "locality": "Douai",
+  "country": "France",
+  "summary": {
+    "sentences": {
+      "mean": 5.428571428571429,
+      "min": 4,
+      "max": 6
+    },
+    "exclamations": {
+      "mean": 0.6428571428571429,
+      "min": 0,
+      "max": 2
+    },
+    "questions": {
+      "mean": 0.2857142857142857,
+      "min": 0,
+      "max": 2
+    },
+    "bolds": {
+      "mean": 0.07142857142857142,
+      "min": 0,
+      "max": 1
+    },
+    "caps": {
+      "mean": 0.07142857142857142,
+      "min": 0,
+      "max": 1
+    },
+    "sentiments": {
+      "positive": {
+        "mean": 0.6428571428571429,
+        "min": 0,
+        "max": 2
+      },
+      "neutral": {
+        "mean": 3.7857142857142856,
+        "min": 1,
+        "max": 6
+      },
+      "negative": {
+        "mean": 1,
+        "min": 0,
+        "max": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sentences": {
+    "mean": {
+      "count": 68,
+      "total": 465.7745436520619
+    },
+    "min": 1,
+    "max": 24
+  },
+  "exclamations": {
+    "mean": {
+      "count": 68,
+      "total": 77.64485282425495
+    },
+    "min": 0,
+    "max": 8
+  },
+  "questions": {
+    "mean": {
+      "count": 68,
+      "total": 25.136156802042034
+    },
+    "min": 0,
+    "max": 7
+  },
+  "bolds": {
+    "mean": {
+      "count": 68,
+      "total": 28.45048806028431
+    },
+    "min": 0,
+    "max": 5
+  },
+  "caps": {
+    "mean": {
+      "count": 68,
+      "total": 14.637544988143295
+    },
+    "min": 0,
+    "max": 8
+  },
+  "sentiments": {
+    "positive": {
+      "mean": {
+        "count": 68,
+        "total": 28.901635877569838
+      },
+      "min": 0,
+      "max": 4
+    },
+    "neutral": {
+      "mean": {
+        "count": 68,
+        "total": 388.49937831593235
+      },
+      "min": 0,
+      "max": 20
+    },
+    "negative": {
+      "mean": {
+        "count": 68,
+        "total": 48.353820720695595
+      },
+      "min": 0,
+      "max": 6
+    }
+  }
+}

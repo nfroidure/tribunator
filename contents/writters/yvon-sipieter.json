@@ -1,0 +1,235 @@
+{
+  "writtings": [
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "id": "2021-03-douai-notre-ville-yvon-sipieter"
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "id": "2022-11-douai-notre-ville-yvon-sipieter"
+    }
+  ],
+  "sentences": [
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 5
+    }
+  ],
+  "sentiments": [
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 2,
+      "negative": 2
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    }
+  ],
+  "exclamations": [
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "questions": [
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "bolds": [
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "caps": [
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "words": [
+    {
+      "word": "énergie",
+      "count": 4
+    },
+    {
+      "word": "ville",
+      "count": 3
+    },
+    {
+      "word": "économie",
+      "count": 3
+    },
+    {
+      "word": "électrique",
+      "count": 2
+    },
+    {
+      "word": "électricité",
+      "count": 2
+    },
+    {
+      "word": "tarif",
+      "count": 2
+    },
+    {
+      "word": "réaliser",
+      "count": 2
+    },
+    {
+      "word": "fournisseur",
+      "count": 2
+    },
+    {
+      "word": "isolation",
+      "count": 2
+    },
+    {
+      "word": "lampe",
+      "count": 2
+    },
+    {
+      "word": "coût",
+      "count": 2
+    },
+    {
+      "word": "augmentation",
+      "count": 2
+    },
+    {
+      "word": "bâtiment",
+      "count": 2
+    },
+    {
+      "word": "fonctionnement",
+      "count": 2
+    },
+    {
+      "word": "janvier",
+      "count": 1
+    },
+    {
+      "word": "souscrire",
+      "count": 1
+    },
+    {
+      "word": "contrat",
+      "count": 1
+    },
+    {
+      "word": "global",
+      "count": 1
+    },
+    {
+      "word": "fourniture",
+      "count": 1
+    },
+    {
+      "word": "verte",
+      "count": 1
+    },
+    {
+      "word": "compteur",
+      "count": 1
+    },
+    {
+      "word": "bleu",
+      "count": 1
+    },
+    {
+      "word": "alimenter",
+      "count": 1
+    },
+    {
+      "word": "édifice",
+      "count": 1
+    },
+    {
+      "word": "école",
+      "count": 1
+    }
+  ],
+  "portrait": "yvon-sipieter.jpg",
+  "name": "Yvon SIPIETER",
+  "mandates": [
+    "Adjoint au maire"
+  ],
+  "groups": [
+    "Majorité municipale : Douai au Cœur (Vivre Douai)"
+  ],
+  "groupsIds": [
+    "douai-au-coeur-se"
+  ],
+  "locality": "Douai",
+  "country": "France",
+  "summary": {
+    "sentences": {
+      "mean": 4.5,
+      "min": 4,
+      "max": 5
+    },
+    "exclamations": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "questions": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "bolds": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "caps": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "sentiments": {
+      "positive": {
+        "mean": 0,
+        "min": 0,
+        "max": 0
+      },
+      "neutral": {
+        "mean": 3,
+        "min": 2,
+        "max": 4
+      },
+      "negative": {
+        "mean": 1.5,
+        "min": 1,
+        "max": 2
+      }
+    }
+  }
+}

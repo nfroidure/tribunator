@@ -1,0 +1,235 @@
+{
+  "writtings": [
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "id": "2022-01-douai-notre-ville-maxime-decupper-laud"
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "id": "2023-05-douai-notre-ville-maxime-decupper-laud"
+    }
+  ],
+  "sentences": [
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 3
+    }
+  ],
+  "sentiments": [
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    }
+  ],
+  "exclamations": [
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "questions": [
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 1
+    }
+  ],
+  "bolds": [
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "caps": [
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "words": [
+    {
+      "word": "défi",
+      "count": 3
+    },
+    {
+      "word": "événement",
+      "count": 3
+    },
+    {
+      "word": "sport",
+      "count": 3
+    },
+    {
+      "word": "label",
+      "count": 3
+    },
+    {
+      "word": "année",
+      "count": 2
+    },
+    {
+      "word": "édition",
+      "count": 2
+    },
+    {
+      "word": "service",
+      "count": 2
+    },
+    {
+      "word": "dernier",
+      "count": 2
+    },
+    {
+      "word": "terrain",
+      "count": 2
+    },
+    {
+      "word": "hockey",
+      "count": 2
+    },
+    {
+      "word": "salle",
+      "count": 2
+    },
+    {
+      "word": "escrime",
+      "count": 2
+    },
+    {
+      "word": "candidat",
+      "count": 2
+    },
+    {
+      "word": "prochain",
+      "count": 2
+    },
+    {
+      "word": "obtenir",
+      "count": 2
+    },
+    {
+      "word": "sportif",
+      "count": 2
+    },
+    {
+      "word": "marquer",
+      "count": 1
+    },
+    {
+      "word": "premier",
+      "count": 1
+    },
+    {
+      "word": "boucle",
+      "count": 1
+    },
+    {
+      "word": "juin",
+      "count": 1
+    },
+    {
+      "word": "complet",
+      "count": 1
+    },
+    {
+      "word": "liste",
+      "count": 1
+    },
+    {
+      "word": "organiser",
+      "count": 1
+    },
+    {
+      "word": "faire",
+      "count": 1
+    },
+    {
+      "word": "septembre",
+      "count": 1
+    }
+  ],
+  "portrait": "maxime-decupper-laud.jpg",
+  "name": "Maxime DECUPPER-LAUD",
+  "mandates": [
+    "Conseiller municipal"
+  ],
+  "groups": [
+    "Majorité municipale : Douai au Cœur (Vivre Douai)"
+  ],
+  "groupsIds": [
+    "douai-au-coeur-se"
+  ],
+  "locality": "Douai",
+  "country": "France",
+  "summary": {
+    "sentences": {
+      "mean": 3.5,
+      "min": 3,
+      "max": 4
+    },
+    "exclamations": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "questions": {
+      "mean": 0.5,
+      "min": 0,
+      "max": 1
+    },
+    "bolds": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "caps": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    },
+    "sentiments": {
+      "positive": {
+        "mean": 0,
+        "min": 0,
+        "max": 0
+      },
+      "neutral": {
+        "mean": 3,
+        "min": 2,
+        "max": 4
+      },
+      "negative": {
+        "mean": 0.5,
+        "min": 0,
+        "max": 1
+      }
+    }
+  }
+}

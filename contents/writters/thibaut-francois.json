@@ -1,0 +1,986 @@
+{
+  "writtings": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "id": "2020-09-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "id": "2020-10-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2020-11-01T00:00:00Z",
+      "id": "2020-11-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "id": "2020-12-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "id": "2021-02-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "id": "2021-03-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "id": "2021-04-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "id": "2021-05-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "id": "2021-06-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "id": "2021-09-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "id": "2021-11-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "id": "2021-12-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "id": "2022-01-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "id": "2022-03-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "id": "2022-04-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "id": "2022-05-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-06-01T00:00:00Z",
+      "id": "2022-06-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "id": "2022-07-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "id": "2022-09-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "id": "2022-10-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "id": "2022-11-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "id": "2022-12-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "id": "2023-01-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2023-02-01T00:00:00Z",
+      "id": "2023-02-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "id": "2023-03-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2023-04-01T00:00:00Z",
+      "id": "2023-04-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "id": "2023-05-douai-notre-ville-thibaut-francois"
+    }
+  ],
+  "sentences": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2020-11-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 3
+    },
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2022-06-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2023-02-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2023-04-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 6
+    }
+  ],
+  "sentiments": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    {
+      "date": "2020-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 1
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 2,
+      "negative": 1
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2
+    },
+    {
+      "date": "2022-06-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 2,
+      "negative": 1
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "date": "2023-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "date": "2023-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    }
+  ],
+  "exclamations": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2020-11-01T00:00:00Z",
+      "count": 3
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 3
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 3
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 3
+    },
+    {
+      "date": "2022-06-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 3
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "questions": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-11-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "bolds": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2020-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "caps": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "words": [
+    {
+      "word": "ville",
+      "count": 29
+    },
+    {
+      "word": "douaisiens",
+      "count": 20
+    },
+    {
+      "word": "socialiste",
+      "count": 20
+    },
+    {
+      "word": "maire",
+      "count": 18
+    },
+    {
+      "word": "année",
+      "count": 18
+    },
+    {
+      "word": "commerçant",
+      "count": 18
+    },
+    {
+      "word": "aller",
+      "count": 15
+    },
+    {
+      "word": "cher",
+      "count": 14
+    },
+    {
+      "word": "nouveau",
+      "count": 13
+    },
+    {
+      "word": "national",
+      "count": 11
+    },
+    {
+      "word": "défendre",
+      "count": 10
+    },
+    {
+      "word": "pouvoir",
+      "count": 10
+    },
+    {
+      "word": "crise",
+      "count": 9
+    },
+    {
+      "word": "fermeture",
+      "count": 9
+    },
+    {
+      "word": "mairie",
+      "count": 8
+    },
+    {
+      "word": "famille",
+      "count": 7
+    },
+    {
+      "word": "gouvernement",
+      "count": 7
+    },
+    {
+      "word": "politique",
+      "count": 7
+    },
+    {
+      "word": "souhaiter",
+      "count": 7
+    },
+    {
+      "word": "mauvais",
+      "count": 7
+    },
+    {
+      "word": "conseil",
+      "count": 6
+    },
+    {
+      "word": "municipal",
+      "count": 6
+    },
+    {
+      "word": "devoir",
+      "count": 6
+    },
+    {
+      "word": "fête",
+      "count": 6
+    },
+    {
+      "word": "français",
+      "count": 6
+    }
+  ],
+  "portrait": "thibaut-francois.jpg",
+  "name": "Thibaut FRANÇOIS",
+  "mandates": [
+    "Conseiller municipal d’opposition",
+    "Conseiller municipal d’opposition\nDéputé de la circonscription"
+  ],
+  "groups": [
+    "Élus d’opposition : Douai, plus belle, plus propre, plus sûre (Rassemblement National)"
+  ],
+  "groupsIds": [
+    "douai-plus-belle-plus-propre-plus-sure-rn"
+  ],
+  "locality": "Douai",
+  "country": "France",
+  "summary": {
+    "sentences": {
+      "mean": 5.62962962962963,
+      "min": 3,
+      "max": 8
+    },
+    "exclamations": {
+      "mean": 3.111111111111111,
+      "min": 0,
+      "max": 8
+    },
+    "questions": {
+      "mean": 0.07407407407407407,
+      "min": 0,
+      "max": 1
+    },
+    "bolds": {
+      "mean": 0.3333333333333333,
+      "min": 0,
+      "max": 1
+    },
+    "caps": {
+      "mean": 0.07407407407407407,
+      "min": 0,
+      "max": 1
+    },
+    "sentiments": {
+      "positive": {
+        "mean": 0.2962962962962963,
+        "min": 0,
+        "max": 2
+      },
+      "neutral": {
+        "mean": 4.703703703703703,
+        "min": 2,
+        "max": 8
+      },
+      "negative": {
+        "mean": 0.6296296296296297,
+        "min": 0,
+        "max": 2
+      }
+    }
+  }
+}
