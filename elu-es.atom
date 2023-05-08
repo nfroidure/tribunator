@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">    
+  <id>https://keskidiz.nicolasfroidure.fr/elu-es</id>
+  <title>Les élu·es - Keskidiz</title>
+  <subtitle>Retrouvez toustes les élu·es du Douaisis cité·es sur ce site et les statistiques relatives à leurs tribunes.</subtitle>
+  <link href="https://keskidiz.nicolasfroidure.fr/elu-es.atom" rel="self" type="application/atom+xml" />
+  <link href="https://keskidiz.nicolasfroidure.fr/elu-es" rel="alternate" type="text/html" />
+  <updated>2023-05-01T00:00:00.000Z</updated>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/agnes-dupuis</id>
+    <title>Agnès DUPUIS</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/agnes-dupuis" rel="alternate" type="text/html" />
+    <updated>2021-06-01T00:00:00Z</updated>
+    <published>2021-06-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Agnès DUPUIS</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/anissa-bouchaboun</id>
+    <title>Anissa BOUCHABOUN</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/anissa-bouchaboun" rel="alternate" type="text/html" />
+    <updated>2021-10-01T00:00:00Z</updated>
+    <published>2021-10-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Anissa BOUCHABOUN</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/anne-colin</id>
+    <title>Anne COLIN</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/anne-colin" rel="alternate" type="text/html" />
+    <updated>2023-02-01T00:00:00Z</updated>
+    <published>2023-02-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Anne COLIN</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/anne-sophie-audegond</id>
+    <title>Anne-Sophie AUDEGOND</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/anne-sophie-audegond" rel="alternate" type="text/html" />
+    <updated>2021-11-01T00:00:00Z</updated>
+    <published>2021-11-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Anne-Sophie AUDEGOND</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/annick-louvion</id>
+    <title>Annick LOUVION</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/annick-louvion" rel="alternate" type="text/html" />
+    <updated>2012-07-01T00:00:00Z</updated>
+    <published>2012-07-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Annick LOUVION</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/auriane-ait-lasri</id>
+    <title>Auriane AÏT LASRI</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/auriane-ait-lasri" rel="alternate" type="text/html" />
+    <updated>2023-05-01T00:00:00Z</updated>
+    <published>2023-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Auriane AÏT LASRI</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/avida-oulahcene</id>
+    <title>Avida Oulahcene</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/avida-oulahcene" rel="alternate" type="text/html" />
+    <updated>2022-02-01T00:00:00Z</updated>
+    <published>2022-02-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Avida Oulahcene</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/brigitte-bonnaffe-leriche</id>
+    <title>Brigitte BONNAFFE-LERICHE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/brigitte-bonnaffe-leriche" rel="alternate" type="text/html" />
+    <updated>2012-05-01T00:00:00Z</updated>
+    <published>2012-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Brigitte BONNAFFE-LERICHE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/bruno-bufquin</id>
+    <title>Bruno BUFQUIN</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/bruno-bufquin" rel="alternate" type="text/html" />
+    <updated>2019-07-01T00:00:00Z</updated>
+    <published>2019-07-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Bruno BUFQUIN</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/carolle-divrechy</id>
+    <title>Carolle DIVRECHY</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/carolle-divrechy" rel="alternate" type="text/html" />
+    <updated>2023-01-01T00:00:00Z</updated>
+    <published>2023-01-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Carolle DIVRECHY</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/chantal-rybak</id>
+    <title>Chantal RYBAK</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/chantal-rybak" rel="alternate" type="text/html" />
+    <updated>2021-05-01T00:00:00Z</updated>
+    <published>2021-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Chantal RYBAK</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/coline-craeye</id>
+    <title>Coline CRAEYE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/coline-craeye" rel="alternate" type="text/html" />
+    <updated>2023-05-01T00:00:00Z</updated>
+    <published>2023-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Coline CRAEYE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/cyril-carbonnel</id>
+    <title>Cyril CARBONNEL</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/cyril-carbonnel" rel="alternate" type="text/html" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Cyril CARBONNEL</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/eric-lemaitre</id>
+    <title>Éric LEMAITRE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/eric-lemaitre" rel="alternate" type="text/html" />
+    <updated>2021-02-01T00:00:00Z</updated>
+    <published>2021-02-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Éric LEMAITRE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/francois-guiffard</id>
+    <title>François GUIFFARD</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/francois-guiffard" rel="alternate" type="text/html" />
+    <updated>2023-05-01T00:00:00Z</updated>
+    <published>2023-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e François GUIFFARD</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/francoise-prouvost</id>
+    <title>Françoise PROUVOST</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/francoise-prouvost" rel="alternate" type="text/html" />
+    <updated>2020-07-01T00:00:00Z</updated>
+    <published>2020-07-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Françoise PROUVOST</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/franz-quatreboeufs</id>
+    <title>Franz QUATREBOEUFS</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/franz-quatreboeufs" rel="alternate" type="text/html" />
+    <updated>2022-02-01T00:00:00Z</updated>
+    <published>2022-02-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Franz QUATREBOEUFS</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau</id>
+    <title>Frédéric CHÉREAU</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau" rel="alternate" type="text/html" />
+    <updated>2023-05-01T00:00:00Z</updated>
+    <published>2023-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Frédéric CHÉREAU</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/gerard-bailliet</id>
+    <title>Gérard BAILLIET</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/gerard-bailliet" rel="alternate" type="text/html" />
+    <updated>2019-12-01T00:00:00Z</updated>
+    <published>2019-12-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Gérard BAILLIET</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/guy-cannie</id>
+    <title>Guy CANNIE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/guy-cannie" rel="alternate" type="text/html" />
+    <updated>2022-02-01T00:00:00Z</updated>
+    <published>2022-02-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Guy CANNIE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/guy-caruyer</id>
+    <title>Guy CARUYER</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/guy-caruyer" rel="alternate" type="text/html" />
+    <updated>2022-12-01T00:00:00Z</updated>
+    <published>2022-12-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Guy CARUYER</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/guy-lagache</id>
+    <title>Guy Lagache</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/guy-lagache" rel="alternate" type="text/html" />
+    <updated>2022-05-01T00:00:00Z</updated>
+    <published>2022-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Guy Lagache</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/hocine-mazy</id>
+    <title>Hocine MAZY</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/hocine-mazy" rel="alternate" type="text/html" />
+    <updated>2022-06-01T00:00:00Z</updated>
+    <published>2022-06-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Hocine MAZY</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/isabelle-chatelain</id>
+    <title>Isabelle CHÂTELAIN</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/isabelle-chatelain" rel="alternate" type="text/html" />
+    <updated>2020-01-01T00:00:00Z</updated>
+    <published>2020-01-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Isabelle CHÂTELAIN</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/jackie-avenel</id>
+    <title>Jackie AVENEL</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/jackie-avenel" rel="alternate" type="text/html" />
+    <updated>2012-11-01T00:00:00Z</updated>
+    <published>2012-11-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Jackie AVENEL</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/jacques-vernier</id>
+    <title>Jacques VERNIER</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/jacques-vernier" rel="alternate" type="text/html" />
+    <updated>2013-03-01T00:00:00Z</updated>
+    <published>2013-03-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Jacques VERNIER</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/jamila-mekki</id>
+    <title>Jamila MEKKI</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/jamila-mekki" rel="alternate" type="text/html" />
+    <updated>2023-03-01T00:00:00Z</updated>
+    <published>2023-03-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Jamila MEKKI</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/jean-christophe-leclercq</id>
+    <title>Jean-Christophe LECLERCQ</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/jean-christophe-leclercq" rel="alternate" type="text/html" />
+    <updated>2023-03-01T00:00:00Z</updated>
+    <published>2023-03-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Jean-Christophe LECLERCQ</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/jean-marie-dupire</id>
+    <title>Jean-Marie DUPIRE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/jean-marie-dupire" rel="alternate" type="text/html" />
+    <updated>2021-09-01T00:00:00Z</updated>
+    <published>2021-09-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Jean-Marie DUPIRE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/jean-michel-leroy</id>
+    <title>Jean-Michel LEROY</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/jean-michel-leroy" rel="alternate" type="text/html" />
+    <updated>2022-09-01T00:00:00Z</updated>
+    <published>2022-09-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Jean-Michel LEROY</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/jean-pierre-divrechy</id>
+    <title>Jean-Pierre DIVRECHY</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/jean-pierre-divrechy" rel="alternate" type="text/html" />
+    <updated>2013-03-01T00:00:00Z</updated>
+    <published>2013-03-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Jean-Pierre DIVRECHY</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/jessy-kaboul</id>
+    <title>Jessy KABOUL</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/jessy-kaboul" rel="alternate" type="text/html" />
+    <updated>2021-05-01T00:00:00Z</updated>
+    <published>2021-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Jessy KABOUL</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/karine-doyen-carbonnel</id>
+    <title>Karine DOYEN CARBONNEL</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/karine-doyen-carbonnel" rel="alternate" type="text/html" />
+    <updated>2012-06-01T00:00:00Z</updated>
+    <published>2012-06-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Karine DOYEN CARBONNEL</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/katia-bittner</id>
+    <title>Katia BITTNER</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/katia-bittner" rel="alternate" type="text/html" />
+    <updated>2023-01-01T00:00:00Z</updated>
+    <published>2023-01-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Katia BITTNER</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/khadija-ahantat</id>
+    <title>Khadija AHANTAT</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/khadija-ahantat" rel="alternate" type="text/html" />
+    <updated>2022-10-01T00:00:00Z</updated>
+    <published>2022-10-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Khadija AHANTAT</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/marie-delattre</id>
+    <title>Marie DELATTRE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/marie-delattre" rel="alternate" type="text/html" />
+    <updated>2023-04-01T00:00:00Z</updated>
+    <published>2023-04-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Marie DELATTRE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/marie-delecambre</id>
+    <title>Marie DELECAMBRE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/marie-delecambre" rel="alternate" type="text/html" />
+    <updated>2019-03-01T00:00:00Z</updated>
+    <published>2019-03-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Marie DELECAMBRE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/marie-helene-quatreboeufs-niklikowski</id>
+    <title>Marie-Hélène QUATREBOEUFS-NIKLIKOWSKI</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/marie-helene-quatreboeufs-niklikowski" rel="alternate" type="text/html" />
+    <updated>2016-10-01T00:00:00Z</updated>
+    <published>2016-10-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Marie-Hélène QUATREBOEUFS-NIKLIKOWSKI</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/maxime-decupper-laud</id>
+    <title>Maxime DECUPPER-LAUD</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/maxime-decupper-laud" rel="alternate" type="text/html" />
+    <updated>2023-05-01T00:00:00Z</updated>
+    <published>2023-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Maxime DECUPPER-LAUD</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/michael-doziere</id>
+    <title>Michaël DOZIÈRE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/michael-doziere" rel="alternate" type="text/html" />
+    <updated>2022-12-01T00:00:00Z</updated>
+    <published>2022-12-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Michaël DOZIÈRE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/mohamed-felouki</id>
+    <title>Mohamed FELOUKI</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/mohamed-felouki" rel="alternate" type="text/html" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Mohamed FELOUKI</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/mohamed-kheraki</id>
+    <title>Mohamed KHERAKI</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/mohamed-kheraki" rel="alternate" type="text/html" />
+    <updated>2022-04-01T00:00:00Z</updated>
+    <published>2022-04-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Mohamed KHERAKI</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/monique-amghar</id>
+    <title>Monique AMGHAR</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/monique-amghar" rel="alternate" type="text/html" />
+    <updated>2012-12-01T00:00:00Z</updated>
+    <published>2012-12-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Monique AMGHAR</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/nathalie-apers</id>
+    <title>Nathalie APERS</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/nathalie-apers" rel="alternate" type="text/html" />
+    <updated>2022-07-01T00:00:00Z</updated>
+    <published>2022-07-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Nathalie APERS</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/nora-cherki</id>
+    <title>Nora CHERKI</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/nora-cherki" rel="alternate" type="text/html" />
+    <updated>2023-03-01T00:00:00Z</updated>
+    <published>2023-03-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Nora CHERKI</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/odile-hage</id>
+    <title>Odile HAGE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/odile-hage" rel="alternate" type="text/html" />
+    <updated>2012-09-01T00:00:00Z</updated>
+    <published>2012-09-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Odile HAGE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/rene-lavarde</id>
+    <title>René LAVARDE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/rene-lavarde" rel="alternate" type="text/html" />
+    <updated>2012-03-01T00:00:00Z</updated>
+    <published>2012-03-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e René LAVARDE</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/salima-boukentar</id>
+    <title>Salima BOUKENTAR</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/salima-boukentar" rel="alternate" type="text/html" />
+    <updated>2023-02-01T00:00:00Z</updated>
+    <published>2023-02-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Salima BOUKENTAR</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/sebastien-lanclu</id>
+    <title>Sébastien LANCLU</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/sebastien-lanclu" rel="alternate" type="text/html" />
+    <updated>2023-04-01T00:00:00Z</updated>
+    <published>2023-04-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Sébastien LANCLU</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/stephanie-stiernon</id>
+    <title>Stéphanie STIERNON</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/stephanie-stiernon" rel="alternate" type="text/html" />
+    <updated>2023-05-01T00:00:00Z</updated>
+    <published>2023-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Stéphanie STIERNON</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois</id>
+    <title>Thibaut FRANÇOIS</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois" rel="alternate" type="text/html" />
+    <updated>2023-05-01T00:00:00Z</updated>
+    <published>2023-05-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Thibaut FRANÇOIS</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/virginie-malolepszy</id>
+    <title>Virginie MALOLEPSZY</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/virginie-malolepszy" rel="alternate" type="text/html" />
+    <updated>2020-11-01T00:00:00Z</updated>
+    <published>2020-11-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Virginie MALOLEPSZY</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/xavier-thierry</id>
+    <title>Xavier THIERRY</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/xavier-thierry" rel="alternate" type="text/html" />
+    <updated>2023-04-01T00:00:00Z</updated>
+    <published>2023-04-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Xavier THIERRY</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/yves-piquot</id>
+    <title>Yves PIQUOT</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/yves-piquot" rel="alternate" type="text/html" />
+    <updated>2022-10-01T00:00:00Z</updated>
+    <published>2022-10-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Yves PIQUOT</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/yvon-sipieter</id>
+    <title>Yvon SIPIETER</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/yvon-sipieter" rel="alternate" type="text/html" />
+    <updated>2022-11-01T00:00:00Z</updated>
+    <published>2022-11-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Yvon SIPIETER</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+</feed>
