@@ -1,11 +1,11 @@
 ---
-title: Groupe Local
-description: Site Internet de notre groupe local.
-date: "2023-04-20T14:15:47.659Z"
+title: Que disent les élu·es de Douai ?
+description: Un site qui recense toutes les tribunes des élu·es de Douai et les analyse pour en tirer l'essentiel.
+date: "2023-05-08T22:15:47.659Z"
 draft: false
 illustration:
-  href: "/illustrations/reunion_groupe_eelv.jpg"
-  alt: "Photographie d'une réunion EÉLV Douai"
+  href: "/illustrations/banner.png"
+  alt: "Bannière du site Keskidiz"
 ---
 
 # Keskidiz ?

@@ -4,7 +4,7 @@ Analyzing politicals writtings.
 
 ## Setup
 
-Install NodeJS and clone the project
+Install NodeJS and clone the project.
 
 First in a different folder do this:
 ```sh
