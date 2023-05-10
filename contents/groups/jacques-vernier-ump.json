@@ -65,142 +65,170 @@
   ],
   "sentences": [
     {
+      "id": "2012-01-douai-notre-ville-jacques-vernier",
       "date": "2012-01-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2012-02-douai-notre-ville-jacques-vernier",
       "date": "2012-02-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2012-03-douai-notre-ville-jacques-vernier",
       "date": "2012-03-01T00:00:00Z",
       "count": 11
     },
     {
+      "id": "2012-04-douai-notre-ville-jacques-vernier",
       "date": "2012-04-01T00:00:00Z",
       "count": 11
     },
     {
+      "id": "2012-05-douai-notre-ville-jacques-vernier",
       "date": "2012-05-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2012-06-douai-notre-ville-jacques-vernier",
       "date": "2012-06-01T00:00:00Z",
       "count": 11
     },
     {
+      "id": "2012-07-douai-notre-ville-jacques-vernier",
       "date": "2012-07-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2012-09-douai-notre-ville-jacques-vernier",
       "date": "2012-09-01T00:00:00Z",
       "count": 12
     },
     {
+      "id": "2012-10-douai-notre-ville-jacques-vernier",
       "date": "2012-10-01T00:00:00Z",
       "count": 11
     },
     {
+      "id": "2012-11-douai-notre-ville-jacques-vernier",
       "date": "2012-11-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2012-12-douai-notre-ville-jacques-vernier",
       "date": "2012-12-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2013-01-douai-notre-ville-jacques-vernier",
       "date": "2013-01-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2013-02-douai-notre-ville-jacques-vernier",
       "date": "2013-02-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2013-03-douai-notre-ville-jacques-vernier",
       "date": "2013-03-01T00:00:00Z",
       "count": 7
     }
   ],
   "sentiments": [
     {
+      "id": "2012-01-douai-notre-ville-jacques-vernier",
       "date": "2012-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 8,
       "negative": 1
     },
     {
+      "id": "2012-02-douai-notre-ville-jacques-vernier",
       "date": "2012-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2012-03-douai-notre-ville-jacques-vernier",
       "date": "2012-03-01T00:00:00Z",
       "positive": 1,
       "neutral": 10,
       "negative": 0
     },
     {
+      "id": "2012-04-douai-notre-ville-jacques-vernier",
       "date": "2012-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 10,
       "negative": 1
     },
     {
+      "id": "2012-05-douai-notre-ville-jacques-vernier",
       "date": "2012-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2012-06-douai-notre-ville-jacques-vernier",
       "date": "2012-06-01T00:00:00Z",
       "positive": 0,
       "neutral": 9,
       "negative": 2
     },
     {
+      "id": "2012-07-douai-notre-ville-jacques-vernier",
       "date": "2012-07-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 1
     },
     {
+      "id": "2012-09-douai-notre-ville-jacques-vernier",
       "date": "2012-09-01T00:00:00Z",
       "positive": 1,
       "neutral": 9,
       "negative": 2
     },
     {
+      "id": "2012-10-douai-notre-ville-jacques-vernier",
       "date": "2012-10-01T00:00:00Z",
       "positive": 1,
       "neutral": 10,
       "negative": 0
     },
     {
+      "id": "2012-11-douai-notre-ville-jacques-vernier",
       "date": "2012-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2012-12-douai-notre-ville-jacques-vernier",
       "date": "2012-12-01T00:00:00Z",
       "positive": 1,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2013-01-douai-notre-ville-jacques-vernier",
       "date": "2013-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2013-02-douai-notre-ville-jacques-vernier",
       "date": "2013-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 8,
       "negative": 0
     },
     {
+      "id": "2013-03-douai-notre-ville-jacques-vernier",
       "date": "2013-03-01T00:00:00Z",
       "positive": 1,
       "neutral": 5,
@@ -209,232 +237,288 @@
   ],
   "exclamations": [
     {
+      "id": "2012-01-douai-notre-ville-jacques-vernier",
       "date": "2012-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-02-douai-notre-ville-jacques-vernier",
       "date": "2012-02-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-03-douai-notre-ville-jacques-vernier",
       "date": "2012-03-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-04-douai-notre-ville-jacques-vernier",
       "date": "2012-04-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2012-05-douai-notre-ville-jacques-vernier",
       "date": "2012-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-06-douai-notre-ville-jacques-vernier",
       "date": "2012-06-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-07-douai-notre-ville-jacques-vernier",
       "date": "2012-07-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-09-douai-notre-ville-jacques-vernier",
       "date": "2012-09-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2012-10-douai-notre-ville-jacques-vernier",
       "date": "2012-10-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-11-douai-notre-ville-jacques-vernier",
       "date": "2012-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-12-douai-notre-ville-jacques-vernier",
       "date": "2012-12-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2013-01-douai-notre-ville-jacques-vernier",
       "date": "2013-01-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2013-02-douai-notre-ville-jacques-vernier",
       "date": "2013-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2013-03-douai-notre-ville-jacques-vernier",
       "date": "2013-03-01T00:00:00Z",
       "count": 2
     }
   ],
   "questions": [
     {
+      "id": "2012-01-douai-notre-ville-jacques-vernier",
       "date": "2012-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-02-douai-notre-ville-jacques-vernier",
       "date": "2012-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-03-douai-notre-ville-jacques-vernier",
       "date": "2012-03-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-04-douai-notre-ville-jacques-vernier",
       "date": "2012-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-05-douai-notre-ville-jacques-vernier",
       "date": "2012-05-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-06-douai-notre-ville-jacques-vernier",
       "date": "2012-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-07-douai-notre-ville-jacques-vernier",
       "date": "2012-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-09-douai-notre-ville-jacques-vernier",
       "date": "2012-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-10-douai-notre-ville-jacques-vernier",
       "date": "2012-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-11-douai-notre-ville-jacques-vernier",
       "date": "2012-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-12-douai-notre-ville-jacques-vernier",
       "date": "2012-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2013-01-douai-notre-ville-jacques-vernier",
       "date": "2013-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2013-02-douai-notre-ville-jacques-vernier",
       "date": "2013-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2013-03-douai-notre-ville-jacques-vernier",
       "date": "2013-03-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2012-01-douai-notre-ville-jacques-vernier",
       "date": "2012-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-02-douai-notre-ville-jacques-vernier",
       "date": "2012-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-03-douai-notre-ville-jacques-vernier",
       "date": "2012-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-04-douai-notre-ville-jacques-vernier",
       "date": "2012-04-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-05-douai-notre-ville-jacques-vernier",
       "date": "2012-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-06-douai-notre-ville-jacques-vernier",
       "date": "2012-06-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-07-douai-notre-ville-jacques-vernier",
       "date": "2012-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-09-douai-notre-ville-jacques-vernier",
       "date": "2012-09-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2012-10-douai-notre-ville-jacques-vernier",
       "date": "2012-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-11-douai-notre-ville-jacques-vernier",
       "date": "2012-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-12-douai-notre-ville-jacques-vernier",
       "date": "2012-12-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2013-01-douai-notre-ville-jacques-vernier",
       "date": "2013-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2013-02-douai-notre-ville-jacques-vernier",
       "date": "2013-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2013-03-douai-notre-ville-jacques-vernier",
       "date": "2013-03-01T00:00:00Z",
       "count": 1
     }
   ],
   "caps": [
     {
+      "id": "2012-01-douai-notre-ville-jacques-vernier",
       "date": "2012-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-02-douai-notre-ville-jacques-vernier",
       "date": "2012-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-03-douai-notre-ville-jacques-vernier",
       "date": "2012-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-04-douai-notre-ville-jacques-vernier",
       "date": "2012-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-05-douai-notre-ville-jacques-vernier",
       "date": "2012-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-06-douai-notre-ville-jacques-vernier",
       "date": "2012-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-07-douai-notre-ville-jacques-vernier",
       "date": "2012-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-09-douai-notre-ville-jacques-vernier",
       "date": "2012-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-10-douai-notre-ville-jacques-vernier",
       "date": "2012-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-11-douai-notre-ville-jacques-vernier",
       "date": "2012-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-12-douai-notre-ville-jacques-vernier",
       "date": "2012-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2013-01-douai-notre-ville-jacques-vernier",
       "date": "2013-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2013-02-douai-notre-ville-jacques-vernier",
       "date": "2013-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2013-03-douai-notre-ville-jacques-vernier",
       "date": "2013-03-01T00:00:00Z",
       "count": 0
     }
@@ -549,45 +633,201 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 8.571428571428571,
-      "min": 6,
-      "max": 12
+      "mean": {
+        "count": 120,
+        "total": 14
+      },
+      "min": {
+        "value": 6,
+        "ids": [
+          "2012-02-douai-notre-ville-jacques-vernier",
+          "2012-11-douai-notre-ville-jacques-vernier",
+          "2013-01-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 12,
+        "ids": [
+          "2012-09-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 1.9285714285714286,
-      "min": 1,
-      "max": 3
+      "mean": {
+        "count": 27,
+        "total": 14
+      },
+      "min": {
+        "value": 1,
+        "ids": [
+          "2012-01-douai-notre-ville-jacques-vernier",
+          "2012-05-douai-notre-ville-jacques-vernier",
+          "2012-11-douai-notre-ville-jacques-vernier",
+          "2013-02-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2012-04-douai-notre-ville-jacques-vernier",
+          "2012-09-douai-notre-ville-jacques-vernier",
+          "2013-01-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.35714285714285715,
-      "min": 0,
-      "max": 2
+      "mean": {
+        "count": 5,
+        "total": 14
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2012-01-douai-notre-ville-jacques-vernier",
+          "2012-04-douai-notre-ville-jacques-vernier",
+          "2012-06-douai-notre-ville-jacques-vernier",
+          "2012-07-douai-notre-ville-jacques-vernier",
+          "2012-09-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 6
+      },
+      "max": {
+        "value": 2,
+        "ids": [
+          "2012-03-douai-notre-ville-jacques-vernier",
+          "2012-05-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 1.2142857142857142,
-      "min": 1,
-      "max": 3
+      "mean": {
+        "count": 17,
+        "total": 14
+      },
+      "min": {
+        "value": 1,
+        "ids": [
+          "2012-01-douai-notre-ville-jacques-vernier",
+          "2012-02-douai-notre-ville-jacques-vernier",
+          "2012-03-douai-notre-ville-jacques-vernier",
+          "2012-04-douai-notre-ville-jacques-vernier",
+          "2012-05-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 7
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2012-09-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0.14285714285714285,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 2,
+        "total": 14
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2012-01-douai-notre-ville-jacques-vernier",
+          "2012-04-douai-notre-ville-jacques-vernier",
+          "2012-05-douai-notre-ville-jacques-vernier",
+          "2012-06-douai-notre-ville-jacques-vernier",
+          "2012-07-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 7
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2012-02-douai-notre-ville-jacques-vernier",
+          "2012-03-douai-notre-ville-jacques-vernier"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.35714285714285715,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 5,
+          "total": 14
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2012-01-douai-notre-ville-jacques-vernier",
+            "2012-02-douai-notre-ville-jacques-vernier",
+            "2012-04-douai-notre-ville-jacques-vernier",
+            "2012-05-douai-notre-ville-jacques-vernier",
+            "2012-06-douai-notre-ville-jacques-vernier"
+          ],
+          "restLength": 4
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2012-03-douai-notre-ville-jacques-vernier",
+            "2012-09-douai-notre-ville-jacques-vernier",
+            "2012-10-douai-notre-ville-jacques-vernier",
+            "2012-12-douai-notre-ville-jacques-vernier",
+            "2013-03-douai-notre-ville-jacques-vernier"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 7.642857142857143,
-        "min": 5,
-        "max": 10
+        "mean": {
+          "count": 107,
+          "total": 14
+        },
+        "min": {
+          "value": 5,
+          "ids": [
+            "2013-03-douai-notre-ville-jacques-vernier"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 10,
+          "ids": [
+            "2012-03-douai-notre-ville-jacques-vernier",
+            "2012-04-douai-notre-ville-jacques-vernier",
+            "2012-10-douai-notre-ville-jacques-vernier"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.5714285714285714,
-        "min": 0,
-        "max": 2
+        "mean": {
+          "count": 8,
+          "total": 14
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2012-02-douai-notre-ville-jacques-vernier",
+            "2012-03-douai-notre-ville-jacques-vernier",
+            "2012-05-douai-notre-ville-jacques-vernier",
+            "2012-10-douai-notre-ville-jacques-vernier",
+            "2012-11-douai-notre-ville-jacques-vernier"
+          ],
+          "restLength": 3
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2012-06-douai-notre-ville-jacques-vernier",
+            "2012-09-douai-notre-ville-jacques-vernier"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

@@ -11,22 +11,26 @@
   ],
   "sentences": [
     {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
       "date": "2020-12-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
       "date": "2021-05-01T00:00:00Z",
       "count": 7
     }
   ],
   "sentiments": [
     {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
       "date": "2020-12-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
       "date": "2021-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
@@ -35,40 +39,48 @@
   ],
   "exclamations": [
     {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
       "date": "2020-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
       "date": "2020-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
       "date": "2020-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
       "date": "2020-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     }
@@ -190,45 +202,173 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 6,
-      "min": 5,
-      "max": 7
+      "mean": {
+        "count": 12,
+        "total": 2
+      },
+      "min": {
+        "value": 5,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 7,
+        "ids": [
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul",
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul",
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul",
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul",
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul",
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul",
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul",
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2020-12-douai-notre-ville-jessy-kaboul",
+          "2021-05-douai-notre-ville-jessy-kaboul"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.5,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 1,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-05-douai-notre-ville-jessy-kaboul"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2020-12-douai-notre-ville-jessy-kaboul"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 5,
-        "min": 3,
-        "max": 7
+        "mean": {
+          "count": 10,
+          "total": 2
+        },
+        "min": {
+          "value": 3,
+          "ids": [
+            "2020-12-douai-notre-ville-jessy-kaboul"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 7,
+          "ids": [
+            "2021-05-douai-notre-ville-jessy-kaboul"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.5,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 1,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-05-douai-notre-ville-jessy-kaboul"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2020-12-douai-notre-ville-jessy-kaboul"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

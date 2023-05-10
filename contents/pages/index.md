@@ -4,7 +4,7 @@ description: Un site qui recense toutes les tribunes des élu·es de Douai et le
 date: "2023-05-08T22:15:47.659Z"
 draft: false
 illustration:
-  href: "/illustrations/banner.png"
+  href: "/images/banner.png"
   alt: "Bannière du site Keskidiz"
 ---
 

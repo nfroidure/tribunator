@@ -39,92 +39,110 @@
   ],
   "sentences": [
     {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
       "date": "2021-03-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
       "date": "2021-09-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
       "date": "2021-12-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
       "date": "2022-02-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
       "date": "2022-04-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
       "date": "2022-07-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
       "date": "2022-10-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
       "date": "2022-12-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "count": 3
     }
   ],
   "sentiments": [
     {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
       "date": "2021-03-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
       "date": "2021-09-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
       "date": "2021-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 1
     },
     {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
       "date": "2022-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
       "date": "2022-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
       "date": "2022-07-01T00:00:00Z",
       "positive": 1,
       "neutral": 1,
       "negative": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
       "date": "2022-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
       "date": "2022-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "positive": 0,
       "neutral": 2,
@@ -133,152 +151,188 @@
   ],
   "exclamations": [
     {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
       "date": "2022-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
       "date": "2022-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
       "date": "2022-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
       "date": "2022-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
       "date": "2022-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
     }
@@ -401,45 +455,207 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 4.333333333333333,
-      "min": 2,
-      "max": 6
+      "mean": {
+        "count": 39,
+        "total": 9
+      },
+      "min": {
+        "value": 2,
+        "ids": [
+          "2022-07-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 6,
+        "ids": [
+          "2022-04-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0.1111111111111111,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 9
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-nora-cherki",
+          "2021-09-douai-notre-ville-nora-cherki",
+          "2021-12-douai-notre-ville-nora-cherki",
+          "2022-04-douai-notre-ville-nora-cherki",
+          "2022-07-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 3
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2022-02-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 9
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-nora-cherki",
+          "2021-09-douai-notre-ville-nora-cherki",
+          "2021-12-douai-notre-ville-nora-cherki",
+          "2022-02-douai-notre-ville-nora-cherki",
+          "2022-04-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 4
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-nora-cherki",
+          "2021-09-douai-notre-ville-nora-cherki",
+          "2021-12-douai-notre-ville-nora-cherki",
+          "2022-02-douai-notre-ville-nora-cherki",
+          "2022-04-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 4
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 9
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-nora-cherki",
+          "2021-09-douai-notre-ville-nora-cherki",
+          "2021-12-douai-notre-ville-nora-cherki",
+          "2022-02-douai-notre-ville-nora-cherki",
+          "2022-04-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 4
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-nora-cherki",
+          "2021-09-douai-notre-ville-nora-cherki",
+          "2021-12-douai-notre-ville-nora-cherki",
+          "2022-02-douai-notre-ville-nora-cherki",
+          "2022-04-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 4
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 9
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-nora-cherki",
+          "2021-09-douai-notre-ville-nora-cherki",
+          "2021-12-douai-notre-ville-nora-cherki",
+          "2022-02-douai-notre-ville-nora-cherki",
+          "2022-04-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 4
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-nora-cherki",
+          "2021-09-douai-notre-ville-nora-cherki",
+          "2021-12-douai-notre-ville-nora-cherki",
+          "2022-02-douai-notre-ville-nora-cherki",
+          "2022-04-douai-notre-ville-nora-cherki"
+        ],
+        "restLength": 4
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.2222222222222222,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 2,
+          "total": 9
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-03-douai-notre-ville-nora-cherki",
+            "2021-12-douai-notre-ville-nora-cherki",
+            "2022-02-douai-notre-ville-nora-cherki",
+            "2022-04-douai-notre-ville-nora-cherki",
+            "2022-10-douai-notre-ville-nora-cherki"
+          ],
+          "restLength": 2
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2021-09-douai-notre-ville-nora-cherki",
+            "2022-07-douai-notre-ville-nora-cherki"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 3.6666666666666665,
-        "min": 1,
-        "max": 5
+        "mean": {
+          "count": 33,
+          "total": 9
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2022-07-douai-notre-ville-nora-cherki"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 5,
+          "ids": [
+            "2022-02-douai-notre-ville-nora-cherki",
+            "2022-04-douai-notre-ville-nora-cherki",
+            "2022-12-douai-notre-ville-nora-cherki"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.4444444444444444,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 4,
+          "total": 9
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-03-douai-notre-ville-nora-cherki",
+            "2022-02-douai-notre-ville-nora-cherki",
+            "2022-07-douai-notre-ville-nora-cherki",
+            "2022-10-douai-notre-ville-nora-cherki",
+            "2022-12-douai-notre-ville-nora-cherki"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2021-09-douai-notre-ville-nora-cherki",
+            "2021-12-douai-notre-ville-nora-cherki",
+            "2022-04-douai-notre-ville-nora-cherki",
+            "2023-03-douai-notre-ville-nora-cherki"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

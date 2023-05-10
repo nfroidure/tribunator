@@ -113,262 +113,314 @@
   ],
   "sentences": [
     {
+      "id": "2020-10-douai-notre-ville-mohamed-kheraki",
       "date": "2020-10-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2020-11-douai-notre-ville-virginie-malolepszy",
       "date": "2020-11-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2020-12-douai-notre-ville-nathalie-apers",
       "date": "2020-12-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2021-02-douai-notre-ville-jean-michel-leroy",
       "date": "2021-02-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2021-04-douai-notre-ville-khadija-ahantat",
       "date": "2021-04-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2021-10-douai-notre-ville-salima-boukentar",
       "date": "2021-10-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-01-douai-notre-ville-maxime-decupper-laud",
       "date": "2022-01-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2022-02-douai-notre-ville-avida-oulahcene",
       "date": "2022-02-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2022-03-douai-notre-ville-jamila-mekki",
       "date": "2022-03-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2022-04-douai-notre-ville-mohamed-kheraki",
       "date": "2022-04-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2022-07-douai-notre-ville-nathalie-apers",
       "date": "2022-07-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-09-douai-notre-ville-jean-michel-leroy",
       "date": "2022-09-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2023-02-douai-notre-ville-salima-boukentar",
       "date": "2023-02-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 3
     }
   ],
   "sentiments": [
     {
+      "id": "2020-10-douai-notre-ville-mohamed-kheraki",
       "date": "2020-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2020-11-douai-notre-ville-virginie-malolepszy",
       "date": "2020-11-01T00:00:00Z",
       "positive": 1,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2020-12-douai-notre-ville-nathalie-apers",
       "date": "2020-12-01T00:00:00Z",
       "positive": 1,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2021-02-douai-notre-ville-jean-michel-leroy",
       "date": "2021-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "positive": 0,
       "neutral": 2,
       "negative": 2
     },
     {
+      "id": "2021-04-douai-notre-ville-khadija-ahantat",
       "date": "2021-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 1
     },
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 1
     },
     {
+      "id": "2021-10-douai-notre-ville-salima-boukentar",
       "date": "2021-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 8,
       "negative": 1
     },
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 3,
       "negative": 2
     },
     {
+      "id": "2022-01-douai-notre-ville-maxime-decupper-laud",
       "date": "2022-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-avida-oulahcene",
       "date": "2022-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-jamila-mekki",
       "date": "2022-03-01T00:00:00Z",
       "positive": 1,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2022-04-douai-notre-ville-mohamed-kheraki",
       "date": "2022-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 1
     },
     {
+      "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "positive": 0,
       "neutral": 3,
       "negative": 3
     },
     {
+      "id": "2022-07-douai-notre-ville-nathalie-apers",
       "date": "2022-07-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2022-09-douai-notre-ville-jean-michel-leroy",
       "date": "2022-09-01T00:00:00Z",
       "positive": 1,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 8,
       "negative": 0
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 1
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-salima-boukentar",
       "date": "2023-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 1
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 2,
@@ -377,424 +429,528 @@
   ],
   "exclamations": [
     {
+      "id": "2020-10-douai-notre-ville-mohamed-kheraki",
       "date": "2020-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-11-douai-notre-ville-virginie-malolepszy",
       "date": "2020-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-12-douai-notre-ville-nathalie-apers",
       "date": "2020-12-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2021-02-douai-notre-ville-jean-michel-leroy",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-04-douai-notre-ville-khadija-ahantat",
       "date": "2021-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2021-10-douai-notre-ville-salima-boukentar",
       "date": "2021-10-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2022-01-douai-notre-ville-maxime-decupper-laud",
       "date": "2022-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-avida-oulahcene",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-jamila-mekki",
       "date": "2022-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-mohamed-kheraki",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-07-douai-notre-ville-nathalie-apers",
       "date": "2022-07-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2022-09-douai-notre-ville-jean-michel-leroy",
       "date": "2022-09-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2023-02-douai-notre-ville-salima-boukentar",
       "date": "2023-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2020-10-douai-notre-ville-mohamed-kheraki",
       "date": "2020-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-11-douai-notre-ville-virginie-malolepszy",
       "date": "2020-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-12-douai-notre-ville-nathalie-apers",
       "date": "2020-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-02-douai-notre-ville-jean-michel-leroy",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-04-douai-notre-ville-khadija-ahantat",
       "date": "2021-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-10-douai-notre-ville-salima-boukentar",
       "date": "2021-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-01-douai-notre-ville-maxime-decupper-laud",
       "date": "2022-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-avida-oulahcene",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-jamila-mekki",
       "date": "2022-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-mohamed-kheraki",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2022-07-douai-notre-ville-nathalie-apers",
       "date": "2022-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-09-douai-notre-ville-jean-michel-leroy",
       "date": "2022-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-salima-boukentar",
       "date": "2023-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 1
     }
   ],
   "bolds": [
     {
+      "id": "2020-10-douai-notre-ville-mohamed-kheraki",
       "date": "2020-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-11-douai-notre-ville-virginie-malolepszy",
       "date": "2020-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-12-douai-notre-ville-nathalie-apers",
       "date": "2020-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-02-douai-notre-ville-jean-michel-leroy",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-04-douai-notre-ville-khadija-ahantat",
       "date": "2021-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-10-douai-notre-ville-salima-boukentar",
       "date": "2021-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-01-douai-notre-ville-maxime-decupper-laud",
       "date": "2022-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-avida-oulahcene",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-jamila-mekki",
       "date": "2022-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-mohamed-kheraki",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-07-douai-notre-ville-nathalie-apers",
       "date": "2022-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-09-douai-notre-ville-jean-michel-leroy",
       "date": "2022-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-salima-boukentar",
       "date": "2023-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2020-10-douai-notre-ville-mohamed-kheraki",
       "date": "2020-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-11-douai-notre-ville-virginie-malolepszy",
       "date": "2020-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-12-douai-notre-ville-nathalie-apers",
       "date": "2020-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-02-douai-notre-ville-jean-michel-leroy",
       "date": "2021-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-04-douai-notre-ville-khadija-ahantat",
       "date": "2021-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-10-douai-notre-ville-salima-boukentar",
       "date": "2021-10-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-01-douai-notre-ville-maxime-decupper-laud",
       "date": "2022-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-avida-oulahcene",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-jamila-mekki",
       "date": "2022-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-mohamed-kheraki",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-07-douai-notre-ville-nathalie-apers",
       "date": "2022-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-09-douai-notre-ville-jean-michel-leroy",
       "date": "2022-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-salima-boukentar",
       "date": "2023-02-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
     }
@@ -923,45 +1079,197 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 6.115384615384615,
-      "min": 3,
-      "max": 9
+      "mean": {
+        "count": 159,
+        "total": 26
+      },
+      "min": {
+        "value": 3,
+        "ids": [
+          "2023-05-douai-notre-ville-maxime-decupper-laud"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 9,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0.8461538461538461,
-      "min": 0,
-      "max": 3
+      "mean": {
+        "count": 22,
+        "total": 26
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-jean-michel-leroy",
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2021-04-douai-notre-ville-khadija-ahantat",
+          "2021-11-douai-notre-ville-anne-sophie-audegond",
+          "2022-01-douai-notre-ville-maxime-decupper-laud"
+        ],
+        "restLength": 8
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.11538461538461539,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 3,
+        "total": 26
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-10-douai-notre-ville-mohamed-kheraki",
+          "2020-11-douai-notre-ville-virginie-malolepszy",
+          "2020-12-douai-notre-ville-nathalie-apers",
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2021-02-douai-notre-ville-jean-michel-leroy"
+        ],
+        "restLength": 18
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2022-06-douai-notre-ville-hocine-mazy",
+          "2023-02-douai-notre-ville-salima-boukentar",
+          "2023-05-douai-notre-ville-maxime-decupper-laud"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0.23076923076923078,
-      "min": 0,
-      "max": 5
+      "mean": {
+        "count": 6,
+        "total": 26
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-10-douai-notre-ville-mohamed-kheraki",
+          "2020-11-douai-notre-ville-virginie-malolepszy",
+          "2020-12-douai-notre-ville-nathalie-apers",
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2021-02-douai-notre-ville-jean-michel-leroy"
+        ],
+        "restLength": 19
+      },
+      "max": {
+        "value": 5,
+        "ids": [
+          "2022-10-douai-notre-ville-khadija-ahantat"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0.38461538461538464,
-      "min": 0,
-      "max": 7
+      "mean": {
+        "count": 10,
+        "total": 26
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-10-douai-notre-ville-mohamed-kheraki",
+          "2020-11-douai-notre-ville-virginie-malolepszy",
+          "2020-12-douai-notre-ville-nathalie-apers",
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2021-03-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 18
+      },
+      "max": {
+        "value": 7,
+        "ids": [
+          "2023-02-douai-notre-ville-salima-boukentar"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.19230769230769232,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 5,
+          "total": 26
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2020-10-douai-notre-ville-mohamed-kheraki",
+            "2021-01-douai-notre-ville-hocine-mazy",
+            "2021-02-douai-notre-ville-jean-michel-leroy",
+            "2021-03-douai-notre-ville-yvon-sipieter",
+            "2021-04-douai-notre-ville-khadija-ahantat"
+          ],
+          "restLength": 16
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2020-11-douai-notre-ville-virginie-malolepszy",
+            "2020-12-douai-notre-ville-nathalie-apers",
+            "2022-03-douai-notre-ville-jamila-mekki",
+            "2022-07-douai-notre-ville-nathalie-apers",
+            "2022-09-douai-notre-ville-jean-michel-leroy"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 5.1923076923076925,
-        "min": 2,
-        "max": 8
+        "mean": {
+          "count": 135,
+          "total": 26
+        },
+        "min": {
+          "value": 2,
+          "ids": [
+            "2021-03-douai-notre-ville-yvon-sipieter",
+            "2023-05-douai-notre-ville-maxime-decupper-laud"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 8,
+          "ids": [
+            "2021-11-douai-notre-ville-anne-sophie-audegond",
+            "2022-10-douai-notre-ville-khadija-ahantat"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.7307692307692307,
-        "min": 0,
-        "max": 3
+        "mean": {
+          "count": 19,
+          "total": 26
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2020-10-douai-notre-ville-mohamed-kheraki",
+            "2020-11-douai-notre-ville-virginie-malolepszy",
+            "2021-02-douai-notre-ville-jean-michel-leroy",
+            "2021-10-douai-notre-ville-salima-boukentar",
+            "2022-01-douai-notre-ville-maxime-decupper-laud"
+          ],
+          "restLength": 6
+        },
+        "max": {
+          "value": 3,
+          "ids": [
+            "2022-06-douai-notre-ville-hocine-mazy"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

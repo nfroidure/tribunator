@@ -7,12 +7,14 @@
   ],
   "sentences": [
     {
+      "id": "2012-03-douai-notre-ville-rene-lavarde",
       "date": "2012-03-01T00:00:00Z",
       "count": 9
     }
   ],
   "sentiments": [
     {
+      "id": "2012-03-douai-notre-ville-rene-lavarde",
       "date": "2012-03-01T00:00:00Z",
       "positive": 1,
       "neutral": 6,
@@ -21,24 +23,28 @@
   ],
   "exclamations": [
     {
+      "id": "2012-03-douai-notre-ville-rene-lavarde",
       "date": "2012-03-01T00:00:00Z",
       "count": 3
     }
   ],
   "questions": [
     {
+      "id": "2012-03-douai-notre-ville-rene-lavarde",
       "date": "2012-03-01T00:00:00Z",
       "count": 2
     }
   ],
   "bolds": [
     {
+      "id": "2012-03-douai-notre-ville-rene-lavarde",
       "date": "2012-03-01T00:00:00Z",
       "count": 1
     }
   ],
   "caps": [
     {
+      "id": "2012-03-douai-notre-ville-rene-lavarde",
       "date": "2012-03-01T00:00:00Z",
       "count": 0
     }
@@ -160,45 +166,165 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 9,
-      "min": 9,
-      "max": 9
+      "mean": {
+        "count": 9,
+        "total": 1
+      },
+      "min": {
+        "value": 9,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 9,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 3,
-      "min": 3,
-      "max": 3
+      "mean": {
+        "count": 3,
+        "total": 1
+      },
+      "min": {
+        "value": 3,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 2,
-      "min": 2,
-      "max": 2
+      "mean": {
+        "count": 2,
+        "total": 1
+      },
+      "min": {
+        "value": 2,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 2,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 1,
-      "min": 1,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 1
+      },
+      "min": {
+        "value": 1,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2012-03-douai-notre-ville-rene-lavarde"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 1,
-        "min": 1,
-        "max": 1
+        "mean": {
+          "count": 1,
+          "total": 1
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2012-03-douai-notre-ville-rene-lavarde"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2012-03-douai-notre-ville-rene-lavarde"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 6,
-        "min": 6,
-        "max": 6
+        "mean": {
+          "count": 6,
+          "total": 1
+        },
+        "min": {
+          "value": 6,
+          "ids": [
+            "2012-03-douai-notre-ville-rene-lavarde"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 6,
+          "ids": [
+            "2012-03-douai-notre-ville-rene-lavarde"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 2,
-        "min": 2,
-        "max": 2
+        "mean": {
+          "count": 2,
+          "total": 1
+        },
+        "min": {
+          "value": 2,
+          "ids": [
+            "2012-03-douai-notre-ville-rene-lavarde"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2012-03-douai-notre-ville-rene-lavarde"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

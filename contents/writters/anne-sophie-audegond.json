@@ -7,12 +7,14 @@
   ],
   "sentences": [
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 9
     }
   ],
   "sentiments": [
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 8,
@@ -21,24 +23,28 @@
   ],
   "exclamations": [
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2021-11-douai-notre-ville-anne-sophie-audegond",
       "date": "2021-11-01T00:00:00Z",
       "count": 0
     }
@@ -160,45 +166,165 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 9,
-      "min": 9,
-      "max": 9
+      "mean": {
+        "count": 9,
+        "total": 1
+      },
+      "min": {
+        "value": 9,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 9,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-11-douai-notre-ville-anne-sophie-audegond"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 1
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-11-douai-notre-ville-anne-sophie-audegond"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2021-11-douai-notre-ville-anne-sophie-audegond"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 8,
-        "min": 8,
-        "max": 8
+        "mean": {
+          "count": 8,
+          "total": 1
+        },
+        "min": {
+          "value": 8,
+          "ids": [
+            "2021-11-douai-notre-ville-anne-sophie-audegond"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 8,
+          "ids": [
+            "2021-11-douai-notre-ville-anne-sophie-audegond"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 1,
-        "min": 1,
-        "max": 1
+        "mean": {
+          "count": 1,
+          "total": 1
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2021-11-douai-notre-ville-anne-sophie-audegond"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2021-11-douai-notre-ville-anne-sophie-audegond"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

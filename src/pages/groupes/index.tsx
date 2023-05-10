@@ -1,7 +1,7 @@
 import { pathJoin } from "../../utils/files";
 import { readParams } from "../../utils/params";
 import { titledPagesSorter } from "../../utils/contents";
-import { readGroupsEntries } from "../../utils/groups";
+import { readGroupsEntries, readGroupStats } from "../../utils/groups";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Heading1 from "../../components/h1";
@@ -16,8 +16,11 @@ import type {
 } from "../../utils/contents";
 import type { GetStaticProps } from "next";
 import type { BuildQueryParamsType } from "../../utils/params";
+import type { StatsData } from "../../utils/writters";
 
-export type Props = BasePagingPageMetadata<Group>;
+export type Props = BasePagingPageMetadata<Group> & {
+  groupsStats: StatsData;
+};
 
 const PARAMS_DEFINITIONS = {
   page: {
@@ -127,6 +130,7 @@ export const entriesToBaseListingMetadata = (
 export const getStaticProps: GetStaticProps<Props, { page: string }> = async ({
   params,
 }) => {
+  const groupsStats = await readGroupStats();
   const castedParams = readParams(PARAMS_DEFINITIONS, params || {}) as Params;
   const page = castedParams?.page || 1;
   const baseProps = entriesToBaseListingMetadata(
@@ -146,6 +150,7 @@ export const getStaticProps: GetStaticProps<Props, { page: string }> = async ({
       title,
       entries,
       page,
+      groupsStats,
     } as Props,
   };
 };

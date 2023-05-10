@@ -19,42 +19,50 @@
   ],
   "sentences": [
     {
+      "id": "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2014-10-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-06-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-11-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2016-10-01T00:00:00Z",
       "count": 6
     }
   ],
   "sentiments": [
     {
+      "id": "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2014-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-06-01T00:00:00Z",
       "positive": 2,
       "neutral": 6,
       "negative": 1
     },
     {
+      "id": "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-11-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
       "negative": 0
     },
     {
+      "id": "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2016-10-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
@@ -63,72 +71,88 @@
   ],
   "exclamations": [
     {
+      "id": "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2014-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-06-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2016-10-01T00:00:00Z",
       "count": 2
     }
   ],
   "questions": [
     {
+      "id": "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2014-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2016-10-01T00:00:00Z",
       "count": 1
     }
   ],
   "bolds": [
     {
+      "id": "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2014-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2016-10-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2014-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2015-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
       "date": "2016-10-01T00:00:00Z",
       "count": 0
     }
@@ -250,45 +274,183 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 6,
-      "min": 4,
-      "max": 9
+      "mean": {
+        "count": 24,
+        "total": 4
+      },
+      "min": {
+        "value": 4,
+        "ids": [
+          "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 9,
+        "ids": [
+          "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 1.5,
-      "min": 1,
-      "max": 2
+      "mean": {
+        "count": 6,
+        "total": 4
+      },
+      "min": {
+        "value": 1,
+        "ids": [
+          "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 2,
+        "ids": [
+          "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.75,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 3,
+        "total": 4
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 4
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 4
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+          "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 1,
-        "min": 0,
-        "max": 2
+        "mean": {
+          "count": 4,
+          "total": 4
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 4.25,
-        "min": 3,
-        "max": 6
+        "mean": {
+          "count": 17,
+          "total": 4
+        },
+        "min": {
+          "value": 3,
+          "ids": [
+            "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+            "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 6,
+          "ids": [
+            "2015-06-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.75,
-        "min": 0,
-        "max": 2
+        "mean": {
+          "count": 3,
+          "total": 4
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
+            "2015-11-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2016-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

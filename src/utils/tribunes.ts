@@ -9,6 +9,7 @@ export type TribuneFrontmatterMetadata = {
   summary: string;
   mandate: string;
   group: string;
+  groupId: string;
   date: string;
   publication: string;
   source: string;

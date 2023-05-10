@@ -19,42 +19,50 @@
   ],
   "sentences": [
     {
+      "id": "2017-06-douai-notre-ville-bruno-bufquin",
       "date": "2017-06-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2017-12-douai-notre-ville-bruno-bufquin",
       "date": "2017-12-01T00:00:00Z",
       "count": 12
     },
     {
+      "id": "2018-10-douai-notre-ville-bruno-bufquin",
       "date": "2018-10-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2019-07-douai-notre-ville-bruno-bufquin",
       "date": "2019-07-01T00:00:00Z",
       "count": 14
     }
   ],
   "sentiments": [
     {
+      "id": "2017-06-douai-notre-ville-bruno-bufquin",
       "date": "2017-06-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 1
     },
     {
+      "id": "2017-12-douai-notre-ville-bruno-bufquin",
       "date": "2017-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 12,
       "negative": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-bruno-bufquin",
       "date": "2018-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2019-07-douai-notre-ville-bruno-bufquin",
       "date": "2019-07-01T00:00:00Z",
       "positive": 0,
       "neutral": 13,
@@ -63,72 +71,88 @@
   ],
   "exclamations": [
     {
+      "id": "2017-06-douai-notre-ville-bruno-bufquin",
       "date": "2017-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-12-douai-notre-ville-bruno-bufquin",
       "date": "2017-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-bruno-bufquin",
       "date": "2018-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-07-douai-notre-ville-bruno-bufquin",
       "date": "2019-07-01T00:00:00Z",
       "count": 3
     }
   ],
   "questions": [
     {
+      "id": "2017-06-douai-notre-ville-bruno-bufquin",
       "date": "2017-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-12-douai-notre-ville-bruno-bufquin",
       "date": "2017-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-bruno-bufquin",
       "date": "2018-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-07-douai-notre-ville-bruno-bufquin",
       "date": "2019-07-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2017-06-douai-notre-ville-bruno-bufquin",
       "date": "2017-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-12-douai-notre-ville-bruno-bufquin",
       "date": "2017-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-bruno-bufquin",
       "date": "2018-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-07-douai-notre-ville-bruno-bufquin",
       "date": "2019-07-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2017-06-douai-notre-ville-bruno-bufquin",
       "date": "2017-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-12-douai-notre-ville-bruno-bufquin",
       "date": "2017-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-bruno-bufquin",
       "date": "2018-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-07-douai-notre-ville-bruno-bufquin",
       "date": "2019-07-01T00:00:00Z",
       "count": 2
     }
@@ -250,45 +274,179 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 10,
-      "min": 6,
-      "max": 14
+      "mean": {
+        "count": 40,
+        "total": 4
+      },
+      "min": {
+        "value": 6,
+        "ids": [
+          "2018-10-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 14,
+        "ids": [
+          "2019-07-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 1.25,
-      "min": 0,
-      "max": 3
+      "mean": {
+        "count": 5,
+        "total": 4
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2017-12-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2019-07-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.25,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 4
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2017-12-douai-notre-ville-bruno-bufquin",
+          "2018-10-douai-notre-ville-bruno-bufquin",
+          "2019-07-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2017-06-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0.25,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 4
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2017-12-douai-notre-ville-bruno-bufquin",
+          "2018-10-douai-notre-ville-bruno-bufquin",
+          "2019-07-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2017-06-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0.5,
-      "min": 0,
-      "max": 2
+      "mean": {
+        "count": 2,
+        "total": 4
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2017-06-douai-notre-ville-bruno-bufquin",
+          "2017-12-douai-notre-ville-bruno-bufquin",
+          "2018-10-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 2,
+        "ids": [
+          "2019-07-douai-notre-ville-bruno-bufquin"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 4
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2017-06-douai-notre-ville-bruno-bufquin",
+            "2017-12-douai-notre-ville-bruno-bufquin",
+            "2018-10-douai-notre-ville-bruno-bufquin",
+            "2019-07-douai-notre-ville-bruno-bufquin"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2017-06-douai-notre-ville-bruno-bufquin",
+            "2017-12-douai-notre-ville-bruno-bufquin",
+            "2018-10-douai-notre-ville-bruno-bufquin",
+            "2019-07-douai-notre-ville-bruno-bufquin"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 9.25,
-        "min": 5,
-        "max": 13
+        "mean": {
+          "count": 37,
+          "total": 4
+        },
+        "min": {
+          "value": 5,
+          "ids": [
+            "2018-10-douai-notre-ville-bruno-bufquin"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 13,
+          "ids": [
+            "2019-07-douai-notre-ville-bruno-bufquin"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.75,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 3,
+          "total": 4
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2017-12-douai-notre-ville-bruno-bufquin"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2017-06-douai-notre-ville-bruno-bufquin",
+            "2018-10-douai-notre-ville-bruno-bufquin",
+            "2019-07-douai-notre-ville-bruno-bufquin"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

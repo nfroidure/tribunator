@@ -15,32 +15,38 @@
   ],
   "sentences": [
     {
+      "id": "2021-02-douai-notre-ville-guy-caruyer",
       "date": "2021-02-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2022-04-douai-notre-ville-guy-caruyer",
       "date": "2022-04-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2022-12-douai-notre-ville-guy-caruyer",
       "date": "2022-12-01T00:00:00Z",
       "count": 9
     }
   ],
   "sentiments": [
     {
+      "id": "2021-02-douai-notre-ville-guy-caruyer",
       "date": "2021-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-guy-caruyer",
       "date": "2022-04-01T00:00:00Z",
       "positive": 2,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-guy-caruyer",
       "date": "2022-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 9,
@@ -49,56 +55,68 @@
   ],
   "exclamations": [
     {
+      "id": "2021-02-douai-notre-ville-guy-caruyer",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-guy-caruyer",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-guy-caruyer",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2021-02-douai-notre-ville-guy-caruyer",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-guy-caruyer",
       "date": "2022-04-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2022-12-douai-notre-ville-guy-caruyer",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2021-02-douai-notre-ville-guy-caruyer",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-guy-caruyer",
       "date": "2022-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-guy-caruyer",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2021-02-douai-notre-ville-guy-caruyer",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-04-douai-notre-ville-guy-caruyer",
       "date": "2022-04-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2022-12-douai-notre-ville-guy-caruyer",
       "date": "2022-12-01T00:00:00Z",
       "count": 2
     }
@@ -220,45 +238,180 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 7.666666666666667,
-      "min": 6,
-      "max": 9
+      "mean": {
+        "count": 23,
+        "total": 3
+      },
+      "min": {
+        "value": 6,
+        "ids": [
+          "2021-02-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 9,
+        "ids": [
+          "2022-12-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 3
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-guy-caruyer",
+          "2022-04-douai-notre-ville-guy-caruyer",
+          "2022-12-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-guy-caruyer",
+          "2022-04-douai-notre-ville-guy-caruyer",
+          "2022-12-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.3333333333333333,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 3
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-guy-caruyer",
+          "2022-12-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2022-04-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 3
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-guy-caruyer",
+          "2022-04-douai-notre-ville-guy-caruyer",
+          "2022-12-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-guy-caruyer",
+          "2022-04-douai-notre-ville-guy-caruyer",
+          "2022-12-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 1,
-      "min": 0,
-      "max": 2
+      "mean": {
+        "count": 3,
+        "total": 3
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 2,
+        "ids": [
+          "2022-12-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.6666666666666666,
-        "min": 0,
-        "max": 2
+        "mean": {
+          "count": 2,
+          "total": 3
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-02-douai-notre-ville-guy-caruyer",
+            "2022-12-douai-notre-ville-guy-caruyer"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2022-04-douai-notre-ville-guy-caruyer"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 7,
-        "min": 6,
-        "max": 9
+        "mean": {
+          "count": 21,
+          "total": 3
+        },
+        "min": {
+          "value": 6,
+          "ids": [
+            "2021-02-douai-notre-ville-guy-caruyer",
+            "2022-04-douai-notre-ville-guy-caruyer"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 9,
+          "ids": [
+            "2022-12-douai-notre-ville-guy-caruyer"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 3
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-02-douai-notre-ville-guy-caruyer",
+            "2022-04-douai-notre-ville-guy-caruyer",
+            "2022-12-douai-notre-ville-guy-caruyer"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2021-02-douai-notre-ville-guy-caruyer",
+            "2022-04-douai-notre-ville-guy-caruyer",
+            "2022-12-douai-notre-ville-guy-caruyer"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

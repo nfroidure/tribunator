@@ -13,59 +13,17 @@ const exec = promisify(childProcess.exec);
 const files = await fs.promises.readdir(pathJoin("sources", "tribunes"));
 const writtersAggregations = {};
 const groupsAggregations = {};
-
-
-const globalStats = {
-  sentences: {
-    mean: { count: 0, total: 0 },
-    min: Infinity,
-    max: 0,
-  },
-  exclamations: {
-    mean: { count: 0, total: 0 },
-    min: Infinity,
-    max: 0,
-  },
-  questions: {
-    mean: { count: 0, total: 0 },
-    min: Infinity,
-    max: 0,
-  },
-  bolds: {
-    mean: { count: 0, total: 0 },
-    min: Infinity,
-    max: 0,
-  },
-  caps: {
-    mean: { count: 0, total: 0 },
-    min: Infinity,
-    max: 0,
-  },
-  sentiments: {
-    positive: {
-      mean: { count: 0, total: 0 },
-      min: Infinity,
-      max: 0,
-    },
-    neutral: {
-      mean: { count: 0, total: 0 },
-      min: Infinity,
-      max: 0,
-    },
-    negative: {
-      mean: { count: 0, total: 0 },
-      min: Infinity,
-      max: 0,
-    },
-  },
-};
+const writtersStats = createBaseStatsObject();
+const groupsStats = createBaseStatsObject();
 
 for (const file of files) {
   const content = await fs.promises.readFile(
     pathJoin("sources", "tribunes", file),
     "utf-8"
   );
+
   console.warn(`➕ - Processing ${file}.`);
+
   const publication = file.split("-").slice(2).join("-").replace(/\.md$/, "");
   const occurence = file.split("-").slice(0, 2).join("-");
   const parts = content.split(/[\-]{3,}/gm);
@@ -134,9 +92,6 @@ for (const file of files) {
     const response = await axios({
       method: "post",
       url: `http://localhost:9000`,
-      headers: {
-        referer: "Web Site Syncer",
-      },
       params: {
         properties:
           '{"annotators":"tokenize,ssplit,mwt,pos,lemma,ner,parse,sentiment","outputFormat":"json"}',
@@ -211,6 +166,7 @@ for (const file of files) {
     groupAggregation.writtings.push({ date, id });
 
     const exclamation = {
+      id,
       date,
       count: response.data.sentences.reduce((count, sentence) => {
         return sentence.tokens.reduce((count, { lemma }) => {
@@ -222,6 +178,7 @@ for (const file of files) {
     groupAggregation.exclamations.push(exclamation)
 
     const question = {
+      id,
       date,
       count: response.data.sentences.reduce((count, sentence) => {
         return sentence.tokens.reduce((count, { lemma }) => {
@@ -233,6 +190,7 @@ for (const file of files) {
     groupAggregation.questions.push(question);
 
     const bold = {
+      id,
       date,
       // Very approximative count, could parse MD contents and
       // use the AST
@@ -242,6 +200,7 @@ for (const file of files) {
     groupAggregation.bolds.push(bold);
 
     const cap = {
+      id,
       date,
       count: response.data.sentences.reduce((count, sentence) => {
         return sentence.tokens
@@ -259,11 +218,12 @@ for (const file of files) {
     writerAggregation.caps.push(cap);
     groupAggregation.caps.push(cap);
 
-    const sentence = { date, count: response.data.sentences.length };
+    const sentence = { id, date, count: response.data.sentences.length };
     writerAggregation.sentences.push(sentence);
     groupAggregation.sentences.push(sentence);
 
     const sentiment = {
+      id,
       date,
       positive: sentiments.filter(sentiment => sentiment === 'Positive').length,
       neutral: sentiments.filter(sentiment => sentiment === 'Neutral').length,
@@ -309,42 +269,18 @@ for (const key of Object.keys(writtersAggregations)) {
     sentiments: computeSentimentStats(writtersAggregations[key].sentiments),
   };
 
-  globalStats.sentences.mean.total += summary.sentences.mean;
-  globalStats.sentences.mean.count++;
-  globalStats.sentences.min = Math.min(globalStats.sentences.min, summary.sentences.min);
-  globalStats.sentences.max = Math.max(globalStats.sentences.max, summary.sentences.max);
-  globalStats.exclamations.mean.total += summary.exclamations.mean;
-  globalStats.exclamations.mean.count++;
-  globalStats.exclamations.min = Math.min(globalStats.exclamations.min, summary.exclamations.min);
-  globalStats.exclamations.max = Math.max(globalStats.exclamations.max, summary.exclamations.max);
-  globalStats.questions.mean.total += summary.questions.mean;
-  globalStats.questions.mean.count++;
-  globalStats.questions.min = Math.min(globalStats.questions.min, summary.questions.min);
-  globalStats.questions.max = Math.max(globalStats.questions.max, summary.questions.max);
-  globalStats.bolds.mean.total += summary.bolds.mean;
-  globalStats.bolds.mean.count++;
-  globalStats.bolds.min = Math.min(globalStats.bolds.min, summary.bolds.min);
-  globalStats.bolds.max = Math.max(globalStats.bolds.max, summary.bolds.max);
-  globalStats.caps.mean.total += summary.caps.mean;
-  globalStats.caps.mean.count++;
-  globalStats.caps.min = Math.min(globalStats.caps.min, summary.caps.min);
-  globalStats.caps.max = Math.max(globalStats.caps.max, summary.caps.max);
-  globalStats.sentiments.positive.mean.total += summary.sentiments.positive.mean;
-  globalStats.sentiments.positive.mean.count++;
-  globalStats.sentiments.positive.min = Math.min(globalStats.sentiments.positive.min, summary.sentiments.positive.min);
-  globalStats.sentiments.positive.max = Math.max(globalStats.sentiments.positive.max, summary.sentiments.positive.max);
-  globalStats.sentiments.neutral.mean.total += summary.sentiments.neutral.mean;
-  globalStats.sentiments.neutral.mean.count++;
-  globalStats.sentiments.neutral.min = Math.min(globalStats.sentiments.neutral.min, summary.sentiments.neutral.min);
-  globalStats.sentiments.neutral.max = Math.max(globalStats.sentiments.neutral.max, summary.sentiments.neutral.max);
-  globalStats.sentiments.negative.mean.total += summary.sentiments.negative.mean;
-  globalStats.sentiments.negative.mean.count++;
-  globalStats.sentiments.negative.min = Math.min(globalStats.sentiments.negative.min, summary.sentiments.negative.min);
-  globalStats.sentiments.negative.max = Math.max(globalStats.sentiments.negative.max, summary.sentiments.negative.max);
+  aggregatesStats(summary.sentences, writtersStats.sentences);
+  aggregatesStats(summary.exclamations, writtersStats.exclamations);
+  aggregatesStats(summary.questions, writtersStats.questions);
+  aggregatesStats(summary.bolds, writtersStats.bolds);
+  aggregatesStats(summary.caps, writtersStats.caps);
+  aggregatesStats(summary.sentiments.positive, writtersStats.sentiments.positive);
+  aggregatesStats(summary.sentiments.negative, writtersStats.sentiments.negative);
+  aggregatesStats(summary.sentiments.neutral, writtersStats.sentiments.neutral);
 
   const finalAggregation = {
     ...writtersAggregations[key],
-    summary,
+    summary: shrinkSummary(summary),
     words: Object.keys(writtersAggregations[key].words)
       .filter(word => word.length > 3)
       .sort((wordA, wordB) => (
@@ -375,42 +311,18 @@ for (const key of Object.keys(groupsAggregations)) {
     sentiments: computeSentimentStats(groupsAggregations[key].sentiments),
   };
 
-  globalStats.sentences.mean.total += summary.sentences.mean;
-  globalStats.sentences.mean.count++;
-  globalStats.sentences.min = Math.min(globalStats.sentences.min, summary.sentences.min);
-  globalStats.sentences.max = Math.max(globalStats.sentences.max, summary.sentences.max);
-  globalStats.exclamations.mean.total += summary.exclamations.mean;
-  globalStats.exclamations.mean.count++;
-  globalStats.exclamations.min = Math.min(globalStats.exclamations.min, summary.exclamations.min);
-  globalStats.exclamations.max = Math.max(globalStats.exclamations.max, summary.exclamations.max);
-  globalStats.questions.mean.total += summary.questions.mean;
-  globalStats.questions.mean.count++;
-  globalStats.questions.min = Math.min(globalStats.questions.min, summary.questions.min);
-  globalStats.questions.max = Math.max(globalStats.questions.max, summary.questions.max);
-  globalStats.bolds.mean.total += summary.bolds.mean;
-  globalStats.bolds.mean.count++;
-  globalStats.bolds.min = Math.min(globalStats.bolds.min, summary.bolds.min);
-  globalStats.bolds.max = Math.max(globalStats.bolds.max, summary.bolds.max);
-  globalStats.caps.mean.total += summary.caps.mean;
-  globalStats.caps.mean.count++;
-  globalStats.caps.min = Math.min(globalStats.caps.min, summary.caps.min);
-  globalStats.caps.max = Math.max(globalStats.caps.max, summary.caps.max);
-  globalStats.sentiments.positive.mean.total += summary.sentiments.positive.mean;
-  globalStats.sentiments.positive.mean.count++;
-  globalStats.sentiments.positive.min = Math.min(globalStats.sentiments.positive.min, summary.sentiments.positive.min);
-  globalStats.sentiments.positive.max = Math.max(globalStats.sentiments.positive.max, summary.sentiments.positive.max);
-  globalStats.sentiments.neutral.mean.total += summary.sentiments.neutral.mean;
-  globalStats.sentiments.neutral.mean.count++;
-  globalStats.sentiments.neutral.min = Math.min(globalStats.sentiments.neutral.min, summary.sentiments.neutral.min);
-  globalStats.sentiments.neutral.max = Math.max(globalStats.sentiments.neutral.max, summary.sentiments.neutral.max);
-  globalStats.sentiments.negative.mean.total += summary.sentiments.negative.mean;
-  globalStats.sentiments.negative.mean.count++;
-  globalStats.sentiments.negative.min = Math.min(globalStats.sentiments.negative.min, summary.sentiments.negative.min);
-  globalStats.sentiments.negative.max = Math.max(globalStats.sentiments.negative.max, summary.sentiments.negative.max);
+  aggregatesStats(summary.sentences, groupsStats.sentences);
+  aggregatesStats(summary.exclamations, groupsStats.exclamations);
+  aggregatesStats(summary.questions, groupsStats.questions);
+  aggregatesStats(summary.bolds, groupsStats.bolds);
+  aggregatesStats(summary.caps, groupsStats.caps);
+  aggregatesStats(summary.sentiments.positive, groupsStats.sentiments.positive);
+  aggregatesStats(summary.sentiments.negative, groupsStats.sentiments.negative);
+  aggregatesStats(summary.sentiments.neutral, groupsStats.sentiments.neutral);
 
   const finalAggregation = {
     ...groupsAggregations[key],
-    summary,
+    summary: shrinkSummary(summary),
     words: Object.keys(groupsAggregations[key].words)
       .filter(word => word.length > 3)
       .sort((wordA, wordB) => (
@@ -432,7 +344,11 @@ for (const key of Object.keys(groupsAggregations)) {
 
 await fs.promises.writeFile(
   pathJoin("contents", `writters.json`),
-  JSON.stringify(globalStats, null, 2),
+  JSON.stringify(shrinkSummary(writtersStats), null, 2),
+);
+await fs.promises.writeFile(
+  pathJoin("contents", `groups.json`),
+  JSON.stringify(shrinkSummary(groupsStats), null, 2),
 );
 
 function toASCIIString(str) {
@@ -451,39 +367,6 @@ function toASCIIString(str) {
     .replace(/-[\-]+/g, "-")
     .replace(/[\-]+$/g, "")
     .replace(/^[\-]+/g, "");
-}
-
-function computeStats(occurences) {
-  return {
-    mean: occurences.reduce(
-      (total, { count }) => total + count, 0
-    ) / occurences.length,
-    min: occurences.reduce(
-      (min, { count }) => Math.min(min, count), Infinity
-    ),
-    max: occurences.reduce(
-      (max, { count }) => Math.max(max, count), 0
-    )
-  };
-}
-
-function computeSentimentStats(occurences) {
-  return [
-    'positive', 'neutral', 'negative'
-  ].reduce((stats, sentiment) => ({
-    ...stats,
-    [sentiment]: {
-      mean: occurences.reduce(
-        (total, object) => total + object[sentiment], 0
-      ) / occurences.length,
-      min: occurences.reduce(
-        (min, object) => Math.min(min, object[sentiment]), Infinity
-      ),
-      max: occurences.reduce(
-        (max, object) => Math.max(max, object[sentiment]), 0
-      )
-    }
-  }), {});
 }
 
 function buildGroupDetails(group) {
@@ -542,4 +425,147 @@ function buildGroupDetails(group) {
     abbr,
     logo
   }
+}
+
+function createBaseStatsItem() {
+  return {
+    mean: { count: 0, total: 0 },
+    min: { value: Infinity, ids: [] },
+    max: { value: -Infinity, ids: [] },
+  };
+}
+
+function createBaseStatsObject() {
+  return {
+    sentences: createBaseStatsItem(),
+    exclamations: createBaseStatsItem(),
+    questions: createBaseStatsItem(),
+    bolds: createBaseStatsItem(),
+    caps: createBaseStatsItem(),
+    sentiments: {
+      positive: createBaseStatsItem(),
+      neutral: createBaseStatsItem(),
+      negative: createBaseStatsItem(),
+    },
+  }
+};
+
+function aggregatesStats(statsItem, statsObject) {
+  statsObject.mean.total += statsItem.mean.total;
+  statsObject.mean.count++;
+  if (statsObject.min.value > statsItem.min.value) {
+    statsObject.min = statsItem.min;
+  }
+  if (statsObject.min.value === statsItem.min.value) {
+    statsObject.min = {
+      value: statsItem.min.value, ids: [
+        ...statsObject.min.ids,
+        ...statsItem.min.ids,
+      ]
+    };
+  }
+  if (statsObject.max.value < statsItem.max.value) {
+    statsObject.max = statsItem.max;
+  }
+  if (statsObject.max.value === statsItem.max.value) {
+    statsObject.max = {
+      value: statsItem.max.value, ids: [
+        ...statsObject.max.ids,
+        ...statsItem.max.ids,
+      ]
+    };
+  }
+}
+
+function computeStats(occurences) {
+  return {
+    mean: {
+      count:
+        occurences.reduce(
+          (total, { count }) => total + count, 0
+        ), total: occurences.length
+    },
+    min: occurences.reduce(
+      (actualMin, { count: value, id }) => {
+        if (actualMin.value > value) {
+          return {
+            value,
+            ids: [id],
+          };
+        }
+        if (actualMin.value === value) {
+          return {
+            value,
+            ids: [...actualMin.ids, id],
+          };
+        }
+        return actualMin;
+      }, { value: Infinity, ids: [] }
+    ),
+    max: occurences.reduce(
+      (actualMax, { count: value, id }) => {
+        if (actualMax.value < value) {
+          return {
+            value,
+            ids: [id],
+          };
+        }
+        if (actualMax.value === value) {
+          return {
+            value,
+            ids: [...actualMax.ids, id],
+          };
+        }
+        return actualMax;
+      }, { value: -Infinity, ids: [] }
+    )
+  };
+}
+
+function computeSentimentStats(occurences) {
+  return [
+    'positive', 'neutral', 'negative'
+  ].reduce((stats, sentiment) => {
+    const reshapedOccurences = occurences.map(({ id, date, ...occurence }) => ({
+      id,
+      date,
+      count: occurence[sentiment],
+    }));
+
+    return ({
+      ...stats,
+      [sentiment]: computeStats(reshapedOccurences),
+    })
+  }, {});
+}
+
+function shrinkStats(statsItem) {
+  return {
+    mean: statsItem.mean,
+    min: {
+      value: statsItem.min.value,
+      ids: statsItem.min.ids.slice(0, 5),
+      restLength: statsItem.min.ids.slice(5).length,
+    },
+    max: {
+      value: statsItem.max.value,
+      ids: statsItem.max.ids.slice(0, 5),
+      restLength: statsItem.max.ids.slice(5).length,
+    },
+  };
+}
+
+function shrinkSummary(summary) {
+  return {
+    sentences: shrinkStats(summary.sentences),
+    exclamations: shrinkStats(summary.exclamations),
+    questions: shrinkStats(summary.questions),
+    bolds: shrinkStats(summary.bolds),
+    caps: shrinkStats(summary.caps),
+    sentiments: {
+      positive: shrinkStats(summary.sentiments.positive),
+      neutral: shrinkStats(summary.sentiments.neutral),
+      negative: shrinkStats(summary.sentiments.negative),
+    },
+  };
 }

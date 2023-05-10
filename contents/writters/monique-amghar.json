@@ -11,22 +11,26 @@
   ],
   "sentences": [
     {
+      "id": "2012-01-douai-notre-ville-monique-amghar",
       "date": "2012-01-01T00:00:00Z",
       "count": 11
     },
     {
+      "id": "2012-12-douai-notre-ville-monique-amghar",
       "date": "2012-12-01T00:00:00Z",
       "count": 14
     }
   ],
   "sentiments": [
     {
+      "id": "2012-01-douai-notre-ville-monique-amghar",
       "date": "2012-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 11,
       "negative": 0
     },
     {
+      "id": "2012-12-douai-notre-ville-monique-amghar",
       "date": "2012-12-01T00:00:00Z",
       "positive": 1,
       "neutral": 12,
@@ -35,40 +39,48 @@
   ],
   "exclamations": [
     {
+      "id": "2012-01-douai-notre-ville-monique-amghar",
       "date": "2012-01-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2012-12-douai-notre-ville-monique-amghar",
       "date": "2012-12-01T00:00:00Z",
       "count": 3
     }
   ],
   "questions": [
     {
+      "id": "2012-01-douai-notre-ville-monique-amghar",
       "date": "2012-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-12-douai-notre-ville-monique-amghar",
       "date": "2012-12-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2012-01-douai-notre-ville-monique-amghar",
       "date": "2012-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2012-12-douai-notre-ville-monique-amghar",
       "date": "2012-12-01T00:00:00Z",
       "count": 1
     }
   ],
   "caps": [
     {
+      "id": "2012-01-douai-notre-ville-monique-amghar",
       "date": "2012-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2012-12-douai-notre-ville-monique-amghar",
       "date": "2012-12-01T00:00:00Z",
       "count": 1
     }
@@ -190,45 +202,167 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 12.5,
-      "min": 11,
-      "max": 14
+      "mean": {
+        "count": 25,
+        "total": 2
+      },
+      "min": {
+        "value": 11,
+        "ids": [
+          "2012-01-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 14,
+        "ids": [
+          "2012-12-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 2.5,
-      "min": 2,
-      "max": 3
+      "mean": {
+        "count": 5,
+        "total": 2
+      },
+      "min": {
+        "value": 2,
+        "ids": [
+          "2012-01-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2012-12-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.5,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2012-12-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2012-01-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 1,
-      "min": 1,
-      "max": 1
+      "mean": {
+        "count": 2,
+        "total": 2
+      },
+      "min": {
+        "value": 1,
+        "ids": [
+          "2012-01-douai-notre-ville-monique-amghar",
+          "2012-12-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2012-01-douai-notre-ville-monique-amghar",
+          "2012-12-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0.5,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2012-01-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2012-12-douai-notre-ville-monique-amghar"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.5,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 1,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2012-01-douai-notre-ville-monique-amghar"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2012-12-douai-notre-ville-monique-amghar"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 11.5,
-        "min": 11,
-        "max": 12
+        "mean": {
+          "count": 23,
+          "total": 2
+        },
+        "min": {
+          "value": 11,
+          "ids": [
+            "2012-01-douai-notre-ville-monique-amghar"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 12,
+          "ids": [
+            "2012-12-douai-notre-ville-monique-amghar"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.5,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 1,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2012-01-douai-notre-ville-monique-amghar"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2012-12-douai-notre-ville-monique-amghar"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

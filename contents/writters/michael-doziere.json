@@ -11,22 +11,26 @@
   ],
   "sentences": [
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 4
     }
   ],
   "sentiments": [
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 1
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
@@ -35,40 +39,48 @@
   ],
   "exclamations": [
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 2
     }
   ],
   "questions": [
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2021-05-douai-notre-ville-michael-doziere",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-12-douai-notre-ville-michael-doziere",
       "date": "2022-12-01T00:00:00Z",
       "count": 0
     }
@@ -190,45 +202,173 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 6,
-      "min": 4,
-      "max": 8
+      "mean": {
+        "count": 12,
+        "total": 2
+      },
+      "min": {
+        "value": 4,
+        "ids": [
+          "2022-12-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 8,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 2.5,
-      "min": 2,
-      "max": 3
+      "mean": {
+        "count": 5,
+        "total": 2
+      },
+      "min": {
+        "value": 2,
+        "ids": [
+          "2022-12-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere",
+          "2022-12-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere",
+          "2022-12-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere",
+          "2022-12-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere",
+          "2022-12-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere",
+          "2022-12-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-05-douai-notre-ville-michael-doziere",
+          "2022-12-douai-notre-ville-michael-doziere"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-05-douai-notre-ville-michael-doziere",
+            "2022-12-douai-notre-ville-michael-doziere"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2021-05-douai-notre-ville-michael-doziere",
+            "2022-12-douai-notre-ville-michael-doziere"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 5.5,
-        "min": 4,
-        "max": 7
+        "mean": {
+          "count": 11,
+          "total": 2
+        },
+        "min": {
+          "value": 4,
+          "ids": [
+            "2022-12-douai-notre-ville-michael-doziere"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 7,
+          "ids": [
+            "2021-05-douai-notre-ville-michael-doziere"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.5,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 1,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2022-12-douai-notre-ville-michael-doziere"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2021-05-douai-notre-ville-michael-doziere"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

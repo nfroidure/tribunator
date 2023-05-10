@@ -231,572 +231,686 @@
   ],
   "sentences": [
     {
+      "id": "2014-05-douai-notre-ville-guy-cannie",
       "date": "2014-05-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2014-07-douai-notre-ville-guy-cannie",
       "date": "2014-07-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2014-10-douai-notre-ville-guy-cannie",
       "date": "2014-10-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2014-11-douai-notre-ville-guy-cannie",
       "date": "2014-11-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2015-01-douai-notre-ville-guy-cannie",
       "date": "2015-01-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2015-02-douai-notre-ville-guy-cannie",
       "date": "2015-02-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2015-03-douai-notre-ville-guy-cannie",
       "date": "2015-03-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2015-05-douai-notre-ville-guy-cannie",
       "date": "2015-05-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2015-06-douai-notre-ville-guy-cannie",
       "date": "2015-06-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2015-07-douai-notre-ville-guy-cannie",
       "date": "2015-07-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2015-10-douai-notre-ville-guy-cannie",
       "date": "2015-10-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2015-11-douai-notre-ville-guy-cannie",
       "date": "2015-11-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2016-01-douai-notre-ville-guy-cannie",
       "date": "2016-01-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2016-02-douai-notre-ville-guy-cannie",
       "date": "2016-02-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2016-03-douai-notre-ville-guy-cannie",
       "date": "2016-03-01T00:00:00Z",
       "count": 16
     },
     {
+      "id": "2016-05-douai-notre-ville-guy-cannie",
       "date": "2016-05-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2016-07-douai-notre-ville-guy-cannie",
       "date": "2016-07-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2016-09-douai-notre-ville-guy-cannie",
       "date": "2016-09-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2016-10-douai-notre-ville-guy-cannie",
       "date": "2016-10-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2016-11-douai-notre-ville-guy-cannie",
       "date": "2016-11-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2016-12-douai-notre-ville-guy-cannie",
       "date": "2016-12-01T00:00:00Z",
       "count": 12
     },
     {
+      "id": "2017-02-douai-notre-ville-guy-cannie",
       "date": "2017-02-01T00:00:00Z",
       "count": 10
     },
     {
+      "id": "2017-03-douai-notre-ville-guy-cannie",
       "date": "2017-03-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2017-05-douai-notre-ville-guy-cannie",
       "date": "2017-05-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2017-06-douai-notre-ville-guy-cannie",
       "date": "2017-06-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2017-07-douai-notre-ville-guy-cannie",
       "date": "2017-07-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2017-09-douai-notre-ville-guy-cannie",
       "date": "2017-09-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2017-11-douai-notre-ville-guy-cannie",
       "date": "2017-11-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2017-12-douai-notre-ville-guy-cannie",
       "date": "2017-12-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2018-01-douai-notre-ville-guy-cannie",
       "date": "2018-01-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2018-03-douai-notre-ville-guy-cannie",
       "date": "2018-03-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2018-04-douai-notre-ville-guy-cannie",
       "date": "2018-04-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2018-05-douai-notre-ville-guy-cannie",
       "date": "2018-05-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2018-06-douai-notre-ville-guy-cannie",
       "date": "2018-06-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2018-07-douai-notre-ville-guy-cannie",
       "date": "2018-07-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2018-09-douai-notre-ville-guy-cannie",
       "date": "2018-09-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2018-10-douai-notre-ville-guy-cannie",
       "date": "2018-10-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2018-12-douai-notre-ville-guy-cannie",
       "date": "2018-12-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2019-01-douai-notre-ville-guy-cannie",
       "date": "2019-01-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2019-02-douai-notre-ville-guy-cannie",
       "date": "2019-02-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2019-04-douai-notre-ville-guy-cannie",
       "date": "2019-04-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2019-05-douai-notre-ville-guy-cannie",
       "date": "2019-05-01T00:00:00Z",
       "count": 13
     },
     {
+      "id": "2019-06-douai-notre-ville-guy-cannie",
       "date": "2019-06-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2019-07-douai-notre-ville-guy-cannie",
       "date": "2019-07-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2019-09-douai-notre-ville-guy-cannie",
       "date": "2019-09-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2019-10-douai-notre-ville-guy-cannie",
       "date": "2019-10-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2019-11-douai-notre-ville-guy-cannie",
       "date": "2019-11-01T00:00:00Z",
       "count": 10
     },
     {
+      "id": "2020-01-douai-notre-ville-guy-cannie",
       "date": "2020-01-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2020-02-douai-notre-ville-guy-cannie",
       "date": "2020-02-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2020-03-douai-notre-ville-guy-cannie",
       "date": "2020-03-01T00:00:00Z",
       "count": 10
     },
     {
+      "id": "2020-05-douai-notre-ville-guy-cannie",
       "date": "2020-05-01T00:00:00Z",
       "count": 8
     },
     {
+      "id": "2020-06-douai-notre-ville-guy-cannie",
       "date": "2020-06-01T00:00:00Z",
       "count": 9
     },
     {
+      "id": "2020-07-douai-notre-ville-guy-cannie",
       "date": "2020-07-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2021-01-douai-notre-ville-guy-cannie",
       "date": "2021-01-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2021-07-douai-notre-ville-guy-cannie",
       "date": "2021-07-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2021-10-douai-notre-ville-guy-cannie",
       "date": "2021-10-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-02-douai-notre-ville-guy-cannie",
       "date": "2022-02-01T00:00:00Z",
       "count": 6
     }
   ],
   "sentiments": [
     {
+      "id": "2014-05-douai-notre-ville-guy-cannie",
       "date": "2014-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2014-07-douai-notre-ville-guy-cannie",
       "date": "2014-07-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2014-10-douai-notre-ville-guy-cannie",
       "date": "2014-10-01T00:00:00Z",
       "positive": 1,
       "neutral": 1,
       "negative": 0
     },
     {
+      "id": "2014-11-douai-notre-ville-guy-cannie",
       "date": "2014-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2015-01-douai-notre-ville-guy-cannie",
       "date": "2015-01-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2015-02-douai-notre-ville-guy-cannie",
       "date": "2015-02-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2015-03-douai-notre-ville-guy-cannie",
       "date": "2015-03-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-guy-cannie",
       "date": "2015-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-guy-cannie",
       "date": "2015-06-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2015-07-douai-notre-ville-guy-cannie",
       "date": "2015-07-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2015-10-douai-notre-ville-guy-cannie",
       "date": "2015-10-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 1
     },
     {
+      "id": "2015-11-douai-notre-ville-guy-cannie",
       "date": "2015-11-01T00:00:00Z",
       "positive": 1,
       "neutral": 7,
       "negative": 1
     },
     {
+      "id": "2016-01-douai-notre-ville-guy-cannie",
       "date": "2016-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2016-02-douai-notre-ville-guy-cannie",
       "date": "2016-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 1
     },
     {
+      "id": "2016-03-douai-notre-ville-guy-cannie",
       "date": "2016-03-01T00:00:00Z",
       "positive": 1,
       "neutral": 14,
       "negative": 1
     },
     {
+      "id": "2016-05-douai-notre-ville-guy-cannie",
       "date": "2016-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 1
     },
     {
+      "id": "2016-07-douai-notre-ville-guy-cannie",
       "date": "2016-07-01T00:00:00Z",
       "positive": 2,
       "neutral": 3,
       "negative": 0
     },
     {
+      "id": "2016-09-douai-notre-ville-guy-cannie",
       "date": "2016-09-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2016-10-douai-notre-ville-guy-cannie",
       "date": "2016-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 3
     },
     {
+      "id": "2016-11-douai-notre-ville-guy-cannie",
       "date": "2016-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 8,
       "negative": 1
     },
     {
+      "id": "2016-12-douai-notre-ville-guy-cannie",
       "date": "2016-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 10,
       "negative": 2
     },
     {
+      "id": "2017-02-douai-notre-ville-guy-cannie",
       "date": "2017-02-01T00:00:00Z",
       "positive": 1,
       "neutral": 9,
       "negative": 0
     },
     {
+      "id": "2017-03-douai-notre-ville-guy-cannie",
       "date": "2017-03-01T00:00:00Z",
       "positive": 2,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2017-05-douai-notre-ville-guy-cannie",
       "date": "2017-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2017-06-douai-notre-ville-guy-cannie",
       "date": "2017-06-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2017-07-douai-notre-ville-guy-cannie",
       "date": "2017-07-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2017-09-douai-notre-ville-guy-cannie",
       "date": "2017-09-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 2
     },
     {
+      "id": "2017-11-douai-notre-ville-guy-cannie",
       "date": "2017-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2017-12-douai-notre-ville-guy-cannie",
       "date": "2017-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2018-01-douai-notre-ville-guy-cannie",
       "date": "2018-01-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2018-03-douai-notre-ville-guy-cannie",
       "date": "2018-03-01T00:00:00Z",
       "positive": 1,
       "neutral": 8,
       "negative": 0
     },
     {
+      "id": "2018-04-douai-notre-ville-guy-cannie",
       "date": "2018-04-01T00:00:00Z",
       "positive": 1,
       "neutral": 5,
       "negative": 3
     },
     {
+      "id": "2018-05-douai-notre-ville-guy-cannie",
       "date": "2018-05-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2018-06-douai-notre-ville-guy-cannie",
       "date": "2018-06-01T00:00:00Z",
       "positive": 0,
       "neutral": 9,
       "negative": 0
     },
     {
+      "id": "2018-07-douai-notre-ville-guy-cannie",
       "date": "2018-07-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2018-09-douai-notre-ville-guy-cannie",
       "date": "2018-09-01T00:00:00Z",
       "positive": 1,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-guy-cannie",
       "date": "2018-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 1
     },
     {
+      "id": "2018-12-douai-notre-ville-guy-cannie",
       "date": "2018-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 1
     },
     {
+      "id": "2019-01-douai-notre-ville-guy-cannie",
       "date": "2019-01-01T00:00:00Z",
       "positive": 1,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2019-02-douai-notre-ville-guy-cannie",
       "date": "2019-02-01T00:00:00Z",
       "positive": 1,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2019-04-douai-notre-ville-guy-cannie",
       "date": "2019-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 1
     },
     {
+      "id": "2019-05-douai-notre-ville-guy-cannie",
       "date": "2019-05-01T00:00:00Z",
       "positive": 2,
       "neutral": 10,
       "negative": 1
     },
     {
+      "id": "2019-06-douai-notre-ville-guy-cannie",
       "date": "2019-06-01T00:00:00Z",
       "positive": 1,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2019-07-douai-notre-ville-guy-cannie",
       "date": "2019-07-01T00:00:00Z",
       "positive": 2,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2019-09-douai-notre-ville-guy-cannie",
       "date": "2019-09-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2019-10-douai-notre-ville-guy-cannie",
       "date": "2019-10-01T00:00:00Z",
       "positive": 2,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2019-11-douai-notre-ville-guy-cannie",
       "date": "2019-11-01T00:00:00Z",
       "positive": 2,
       "neutral": 8,
       "negative": 0
     },
     {
+      "id": "2020-01-douai-notre-ville-guy-cannie",
       "date": "2020-01-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2020-02-douai-notre-ville-guy-cannie",
       "date": "2020-02-01T00:00:00Z",
       "positive": 1,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2020-03-douai-notre-ville-guy-cannie",
       "date": "2020-03-01T00:00:00Z",
       "positive": 1,
       "neutral": 7,
       "negative": 2
     },
     {
+      "id": "2020-05-douai-notre-ville-guy-cannie",
       "date": "2020-05-01T00:00:00Z",
       "positive": 1,
       "neutral": 7,
       "negative": 0
     },
     {
+      "id": "2020-06-douai-notre-ville-guy-cannie",
       "date": "2020-06-01T00:00:00Z",
       "positive": 2,
       "neutral": 6,
       "negative": 1
     },
     {
+      "id": "2020-07-douai-notre-ville-guy-cannie",
       "date": "2020-07-01T00:00:00Z",
       "positive": 1,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2021-01-douai-notre-ville-guy-cannie",
       "date": "2021-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2021-07-douai-notre-ville-guy-cannie",
       "date": "2021-07-01T00:00:00Z",
       "positive": 1,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2021-10-douai-notre-ville-guy-cannie",
       "date": "2021-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 1
     },
     {
+      "id": "2022-02-douai-notre-ville-guy-cannie",
       "date": "2022-02-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
@@ -805,920 +919,1148 @@
   ],
   "exclamations": [
     {
+      "id": "2014-05-douai-notre-ville-guy-cannie",
       "date": "2014-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-07-douai-notre-ville-guy-cannie",
       "date": "2014-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-10-douai-notre-ville-guy-cannie",
       "date": "2014-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-11-douai-notre-ville-guy-cannie",
       "date": "2014-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-01-douai-notre-ville-guy-cannie",
       "date": "2015-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-02-douai-notre-ville-guy-cannie",
       "date": "2015-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-03-douai-notre-ville-guy-cannie",
       "date": "2015-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-guy-cannie",
       "date": "2015-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-guy-cannie",
       "date": "2015-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-07-douai-notre-ville-guy-cannie",
       "date": "2015-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-10-douai-notre-ville-guy-cannie",
       "date": "2015-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-11-douai-notre-ville-guy-cannie",
       "date": "2015-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-01-douai-notre-ville-guy-cannie",
       "date": "2016-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-02-douai-notre-ville-guy-cannie",
       "date": "2016-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-03-douai-notre-ville-guy-cannie",
       "date": "2016-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-05-douai-notre-ville-guy-cannie",
       "date": "2016-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-07-douai-notre-ville-guy-cannie",
       "date": "2016-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-09-douai-notre-ville-guy-cannie",
       "date": "2016-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-10-douai-notre-ville-guy-cannie",
       "date": "2016-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-11-douai-notre-ville-guy-cannie",
       "date": "2016-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-12-douai-notre-ville-guy-cannie",
       "date": "2016-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-02-douai-notre-ville-guy-cannie",
       "date": "2017-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-03-douai-notre-ville-guy-cannie",
       "date": "2017-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-05-douai-notre-ville-guy-cannie",
       "date": "2017-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-06-douai-notre-ville-guy-cannie",
       "date": "2017-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-07-douai-notre-ville-guy-cannie",
       "date": "2017-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-09-douai-notre-ville-guy-cannie",
       "date": "2017-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-11-douai-notre-ville-guy-cannie",
       "date": "2017-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-12-douai-notre-ville-guy-cannie",
       "date": "2017-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-01-douai-notre-ville-guy-cannie",
       "date": "2018-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-03-douai-notre-ville-guy-cannie",
       "date": "2018-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-04-douai-notre-ville-guy-cannie",
       "date": "2018-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-05-douai-notre-ville-guy-cannie",
       "date": "2018-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-06-douai-notre-ville-guy-cannie",
       "date": "2018-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-07-douai-notre-ville-guy-cannie",
       "date": "2018-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-09-douai-notre-ville-guy-cannie",
       "date": "2018-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-guy-cannie",
       "date": "2018-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-12-douai-notre-ville-guy-cannie",
       "date": "2018-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-01-douai-notre-ville-guy-cannie",
       "date": "2019-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-02-douai-notre-ville-guy-cannie",
       "date": "2019-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-04-douai-notre-ville-guy-cannie",
       "date": "2019-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-05-douai-notre-ville-guy-cannie",
       "date": "2019-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-06-douai-notre-ville-guy-cannie",
       "date": "2019-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-07-douai-notre-ville-guy-cannie",
       "date": "2019-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-09-douai-notre-ville-guy-cannie",
       "date": "2019-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-10-douai-notre-ville-guy-cannie",
       "date": "2019-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-11-douai-notre-ville-guy-cannie",
       "date": "2019-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-01-douai-notre-ville-guy-cannie",
       "date": "2020-01-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2020-02-douai-notre-ville-guy-cannie",
       "date": "2020-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-03-douai-notre-ville-guy-cannie",
       "date": "2020-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-05-douai-notre-ville-guy-cannie",
       "date": "2020-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-06-douai-notre-ville-guy-cannie",
       "date": "2020-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-07-douai-notre-ville-guy-cannie",
       "date": "2020-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-01-douai-notre-ville-guy-cannie",
       "date": "2021-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-07-douai-notre-ville-guy-cannie",
       "date": "2021-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-10-douai-notre-ville-guy-cannie",
       "date": "2021-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-02-douai-notre-ville-guy-cannie",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2014-05-douai-notre-ville-guy-cannie",
       "date": "2014-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-07-douai-notre-ville-guy-cannie",
       "date": "2014-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-10-douai-notre-ville-guy-cannie",
       "date": "2014-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-11-douai-notre-ville-guy-cannie",
       "date": "2014-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2015-01-douai-notre-ville-guy-cannie",
       "date": "2015-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-02-douai-notre-ville-guy-cannie",
       "date": "2015-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-03-douai-notre-ville-guy-cannie",
       "date": "2015-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-guy-cannie",
       "date": "2015-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-guy-cannie",
       "date": "2015-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-07-douai-notre-ville-guy-cannie",
       "date": "2015-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-10-douai-notre-ville-guy-cannie",
       "date": "2015-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-11-douai-notre-ville-guy-cannie",
       "date": "2015-11-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2016-01-douai-notre-ville-guy-cannie",
       "date": "2016-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-02-douai-notre-ville-guy-cannie",
       "date": "2016-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-03-douai-notre-ville-guy-cannie",
       "date": "2016-03-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2016-05-douai-notre-ville-guy-cannie",
       "date": "2016-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-07-douai-notre-ville-guy-cannie",
       "date": "2016-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-09-douai-notre-ville-guy-cannie",
       "date": "2016-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-10-douai-notre-ville-guy-cannie",
       "date": "2016-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-11-douai-notre-ville-guy-cannie",
       "date": "2016-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-12-douai-notre-ville-guy-cannie",
       "date": "2016-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-02-douai-notre-ville-guy-cannie",
       "date": "2017-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-03-douai-notre-ville-guy-cannie",
       "date": "2017-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-05-douai-notre-ville-guy-cannie",
       "date": "2017-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-06-douai-notre-ville-guy-cannie",
       "date": "2017-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-07-douai-notre-ville-guy-cannie",
       "date": "2017-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-09-douai-notre-ville-guy-cannie",
       "date": "2017-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-11-douai-notre-ville-guy-cannie",
       "date": "2017-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-12-douai-notre-ville-guy-cannie",
       "date": "2017-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-01-douai-notre-ville-guy-cannie",
       "date": "2018-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-03-douai-notre-ville-guy-cannie",
       "date": "2018-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-04-douai-notre-ville-guy-cannie",
       "date": "2018-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-05-douai-notre-ville-guy-cannie",
       "date": "2018-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-06-douai-notre-ville-guy-cannie",
       "date": "2018-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-07-douai-notre-ville-guy-cannie",
       "date": "2018-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-09-douai-notre-ville-guy-cannie",
       "date": "2018-09-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-10-douai-notre-ville-guy-cannie",
       "date": "2018-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-12-douai-notre-ville-guy-cannie",
       "date": "2018-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-01-douai-notre-ville-guy-cannie",
       "date": "2019-01-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2019-02-douai-notre-ville-guy-cannie",
       "date": "2019-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-04-douai-notre-ville-guy-cannie",
       "date": "2019-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-05-douai-notre-ville-guy-cannie",
       "date": "2019-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-06-douai-notre-ville-guy-cannie",
       "date": "2019-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-07-douai-notre-ville-guy-cannie",
       "date": "2019-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-09-douai-notre-ville-guy-cannie",
       "date": "2019-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-10-douai-notre-ville-guy-cannie",
       "date": "2019-10-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2019-11-douai-notre-ville-guy-cannie",
       "date": "2019-11-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2020-01-douai-notre-ville-guy-cannie",
       "date": "2020-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-02-douai-notre-ville-guy-cannie",
       "date": "2020-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-03-douai-notre-ville-guy-cannie",
       "date": "2020-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-05-douai-notre-ville-guy-cannie",
       "date": "2020-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-06-douai-notre-ville-guy-cannie",
       "date": "2020-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-07-douai-notre-ville-guy-cannie",
       "date": "2020-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-01-douai-notre-ville-guy-cannie",
       "date": "2021-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-07-douai-notre-ville-guy-cannie",
       "date": "2021-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-10-douai-notre-ville-guy-cannie",
       "date": "2021-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2022-02-douai-notre-ville-guy-cannie",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2014-05-douai-notre-ville-guy-cannie",
       "date": "2014-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-07-douai-notre-ville-guy-cannie",
       "date": "2014-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-10-douai-notre-ville-guy-cannie",
       "date": "2014-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2014-11-douai-notre-ville-guy-cannie",
       "date": "2014-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2015-01-douai-notre-ville-guy-cannie",
       "date": "2015-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2015-02-douai-notre-ville-guy-cannie",
       "date": "2015-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-03-douai-notre-ville-guy-cannie",
       "date": "2015-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2015-05-douai-notre-ville-guy-cannie",
       "date": "2015-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-guy-cannie",
       "date": "2015-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-07-douai-notre-ville-guy-cannie",
       "date": "2015-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2015-10-douai-notre-ville-guy-cannie",
       "date": "2015-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2015-11-douai-notre-ville-guy-cannie",
       "date": "2015-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-01-douai-notre-ville-guy-cannie",
       "date": "2016-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-02-douai-notre-ville-guy-cannie",
       "date": "2016-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-03-douai-notre-ville-guy-cannie",
       "date": "2016-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-05-douai-notre-ville-guy-cannie",
       "date": "2016-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-07-douai-notre-ville-guy-cannie",
       "date": "2016-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-09-douai-notre-ville-guy-cannie",
       "date": "2016-09-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-10-douai-notre-ville-guy-cannie",
       "date": "2016-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-11-douai-notre-ville-guy-cannie",
       "date": "2016-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-12-douai-notre-ville-guy-cannie",
       "date": "2016-12-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-02-douai-notre-ville-guy-cannie",
       "date": "2017-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-03-douai-notre-ville-guy-cannie",
       "date": "2017-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-05-douai-notre-ville-guy-cannie",
       "date": "2017-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-06-douai-notre-ville-guy-cannie",
       "date": "2017-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-07-douai-notre-ville-guy-cannie",
       "date": "2017-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-09-douai-notre-ville-guy-cannie",
       "date": "2017-09-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-11-douai-notre-ville-guy-cannie",
       "date": "2017-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-12-douai-notre-ville-guy-cannie",
       "date": "2017-12-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-01-douai-notre-ville-guy-cannie",
       "date": "2018-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-03-douai-notre-ville-guy-cannie",
       "date": "2018-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-04-douai-notre-ville-guy-cannie",
       "date": "2018-04-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-05-douai-notre-ville-guy-cannie",
       "date": "2018-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-06-douai-notre-ville-guy-cannie",
       "date": "2018-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-07-douai-notre-ville-guy-cannie",
       "date": "2018-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-09-douai-notre-ville-guy-cannie",
       "date": "2018-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-guy-cannie",
       "date": "2018-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-12-douai-notre-ville-guy-cannie",
       "date": "2018-12-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-01-douai-notre-ville-guy-cannie",
       "date": "2019-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-02-douai-notre-ville-guy-cannie",
       "date": "2019-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-04-douai-notre-ville-guy-cannie",
       "date": "2019-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-05-douai-notre-ville-guy-cannie",
       "date": "2019-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-06-douai-notre-ville-guy-cannie",
       "date": "2019-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-07-douai-notre-ville-guy-cannie",
       "date": "2019-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-09-douai-notre-ville-guy-cannie",
       "date": "2019-09-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-10-douai-notre-ville-guy-cannie",
       "date": "2019-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-11-douai-notre-ville-guy-cannie",
       "date": "2019-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-01-douai-notre-ville-guy-cannie",
       "date": "2020-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-02-douai-notre-ville-guy-cannie",
       "date": "2020-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-03-douai-notre-ville-guy-cannie",
       "date": "2020-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-05-douai-notre-ville-guy-cannie",
       "date": "2020-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-06-douai-notre-ville-guy-cannie",
       "date": "2020-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-07-douai-notre-ville-guy-cannie",
       "date": "2020-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2021-01-douai-notre-ville-guy-cannie",
       "date": "2021-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2021-07-douai-notre-ville-guy-cannie",
       "date": "2021-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2021-10-douai-notre-ville-guy-cannie",
       "date": "2021-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2022-02-douai-notre-ville-guy-cannie",
       "date": "2022-02-01T00:00:00Z",
       "count": 1
     }
   ],
   "caps": [
     {
+      "id": "2014-05-douai-notre-ville-guy-cannie",
       "date": "2014-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-07-douai-notre-ville-guy-cannie",
       "date": "2014-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2014-10-douai-notre-ville-guy-cannie",
       "date": "2014-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2014-11-douai-notre-ville-guy-cannie",
       "date": "2014-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-01-douai-notre-ville-guy-cannie",
       "date": "2015-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-02-douai-notre-ville-guy-cannie",
       "date": "2015-02-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2015-03-douai-notre-ville-guy-cannie",
       "date": "2015-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-guy-cannie",
       "date": "2015-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-06-douai-notre-ville-guy-cannie",
       "date": "2015-06-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2015-07-douai-notre-ville-guy-cannie",
       "date": "2015-07-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2015-10-douai-notre-ville-guy-cannie",
       "date": "2015-10-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2015-11-douai-notre-ville-guy-cannie",
       "date": "2015-11-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2016-01-douai-notre-ville-guy-cannie",
       "date": "2016-01-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2016-02-douai-notre-ville-guy-cannie",
       "date": "2016-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-03-douai-notre-ville-guy-cannie",
       "date": "2016-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-05-douai-notre-ville-guy-cannie",
       "date": "2016-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2016-07-douai-notre-ville-guy-cannie",
       "date": "2016-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-09-douai-notre-ville-guy-cannie",
       "date": "2016-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-10-douai-notre-ville-guy-cannie",
       "date": "2016-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-11-douai-notre-ville-guy-cannie",
       "date": "2016-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-12-douai-notre-ville-guy-cannie",
       "date": "2016-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-02-douai-notre-ville-guy-cannie",
       "date": "2017-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-03-douai-notre-ville-guy-cannie",
       "date": "2017-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-05-douai-notre-ville-guy-cannie",
       "date": "2017-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-06-douai-notre-ville-guy-cannie",
       "date": "2017-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-07-douai-notre-ville-guy-cannie",
       "date": "2017-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-09-douai-notre-ville-guy-cannie",
       "date": "2017-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2017-11-douai-notre-ville-guy-cannie",
       "date": "2017-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2017-12-douai-notre-ville-guy-cannie",
       "date": "2017-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-01-douai-notre-ville-guy-cannie",
       "date": "2018-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-03-douai-notre-ville-guy-cannie",
       "date": "2018-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-04-douai-notre-ville-guy-cannie",
       "date": "2018-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-05-douai-notre-ville-guy-cannie",
       "date": "2018-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-06-douai-notre-ville-guy-cannie",
       "date": "2018-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-07-douai-notre-ville-guy-cannie",
       "date": "2018-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-09-douai-notre-ville-guy-cannie",
       "date": "2018-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-10-douai-notre-ville-guy-cannie",
       "date": "2018-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-12-douai-notre-ville-guy-cannie",
       "date": "2018-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-01-douai-notre-ville-guy-cannie",
       "date": "2019-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-02-douai-notre-ville-guy-cannie",
       "date": "2019-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-04-douai-notre-ville-guy-cannie",
       "date": "2019-04-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2019-05-douai-notre-ville-guy-cannie",
       "date": "2019-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-06-douai-notre-ville-guy-cannie",
       "date": "2019-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-07-douai-notre-ville-guy-cannie",
       "date": "2019-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-09-douai-notre-ville-guy-cannie",
       "date": "2019-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-10-douai-notre-ville-guy-cannie",
       "date": "2019-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-11-douai-notre-ville-guy-cannie",
       "date": "2019-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-01-douai-notre-ville-guy-cannie",
       "date": "2020-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-02-douai-notre-ville-guy-cannie",
       "date": "2020-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-03-douai-notre-ville-guy-cannie",
       "date": "2020-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-05-douai-notre-ville-guy-cannie",
       "date": "2020-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-06-douai-notre-ville-guy-cannie",
       "date": "2020-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-07-douai-notre-ville-guy-cannie",
       "date": "2020-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2021-01-douai-notre-ville-guy-cannie",
       "date": "2021-01-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2021-07-douai-notre-ville-guy-cannie",
       "date": "2021-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-10-douai-notre-ville-guy-cannie",
       "date": "2021-10-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2022-02-douai-notre-ville-guy-cannie",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
     }
@@ -1842,45 +2184,198 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 6.807017543859649,
-      "min": 2,
-      "max": 16
+      "mean": {
+        "count": 388,
+        "total": 57
+      },
+      "min": {
+        "value": 2,
+        "ids": [
+          "2014-10-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 16,
+        "ids": [
+          "2016-03-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0.12280701754385964,
-      "min": 0,
-      "max": 3
+      "mean": {
+        "count": 7,
+        "total": 57
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-05-douai-notre-ville-guy-cannie",
+          "2014-07-douai-notre-ville-guy-cannie",
+          "2014-10-douai-notre-ville-guy-cannie",
+          "2014-11-douai-notre-ville-guy-cannie",
+          "2015-01-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 47
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2020-01-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.43859649122807015,
-      "min": 0,
-      "max": 7
+      "mean": {
+        "count": 25,
+        "total": 57
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-05-douai-notre-ville-guy-cannie",
+          "2014-07-douai-notre-ville-guy-cannie",
+          "2014-10-douai-notre-ville-guy-cannie",
+          "2015-01-douai-notre-ville-guy-cannie",
+          "2015-02-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 39
+      },
+      "max": {
+        "value": 7,
+        "ids": [
+          "2016-03-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0.8421052631578947,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 48,
+        "total": 57
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-05-douai-notre-ville-guy-cannie",
+          "2014-07-douai-notre-ville-guy-cannie",
+          "2015-02-douai-notre-ville-guy-cannie",
+          "2015-05-douai-notre-ville-guy-cannie",
+          "2015-06-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 4
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2014-10-douai-notre-ville-guy-cannie",
+          "2014-11-douai-notre-ville-guy-cannie",
+          "2015-01-douai-notre-ville-guy-cannie",
+          "2015-03-douai-notre-ville-guy-cannie",
+          "2015-07-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 43
+      }
     },
     "caps": {
-      "mean": 0.5614035087719298,
-      "min": 0,
-      "max": 4
+      "mean": {
+        "count": 32,
+        "total": 57
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-05-douai-notre-ville-guy-cannie",
+          "2014-10-douai-notre-ville-guy-cannie",
+          "2014-11-douai-notre-ville-guy-cannie",
+          "2015-01-douai-notre-ville-guy-cannie",
+          "2015-03-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 37
+      },
+      "max": {
+        "value": 4,
+        "ids": [
+          "2021-01-douai-notre-ville-guy-cannie"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.6666666666666666,
-        "min": 0,
-        "max": 2
+        "mean": {
+          "count": 38,
+          "total": 57
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2014-05-douai-notre-ville-guy-cannie",
+            "2014-07-douai-notre-ville-guy-cannie",
+            "2014-11-douai-notre-ville-guy-cannie",
+            "2015-03-douai-notre-ville-guy-cannie",
+            "2015-05-douai-notre-ville-guy-cannie"
+          ],
+          "restLength": 21
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2016-07-douai-notre-ville-guy-cannie",
+            "2017-03-douai-notre-ville-guy-cannie",
+            "2019-05-douai-notre-ville-guy-cannie",
+            "2019-07-douai-notre-ville-guy-cannie",
+            "2019-10-douai-notre-ville-guy-cannie"
+          ],
+          "restLength": 2
+        }
       },
       "neutral": {
-        "mean": 5.543859649122807,
-        "min": 1,
-        "max": 14
+        "mean": {
+          "count": 316,
+          "total": 57
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2014-10-douai-notre-ville-guy-cannie"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 14,
+          "ids": [
+            "2016-03-douai-notre-ville-guy-cannie"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.5964912280701754,
-        "min": 0,
-        "max": 3
+        "mean": {
+          "count": 34,
+          "total": 57
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2014-07-douai-notre-ville-guy-cannie",
+            "2014-10-douai-notre-ville-guy-cannie",
+            "2014-11-douai-notre-ville-guy-cannie",
+            "2015-01-douai-notre-ville-guy-cannie",
+            "2015-03-douai-notre-ville-guy-cannie"
+          ],
+          "restLength": 25
+        },
+        "max": {
+          "value": 3,
+          "ids": [
+            "2016-10-douai-notre-ville-guy-cannie",
+            "2018-04-douai-notre-ville-guy-cannie"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

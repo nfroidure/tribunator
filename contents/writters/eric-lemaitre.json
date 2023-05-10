@@ -7,12 +7,14 @@
   ],
   "sentences": [
     {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
       "date": "2021-02-01T00:00:00Z",
       "count": 7
     }
   ],
   "sentiments": [
     {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
       "date": "2021-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 7,
@@ -21,24 +23,28 @@
   ],
   "exclamations": [
     {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
       "date": "2021-02-01T00:00:00Z",
       "count": 0
     }
@@ -160,45 +166,165 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 7,
-      "min": 7,
-      "max": 7
+      "mean": {
+        "count": 7,
+        "total": 1
+      },
+      "min": {
+        "value": 7,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 7,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 1
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-02-douai-notre-ville-eric-lemaitre"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 1
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-02-douai-notre-ville-eric-lemaitre"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2021-02-douai-notre-ville-eric-lemaitre"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 7,
-        "min": 7,
-        "max": 7
+        "mean": {
+          "count": 7,
+          "total": 1
+        },
+        "min": {
+          "value": 7,
+          "ids": [
+            "2021-02-douai-notre-ville-eric-lemaitre"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 7,
+          "ids": [
+            "2021-02-douai-notre-ville-eric-lemaitre"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 1
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-02-douai-notre-ville-eric-lemaitre"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2021-02-douai-notre-ville-eric-lemaitre"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

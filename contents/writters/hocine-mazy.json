@@ -11,22 +11,26 @@
   ],
   "sentences": [
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 6
     }
   ],
   "sentiments": [
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 1
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "positive": 0,
       "neutral": 3,
@@ -35,40 +39,48 @@
   ],
   "exclamations": [
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 1
     }
   ],
   "bolds": [
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2021-01-douai-notre-ville-hocine-mazy",
       "date": "2021-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-06-douai-notre-ville-hocine-mazy",
       "date": "2022-06-01T00:00:00Z",
       "count": 0
     }
@@ -190,45 +202,173 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 6,
-      "min": 6,
-      "max": 6
+      "mean": {
+        "count": 12,
+        "total": 2
+      },
+      "min": {
+        "value": 6,
+        "ids": [
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2022-06-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 6,
+        "ids": [
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2022-06-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 1,
-      "min": 0,
-      "max": 2
+      "mean": {
+        "count": 2,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2022-06-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 2,
+        "ids": [
+          "2021-01-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.5,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-01-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2022-06-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2022-06-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2022-06-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2022-06-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-01-douai-notre-ville-hocine-mazy",
+          "2022-06-douai-notre-ville-hocine-mazy"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-01-douai-notre-ville-hocine-mazy",
+            "2022-06-douai-notre-ville-hocine-mazy"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2021-01-douai-notre-ville-hocine-mazy",
+            "2022-06-douai-notre-ville-hocine-mazy"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 4,
-        "min": 3,
-        "max": 5
+        "mean": {
+          "count": 8,
+          "total": 2
+        },
+        "min": {
+          "value": 3,
+          "ids": [
+            "2022-06-douai-notre-ville-hocine-mazy"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 5,
+          "ids": [
+            "2021-01-douai-notre-ville-hocine-mazy"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 2,
-        "min": 1,
-        "max": 3
+        "mean": {
+          "count": 4,
+          "total": 2
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2021-01-douai-notre-ville-hocine-mazy"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 3,
+          "ids": [
+            "2022-06-douai-notre-ville-hocine-mazy"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

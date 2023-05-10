@@ -75,37 +75,130 @@ const Entry = ({ entry }: Props) => {
           </ListItem>
           <ListItem>
             <Strong>Nombre de phrases par tribune :</Strong>{" "}
-            {entry.stats.summary.sentences.mean.toPrecision(2)} (minimum:{" "}
-            {entry.stats.summary.sentences.min.toPrecision(2)}, maximun:{" "}
-            {entry.stats.summary.sentences.max.toPrecision(2)})
+            {(
+              entry.stats.summary.sentences.mean.count /
+              entry.stats.summary.sentences.mean.total
+            ).toPrecision(2)}{" "}
+            (minimum: {entry.stats.summary.sentences.min.value.toPrecision(2)},
+            maximun: {entry.stats.summary.sentences.max.value.toPrecision(2)})
           </ListItem>
           <ListItem>
             <Strong>Sentiments détectés :</Strong>
             <br />
             En moyenne,{" "}
-            {entry.stats.summary.sentiments.positive.mean.toFixed(2)} phrases
-            positives, {entry.stats.summary.sentiments.neutral.mean.toFixed(2)}{" "}
+            {(
+              entry.stats.summary.sentiments.positive.mean.count /
+              entry.stats.summary.sentiments.positive.mean.total
+            ).toFixed(2)}{" "}
+            phrases positives,{" "}
+            {(
+              entry.stats.summary.sentiments.neutral.mean.count /
+              entry.stats.summary.sentiments.neutral.mean.total
+            ).toFixed(2)}{" "}
             phrases neutres,{" "}
-            {entry.stats.summary.sentiments.negative.mean.toFixed(2)} phrases
-            négatives.
+            {(
+              entry.stats.summary.sentiments.negative.mean.count /
+              entry.stats.summary.sentiments.negative.mean.total
+            ).toFixed(2)}{" "}
+            phrases négatives.
           </ListItem>
           <ListItem>
             <Strong>Questions :</Strong>{" "}
-            {entry.stats.summary.questions.mean.toPrecision(2)} fois par tribune
+            {(
+              entry.stats.summary.questions.mean.count /
+              entry.stats.summary.questions.mean.total
+            ).toPrecision(2)}{" "}
+            fois par tribune
           </ListItem>
           <ListItem>
             <Strong>Exclamations :</Strong>{" "}
-            {entry.stats.summary.exclamations.mean.toPrecision(2)} fois par
-            tribune
+            {(
+              entry.stats.summary.exclamations.mean.count /
+              entry.stats.summary.exclamations.mean.total
+            ).toPrecision(2)}{" "}
+            fois par tribune
           </ListItem>
           <ListItem>
             <Strong>Utilisations du gras :</Strong>{" "}
-            {entry.stats.summary.bolds.mean.toPrecision(2)} fois par tribune
+            {(
+              entry.stats.summary.bolds.mean.count /
+              entry.stats.summary.bolds.mean.total
+            ).toPrecision(2)}{" "}
+            fois par tribune
           </ListItem>
           <ListItem>
             <Strong>Utilisations des majuscules :</Strong>{" "}
-            {entry.stats.summary.caps.mean.toPrecision(2)} fois par tribune
+            {(
+              entry.stats.summary.caps.mean.count /
+              entry.stats.summary.caps.mean.total
+            ).toPrecision(2)}{" "}
+            fois par tribune
           </ListItem>
+        </UnorderedList>
+        <Heading2>Tops tribunes</Heading2>
+        <UnorderedList>
+          {entry.stats.summary.sentiments.negative.max.value ? (
+            <ListItem>
+              <Anchor
+                href={`/tribunes/${entry.stats.summary.sentiments.negative.max.ids[0]}`}
+              >
+                Tribune la plus négative (
+                {entry.stats.summary.sentiments.negative.max.value} phrases
+                négatives).
+              </Anchor>
+            </ListItem>
+          ) : null}
+          {entry.stats.summary.sentiments.positive.max.value ? (
+            <ListItem>
+              <Anchor
+                href={`/tribunes/${entry.stats.summary.sentiments.positive.max.ids[0]}`}
+              >
+                Tribune la plus positive (
+                {entry.stats.summary.sentiments.positive.max.value} phrases
+                positives).
+              </Anchor>
+            </ListItem>
+          ) : null}
+          {entry.stats.summary.exclamations.max.value ? (
+            <ListItem>
+              <Anchor
+                href={`/tribunes/${entry.stats.summary.exclamations.max.ids[0]}`}
+              >
+                Tribune la plus affirmative (
+                {entry.stats.summary.exclamations.max.value} phrases
+                affirmatives).
+              </Anchor>
+            </ListItem>
+          ) : null}
+          {entry.stats.summary.questions.max.value ? (
+            <ListItem>
+              <Anchor
+                href={`/tribunes/${entry.stats.summary.questions.max.ids[0]}`}
+              >
+                Tribune la plus interrogative (
+                {entry.stats.summary.questions.max.value} phrases
+                interrogative).
+              </Anchor>
+            </ListItem>
+          ) : null}
+          {entry.stats.summary.bolds.max.value ? (
+            <ListItem>
+              <Anchor
+                href={`/tribunes/${entry.stats.summary.bolds.max.ids[0]}`}
+              >
+                Tribune la plus grasse ({entry.stats.summary.bolds.max.value}{" "}
+                utilisations du gras).
+              </Anchor>
+            </ListItem>
+          ) : null}
+          {entry.stats.summary.caps.max.value ? (
+            <ListItem>
+              <Anchor href={`/tribunes/${entry.stats.summary.caps.max.ids[0]}`}>
+                Tribune la plus criarde ({entry.stats.summary.caps.max.value} mots en
+                MAJUSCULES).
+              </Anchor>
+            </ListItem>
+          ) : null}
         </UnorderedList>
         <Heading2>Liste des tribunes</Heading2>
         <UnorderedList>

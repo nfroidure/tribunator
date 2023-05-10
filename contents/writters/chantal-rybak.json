@@ -59,142 +59,170 @@
   ],
   "sentences": [
     {
+      "id": "2014-12-douai-notre-ville-chantal-rybak",
       "date": "2014-12-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2015-05-douai-notre-ville-chantal-rybak",
       "date": "2015-05-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2016-04-douai-notre-ville-chantal-rybak",
       "date": "2016-04-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2016-12-douai-notre-ville-chantal-rybak",
       "date": "2016-12-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2018-01-douai-notre-ville-chantal-rybak",
       "date": "2018-01-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2018-04-douai-notre-ville-chantal-rybak",
       "date": "2018-04-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2018-06-douai-notre-ville-chantal-rybak",
       "date": "2018-06-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2018-11-douai-notre-ville-chantal-rybak",
       "date": "2018-11-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2019-05-douai-notre-ville-chantal-rybak",
       "date": "2019-05-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2019-09-douai-notre-ville-chantal-rybak",
       "date": "2019-09-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2019-11-douai-notre-ville-chantal-rybak",
       "date": "2019-11-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2020-02-douai-notre-ville-chantal-rybak",
       "date": "2020-02-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2020-06-douai-notre-ville-chantal-rybak",
       "date": "2020-06-01T00:00:00Z",
       "count": 6
     },
     {
+      "id": "2021-05-douai-notre-ville-chantal-rybak",
       "date": "2021-05-01T00:00:00Z",
       "count": 6
     }
   ],
   "sentiments": [
     {
+      "id": "2014-12-douai-notre-ville-chantal-rybak",
       "date": "2014-12-01T00:00:00Z",
       "positive": 1,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-chantal-rybak",
       "date": "2015-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 1
     },
     {
+      "id": "2016-04-douai-notre-ville-chantal-rybak",
       "date": "2016-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2016-12-douai-notre-ville-chantal-rybak",
       "date": "2016-12-01T00:00:00Z",
       "positive": 2,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2018-01-douai-notre-ville-chantal-rybak",
       "date": "2018-01-01T00:00:00Z",
       "positive": 2,
       "neutral": 1,
       "negative": 2
     },
     {
+      "id": "2018-04-douai-notre-ville-chantal-rybak",
       "date": "2018-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 3,
       "negative": 2
     },
     {
+      "id": "2018-06-douai-notre-ville-chantal-rybak",
       "date": "2018-06-01T00:00:00Z",
       "positive": 2,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2018-11-douai-notre-ville-chantal-rybak",
       "date": "2018-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 2
     },
     {
+      "id": "2019-05-douai-notre-ville-chantal-rybak",
       "date": "2019-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2019-09-douai-notre-ville-chantal-rybak",
       "date": "2019-09-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2019-11-douai-notre-ville-chantal-rybak",
       "date": "2019-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 3,
       "negative": 2
     },
     {
+      "id": "2020-02-douai-notre-ville-chantal-rybak",
       "date": "2020-02-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2020-06-douai-notre-ville-chantal-rybak",
       "date": "2020-06-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 2
     },
     {
+      "id": "2021-05-douai-notre-ville-chantal-rybak",
       "date": "2021-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
@@ -203,232 +231,288 @@
   ],
   "exclamations": [
     {
+      "id": "2014-12-douai-notre-ville-chantal-rybak",
       "date": "2014-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-chantal-rybak",
       "date": "2015-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-04-douai-notre-ville-chantal-rybak",
       "date": "2016-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-12-douai-notre-ville-chantal-rybak",
       "date": "2016-12-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-01-douai-notre-ville-chantal-rybak",
       "date": "2018-01-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-04-douai-notre-ville-chantal-rybak",
       "date": "2018-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-06-douai-notre-ville-chantal-rybak",
       "date": "2018-06-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-11-douai-notre-ville-chantal-rybak",
       "date": "2018-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-05-douai-notre-ville-chantal-rybak",
       "date": "2019-05-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-09-douai-notre-ville-chantal-rybak",
       "date": "2019-09-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-11-douai-notre-ville-chantal-rybak",
       "date": "2019-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-02-douai-notre-ville-chantal-rybak",
       "date": "2020-02-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-06-douai-notre-ville-chantal-rybak",
       "date": "2020-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-chantal-rybak",
       "date": "2021-05-01T00:00:00Z",
       "count": 2
     }
   ],
   "questions": [
     {
+      "id": "2014-12-douai-notre-ville-chantal-rybak",
       "date": "2014-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-chantal-rybak",
       "date": "2015-05-01T00:00:00Z",
       "count": 2
     },
     {
+      "id": "2016-04-douai-notre-ville-chantal-rybak",
       "date": "2016-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-12-douai-notre-ville-chantal-rybak",
       "date": "2016-12-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-01-douai-notre-ville-chantal-rybak",
       "date": "2018-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-04-douai-notre-ville-chantal-rybak",
       "date": "2018-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-06-douai-notre-ville-chantal-rybak",
       "date": "2018-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-11-douai-notre-ville-chantal-rybak",
       "date": "2018-11-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2019-05-douai-notre-ville-chantal-rybak",
       "date": "2019-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-09-douai-notre-ville-chantal-rybak",
       "date": "2019-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-11-douai-notre-ville-chantal-rybak",
       "date": "2019-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-02-douai-notre-ville-chantal-rybak",
       "date": "2020-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-06-douai-notre-ville-chantal-rybak",
       "date": "2020-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-chantal-rybak",
       "date": "2021-05-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2014-12-douai-notre-ville-chantal-rybak",
       "date": "2014-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-chantal-rybak",
       "date": "2015-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-04-douai-notre-ville-chantal-rybak",
       "date": "2016-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-12-douai-notre-ville-chantal-rybak",
       "date": "2016-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-01-douai-notre-ville-chantal-rybak",
       "date": "2018-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-04-douai-notre-ville-chantal-rybak",
       "date": "2018-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-06-douai-notre-ville-chantal-rybak",
       "date": "2018-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-11-douai-notre-ville-chantal-rybak",
       "date": "2018-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-05-douai-notre-ville-chantal-rybak",
       "date": "2019-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-09-douai-notre-ville-chantal-rybak",
       "date": "2019-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-11-douai-notre-ville-chantal-rybak",
       "date": "2019-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-02-douai-notre-ville-chantal-rybak",
       "date": "2020-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-06-douai-notre-ville-chantal-rybak",
       "date": "2020-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-chantal-rybak",
       "date": "2021-05-01T00:00:00Z",
       "count": 1
     }
   ],
   "caps": [
     {
+      "id": "2014-12-douai-notre-ville-chantal-rybak",
       "date": "2014-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2015-05-douai-notre-ville-chantal-rybak",
       "date": "2015-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-04-douai-notre-ville-chantal-rybak",
       "date": "2016-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2016-12-douai-notre-ville-chantal-rybak",
       "date": "2016-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-01-douai-notre-ville-chantal-rybak",
       "date": "2018-01-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-04-douai-notre-ville-chantal-rybak",
       "date": "2018-04-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-06-douai-notre-ville-chantal-rybak",
       "date": "2018-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-11-douai-notre-ville-chantal-rybak",
       "date": "2018-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-05-douai-notre-ville-chantal-rybak",
       "date": "2019-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-09-douai-notre-ville-chantal-rybak",
       "date": "2019-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2019-11-douai-notre-ville-chantal-rybak",
       "date": "2019-11-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-02-douai-notre-ville-chantal-rybak",
       "date": "2020-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-06-douai-notre-ville-chantal-rybak",
       "date": "2020-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-05-douai-notre-ville-chantal-rybak",
       "date": "2021-05-01T00:00:00Z",
       "count": 1
     }
@@ -552,45 +636,200 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 5.428571428571429,
-      "min": 4,
-      "max": 6
+      "mean": {
+        "count": 76,
+        "total": 14
+      },
+      "min": {
+        "value": 4,
+        "ids": [
+          "2016-04-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 6,
+        "ids": [
+          "2014-12-douai-notre-ville-chantal-rybak",
+          "2016-12-douai-notre-ville-chantal-rybak",
+          "2018-06-douai-notre-ville-chantal-rybak",
+          "2018-11-douai-notre-ville-chantal-rybak",
+          "2019-05-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 2
+      }
     },
     "exclamations": {
-      "mean": 0.6428571428571429,
-      "min": 0,
-      "max": 2
+      "mean": {
+        "count": 9,
+        "total": 14
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-12-douai-notre-ville-chantal-rybak",
+          "2015-05-douai-notre-ville-chantal-rybak",
+          "2016-04-douai-notre-ville-chantal-rybak",
+          "2018-04-douai-notre-ville-chantal-rybak",
+          "2019-11-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 1
+      },
+      "max": {
+        "value": 2,
+        "ids": [
+          "2021-05-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.2857142857142857,
-      "min": 0,
-      "max": 2
+      "mean": {
+        "count": 4,
+        "total": 14
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-12-douai-notre-ville-chantal-rybak",
+          "2016-04-douai-notre-ville-chantal-rybak",
+          "2018-01-douai-notre-ville-chantal-rybak",
+          "2018-04-douai-notre-ville-chantal-rybak",
+          "2018-06-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 6
+      },
+      "max": {
+        "value": 2,
+        "ids": [
+          "2015-05-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0.07142857142857142,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 14
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-12-douai-notre-ville-chantal-rybak",
+          "2015-05-douai-notre-ville-chantal-rybak",
+          "2016-04-douai-notre-ville-chantal-rybak",
+          "2016-12-douai-notre-ville-chantal-rybak",
+          "2018-01-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 8
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2021-05-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0.07142857142857142,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 14
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-12-douai-notre-ville-chantal-rybak",
+          "2015-05-douai-notre-ville-chantal-rybak",
+          "2016-04-douai-notre-ville-chantal-rybak",
+          "2016-12-douai-notre-ville-chantal-rybak",
+          "2018-01-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 8
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2021-05-douai-notre-ville-chantal-rybak"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.6428571428571429,
-        "min": 0,
-        "max": 2
+        "mean": {
+          "count": 9,
+          "total": 14
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2015-05-douai-notre-ville-chantal-rybak",
+            "2016-04-douai-notre-ville-chantal-rybak",
+            "2018-04-douai-notre-ville-chantal-rybak",
+            "2018-11-douai-notre-ville-chantal-rybak",
+            "2019-05-douai-notre-ville-chantal-rybak"
+          ],
+          "restLength": 3
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2016-12-douai-notre-ville-chantal-rybak",
+            "2018-01-douai-notre-ville-chantal-rybak",
+            "2018-06-douai-notre-ville-chantal-rybak"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 3.7857142857142856,
-        "min": 1,
-        "max": 6
+        "mean": {
+          "count": 53,
+          "total": 14
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2018-01-douai-notre-ville-chantal-rybak"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 6,
+          "ids": [
+            "2019-05-douai-notre-ville-chantal-rybak",
+            "2021-05-douai-notre-ville-chantal-rybak"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 1,
-        "min": 0,
-        "max": 2
+        "mean": {
+          "count": 14,
+          "total": 14
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2014-12-douai-notre-ville-chantal-rybak",
+            "2016-04-douai-notre-ville-chantal-rybak",
+            "2018-06-douai-notre-ville-chantal-rybak",
+            "2019-05-douai-notre-ville-chantal-rybak",
+            "2021-05-douai-notre-ville-chantal-rybak"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2018-01-douai-notre-ville-chantal-rybak",
+            "2018-04-douai-notre-ville-chantal-rybak",
+            "2018-11-douai-notre-ville-chantal-rybak",
+            "2019-11-douai-notre-ville-chantal-rybak",
+            "2020-06-douai-notre-ville-chantal-rybak"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

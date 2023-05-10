@@ -15,32 +15,38 @@
   ],
   "sentences": [
     {
+      "id": "2017-10-douai-notre-ville-isabelle-chatelain",
       "date": "2017-10-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2018-07-douai-notre-ville-isabelle-chatelain",
       "date": "2018-07-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2020-01-douai-notre-ville-isabelle-chatelain",
       "date": "2020-01-01T00:00:00Z",
       "count": 7
     }
   ],
   "sentiments": [
     {
+      "id": "2017-10-douai-notre-ville-isabelle-chatelain",
       "date": "2017-10-01T00:00:00Z",
       "positive": 0,
       "neutral": 1,
       "negative": 2
     },
     {
+      "id": "2018-07-douai-notre-ville-isabelle-chatelain",
       "date": "2018-07-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
       "negative": 0
     },
     {
+      "id": "2020-01-douai-notre-ville-isabelle-chatelain",
       "date": "2020-01-01T00:00:00Z",
       "positive": 0,
       "neutral": 6,
@@ -49,56 +55,68 @@
   ],
   "exclamations": [
     {
+      "id": "2017-10-douai-notre-ville-isabelle-chatelain",
       "date": "2017-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-07-douai-notre-ville-isabelle-chatelain",
       "date": "2018-07-01T00:00:00Z",
       "count": 3
     },
     {
+      "id": "2020-01-douai-notre-ville-isabelle-chatelain",
       "date": "2020-01-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2017-10-douai-notre-ville-isabelle-chatelain",
       "date": "2017-10-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2018-07-douai-notre-ville-isabelle-chatelain",
       "date": "2018-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-01-douai-notre-ville-isabelle-chatelain",
       "date": "2020-01-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2017-10-douai-notre-ville-isabelle-chatelain",
       "date": "2017-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-07-douai-notre-ville-isabelle-chatelain",
       "date": "2018-07-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2020-01-douai-notre-ville-isabelle-chatelain",
       "date": "2020-01-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2017-10-douai-notre-ville-isabelle-chatelain",
       "date": "2017-10-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2018-07-douai-notre-ville-isabelle-chatelain",
       "date": "2018-07-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2020-01-douai-notre-ville-isabelle-chatelain",
       "date": "2020-01-01T00:00:00Z",
       "count": 0
     }
@@ -220,45 +238,173 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 4.666666666666667,
-      "min": 3,
-      "max": 7
+      "mean": {
+        "count": 14,
+        "total": 3
+      },
+      "min": {
+        "value": 3,
+        "ids": [
+          "2017-10-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 7,
+        "ids": [
+          "2020-01-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 1,
-      "min": 0,
-      "max": 3
+      "mean": {
+        "count": 3,
+        "total": 3
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2017-10-douai-notre-ville-isabelle-chatelain",
+          "2020-01-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 3,
+        "ids": [
+          "2018-07-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0.3333333333333333,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 3
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2018-07-douai-notre-ville-isabelle-chatelain",
+          "2020-01-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2017-10-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0.3333333333333333,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 1,
+        "total": 3
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2017-10-douai-notre-ville-isabelle-chatelain",
+          "2020-01-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2018-07-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 3
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2017-10-douai-notre-ville-isabelle-chatelain",
+          "2018-07-douai-notre-ville-isabelle-chatelain",
+          "2020-01-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2017-10-douai-notre-ville-isabelle-chatelain",
+          "2018-07-douai-notre-ville-isabelle-chatelain",
+          "2020-01-douai-notre-ville-isabelle-chatelain"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.3333333333333333,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 1,
+          "total": 3
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2017-10-douai-notre-ville-isabelle-chatelain",
+            "2020-01-douai-notre-ville-isabelle-chatelain"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2018-07-douai-notre-ville-isabelle-chatelain"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 3.3333333333333335,
-        "min": 1,
-        "max": 6
+        "mean": {
+          "count": 10,
+          "total": 3
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2017-10-douai-notre-ville-isabelle-chatelain"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 6,
+          "ids": [
+            "2020-01-douai-notre-ville-isabelle-chatelain"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 1,
-        "min": 0,
-        "max": 2
+        "mean": {
+          "count": 3,
+          "total": 3
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2018-07-douai-notre-ville-isabelle-chatelain"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2017-10-douai-notre-ville-isabelle-chatelain"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

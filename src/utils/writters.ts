@@ -1,6 +1,47 @@
 import { toASCIIString } from "./ascii";
 import { pathJoin, readDir, readJSON } from "./files";
 
+export type OccurenceItem = {
+  count: number;
+  date: string;
+  id: string;
+};
+export type StatItem = {
+  mean: { count: number; total: number };
+  min: { value: number; ids: string[] };
+  max: { value: number; ids: string[] };
+};
+
+export type StatsData = {
+  writtings: {
+    date: string;
+    id: string;
+  }[];
+  sentences: OccurenceItem[];
+  exclamations: OccurenceItem[];
+  questions: OccurenceItem[];
+  bolds: OccurenceItem[];
+  caps: OccurenceItem[];
+  words: { word: string; count: number }[];
+  sentiments: {
+    date: string;
+    positive: number;
+    neutral: number;
+    negative: number;
+  }[];
+  summary: {
+    sentences: StatItem;
+    exclamations: StatItem;
+    questions: StatItem;
+    bolds: StatItem;
+    caps: StatItem;
+    sentiments: {
+      positive: StatItem;
+      neutral: StatItem;
+      negative: StatItem;
+    };
+  };
+};
 export type WritterStats = {
   name: string;
   mandates: string[];
@@ -9,85 +50,7 @@ export type WritterStats = {
   locality: string;
   country: string;
   portrait: string;
-  writtings: {
-    date: string;
-    id: string;
-  }[];
-  sentences: {
-    date: string;
-    count: number;
-  }[];
-  sentiments: {
-    date: string;
-    positive: number;
-    neutral: number;
-    negative: number;
-  }[];
-  exclamations: {
-    date: string;
-    count: number;
-  }[];
-  questions: {
-    date: string;
-    count: number;
-  }[];
-  bolds: {
-    date: string;
-    count: number;
-  }[];
-  caps: {
-    date: string;
-    count: number;
-  }[];
-  words: {
-    word: string;
-    count: number;
-  }[];
-  summary: {
-    sentences: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    exclamations: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    questions: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    bolds: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    caps: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    sentiments: {
-      positive: {
-        mean: number;
-        min: number;
-        max: number;
-      };
-      neutral: {
-        mean: number;
-        min: number;
-        max: number;
-      };
-      negative: {
-        mean: number;
-        min: number;
-        max: number;
-      };
-    };
-  };
-};
+} & StatsData;
 
 export type Writter = {
   id: string;

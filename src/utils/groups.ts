@@ -1,5 +1,6 @@
 import { toASCIIString } from "./ascii";
 import { pathJoin, readDir, readJSON } from "./files";
+import type { StatsData } from "./writters";
 
 export type GroupStats = {
   id: string;
@@ -11,85 +12,7 @@ export type GroupStats = {
   authors: string[];
   locality: string;
   country: string;
-  writtings: {
-    date: string;
-    id: string;
-  }[];
-  sentences: {
-    date: string;
-    count: number;
-  }[];
-  sentiments: {
-    date: string;
-    positive: number;
-    neutral: number;
-    negative: number;
-  }[];
-  exclamations: {
-    date: string;
-    count: number;
-  }[];
-  questions: {
-    date: string;
-    count: number;
-  }[];
-  bolds: {
-    date: string;
-    count: number;
-  }[];
-  caps: {
-    date: string;
-    count: number;
-  }[];
-  words: {
-    word: string;
-    count: number;
-  }[];
-  summary: {
-    sentences: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    exclamations: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    questions: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    bolds: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    caps: {
-      mean: number;
-      min: number;
-      max: number;
-    };
-    sentiments: {
-      positive: {
-        mean: number;
-        min: number;
-        max: number;
-      };
-      neutral: {
-        mean: number;
-        min: number;
-        max: number;
-      };
-      negative: {
-        mean: number;
-        min: number;
-        max: number;
-      };
-    };
-  };
-};
+} & StatsData;
 
 export type Group = {
   id: string;
@@ -117,4 +40,8 @@ export async function readGroupsEntries(
   const files = await readDir(dirPath);
 
   return await Promise.all(files.map((file) => readGroupEntry(file)));
+}
+
+export async function readGroupStats(): Promise<StatsData> {
+  return readJSON<StatsData>(pathJoin(".", "contents", "groups.json"));
 }

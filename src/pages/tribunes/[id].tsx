@@ -74,7 +74,7 @@ const Entry = ({ entry, stats }: Props) => {
           </ListItem>
           <ListItem>
             <Strong>Groupe politique :</Strong>{' '}
-            <Anchor href={`/groupes/${toASCIIString(entry.group)}`}>
+            <Anchor href={`/groupes/${toASCIIString(entry.groupId)}`}>
               {entry.group}
             </Anchor>
           </ListItem>

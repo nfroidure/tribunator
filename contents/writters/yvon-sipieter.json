@@ -11,22 +11,26 @@
   ],
   "sentences": [
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 5
     }
   ],
   "sentiments": [
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "positive": 0,
       "neutral": 2,
       "negative": 2
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
@@ -35,40 +39,48 @@
   ],
   "exclamations": [
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2021-03-douai-notre-ville-yvon-sipieter",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
     }
@@ -190,45 +202,175 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 4.5,
-      "min": 4,
-      "max": 5
+      "mean": {
+        "count": 9,
+        "total": 2
+      },
+      "min": {
+        "value": 4,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 5,
+        "ids": [
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-yvon-sipieter",
+          "2022-11-douai-notre-ville-yvon-sipieter"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-03-douai-notre-ville-yvon-sipieter",
+            "2022-11-douai-notre-ville-yvon-sipieter"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2021-03-douai-notre-ville-yvon-sipieter",
+            "2022-11-douai-notre-ville-yvon-sipieter"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 3,
-        "min": 2,
-        "max": 4
+        "mean": {
+          "count": 6,
+          "total": 2
+        },
+        "min": {
+          "value": 2,
+          "ids": [
+            "2021-03-douai-notre-ville-yvon-sipieter"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 4,
+          "ids": [
+            "2022-11-douai-notre-ville-yvon-sipieter"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 1.5,
-        "min": 1,
-        "max": 2
+        "mean": {
+          "count": 3,
+          "total": 2
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2022-11-douai-notre-ville-yvon-sipieter"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2021-03-douai-notre-ville-yvon-sipieter"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

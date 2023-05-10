@@ -39,92 +39,110 @@
   ],
   "sentences": [
     {
+      "id": "2020-09-douai-notre-ville-stephanie-stiernon",
       "date": "2020-09-01T00:00:00Z",
       "count": 7
     },
     {
+      "id": "2021-03-douai-notre-ville-stephanie-stiernon",
       "date": "2021-03-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2021-06-douai-notre-ville-stephanie-stiernon",
       "date": "2021-06-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2021-09-douai-notre-ville-stephanie-stiernon",
       "date": "2021-09-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2022-03-douai-notre-ville-stephanie-stiernon",
       "date": "2022-03-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2022-05-douai-notre-ville-stephanie-stiernon",
       "date": "2022-05-01T00:00:00Z",
       "count": 4
     },
     {
+      "id": "2022-09-douai-notre-ville-stephanie-stiernon",
       "date": "2022-09-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2023-02-douai-notre-ville-stephanie-stiernon",
       "date": "2023-02-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 5
     }
   ],
   "sentiments": [
     {
+      "id": "2020-09-douai-notre-ville-stephanie-stiernon",
       "date": "2020-09-01T00:00:00Z",
       "positive": 1,
       "neutral": 6,
       "negative": 0
     },
     {
+      "id": "2021-03-douai-notre-ville-stephanie-stiernon",
       "date": "2021-03-01T00:00:00Z",
       "positive": 1,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2021-06-douai-notre-ville-stephanie-stiernon",
       "date": "2021-06-01T00:00:00Z",
       "positive": 0,
       "neutral": 3,
       "negative": 1
     },
     {
+      "id": "2021-09-douai-notre-ville-stephanie-stiernon",
       "date": "2021-09-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
       "negative": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-stephanie-stiernon",
       "date": "2022-03-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2022-05-douai-notre-ville-stephanie-stiernon",
       "date": "2022-05-01T00:00:00Z",
       "positive": 1,
       "neutral": 2,
       "negative": 1
     },
     {
+      "id": "2022-09-douai-notre-ville-stephanie-stiernon",
       "date": "2022-09-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-stephanie-stiernon",
       "date": "2023-02-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
       "negative": 0
     },
     {
+      "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
@@ -133,152 +151,188 @@
   ],
   "exclamations": [
     {
+      "id": "2020-09-douai-notre-ville-stephanie-stiernon",
       "date": "2020-09-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2021-03-douai-notre-ville-stephanie-stiernon",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-06-douai-notre-ville-stephanie-stiernon",
       "date": "2021-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-stephanie-stiernon",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-stephanie-stiernon",
       "date": "2022-03-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2022-05-douai-notre-ville-stephanie-stiernon",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-09-douai-notre-ville-stephanie-stiernon",
       "date": "2022-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-stephanie-stiernon",
       "date": "2023-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
     }
   ],
   "questions": [
     {
+      "id": "2020-09-douai-notre-ville-stephanie-stiernon",
       "date": "2020-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-03-douai-notre-ville-stephanie-stiernon",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-06-douai-notre-ville-stephanie-stiernon",
       "date": "2021-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-stephanie-stiernon",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-stephanie-stiernon",
       "date": "2022-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-05-douai-notre-ville-stephanie-stiernon",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-09-douai-notre-ville-stephanie-stiernon",
       "date": "2022-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-stephanie-stiernon",
       "date": "2023-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2020-09-douai-notre-ville-stephanie-stiernon",
       "date": "2020-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-03-douai-notre-ville-stephanie-stiernon",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-06-douai-notre-ville-stephanie-stiernon",
       "date": "2021-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-stephanie-stiernon",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-stephanie-stiernon",
       "date": "2022-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-05-douai-notre-ville-stephanie-stiernon",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-09-douai-notre-ville-stephanie-stiernon",
       "date": "2022-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-stephanie-stiernon",
       "date": "2023-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 4
     }
   ],
   "caps": [
     {
+      "id": "2020-09-douai-notre-ville-stephanie-stiernon",
       "date": "2020-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-03-douai-notre-ville-stephanie-stiernon",
       "date": "2021-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-06-douai-notre-ville-stephanie-stiernon",
       "date": "2021-06-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2021-09-douai-notre-ville-stephanie-stiernon",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-03-douai-notre-ville-stephanie-stiernon",
       "date": "2022-03-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-05-douai-notre-ville-stephanie-stiernon",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2022-09-douai-notre-ville-stephanie-stiernon",
       "date": "2022-09-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-02-douai-notre-ville-stephanie-stiernon",
       "date": "2023-02-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
     }
@@ -400,45 +454,204 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 4.888888888888889,
-      "min": 4,
-      "max": 7
+      "mean": {
+        "count": 44,
+        "total": 9
+      },
+      "min": {
+        "value": 4,
+        "ids": [
+          "2021-06-douai-notre-ville-stephanie-stiernon",
+          "2021-09-douai-notre-ville-stephanie-stiernon",
+          "2022-05-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 7,
+        "ids": [
+          "2020-09-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 0.2222222222222222,
-      "min": 0,
-      "max": 1
+      "mean": {
+        "count": 2,
+        "total": 9
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-03-douai-notre-ville-stephanie-stiernon",
+          "2021-06-douai-notre-ville-stephanie-stiernon",
+          "2021-09-douai-notre-ville-stephanie-stiernon",
+          "2022-05-douai-notre-ville-stephanie-stiernon",
+          "2022-09-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 2
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2020-09-douai-notre-ville-stephanie-stiernon",
+          "2022-03-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 9
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-09-douai-notre-ville-stephanie-stiernon",
+          "2021-03-douai-notre-ville-stephanie-stiernon",
+          "2021-06-douai-notre-ville-stephanie-stiernon",
+          "2021-09-douai-notre-ville-stephanie-stiernon",
+          "2022-03-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 4
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2020-09-douai-notre-ville-stephanie-stiernon",
+          "2021-03-douai-notre-ville-stephanie-stiernon",
+          "2021-06-douai-notre-ville-stephanie-stiernon",
+          "2021-09-douai-notre-ville-stephanie-stiernon",
+          "2022-03-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 4
+      }
     },
     "bolds": {
-      "mean": 0.4444444444444444,
-      "min": 0,
-      "max": 4
+      "mean": {
+        "count": 4,
+        "total": 9
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-09-douai-notre-ville-stephanie-stiernon",
+          "2021-03-douai-notre-ville-stephanie-stiernon",
+          "2021-06-douai-notre-ville-stephanie-stiernon",
+          "2021-09-douai-notre-ville-stephanie-stiernon",
+          "2022-03-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 3
+      },
+      "max": {
+        "value": 4,
+        "ids": [
+          "2023-05-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 9
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-09-douai-notre-ville-stephanie-stiernon",
+          "2021-03-douai-notre-ville-stephanie-stiernon",
+          "2021-06-douai-notre-ville-stephanie-stiernon",
+          "2021-09-douai-notre-ville-stephanie-stiernon",
+          "2022-03-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 4
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2020-09-douai-notre-ville-stephanie-stiernon",
+          "2021-03-douai-notre-ville-stephanie-stiernon",
+          "2021-06-douai-notre-ville-stephanie-stiernon",
+          "2021-09-douai-notre-ville-stephanie-stiernon",
+          "2022-03-douai-notre-ville-stephanie-stiernon"
+        ],
+        "restLength": 4
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0.3333333333333333,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 3,
+          "total": 9
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-06-douai-notre-ville-stephanie-stiernon",
+            "2021-09-douai-notre-ville-stephanie-stiernon",
+            "2022-03-douai-notre-ville-stephanie-stiernon",
+            "2022-09-douai-notre-ville-stephanie-stiernon",
+            "2023-02-douai-notre-ville-stephanie-stiernon"
+          ],
+          "restLength": 1
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2020-09-douai-notre-ville-stephanie-stiernon",
+            "2021-03-douai-notre-ville-stephanie-stiernon",
+            "2022-05-douai-notre-ville-stephanie-stiernon"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 4.222222222222222,
-        "min": 2,
-        "max": 6
+        "mean": {
+          "count": 38,
+          "total": 9
+        },
+        "min": {
+          "value": 2,
+          "ids": [
+            "2022-05-douai-notre-ville-stephanie-stiernon"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 6,
+          "ids": [
+            "2020-09-douai-notre-ville-stephanie-stiernon"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 0.3333333333333333,
-        "min": 0,
-        "max": 1
+        "mean": {
+          "count": 3,
+          "total": 9
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2020-09-douai-notre-ville-stephanie-stiernon",
+            "2021-03-douai-notre-ville-stephanie-stiernon",
+            "2021-09-douai-notre-ville-stephanie-stiernon",
+            "2022-03-douai-notre-ville-stephanie-stiernon",
+            "2022-09-douai-notre-ville-stephanie-stiernon"
+          ],
+          "restLength": 1
+        },
+        "max": {
+          "value": 1,
+          "ids": [
+            "2021-06-douai-notre-ville-stephanie-stiernon",
+            "2022-05-douai-notre-ville-stephanie-stiernon",
+            "2023-05-douai-notre-ville-stephanie-stiernon"
+          ],
+          "restLength": 0
+        }
       }
     }
   }

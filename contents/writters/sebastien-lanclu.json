@@ -11,22 +11,26 @@
   ],
   "sentences": [
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 5
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 6
     }
   ],
   "sentiments": [
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 3,
       "negative": 2
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
@@ -35,40 +39,48 @@
   ],
   "exclamations": [
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 1
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 1
     }
   ],
   "questions": [
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 0
     }
   ],
   "bolds": [
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 0
     }
   ],
   "caps": [
     {
+      "id": "2021-12-douai-notre-ville-sebastien-lanclu",
       "date": "2021-12-01T00:00:00Z",
       "count": 0
     },
     {
+      "id": "2023-04-douai-notre-ville-sebastien-lanclu",
       "date": "2023-04-01T00:00:00Z",
       "count": 0
     }
@@ -190,45 +202,175 @@
   "country": "France",
   "summary": {
     "sentences": {
-      "mean": 5.5,
-      "min": 5,
-      "max": 6
+      "mean": {
+        "count": 11,
+        "total": 2
+      },
+      "min": {
+        "value": 5,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 6,
+        "ids": [
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      }
     },
     "exclamations": {
-      "mean": 1,
-      "min": 1,
-      "max": 1
+      "mean": {
+        "count": 2,
+        "total": 2
+      },
+      "min": {
+        "value": 1,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu",
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 1,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu",
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      }
     },
     "questions": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu",
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu",
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      }
     },
     "bolds": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu",
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu",
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      }
     },
     "caps": {
-      "mean": 0,
-      "min": 0,
-      "max": 0
+      "mean": {
+        "count": 0,
+        "total": 2
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu",
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      },
+      "max": {
+        "value": 0,
+        "ids": [
+          "2021-12-douai-notre-ville-sebastien-lanclu",
+          "2023-04-douai-notre-ville-sebastien-lanclu"
+        ],
+        "restLength": 0
+      }
     },
     "sentiments": {
       "positive": {
-        "mean": 0,
-        "min": 0,
-        "max": 0
+        "mean": {
+          "count": 0,
+          "total": 2
+        },
+        "min": {
+          "value": 0,
+          "ids": [
+            "2021-12-douai-notre-ville-sebastien-lanclu",
+            "2023-04-douai-notre-ville-sebastien-lanclu"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 0,
+          "ids": [
+            "2021-12-douai-notre-ville-sebastien-lanclu",
+            "2023-04-douai-notre-ville-sebastien-lanclu"
+          ],
+          "restLength": 0
+        }
       },
       "neutral": {
-        "mean": 4,
-        "min": 3,
-        "max": 5
+        "mean": {
+          "count": 8,
+          "total": 2
+        },
+        "min": {
+          "value": 3,
+          "ids": [
+            "2021-12-douai-notre-ville-sebastien-lanclu"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 5,
+          "ids": [
+            "2023-04-douai-notre-ville-sebastien-lanclu"
+          ],
+          "restLength": 0
+        }
       },
       "negative": {
-        "mean": 1.5,
-        "min": 1,
-        "max": 2
+        "mean": {
+          "count": 3,
+          "total": 2
+        },
+        "min": {
+          "value": 1,
+          "ids": [
+            "2023-04-douai-notre-ville-sebastien-lanclu"
+          ],
+          "restLength": 0
+        },
+        "max": {
+          "value": 2,
+          "ids": [
+            "2021-12-douai-notre-ville-sebastien-lanclu"
+          ],
+          "restLength": 0
+        }
       }
     }
   }
