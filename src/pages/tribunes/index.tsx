@@ -5,13 +5,17 @@ import { readParams } from "../../utils/params";
 import { collectMarkdownText, parseMarkdown } from "../../utils/markdown";
 import { datedPagesSorter } from "../../utils/contents";
 import { summarize } from "../../utils/summarize";
+import { readGlobalStats } from "../../utils/globalStats";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Heading1 from "../../components/h1";
+import Heading2 from "../../components/h2";
 import Paragraph from "../../components/p";
 import Anchor from "../../components/a";
 import Head from "next/head";
 import Tribunes from "../../components/tribunes";
+import UnorderedList from "../../components/ul";
+import ListItem from "../../components/li";
 import type { FrontMatterResult } from "front-matter";
 import type { MarkdownRootNode } from "../../utils/markdown";
 import type { GetStaticProps } from "next";
@@ -21,8 +25,12 @@ import type {
   BaseListingPageMetadata,
   BasePagingPageMetadata,
 } from "../../utils/contents";
+import type { StatsSummary } from "../../utils/writters";
+import HorizontalRule from "../../components/hr";
 
-export type Props = BasePagingPageMetadata<Tribune>;
+export type Props = BasePagingPageMetadata<Tribune> & {
+  globalStats: StatsSummary;
+};
 
 const PARAMS_DEFINITIONS = {
   page: {
@@ -35,7 +43,14 @@ type Params = BuildQueryParamsType<typeof PARAMS_DEFINITIONS>;
 
 const ENTRIES_PER_PAGE = 10;
 
-const Entries = ({ title, description, entries, page, pagesCount }: Props) => (
+const Entries = ({
+  title,
+  description,
+  entries,
+  page,
+  pagesCount,
+  globalStats,
+}: Props) => (
   <Layout title={title} description={description}>
     <Head>
       <link
@@ -51,11 +66,75 @@ const Entries = ({ title, description, entries, page, pagesCount }: Props) => (
         href="/tribunes.rss"
       />
     </Head>
-    <ContentBlock className="title">
+    <ContentBlock>
       <Heading1 className="title">Tribunes</Heading1>
       <Paragraph>
         Retrouvez toutes les tribunes politiques sur cette page.
       </Paragraph>
+      <Heading2>Top</Heading2>
+      <UnorderedList>
+        {globalStats.sentiments.negative.max.value ? (
+          <ListItem>
+            <Anchor
+              href={`/tribunes/${globalStats.sentiments.negative.max.ids[0]}`}
+            >
+              Tribune la plus négative (
+              {globalStats.sentiments.negative.max.value} phrases
+              négatives).
+            </Anchor>
+          </ListItem>
+        ) : null}
+        {globalStats.sentiments.positive.max.value ? (
+          <ListItem>
+            <Anchor
+              href={`/tribunes/${globalStats.sentiments.positive.max.ids[0]}`}
+            >
+              Tribune la plus positive (
+              {globalStats.sentiments.positive.max.value} phrases
+              positives).
+            </Anchor>
+          </ListItem>
+        ) : null}
+        {globalStats.exclamations.max.value ? (
+          <ListItem>
+            <Anchor
+              href={`/tribunes/${globalStats.exclamations.max.ids[0]}`}
+            >
+              Tribune la plus affirmative (
+              {globalStats.exclamations.max.value} phrases
+              affirmatives).
+            </Anchor>
+          </ListItem>
+        ) : null}
+        {globalStats.questions.max.value ? (
+          <ListItem>
+            <Anchor
+              href={`/tribunes/${globalStats.questions.max.ids[0]}`}
+            >
+              Tribune la plus interrogative (
+              {globalStats.questions.max.value} phrases interrogative).
+            </Anchor>
+          </ListItem>
+        ) : null}
+        {globalStats.bolds.max.value ? (
+          <ListItem>
+            <Anchor href={`/tribunes/${globalStats.bolds.max.ids[0]}`}>
+              Tribune la plus grasse ({globalStats.bolds.max.value}{" "}
+              utilisations du gras).
+            </Anchor>
+          </ListItem>
+        ) : null}
+        {globalStats.caps.max.value ? (
+          <ListItem>
+            <Anchor href={`/tribunes/${globalStats.caps.max.ids[0]}`}>
+              Tribune la plus criarde ({globalStats.caps.max.value} mots
+              en MAJUSCULES).
+            </Anchor>
+          </ListItem>
+        ) : null}
+      </UnorderedList>
+
+      <HorizontalRule />
 
       <Tribunes entries={entries} base={"/tribunes/"} />
 
@@ -143,6 +222,7 @@ export const entriesToBaseListingMetadata = (
 export const getStaticProps: GetStaticProps<Props, { page: string }> = async ({
   params,
 }) => {
+  const globalStats = await readGlobalStats();
   const castedParams = readParams(PARAMS_DEFINITIONS, params || {}) as Params;
   const page = castedParams?.page || 1;
   const baseProps = entriesToBaseListingMetadata(
@@ -164,6 +244,7 @@ export const getStaticProps: GetStaticProps<Props, { page: string }> = async ({
       title,
       entries,
       page,
+      globalStats,
     } as Props,
   };
 };

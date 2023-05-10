@@ -13,8 +13,7 @@ const exec = promisify(childProcess.exec);
 const files = await fs.promises.readdir(pathJoin("sources", "tribunes"));
 const writtersAggregations = {};
 const groupsAggregations = {};
-const writtersStats = createBaseStatsObject();
-const groupsStats = createBaseStatsObject();
+const globalStats = createBaseStatsObject();
 
 for (const file of files) {
   const content = await fs.promises.readFile(
@@ -43,12 +42,12 @@ for (const file of files) {
       "sources",
       filename
     );
-    const tempFile = pathJoin(tempDir, filename);
+    // const tempFile = pathJoin(tempDir, filename);
 
-    await new Promise((resolve) => setTimeout(resolve, 500));
-    await exec(`google-chrome  --headless --screenshot=${tempFile} ${source}`);
-    await new Promise((resolve) => setTimeout(resolve, 500));
-    await exec(`convert ${tempFile} -trim ${captureDestination}`);
+    // await new Promise((resolve) => setTimeout(resolve, 500));
+    // await exec(`google-chrome  --headless --screenshot=${tempFile} ${source}`);
+    // await new Promise((resolve) => setTimeout(resolve, 500));
+    // await exec(`convert ${tempFile} -trim ${captureDestination}`);
     return [...captures, captureDestination];
   }, Promise.resolve([]));
 
@@ -269,15 +268,6 @@ for (const key of Object.keys(writtersAggregations)) {
     sentiments: computeSentimentStats(writtersAggregations[key].sentiments),
   };
 
-  aggregatesStats(summary.sentences, writtersStats.sentences);
-  aggregatesStats(summary.exclamations, writtersStats.exclamations);
-  aggregatesStats(summary.questions, writtersStats.questions);
-  aggregatesStats(summary.bolds, writtersStats.bolds);
-  aggregatesStats(summary.caps, writtersStats.caps);
-  aggregatesStats(summary.sentiments.positive, writtersStats.sentiments.positive);
-  aggregatesStats(summary.sentiments.negative, writtersStats.sentiments.negative);
-  aggregatesStats(summary.sentiments.neutral, writtersStats.sentiments.neutral);
-
   const finalAggregation = {
     ...writtersAggregations[key],
     summary: shrinkSummary(summary),
@@ -311,14 +301,14 @@ for (const key of Object.keys(groupsAggregations)) {
     sentiments: computeSentimentStats(groupsAggregations[key].sentiments),
   };
 
-  aggregatesStats(summary.sentences, groupsStats.sentences);
-  aggregatesStats(summary.exclamations, groupsStats.exclamations);
-  aggregatesStats(summary.questions, groupsStats.questions);
-  aggregatesStats(summary.bolds, groupsStats.bolds);
-  aggregatesStats(summary.caps, groupsStats.caps);
-  aggregatesStats(summary.sentiments.positive, groupsStats.sentiments.positive);
-  aggregatesStats(summary.sentiments.negative, groupsStats.sentiments.negative);
-  aggregatesStats(summary.sentiments.neutral, groupsStats.sentiments.neutral);
+  aggregatesStats(summary.sentences, globalStats.sentences);
+  aggregatesStats(summary.exclamations, globalStats.exclamations);
+  aggregatesStats(summary.questions, globalStats.questions);
+  aggregatesStats(summary.bolds, globalStats.bolds);
+  aggregatesStats(summary.caps, globalStats.caps);
+  aggregatesStats(summary.sentiments.positive, globalStats.sentiments.positive);
+  aggregatesStats(summary.sentiments.negative, globalStats.sentiments.negative);
+  aggregatesStats(summary.sentiments.neutral, globalStats.sentiments.neutral);
 
   const finalAggregation = {
     ...groupsAggregations[key],
@@ -343,12 +333,8 @@ for (const key of Object.keys(groupsAggregations)) {
 }
 
 await fs.promises.writeFile(
-  pathJoin("contents", `writters.json`),
-  JSON.stringify(shrinkSummary(writtersStats), null, 2),
-);
-await fs.promises.writeFile(
-  pathJoin("contents", `groups.json`),
-  JSON.stringify(shrinkSummary(groupsStats), null, 2),
+  pathJoin("contents", `globalStats.json`),
+  JSON.stringify(shrinkSummary(globalStats), null, 2),
 );
 
 function toASCIIString(str) {

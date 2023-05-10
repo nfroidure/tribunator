@@ -41,7 +41,3 @@ export async function readGroupsEntries(
 
   return await Promise.all(files.map((file) => readGroupEntry(file)));
 }
-
-export async function readGroupStats(): Promise<StatsData> {
-  return readJSON<StatsData>(pathJoin(".", "contents", "groups.json"));
-}

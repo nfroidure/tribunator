@@ -12,6 +12,18 @@ export type StatItem = {
   max: { value: number; ids: string[] };
 };
 
+export type StatsSummary = {
+  sentences: StatItem;
+  exclamations: StatItem;
+  questions: StatItem;
+  bolds: StatItem;
+  caps: StatItem;
+  sentiments: {
+    positive: StatItem;
+    neutral: StatItem;
+    negative: StatItem;
+  };
+};
 export type StatsData = {
   writtings: {
     date: string;
@@ -29,18 +41,7 @@ export type StatsData = {
     neutral: number;
     negative: number;
   }[];
-  summary: {
-    sentences: StatItem;
-    exclamations: StatItem;
-    questions: StatItem;
-    bolds: StatItem;
-    caps: StatItem;
-    sentiments: {
-      positive: StatItem;
-      neutral: StatItem;
-      negative: StatItem;
-    };
-  };
+  summary: StatsSummary;
 };
 export type WritterStats = {
   name: string;
