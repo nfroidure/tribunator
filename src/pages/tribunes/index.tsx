@@ -9,13 +9,11 @@ import { readGlobalStats } from "../../utils/globalStats";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Heading1 from "../../components/h1";
-import Heading2 from "../../components/h2";
 import Paragraph from "../../components/p";
 import Anchor from "../../components/a";
 import Head from "next/head";
 import Tribunes from "../../components/tribunes";
-import UnorderedList from "../../components/ul";
-import ListItem from "../../components/li";
+import Top from "../../components/top";
 import type { FrontMatterResult } from "front-matter";
 import type { MarkdownRootNode } from "../../utils/markdown";
 import type { GetStaticProps } from "next";
@@ -71,68 +69,8 @@ const Entries = ({
       <Paragraph>
         Retrouvez toutes les tribunes politiques sur cette page.
       </Paragraph>
-      <Heading2>Top</Heading2>
-      <UnorderedList>
-        {globalStats.sentiments.negative.max.value ? (
-          <ListItem>
-            <Anchor
-              href={`/tribunes/${globalStats.sentiments.negative.max.ids[0]}`}
-            >
-              Tribune la plus négative (
-              {globalStats.sentiments.negative.max.value} phrases
-              négatives).
-            </Anchor>
-          </ListItem>
-        ) : null}
-        {globalStats.sentiments.positive.max.value ? (
-          <ListItem>
-            <Anchor
-              href={`/tribunes/${globalStats.sentiments.positive.max.ids[0]}`}
-            >
-              Tribune la plus positive (
-              {globalStats.sentiments.positive.max.value} phrases
-              positives).
-            </Anchor>
-          </ListItem>
-        ) : null}
-        {globalStats.exclamations.max.value ? (
-          <ListItem>
-            <Anchor
-              href={`/tribunes/${globalStats.exclamations.max.ids[0]}`}
-            >
-              Tribune la plus affirmative (
-              {globalStats.exclamations.max.value} phrases
-              affirmatives).
-            </Anchor>
-          </ListItem>
-        ) : null}
-        {globalStats.questions.max.value ? (
-          <ListItem>
-            <Anchor
-              href={`/tribunes/${globalStats.questions.max.ids[0]}`}
-            >
-              Tribune la plus interrogative (
-              {globalStats.questions.max.value} phrases interrogative).
-            </Anchor>
-          </ListItem>
-        ) : null}
-        {globalStats.bolds.max.value ? (
-          <ListItem>
-            <Anchor href={`/tribunes/${globalStats.bolds.max.ids[0]}`}>
-              Tribune la plus grasse ({globalStats.bolds.max.value}{" "}
-              utilisations du gras).
-            </Anchor>
-          </ListItem>
-        ) : null}
-        {globalStats.caps.max.value ? (
-          <ListItem>
-            <Anchor href={`/tribunes/${globalStats.caps.max.ids[0]}`}>
-              Tribune la plus criarde ({globalStats.caps.max.value} mots
-              en MAJUSCULES).
-            </Anchor>
-          </ListItem>
-        ) : null}
-      </UnorderedList>
+
+      <Top summary={globalStats} />
 
       <HorizontalRule />
 

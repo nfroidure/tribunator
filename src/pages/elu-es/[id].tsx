@@ -1,4 +1,8 @@
+import { DOMAIN_NAME } from "../../utils/constants";
 import { pathJoin } from "../../utils/files";
+import { fixText } from "../../utils/text";
+import { readWrittersEntries } from "../../utils/writters";
+import { entriesToBaseListingMetadata } from ".";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Heading1 from "../../components/h1";
@@ -6,14 +10,12 @@ import Heading2 from "../../components/h2";
 import Paragraph from "../../components/p";
 import Share from "../../components/share";
 import Img from "../../components/img";
-import { DOMAIN_NAME } from "../../utils/constants";
-import { fixText } from "../../utils/text";
-import { readWrittersEntries } from "../../utils/writters";
 import UnorderedList from "../../components/ul";
 import ListItem from "../../components/li";
 import Strong from "../../components/strong";
 import Anchor from "../../components/a";
-import { entriesToBaseListingMetadata } from ".";
+import Top from "../../components/top";
+import Stats from "../../components/stats";
 import type { GetStaticProps, GetStaticPaths } from "next";
 import type { Writter } from "../../utils/writters";
 
@@ -68,138 +70,8 @@ const Entry = ({ entry }: Props) => {
             </ListItem>
           ))}
         </UnorderedList>
-        <Heading2>Statistiques</Heading2>
-        <UnorderedList>
-          <ListItem>
-            <Strong>Nombre de tribunes :</Strong> {entry.stats.writtings.length}
-          </ListItem>
-          <ListItem>
-            <Strong>Nombre de phrases par tribune :</Strong>{" "}
-            {(
-              entry.stats.summary.sentences.mean.count /
-              entry.stats.summary.sentences.mean.total
-            ).toPrecision(2)}{" "}
-            (minimum: {entry.stats.summary.sentences.min.value.toPrecision(2)},
-            maximun: {entry.stats.summary.sentences.max.value.toPrecision(2)})
-          </ListItem>
-          <ListItem>
-            <Strong>Sentiments détectés :</Strong>
-            <br />
-            En moyenne,{" "}
-            {(
-              entry.stats.summary.sentiments.positive.mean.count /
-              entry.stats.summary.sentiments.positive.mean.total
-            ).toFixed(2)}{" "}
-            phrases positives,{" "}
-            {(
-              entry.stats.summary.sentiments.neutral.mean.count /
-              entry.stats.summary.sentiments.neutral.mean.total
-            ).toFixed(2)}{" "}
-            phrases neutres,{" "}
-            {(
-              entry.stats.summary.sentiments.negative.mean.count /
-              entry.stats.summary.sentiments.negative.mean.total
-            ).toFixed(2)}{" "}
-            phrases négatives.
-          </ListItem>
-          <ListItem>
-            <Strong>Questions :</Strong>{" "}
-            {(
-              entry.stats.summary.questions.mean.count /
-              entry.stats.summary.questions.mean.total
-            ).toPrecision(2)}{" "}
-            fois par tribune
-          </ListItem>
-          <ListItem>
-            <Strong>Exclamations :</Strong>{" "}
-            {(
-              entry.stats.summary.exclamations.mean.count /
-              entry.stats.summary.exclamations.mean.total
-            ).toPrecision(2)}{" "}
-            fois par tribune
-          </ListItem>
-          <ListItem>
-            <Strong>Utilisations du gras :</Strong>{" "}
-            {(
-              entry.stats.summary.bolds.mean.count /
-              entry.stats.summary.bolds.mean.total
-            ).toPrecision(2)}{" "}
-            fois par tribune
-          </ListItem>
-          <ListItem>
-            <Strong>Utilisations des majuscules :</Strong>{" "}
-            {(
-              entry.stats.summary.caps.mean.count /
-              entry.stats.summary.caps.mean.total
-            ).toPrecision(2)}{" "}
-            fois par tribune
-          </ListItem>
-        </UnorderedList>
-        <Heading2>Tops tribunes</Heading2>
-        <UnorderedList>
-          {entry.stats.summary.sentiments.negative.max.value ? (
-            <ListItem>
-              <Anchor
-                href={`/tribunes/${entry.stats.summary.sentiments.negative.max.ids[0]}`}
-              >
-                Tribune la plus négative (
-                {entry.stats.summary.sentiments.negative.max.value} phrases
-                négatives).
-              </Anchor>
-            </ListItem>
-          ) : null}
-          {entry.stats.summary.sentiments.positive.max.value ? (
-            <ListItem>
-              <Anchor
-                href={`/tribunes/${entry.stats.summary.sentiments.positive.max.ids[0]}`}
-              >
-                Tribune la plus positive (
-                {entry.stats.summary.sentiments.positive.max.value} phrases
-                positives).
-              </Anchor>
-            </ListItem>
-          ) : null}
-          {entry.stats.summary.exclamations.max.value ? (
-            <ListItem>
-              <Anchor
-                href={`/tribunes/${entry.stats.summary.exclamations.max.ids[0]}`}
-              >
-                Tribune la plus affirmative (
-                {entry.stats.summary.exclamations.max.value} phrases
-                affirmatives).
-              </Anchor>
-            </ListItem>
-          ) : null}
-          {entry.stats.summary.questions.max.value ? (
-            <ListItem>
-              <Anchor
-                href={`/tribunes/${entry.stats.summary.questions.max.ids[0]}`}
-              >
-                Tribune la plus interrogative (
-                {entry.stats.summary.questions.max.value} phrases
-                interrogative).
-              </Anchor>
-            </ListItem>
-          ) : null}
-          {entry.stats.summary.bolds.max.value ? (
-            <ListItem>
-              <Anchor
-                href={`/tribunes/${entry.stats.summary.bolds.max.ids[0]}`}
-              >
-                Tribune la plus grasse ({entry.stats.summary.bolds.max.value}{" "}
-                utilisations du gras).
-              </Anchor>
-            </ListItem>
-          ) : null}
-          {entry.stats.summary.caps.max.value ? (
-            <ListItem>
-              <Anchor href={`/tribunes/${entry.stats.summary.caps.max.ids[0]}`}>
-                Tribune la plus criarde ({entry.stats.summary.caps.max.value} mots en
-                MAJUSCULES).
-              </Anchor>
-            </ListItem>
-          ) : null}
-        </UnorderedList>
+        <Stats stats={entry.stats} />
+        <Top summary={entry.stats.summary} />
         <Heading2>Liste des tribunes</Heading2>
         <UnorderedList>
           {entry.stats.writtings.map(({ id, date }) => (
