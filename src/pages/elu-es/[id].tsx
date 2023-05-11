@@ -29,6 +29,7 @@ const Entry = ({ entry }: Props) => {
     <Layout
       title={`${fixText(entry.title)}`}
       description={fixText(entry.description)}
+      image={`/images/banners/${entry.id}.png`}
     >
       <ContentBlock>
         <Heading1>{entry.title}</Heading1>
