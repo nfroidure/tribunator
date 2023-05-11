@@ -21,7 +21,7 @@ type Props = {
   image?: string;
 };
 
-const Layout = ({ children, title, description = "", image = "" }: Props) => {
+const Layout = ({ children, title, description = "", image = "/images/banner.png" }: Props) => {
   return (
     <div className="root">
       <Meta
