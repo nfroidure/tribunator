@@ -8,7 +8,7 @@ import ContentBlock from "../components/contentBlock";
 import type { GetStaticProps, GetStaticPaths } from "next";
 import type { MarkdownRootNode } from "../utils/markdown";
 
-type Metadata = {
+type PageFrontmatterMetadata = {
   date: string;
   title: string;
   description: string;
@@ -21,7 +21,7 @@ type Metadata = {
 type Entry = {
   id: string;
   content: MarkdownRootNode;
-} & Metadata;
+} & PageFrontmatterMetadata;
 
 type Params = { slug: string[] };
 type Props = { entry: Entry };
@@ -38,15 +38,6 @@ const Page = ({ entry }: Props) => {
         <div className="clear"></div>
       </ContentBlock>
       <style jsx>{`
-        :global(p.illustration) {
-          float: left;
-          width: var(--block);
-          margin: 0 var(--gutter) 0 0;
-        }
-        img {
-          width: 100%;
-          margin: 0;
-        }
         .clear {
           clear: both;
         }
@@ -78,7 +69,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps<Props, Params> = async ({
   params,
 }) => {
-  const result = await readEntry<Metadata>(
+  const result = await readEntry<PageFrontmatterMetadata>(
     pathJoin(
       "contents",
       "pages",

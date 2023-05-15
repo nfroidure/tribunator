@@ -1,4 +1,4 @@
-import { join as pathJoin } from "path";
+import { pathJoin } from "../../utils/files";
 import { readParams } from "../../utils/params";
 import { readWrittersEntries } from "../../utils/writters";
 import { toASCIIString } from "../../utils/ascii";

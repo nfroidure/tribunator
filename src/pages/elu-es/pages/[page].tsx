@@ -1,4 +1,4 @@
-import { join as pathJoin } from "path";
+import { pathJoin } from "../../../utils/files";
 import Entries, {
   entriesToBaseListingMetadata,
   getStaticProps,
