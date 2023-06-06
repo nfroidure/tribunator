@@ -129,6 +129,10 @@
     {
       "date": "2023-05-01T00:00:00Z",
       "id": "2023-05-douai-notre-ville-stephanie-stiernon"
+    },
+    {
+      "date": "2023-06-01T00:00:00Z",
+      "id": "2023-06-douai-notre-ville-katia-bittner"
     }
   ],
   "sentences": [
@@ -286,6 +290,11 @@
       "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2023-06-douai-notre-ville-katia-bittner",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -502,8 +511,15 @@
     {
       "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
-      "positive": 0,
+      "positive": 1,
       "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-katia-bittner",
+      "date": "2023-06-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
       "negative": 1
     }
   ],
@@ -662,6 +678,11 @@
       "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-katia-bittner",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -818,6 +839,11 @@
     {
       "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-katia-bittner",
+      "date": "2023-06-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -976,6 +1002,11 @@
       "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 4
+    },
+    {
+      "id": "2023-06-douai-notre-ville-katia-bittner",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -1133,12 +1164,21 @@
       "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-katia-bittner",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "ville",
-      "count": 29
+      "count": 30
+    },
+    {
+      "word": "santé",
+      "count": 21
     },
     {
       "word": "quartier",
@@ -1147,10 +1187,6 @@
     {
       "word": "habitant",
       "count": 15
-    },
-    {
-      "word": "santé",
-      "count": 14
     },
     {
       "word": "aménagement",
@@ -1181,6 +1217,10 @@
       "count": 11
     },
     {
+      "word": "cadre",
+      "count": 9
+    },
+    {
       "word": "pouvoir",
       "count": 9
     },
@@ -1189,12 +1229,16 @@
       "count": 9
     },
     {
+      "word": "citoyen",
+      "count": 9
+    },
+    {
       "word": "espace",
       "count": 9
     },
     {
-      "word": "cadre",
-      "count": 8
+      "word": "école",
+      "count": 9
     },
     {
       "word": "transition",
@@ -1205,11 +1249,7 @@
       "count": 8
     },
     {
-      "word": "citoyen",
-      "count": 8
-    },
-    {
-      "word": "école",
+      "word": "association",
       "count": 8
     },
     {
@@ -1226,10 +1266,6 @@
     },
     {
       "word": "parc",
-      "count": 7
-    },
-    {
-      "word": "association",
       "count": 7
     },
     {
@@ -1251,8 +1287,8 @@
   "summary": {
     "sentences": {
       "mean": {
-        "count": 168,
-        "total": 31
+        "count": 172,
+        "total": 32
       },
       "min": {
         "value": 4,
@@ -1263,7 +1299,7 @@
           "2021-09-douai-notre-ville-stephanie-stiernon",
           "2022-05-douai-notre-ville-stephanie-stiernon"
         ],
-        "restLength": 2
+        "restLength": 3
       },
       "max": {
         "value": 9,
@@ -1275,8 +1311,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 19,
-        "total": 31
+        "count": 20,
+        "total": 32
       },
       "min": {
         "value": 0,
@@ -1300,32 +1336,7 @@
     "questions": {
       "mean": {
         "count": 2,
-        "total": 31
-      },
-      "min": {
-        "value": 0,
-        "ids": [
-          "2020-09-douai-notre-ville-stephanie-stiernon",
-          "2020-10-douai-notre-ville-katia-bittner",
-          "2020-11-douai-notre-ville-marie-delattre",
-          "2020-12-douai-notre-ville-yves-piquot",
-          "2021-01-douai-notre-ville-jean-christophe-leclercq"
-        ],
-        "restLength": 24
-      },
-      "max": {
-        "value": 1,
-        "ids": [
-          "2021-04-douai-notre-ville-marie-delattre",
-          "2022-04-douai-notre-ville-guy-caruyer"
-        ],
-        "restLength": 0
-      }
-    },
-    "bolds": {
-      "mean": {
-        "count": 4,
-        "total": 31
+        "total": 32
       },
       "min": {
         "value": 0,
@@ -1339,6 +1350,31 @@
         "restLength": 25
       },
       "max": {
+        "value": 1,
+        "ids": [
+          "2021-04-douai-notre-ville-marie-delattre",
+          "2022-04-douai-notre-ville-guy-caruyer"
+        ],
+        "restLength": 0
+      }
+    },
+    "bolds": {
+      "mean": {
+        "count": 4,
+        "total": 32
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2020-09-douai-notre-ville-stephanie-stiernon",
+          "2020-10-douai-notre-ville-katia-bittner",
+          "2020-11-douai-notre-ville-marie-delattre",
+          "2020-12-douai-notre-ville-yves-piquot",
+          "2021-01-douai-notre-ville-jean-christophe-leclercq"
+        ],
+        "restLength": 26
+      },
+      "max": {
         "value": 4,
         "ids": [
           "2023-05-douai-notre-ville-stephanie-stiernon"
@@ -1349,7 +1385,7 @@
     "caps": {
       "mean": {
         "count": 5,
-        "total": 31
+        "total": 32
       },
       "min": {
         "value": 0,
@@ -1360,7 +1396,7 @@
           "2021-01-douai-notre-ville-jean-christophe-leclercq",
           "2021-02-douai-notre-ville-guy-caruyer"
         ],
-        "restLength": 22
+        "restLength": 23
       },
       "max": {
         "value": 2,
@@ -1373,8 +1409,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 15,
-          "total": 31
+          "count": 16,
+          "total": 32
         },
         "min": {
           "value": 0,
@@ -1397,8 +1433,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 137,
-          "total": 31
+          "count": 140,
+          "total": 32
         },
         "min": {
           "value": 1,
@@ -1418,7 +1454,7 @@
       "negative": {
         "mean": {
           "count": 16,
-          "total": 31
+          "total": 32
         },
         "min": {
           "value": 0,
@@ -1429,7 +1465,7 @@
             "2021-02-douai-notre-ville-guy-caruyer",
             "2021-03-douai-notre-ville-stephanie-stiernon"
           ],
-          "restLength": 12
+          "restLength": 13
         },
         "max": {
           "value": 2,

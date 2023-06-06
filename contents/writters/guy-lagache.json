@@ -3,12 +3,21 @@
     {
       "date": "2022-05-01T00:00:00Z",
       "id": "2022-05-douai-notre-ville-guy-lagache"
+    },
+    {
+      "date": "2023-06-01T00:00:00Z",
+      "id": "2023-06-douai-notre-ville-guy-lagache"
     }
   ],
   "sentences": [
     {
       "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
       "count": 5
     }
   ],
@@ -19,6 +28,13 @@
       "positive": 0,
       "neutral": 5,
       "negative": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -26,12 +42,22 @@
       "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
     {
       "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -40,6 +66,11 @@
       "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -47,16 +78,25 @@
       "id": "2022-05-douai-notre-ville-guy-lagache",
       "date": "2022-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "école",
-      "count": 3
+      "count": 4
     },
     {
       "word": "nouveau",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "rendre",
+      "count": 3
     },
     {
       "word": "concertation",
@@ -64,6 +104,22 @@
     },
     {
       "word": "habitant",
+      "count": 2
+    },
+    {
+      "word": "juin",
+      "count": 2
+    },
+    {
+      "word": "année",
+      "count": 2
+    },
+    {
+      "word": "scolaire",
+      "count": 2
+    },
+    {
+      "word": "enfant",
       "count": 2
     },
     {
@@ -88,10 +144,6 @@
     },
     {
       "word": "grand",
-      "count": 1
-    },
-    {
-      "word": "rendre",
       "count": 1
     },
     {
@@ -133,22 +185,6 @@
     {
       "word": "sécurisation",
       "count": 1
-    },
-    {
-      "word": "abord",
-      "count": 1
-    },
-    {
-      "word": "installation",
-      "count": 1
-    },
-    {
-      "word": "station",
-      "count": 1
-    },
-    {
-      "word": "city-stade",
-      "count": 1
     }
   ],
   "portrait": "guy-lagache.jpg",
@@ -157,7 +193,8 @@
     "Conseiller municipal"
   ],
   "groups": [
-    "Majorité municipale : Douai au Cœur (Vivre Douai)"
+    "Majorité municipale : Douai au Cœur (Vivre Douai)",
+    "Majorité municipale : Douai au Cœur"
   ],
   "groupsIds": [
     "douai-au-coeur-se"
@@ -167,28 +204,30 @@
   "summary": {
     "sentences": {
       "mean": {
-        "count": 5,
-        "total": 1
+        "count": 10,
+        "total": 2
       },
       "min": {
         "value": 5,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2022-05-douai-notre-ville-guy-lagache",
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       },
       "max": {
         "value": 5,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2022-05-douai-notre-ville-guy-lagache",
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       }
     },
     "exclamations": {
       "mean": {
-        "count": 0,
-        "total": 1
+        "count": 1,
+        "total": 2
       },
       "min": {
         "value": 0,
@@ -198,9 +237,9 @@
         "restLength": 0
       },
       "max": {
-        "value": 0,
+        "value": 1,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       }
@@ -208,19 +247,21 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 1
+        "total": 2
       },
       "min": {
         "value": 0,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2022-05-douai-notre-ville-guy-lagache",
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       },
       "max": {
         "value": 0,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2022-05-douai-notre-ville-guy-lagache",
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       }
@@ -228,19 +269,21 @@
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 1
+        "total": 2
       },
       "min": {
         "value": 0,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2022-05-douai-notre-ville-guy-lagache",
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       },
       "max": {
         "value": 0,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2022-05-douai-notre-ville-guy-lagache",
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       }
@@ -248,19 +291,21 @@
     "caps": {
       "mean": {
         "count": 0,
-        "total": 1
+        "total": 2
       },
       "min": {
         "value": 0,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2022-05-douai-notre-ville-guy-lagache",
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       },
       "max": {
         "value": 0,
         "ids": [
-          "2022-05-douai-notre-ville-guy-lagache"
+          "2022-05-douai-notre-ville-guy-lagache",
+          "2023-06-douai-notre-ville-guy-lagache"
         ],
         "restLength": 0
       }
@@ -268,8 +313,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 0,
-          "total": 1
+          "count": 1,
+          "total": 2
         },
         "min": {
           "value": 0,
@@ -279,22 +324,22 @@
           "restLength": 0
         },
         "max": {
-          "value": 0,
+          "value": 1,
           "ids": [
-            "2022-05-douai-notre-ville-guy-lagache"
+            "2023-06-douai-notre-ville-guy-lagache"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 5,
-          "total": 1
+          "count": 9,
+          "total": 2
         },
         "min": {
-          "value": 5,
+          "value": 4,
           "ids": [
-            "2022-05-douai-notre-ville-guy-lagache"
+            "2023-06-douai-notre-ville-guy-lagache"
           ],
           "restLength": 0
         },
@@ -309,19 +354,21 @@
       "negative": {
         "mean": {
           "count": 0,
-          "total": 1
+          "total": 2
         },
         "min": {
           "value": 0,
           "ids": [
-            "2022-05-douai-notre-ville-guy-lagache"
+            "2022-05-douai-notre-ville-guy-lagache",
+            "2023-06-douai-notre-ville-guy-lagache"
           ],
           "restLength": 0
         },
         "max": {
           "value": 0,
           "ids": [
-            "2022-05-douai-notre-ville-guy-lagache"
+            "2022-05-douai-notre-ville-guy-lagache",
+            "2023-06-douai-notre-ville-guy-lagache"
           ],
           "restLength": 0
         }

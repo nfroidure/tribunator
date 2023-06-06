@@ -75,6 +75,10 @@
     {
       "date": "2023-05-01T00:00:00Z",
       "id": "2023-05-douai-notre-ville-auriane-ait-lasri"
+    },
+    {
+      "date": "2023-06-01T00:00:00Z",
+      "id": "2023-06-douai-notre-ville-auriane-ait-lasri"
     }
   ],
   "sentences": [
@@ -172,6 +176,11 @@
       "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-05-01T00:00:00Z",
       "count": 6
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 7
     }
   ],
   "sentiments": [
@@ -307,6 +316,13 @@
       "positive": 3,
       "neutral": 2,
       "negative": 1
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-06-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -403,6 +419,11 @@
     {
       "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-06-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -501,6 +522,11 @@
       "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -598,6 +624,11 @@
       "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 1
     }
   ],
   "caps": [
@@ -695,16 +726,21 @@
       "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
-      "word": "cher",
-      "count": 15
+      "word": "public",
+      "count": 17
     },
     {
-      "word": "public",
-      "count": 14
+      "word": "cher",
+      "count": 15
     },
     {
       "word": "année",
@@ -724,14 +760,14 @@
     },
     {
       "word": "monde",
-      "count": 9
-    },
-    {
-      "word": "crise",
-      "count": 7
+      "count": 10
     },
     {
       "word": "grand",
+      "count": 8
+    },
+    {
+      "word": "crise",
       "count": 7
     },
     {
@@ -739,7 +775,15 @@
       "count": 7
     },
     {
+      "word": "comprendre",
+      "count": 7
+    },
+    {
       "word": "projet",
+      "count": 7
+    },
+    {
+      "word": "musée",
       "count": 7
     },
     {
@@ -755,15 +799,15 @@
       "count": 6
     },
     {
+      "word": "ville",
+      "count": 6
+    },
+    {
       "word": "nouveau",
       "count": 6
     },
     {
       "word": "politique",
-      "count": 6
-    },
-    {
-      "word": "musée",
       "count": 6
     },
     {
@@ -789,14 +833,6 @@
     {
       "word": "dernier",
       "count": 5
-    },
-    {
-      "word": "ville",
-      "count": 5
-    },
-    {
-      "word": "élection",
-      "count": 5
     }
   ],
   "portrait": "auriane-ait-lasri.jpg",
@@ -815,8 +851,8 @@
   "summary": {
     "sentences": {
       "mean": {
-        "count": 103,
-        "total": 19
+        "count": 110,
+        "total": 20
       },
       "min": {
         "value": 2,
@@ -835,8 +871,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 2,
-        "total": 19
+        "count": 3,
+        "total": 20
       },
       "min": {
         "value": 0,
@@ -853,7 +889,8 @@
         "value": 1,
         "ids": [
           "2022-05-douai-notre-ville-auriane-ait-lasri",
-          "2023-05-douai-notre-ville-auriane-ait-lasri"
+          "2023-05-douai-notre-ville-auriane-ait-lasri",
+          "2023-06-douai-notre-ville-auriane-ait-lasri"
         ],
         "restLength": 0
       }
@@ -861,7 +898,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 19
+        "total": 20
       },
       "min": {
         "value": 0,
@@ -872,7 +909,7 @@
           "2021-01-douai-notre-ville-auriane-ait-lasri",
           "2021-04-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 14
+        "restLength": 15
       },
       "max": {
         "value": 0,
@@ -883,13 +920,13 @@
           "2021-01-douai-notre-ville-auriane-ait-lasri",
           "2021-04-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 14
+        "restLength": 15
       }
     },
     "bolds": {
       "mean": {
-        "count": 0,
-        "total": 19
+        "count": 1,
+        "total": 20
       },
       "min": {
         "value": 0,
@@ -903,21 +940,17 @@
         "restLength": 14
       },
       "max": {
-        "value": 0,
+        "value": 1,
         "ids": [
-          "2020-09-douai-notre-ville-auriane-ait-lasri",
-          "2020-10-douai-notre-ville-auriane-ait-lasri",
-          "2020-11-douai-notre-ville-auriane-ait-lasri",
-          "2021-01-douai-notre-ville-auriane-ait-lasri",
-          "2021-04-douai-notre-ville-auriane-ait-lasri"
+          "2023-06-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 14
+        "restLength": 0
       }
     },
     "caps": {
       "mean": {
         "count": 7,
-        "total": 19
+        "total": 20
       },
       "min": {
         "value": 0,
@@ -928,7 +961,7 @@
           "2021-06-douai-notre-ville-auriane-ait-lasri",
           "2021-11-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 7
+        "restLength": 8
       },
       "max": {
         "value": 1,
@@ -945,8 +978,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 9,
-          "total": 19
+          "count": 10,
+          "total": 20
         },
         "min": {
           "value": 0,
@@ -969,8 +1002,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 84,
-          "total": 19
+          "count": 89,
+          "total": 20
         },
         "min": {
           "value": 2,
@@ -991,8 +1024,8 @@
       },
       "negative": {
         "mean": {
-          "count": 10,
-          "total": 19
+          "count": 11,
+          "total": 20
         },
         "min": {
           "value": 0,

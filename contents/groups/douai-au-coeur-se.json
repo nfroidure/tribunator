@@ -109,6 +109,10 @@
     {
       "date": "2023-05-01T00:00:00Z",
       "id": "2023-05-douai-notre-ville-maxime-decupper-laud"
+    },
+    {
+      "date": "2023-06-01T00:00:00Z",
+      "id": "2023-06-douai-notre-ville-guy-lagache"
     }
   ],
   "sentences": [
@@ -241,6 +245,11 @@
       "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 3
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 5
     }
   ],
   "sentiments": [
@@ -425,6 +434,13 @@
       "positive": 0,
       "neutral": 2,
       "negative": 1
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -557,6 +573,11 @@
       "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -689,6 +710,11 @@
       "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -820,6 +846,11 @@
     {
       "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -953,6 +984,11 @@
       "id": "2023-05-douai-notre-ville-maxime-decupper-laud",
       "date": "2023-05-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-guy-lagache",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
@@ -962,11 +998,11 @@
     },
     {
       "word": "année",
-      "count": 14
+      "count": 16
     },
     {
       "word": "faire",
-      "count": 12
+      "count": 13
     },
     {
       "word": "association",
@@ -981,7 +1017,23 @@
       "count": 9
     },
     {
+      "word": "enfant",
+      "count": 8
+    },
+    {
+      "word": "école",
+      "count": 8
+    },
+    {
+      "word": "rendre",
+      "count": 8
+    },
+    {
       "word": "avoir",
+      "count": 8
+    },
+    {
+      "word": "nouveau",
       "count": 8
     },
     {
@@ -993,10 +1045,6 @@
       "count": 7
     },
     {
-      "word": "école",
-      "count": 7
-    },
-    {
       "word": "service",
       "count": 7
     },
@@ -1005,7 +1053,7 @@
       "count": 7
     },
     {
-      "word": "nouveau",
+      "word": "fête",
       "count": 7
     },
     {
@@ -1021,27 +1069,19 @@
       "count": 6
     },
     {
-      "word": "enfant",
-      "count": 6
-    },
-    {
       "word": "pouvoir",
       "count": 6
     },
     {
-      "word": "fête",
+      "word": "municipal",
       "count": 6
     },
     {
-      "word": "rendre",
+      "word": "famille",
       "count": 6
     },
     {
       "word": "projet",
-      "count": 5
-    },
-    {
-      "word": "municipal",
       "count": 5
     },
     {
@@ -1051,16 +1091,13 @@
     {
       "word": "aller",
       "count": 5
-    },
-    {
-      "word": "souhaiter",
-      "count": 5
     }
   ],
   "portrait": "mohamed-kheraki.jpg",
   "authors": [
     "Anne-Sophie AUDEGOND",
     "Avida Oulahcene",
+    "Guy LAGACHE",
     "Guy Lagache",
     "Hocine MAZY",
     "Jamila MEKKI",
@@ -1080,8 +1117,8 @@
   "summary": {
     "sentences": {
       "mean": {
-        "count": 159,
-        "total": 26
+        "count": 164,
+        "total": 27
       },
       "min": {
         "value": 3,
@@ -1100,8 +1137,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 22,
-        "total": 26
+        "count": 23,
+        "total": 27
       },
       "min": {
         "value": 0,
@@ -1125,7 +1162,7 @@
     "questions": {
       "mean": {
         "count": 3,
-        "total": 26
+        "total": 27
       },
       "min": {
         "value": 0,
@@ -1136,7 +1173,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 18
+        "restLength": 19
       },
       "max": {
         "value": 1,
@@ -1151,7 +1188,7 @@
     "bolds": {
       "mean": {
         "count": 6,
-        "total": 26
+        "total": 27
       },
       "min": {
         "value": 0,
@@ -1162,7 +1199,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 19
+        "restLength": 20
       },
       "max": {
         "value": 5,
@@ -1175,7 +1212,7 @@
     "caps": {
       "mean": {
         "count": 10,
-        "total": 26
+        "total": 27
       },
       "min": {
         "value": 0,
@@ -1186,7 +1223,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-03-douai-notre-ville-yvon-sipieter"
         ],
-        "restLength": 18
+        "restLength": 19
       },
       "max": {
         "value": 7,
@@ -1199,8 +1236,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 5,
-          "total": 26
+          "count": 6,
+          "total": 27
         },
         "min": {
           "value": 0,
@@ -1222,13 +1259,13 @@
             "2022-07-douai-notre-ville-nathalie-apers",
             "2022-09-douai-notre-ville-jean-michel-leroy"
           ],
-          "restLength": 0
+          "restLength": 1
         }
       },
       "neutral": {
         "mean": {
-          "count": 135,
-          "total": 26
+          "count": 139,
+          "total": 27
         },
         "min": {
           "value": 2,
@@ -1250,7 +1287,7 @@
       "negative": {
         "mean": {
           "count": 19,
-          "total": 26
+          "total": 27
         },
         "min": {
           "value": 0,
@@ -1261,7 +1298,7 @@
             "2021-10-douai-notre-ville-salima-boukentar",
             "2022-01-douai-notre-ville-maxime-decupper-laud"
           ],
-          "restLength": 6
+          "restLength": 7
         },
         "max": {
           "value": 3,

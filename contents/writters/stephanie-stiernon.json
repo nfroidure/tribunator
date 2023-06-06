@@ -144,9 +144,9 @@
     {
       "id": "2023-05-douai-notre-ville-stephanie-stiernon",
       "date": "2023-05-01T00:00:00Z",
-      "positive": 0,
+      "positive": 1,
       "neutral": 4,
-      "negative": 1
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -371,6 +371,10 @@
       "count": 4
     },
     {
+      "word": "citoyen",
+      "count": 4
+    },
+    {
       "word": "cadre",
       "count": 3
     },
@@ -432,10 +436,6 @@
     },
     {
       "word": "contribuer",
-      "count": 3
-    },
-    {
-      "word": "locale",
       "count": 3
     }
   ],
@@ -583,7 +583,7 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 3,
+          "count": 4,
           "total": 9
         },
         "min": {
@@ -595,14 +595,15 @@
             "2022-09-douai-notre-ville-stephanie-stiernon",
             "2023-02-douai-notre-ville-stephanie-stiernon"
           ],
-          "restLength": 1
+          "restLength": 0
         },
         "max": {
           "value": 1,
           "ids": [
             "2020-09-douai-notre-ville-stephanie-stiernon",
             "2021-03-douai-notre-ville-stephanie-stiernon",
-            "2022-05-douai-notre-ville-stephanie-stiernon"
+            "2022-05-douai-notre-ville-stephanie-stiernon",
+            "2023-05-douai-notre-ville-stephanie-stiernon"
           ],
           "restLength": 0
         }
@@ -629,7 +630,7 @@
       },
       "negative": {
         "mean": {
-          "count": 3,
+          "count": 2,
           "total": 9
         },
         "min": {
@@ -641,14 +642,13 @@
             "2022-03-douai-notre-ville-stephanie-stiernon",
             "2022-09-douai-notre-ville-stephanie-stiernon"
           ],
-          "restLength": 1
+          "restLength": 2
         },
         "max": {
           "value": 1,
           "ids": [
             "2021-06-douai-notre-ville-stephanie-stiernon",
-            "2022-05-douai-notre-ville-stephanie-stiernon",
-            "2023-05-douai-notre-ville-stephanie-stiernon"
+            "2022-05-douai-notre-ville-stephanie-stiernon"
           ],
           "restLength": 0
         }

@@ -9,7 +9,9 @@
     "dev": "next",
     "build": "next build && touch out/.nojekyll && echo 'keskidiz.nicolasfroidure.fr' > out/CNAME",
     "start": "next start",
-    "types": "tsc"
+    "types": "tsc",
+    "parse": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/parse.ts",
+    "profile": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/profile.ts"
   },
   "dependencies": {
     "@types/inline-style-prefixer": "^5.0.0",
@@ -20,6 +22,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark-parse": "^10.0.1",
+    "ts-node": "^10.9.1",
     "unified": "^10.1.2",
     "yerror": "^6.2.1"
   },
@@ -30,6 +33,7 @@
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.1",
     "node-lefff": "^0.3.1",
+    "tsx": "^3.12.7",
     "typescript": "^5.0.4"
   }
 }

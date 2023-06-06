@@ -23,7 +23,7 @@ import Anchor from "../../components/a";
 import type { Tribune, TribuneFrontmatterMetadata } from "../../utils/tribunes";
 import type { GetStaticProps, GetStaticPaths } from "next";
 
-type Stats = {
+export type Stats = {
   sentences: number;
   sentiments: {
     positive: number;

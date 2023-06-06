@@ -2,14 +2,21 @@ import { toASCIIString } from "./ascii";
 import { pathJoin, readDir, readJSON } from "./files";
 
 export type OccurenceItem = {
-  count: number;
-  date: string;
   id: string;
+  date: string;
+  count: number;
+};
+export type SentimentOccurenceItem = {
+  id: string;
+  date: string;
+  positive: number;
+  neutral: number;
+  negative: number;
 };
 export type StatItem = {
   mean: { count: number; total: number };
-  min: { value: number; ids: string[] };
-  max: { value: number; ids: string[] };
+  min: { value: number; ids: string[]; restLength?: number };
+  max: { value: number; ids: string[]; restLength?: number };
 };
 
 export type StatsSummary = {
@@ -35,12 +42,7 @@ export type StatsData = {
   bolds: OccurenceItem[];
   caps: OccurenceItem[];
   words: { word: string; count: number }[];
-  sentiments: {
-    date: string;
-    positive: number;
-    neutral: number;
-    negative: number;
-  }[];
+  sentiments: SentimentOccurenceItem[];
   summary: StatsSummary;
 };
 export type WritterStats = {

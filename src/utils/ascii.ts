@@ -10,6 +10,7 @@ export function toASCIIString(str: string): string {
     .replace(/[ç]/g, "c")
     .replace(/[\s\n\r]+/g, "-")
     .replace(/[^a-z0-9\-]/g, "-")
+    .replace(/[^\x00-\x7F]+/g, "-")
     .replace(/-[\-]+/g, "-")
     .replace(/[\-]+$/g, "")
     .replace(/^[\-]+/g, "");
