@@ -46,11 +46,11 @@ const Entries = ({ title, description, entries, page, pagesCount }: Props) => (
         href="/groupes.rss"
       />
     </Head>
-    <ContentBlock className="title">
-      <Heading1 className="title">Les élu·es</Heading1>
+    <ContentBlock>
+      <Heading1>Les groupes politiques</Heading1>
       <Paragraph>
-        Retrouvez toustes les élu·es cité·es sur ce site et les statistiques qui
-        les concernent.
+        Retrouvez tous les groupes politiques du Douaisis cités sur ce site et
+        les statistiques relatives à leurs tribunes.
       </Paragraph>
 
       <Groups entries={entries} base={"/groupes/"} />
