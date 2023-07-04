@@ -79,6 +79,10 @@
     {
       "date": "2023-06-01T00:00:00Z",
       "id": "2023-06-douai-notre-ville-auriane-ait-lasri"
+    },
+    {
+      "date": "2023-07-01T00:00:00Z",
+      "id": "2023-07-douai-notre-ville-auriane-ait-lasri"
     }
   ],
   "sentences": [
@@ -181,6 +185,11 @@
       "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-06-01T00:00:00Z",
       "count": 7
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 5
     }
   ],
   "sentiments": [
@@ -323,6 +332,13 @@
       "positive": 1,
       "neutral": 5,
       "negative": 1
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-07-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -425,6 +441,11 @@
       "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-06-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 0
     }
   ],
   "questions": [
@@ -526,6 +547,11 @@
     {
       "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-07-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -629,6 +655,11 @@
       "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-06-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -731,6 +762,11 @@
       "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
       "date": "2023-06-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 1
     }
   ],
   "words": [
@@ -740,14 +776,14 @@
     },
     {
       "word": "cher",
-      "count": 15
-    },
-    {
-      "word": "année",
-      "count": 11
+      "count": 16
     },
     {
       "word": "douaisiens",
+      "count": 12
+    },
+    {
+      "word": "année",
       "count": 11
     },
     {
@@ -764,6 +800,14 @@
     },
     {
       "word": "grand",
+      "count": 8
+    },
+    {
+      "word": "chère",
+      "count": 8
+    },
+    {
+      "word": "douaisiennes",
       "count": 8
     },
     {
@@ -784,14 +828,6 @@
     },
     {
       "word": "musée",
-      "count": 7
-    },
-    {
-      "word": "chère",
-      "count": 7
-    },
-    {
-      "word": "douaisiennes",
       "count": 7
     },
     {
@@ -831,7 +867,7 @@
       "count": 5
     },
     {
-      "word": "dernier",
+      "word": "vivre",
       "count": 5
     }
   ],
@@ -851,8 +887,8 @@
   "summary": {
     "sentences": {
       "mean": {
-        "count": 110,
-        "total": 20
+        "count": 115,
+        "total": 21
       },
       "min": {
         "value": 2,
@@ -872,7 +908,7 @@
     "exclamations": {
       "mean": {
         "count": 3,
-        "total": 20
+        "total": 21
       },
       "min": {
         "value": 0,
@@ -883,7 +919,7 @@
           "2021-01-douai-notre-ville-auriane-ait-lasri",
           "2021-04-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 12
+        "restLength": 13
       },
       "max": {
         "value": 1,
@@ -898,7 +934,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 20
+        "total": 21
       },
       "min": {
         "value": 0,
@@ -909,7 +945,7 @@
           "2021-01-douai-notre-ville-auriane-ait-lasri",
           "2021-04-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 15
+        "restLength": 16
       },
       "max": {
         "value": 0,
@@ -920,13 +956,13 @@
           "2021-01-douai-notre-ville-auriane-ait-lasri",
           "2021-04-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 15
+        "restLength": 16
       }
     },
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 20
+        "total": 21
       },
       "min": {
         "value": 0,
@@ -937,7 +973,7 @@
           "2021-01-douai-notre-ville-auriane-ait-lasri",
           "2021-04-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 14
+        "restLength": 15
       },
       "max": {
         "value": 1,
@@ -949,8 +985,8 @@
     },
     "caps": {
       "mean": {
-        "count": 7,
-        "total": 20
+        "count": 8,
+        "total": 21
       },
       "min": {
         "value": 0,
@@ -972,14 +1008,14 @@
           "2021-10-douai-notre-ville-auriane-ait-lasri",
           "2022-05-douai-notre-ville-auriane-ait-lasri"
         ],
-        "restLength": 2
+        "restLength": 3
       }
     },
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 10,
-          "total": 20
+          "count": 12,
+          "total": 21
         },
         "min": {
           "value": 0,
@@ -1002,8 +1038,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 89,
-          "total": 20
+          "count": 92,
+          "total": 21
         },
         "min": {
           "value": 2,
@@ -1025,7 +1061,7 @@
       "negative": {
         "mean": {
           "count": 11,
-          "total": 20
+          "total": 21
         },
         "min": {
           "value": 0,
@@ -1036,7 +1072,7 @@
             "2021-07-douai-notre-ville-auriane-ait-lasri",
             "2021-10-douai-notre-ville-auriane-ait-lasri"
           ],
-          "restLength": 5
+          "restLength": 6
         },
         "max": {
           "value": 2,

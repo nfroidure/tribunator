@@ -15,6 +15,10 @@
     {
       "date": "2022-10-01T00:00:00Z",
       "id": "2022-10-douai-notre-ville-yves-piquot"
+    },
+    {
+      "date": "2023-07-01T00:00:00Z",
+      "id": "2023-07-douai-notre-ville-yves-piquot"
     }
   ],
   "sentences": [
@@ -36,6 +40,11 @@
     {
       "id": "2022-10-douai-notre-ville-yves-piquot",
       "date": "2022-10-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2023-07-douai-notre-ville-yves-piquot",
+      "date": "2023-07-01T00:00:00Z",
       "count": 5
     }
   ],
@@ -67,6 +76,13 @@
       "positive": 3,
       "neutral": 1,
       "negative": 1
+    },
+    {
+      "id": "2023-07-douai-notre-ville-yves-piquot",
+      "date": "2023-07-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 2,
+      "negative": 3
     }
   ],
   "exclamations": [
@@ -88,6 +104,11 @@
     {
       "id": "2022-10-douai-notre-ville-yves-piquot",
       "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-yves-piquot",
+      "date": "2023-07-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -111,6 +132,11 @@
       "id": "2022-10-douai-notre-ville-yves-piquot",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-yves-piquot",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 1
     }
   ],
   "bolds": [
@@ -132,6 +158,11 @@
     {
       "id": "2022-10-douai-notre-ville-yves-piquot",
       "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-yves-piquot",
+      "date": "2023-07-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -155,24 +186,29 @@
       "id": "2022-10-douai-notre-ville-yves-piquot",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-yves-piquot",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "biodiversité",
+      "count": 7
+    },
+    {
+      "word": "protection",
+      "count": 6
+    },
+    {
+      "word": "ville",
       "count": 5
     },
     {
       "word": "naturel",
       "count": 5
-    },
-    {
-      "word": "protection",
-      "count": 4
-    },
-    {
-      "word": "ville",
-      "count": 4
     },
     {
       "word": "espace",
@@ -183,15 +219,31 @@
       "count": 4
     },
     {
+      "word": "espèce",
+      "count": 3
+    },
+    {
+      "word": "sauvage",
+      "count": 3
+    },
+    {
+      "word": "nature",
+      "count": 3
+    },
+    {
       "word": "usage",
       "count": 3
     },
     {
-      "word": "espèce",
-      "count": 2
+      "word": "citoyen",
+      "count": 3
     },
     {
-      "word": "sauvage",
+      "word": "jardin",
+      "count": 3
+    },
+    {
+      "word": "déclin",
       "count": 2
     },
     {
@@ -199,11 +251,11 @@
       "count": 2
     },
     {
-      "word": "nature",
+      "word": "fraîcheur",
       "count": 2
     },
     {
-      "word": "fraîcheur",
+      "word": "avoir",
       "count": 2
     },
     {
@@ -219,7 +271,15 @@
       "count": 2
     },
     {
+      "word": "engagé",
+      "count": 2
+    },
+    {
       "word": "plante",
+      "count": 2
+    },
+    {
+      "word": "aménagement",
       "count": 2
     },
     {
@@ -227,36 +287,12 @@
       "count": 2
     },
     {
+      "word": "découverte",
+      "count": 2
+    },
+    {
       "word": "protéger",
       "count": 2
-    },
-    {
-      "word": "dernier",
-      "count": 2
-    },
-    {
-      "word": "écosystème",
-      "count": 2
-    },
-    {
-      "word": "mesuron",
-      "count": 2
-    },
-    {
-      "word": "priorité",
-      "count": 1
-    },
-    {
-      "word": "transition",
-      "count": 1
-    },
-    {
-      "word": "écologique",
-      "count": 1
-    },
-    {
-      "word": "déclin",
-      "count": 1
     }
   ],
   "portrait": "yves-piquot.jpg",
@@ -275,8 +311,8 @@
   "summary": {
     "sentences": {
       "mean": {
-        "count": 18,
-        "total": 4
+        "count": 23,
+        "total": 5
       },
       "min": {
         "value": 4,
@@ -290,7 +326,8 @@
         "value": 5,
         "ids": [
           "2022-02-douai-notre-ville-yves-piquot",
-          "2022-10-douai-notre-ville-yves-piquot"
+          "2022-10-douai-notre-ville-yves-piquot",
+          "2023-07-douai-notre-ville-yves-piquot"
         ],
         "restLength": 0
       }
@@ -298,14 +335,15 @@
     "exclamations": {
       "mean": {
         "count": 1,
-        "total": 4
+        "total": 5
       },
       "min": {
         "value": 0,
         "ids": [
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-07-douai-notre-ville-yves-piquot",
-          "2022-10-douai-notre-ville-yves-piquot"
+          "2022-10-douai-notre-ville-yves-piquot",
+          "2023-07-douai-notre-ville-yves-piquot"
         ],
         "restLength": 0
       },
@@ -319,8 +357,8 @@
     },
     "questions": {
       "mean": {
-        "count": 0,
-        "total": 4
+        "count": 1,
+        "total": 5
       },
       "min": {
         "value": 0,
@@ -333,12 +371,9 @@
         "restLength": 0
       },
       "max": {
-        "value": 0,
+        "value": 1,
         "ids": [
-          "2020-12-douai-notre-ville-yves-piquot",
-          "2021-07-douai-notre-ville-yves-piquot",
-          "2022-02-douai-notre-ville-yves-piquot",
-          "2022-10-douai-notre-ville-yves-piquot"
+          "2023-07-douai-notre-ville-yves-piquot"
         ],
         "restLength": 0
       }
@@ -346,7 +381,7 @@
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 4
+        "total": 5
       },
       "min": {
         "value": 0,
@@ -354,7 +389,8 @@
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-07-douai-notre-ville-yves-piquot",
           "2022-02-douai-notre-ville-yves-piquot",
-          "2022-10-douai-notre-ville-yves-piquot"
+          "2022-10-douai-notre-ville-yves-piquot",
+          "2023-07-douai-notre-ville-yves-piquot"
         ],
         "restLength": 0
       },
@@ -364,7 +400,8 @@
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-07-douai-notre-ville-yves-piquot",
           "2022-02-douai-notre-ville-yves-piquot",
-          "2022-10-douai-notre-ville-yves-piquot"
+          "2022-10-douai-notre-ville-yves-piquot",
+          "2023-07-douai-notre-ville-yves-piquot"
         ],
         "restLength": 0
       }
@@ -372,7 +409,7 @@
     "caps": {
       "mean": {
         "count": 0,
-        "total": 4
+        "total": 5
       },
       "min": {
         "value": 0,
@@ -380,7 +417,8 @@
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-07-douai-notre-ville-yves-piquot",
           "2022-02-douai-notre-ville-yves-piquot",
-          "2022-10-douai-notre-ville-yves-piquot"
+          "2022-10-douai-notre-ville-yves-piquot",
+          "2023-07-douai-notre-ville-yves-piquot"
         ],
         "restLength": 0
       },
@@ -390,7 +428,8 @@
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-07-douai-notre-ville-yves-piquot",
           "2022-02-douai-notre-ville-yves-piquot",
-          "2022-10-douai-notre-ville-yves-piquot"
+          "2022-10-douai-notre-ville-yves-piquot",
+          "2023-07-douai-notre-ville-yves-piquot"
         ],
         "restLength": 0
       }
@@ -399,13 +438,14 @@
       "positive": {
         "mean": {
           "count": 4,
-          "total": 4
+          "total": 5
         },
         "min": {
           "value": 0,
           "ids": [
             "2021-07-douai-notre-ville-yves-piquot",
-            "2022-02-douai-notre-ville-yves-piquot"
+            "2022-02-douai-notre-ville-yves-piquot",
+            "2023-07-douai-notre-ville-yves-piquot"
           ],
           "restLength": 0
         },
@@ -419,8 +459,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 12,
-          "total": 4
+          "count": 14,
+          "total": 5
         },
         "min": {
           "value": 1,
@@ -439,8 +479,8 @@
       },
       "negative": {
         "mean": {
-          "count": 2,
-          "total": 4
+          "count": 5,
+          "total": 5
         },
         "min": {
           "value": 0,
@@ -451,10 +491,9 @@
           "restLength": 0
         },
         "max": {
-          "value": 1,
+          "value": 3,
           "ids": [
-            "2021-07-douai-notre-ville-yves-piquot",
-            "2022-10-douai-notre-ville-yves-piquot"
+            "2023-07-douai-notre-ville-yves-piquot"
           ],
           "restLength": 0
         }

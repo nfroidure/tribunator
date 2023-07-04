@@ -20,7 +20,6 @@ run();
 async function run() {
   const nl = await nodeLefff.load();
 
-
   const files = await readDir(pathJoin("sources", "tribunes"));
   const writtersAggregations = {};
   const groupsAggregations = {};
@@ -432,7 +431,7 @@ ${content}
     };
   }
 
-  function createBaseStatsItem() {
+  function createBaseStatsItem(): StatItem {
     return {
       mean: { count: 0, total: 0 },
       min: { value: Infinity, ids: [] },
@@ -440,7 +439,7 @@ ${content}
     };
   }
 
-  function createBaseStatsObject() {
+  function createBaseStatsObject(): StatsSummary {
     return {
       sentences: createBaseStatsItem(),
       exclamations: createBaseStatsItem(),
@@ -455,7 +454,7 @@ ${content}
     };
   }
 
-  function aggregatesStats(statsItem, statsObject) {
+  function aggregatesStats(statsItem: StatItem, statsObject: StatItem) {
     statsObject.mean.total += statsItem.mean.total;
     statsObject.mean.count++;
     if (statsObject.min.value > statsItem.min.value) {
@@ -558,7 +557,7 @@ ${content}
     };
   }
 
-  function shrinkSummary(summary) {
+  function shrinkSummary(summary: StatsSummary): StatsSummary {
     return {
       sentences: shrinkStats(summary.sentences),
       exclamations: shrinkStats(summary.exclamations),

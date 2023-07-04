@@ -2,7 +2,7 @@
   "sentences": {
     "mean": {
       "count": 13,
-      "total": 453
+      "total": 460
     },
     "min": {
       "value": 1,
@@ -24,7 +24,7 @@
   "exclamations": {
     "mean": {
       "count": 13,
-      "total": 453
+      "total": 460
     },
     "min": {
       "value": 0,
@@ -35,7 +35,7 @@
         "2012-02-douai-notre-ville-cyril-carbonnel",
         "2012-04-douai-notre-ville-jean-pierre-divrechy"
       ],
-      "restLength": 179
+      "restLength": 184
     },
     "max": {
       "value": 8,
@@ -51,7 +51,7 @@
   "questions": {
     "mean": {
       "count": 13,
-      "total": 453
+      "total": 460
     },
     "min": {
       "value": 0,
@@ -62,7 +62,7 @@
         "2012-12-douai-notre-ville-monique-amghar",
         "2013-01-douai-notre-ville-frederic-chereau"
       ],
-      "restLength": 366
+      "restLength": 369
     },
     "max": {
       "value": 7,
@@ -76,7 +76,7 @@
   "bolds": {
     "mean": {
       "count": 13,
-      "total": 453
+      "total": 460
     },
     "min": {
       "value": 0,
@@ -87,7 +87,7 @@
         "2014-07-douai-notre-ville-guy-cannie",
         "2015-02-douai-notre-ville-guy-cannie"
       ],
-      "restLength": 294
+      "restLength": 299
     },
     "max": {
       "value": 5,
@@ -101,7 +101,7 @@
   "caps": {
     "mean": {
       "count": 13,
-      "total": 453
+      "total": 460
     },
     "min": {
       "value": 0,
@@ -112,7 +112,7 @@
         "2012-06-douai-notre-ville-karine-doyen-carbonnel",
         "2012-07-douai-notre-ville-annick-louvion"
       ],
-      "restLength": 399
+      "restLength": 405
     },
     "max": {
       "value": 8,
@@ -127,7 +127,7 @@
     "positive": {
       "mean": {
         "count": 13,
-        "total": 453
+        "total": 460
       },
       "min": {
         "value": 0,
@@ -138,7 +138,7 @@
           "2012-01-douai-notre-ville-monique-amghar",
           "2012-07-douai-notre-ville-annick-louvion"
         ],
-        "restLength": 234
+        "restLength": 238
       },
       "max": {
         "value": 4,
@@ -155,7 +155,7 @@
     "neutral": {
       "mean": {
         "count": 13,
-        "total": 453
+        "total": 460
       },
       "min": {
         "value": 0,
@@ -177,7 +177,7 @@
     "negative": {
       "mean": {
         "count": 13,
-        "total": 453
+        "total": 460
       },
       "min": {
         "value": 0,
@@ -188,7 +188,7 @@
           "2012-03-douai-notre-ville-jacques-vernier",
           "2012-05-douai-notre-ville-jacques-vernier"
         ],
-        "restLength": 193
+        "restLength": 196
       },
       "max": {
         "value": 6,

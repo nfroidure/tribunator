@@ -113,6 +113,10 @@
     {
       "date": "2023-06-01T00:00:00Z",
       "id": "2023-06-douai-notre-ville-guy-lagache"
+    },
+    {
+      "date": "2023-07-01T00:00:00Z",
+      "id": "2023-07-douai-notre-ville-nadia-bony"
     }
   ],
   "sentences": [
@@ -250,6 +254,11 @@
       "id": "2023-06-douai-notre-ville-guy-lagache",
       "date": "2023-06-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2023-07-douai-notre-ville-nadia-bony",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 6
     }
   ],
   "sentiments": [
@@ -441,6 +450,13 @@
       "positive": 1,
       "neutral": 4,
       "negative": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-nadia-bony",
+      "date": "2023-07-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -578,6 +594,11 @@
       "id": "2023-06-douai-notre-ville-guy-lagache",
       "date": "2023-06-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-07-douai-notre-ville-nadia-bony",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 2
     }
   ],
   "questions": [
@@ -715,6 +736,11 @@
       "id": "2023-06-douai-notre-ville-guy-lagache",
       "date": "2023-06-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-nadia-bony",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 1
     }
   ],
   "bolds": [
@@ -851,6 +877,11 @@
     {
       "id": "2023-06-douai-notre-ville-guy-lagache",
       "date": "2023-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-nadia-bony",
+      "date": "2023-07-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -989,12 +1020,17 @@
       "id": "2023-06-douai-notre-ville-guy-lagache",
       "date": "2023-06-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-nadia-bony",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "ville",
-      "count": 18
+      "count": 19
     },
     {
       "word": "année",
@@ -1013,12 +1049,12 @@
       "count": 11
     },
     {
-      "word": "autre",
+      "word": "enfant",
       "count": 9
     },
     {
-      "word": "enfant",
-      "count": 8
+      "word": "autre",
+      "count": 9
     },
     {
       "word": "école",
@@ -1106,6 +1142,7 @@
     "Maxime DECUPPER-LAUD",
     "Michaël DOZIÈRE",
     "Mohamed KHERAKI",
+    "Nadia BONY,",
     "Nathalie APERS",
     "Salima BOUKENTAR",
     "Sébastien LANCLU",
@@ -1117,8 +1154,8 @@
   "summary": {
     "sentences": {
       "mean": {
-        "count": 164,
-        "total": 27
+        "count": 170,
+        "total": 28
       },
       "min": {
         "value": 3,
@@ -1137,8 +1174,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 23,
-        "total": 27
+        "count": 25,
+        "total": 28
       },
       "min": {
         "value": 0,
@@ -1161,8 +1198,8 @@
     },
     "questions": {
       "mean": {
-        "count": 3,
-        "total": 27
+        "count": 4,
+        "total": 28
       },
       "min": {
         "value": 0,
@@ -1180,7 +1217,8 @@
         "ids": [
           "2022-06-douai-notre-ville-hocine-mazy",
           "2023-02-douai-notre-ville-salima-boukentar",
-          "2023-05-douai-notre-ville-maxime-decupper-laud"
+          "2023-05-douai-notre-ville-maxime-decupper-laud",
+          "2023-07-douai-notre-ville-nadia-bony"
         ],
         "restLength": 0
       }
@@ -1188,7 +1226,7 @@
     "bolds": {
       "mean": {
         "count": 6,
-        "total": 27
+        "total": 28
       },
       "min": {
         "value": 0,
@@ -1199,7 +1237,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 20
+        "restLength": 21
       },
       "max": {
         "value": 5,
@@ -1212,7 +1250,7 @@
     "caps": {
       "mean": {
         "count": 10,
-        "total": 27
+        "total": 28
       },
       "min": {
         "value": 0,
@@ -1223,7 +1261,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-03-douai-notre-ville-yvon-sipieter"
         ],
-        "restLength": 19
+        "restLength": 20
       },
       "max": {
         "value": 7,
@@ -1236,8 +1274,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 6,
-          "total": 27
+          "count": 7,
+          "total": 28
         },
         "min": {
           "value": 0,
@@ -1259,13 +1297,13 @@
             "2022-07-douai-notre-ville-nathalie-apers",
             "2022-09-douai-notre-ville-jean-michel-leroy"
           ],
-          "restLength": 1
+          "restLength": 2
         }
       },
       "neutral": {
         "mean": {
-          "count": 139,
-          "total": 27
+          "count": 144,
+          "total": 28
         },
         "min": {
           "value": 2,
@@ -1287,7 +1325,7 @@
       "negative": {
         "mean": {
           "count": 19,
-          "total": 27
+          "total": 28
         },
         "min": {
           "value": 0,
@@ -1298,7 +1336,7 @@
             "2021-10-douai-notre-ville-salima-boukentar",
             "2022-01-douai-notre-ville-maxime-decupper-laud"
           ],
-          "restLength": 7
+          "restLength": 8
         },
         "max": {
           "value": 3,
