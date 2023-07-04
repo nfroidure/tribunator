@@ -6,7 +6,7 @@
   <subtitle>Retrouvez toustes les élu·es du Douaisis cité·es sur ce site et les statistiques relatives à leurs tribunes.</subtitle>
   <link href="https://keskidiz.nicolasfroidure.fr/elu-es.atom" rel="self" type="application/atom+xml" />
   <link href="https://keskidiz.nicolasfroidure.fr/elu-es" rel="alternate" type="text/html" />
-  <updated>2023-06-01T00:00:00.000Z</updated>
+  <updated>2023-07-01T00:00:00.000Z</updated>
   <entry>
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/agnes-dupuis</id>
     <title>Agnès DUPUIS</title>
@@ -66,8 +66,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/auriane-ait-lasri</id>
     <title>Auriane AÏT LASRI</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/auriane-ait-lasri" rel="alternate" type="text/html" />
-    <updated>2023-06-01T00:00:00Z</updated>
-    <published>2023-06-01T00:00:00Z</published>
+    <updated>2023-07-01T00:00:00Z</updated>
+    <published>2023-07-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Auriane AÏT LASRI</summary>
     <author>
       <name>Keskidiz</name>
@@ -132,8 +132,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/coline-craeye</id>
     <title>Coline CRAEYE</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/coline-craeye" rel="alternate" type="text/html" />
-    <updated>2023-06-01T00:00:00Z</updated>
-    <published>2023-06-01T00:00:00Z</published>
+    <updated>2023-07-01T00:00:00Z</updated>
+    <published>2023-07-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Coline CRAEYE</summary>
     <author>
       <name>Keskidiz</name>
@@ -165,8 +165,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/francois-guiffard</id>
     <title>François GUIFFARD</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/francois-guiffard" rel="alternate" type="text/html" />
-    <updated>2023-06-01T00:00:00Z</updated>
-    <published>2023-06-01T00:00:00Z</published>
+    <updated>2023-07-01T00:00:00Z</updated>
+    <published>2023-07-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e François GUIFFARD</summary>
     <author>
       <name>Keskidiz</name>
@@ -198,8 +198,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau</id>
     <title>Frédéric CHÉREAU</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau" rel="alternate" type="text/html" />
-    <updated>2023-06-01T00:00:00Z</updated>
-    <published>2023-06-01T00:00:00Z</published>
+    <updated>2023-07-01T00:00:00Z</updated>
+    <published>2023-07-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Frédéric CHÉREAU</summary>
     <author>
       <name>Keskidiz</name>
@@ -481,6 +481,17 @@
     </author>
   </entry>
   <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/nadia-bony</id>
+    <title>Nadia BONY,</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/nadia-bony" rel="alternate" type="text/html" />
+    <updated>2023-07-01T00:00:00Z</updated>
+    <published>2023-07-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Nadia BONY,</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/nathalie-apers</id>
     <title>Nathalie APERS</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/nathalie-apers" rel="alternate" type="text/html" />
@@ -561,8 +572,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois</id>
     <title>Thibaut FRANÇOIS</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois" rel="alternate" type="text/html" />
-    <updated>2023-06-01T00:00:00Z</updated>
-    <published>2023-06-01T00:00:00Z</published>
+    <updated>2023-07-01T00:00:00Z</updated>
+    <published>2023-07-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Thibaut FRANÇOIS</summary>
     <author>
       <name>Keskidiz</name>
@@ -594,8 +605,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/yves-piquot</id>
     <title>Yves PIQUOT</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/yves-piquot" rel="alternate" type="text/html" />
-    <updated>2022-10-01T00:00:00Z</updated>
-    <published>2022-10-01T00:00:00Z</published>
+    <updated>2023-07-01T00:00:00Z</updated>
+    <published>2023-07-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Yves PIQUOT</summary>
     <author>
       <name>Keskidiz</name>

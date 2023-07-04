@@ -6,8 +6,8 @@
     <description>Retrouvez toustes les élu·es du Douaisis cité·es sur ce site et les statistiques relatives à leurs tribunes.</description>
     <link>https://keskidiz.nicolasfroidure.fr/elu-es</link>
     <atom:link href="https://keskidiz.nicolasfroidure.fr/elu-es.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jun 2023 15:41:31 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Jul 2023 19:28:13 GMT</pubDate>
     <ttl>1800</ttl>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/agnes-dupuis</guid>
@@ -49,7 +49,7 @@
         <title>Auriane AÏT LASRI</title>
         <description>Fiche de l&apos;élu·e Auriane AÏT LASRI</description>
         <link>https://keskidiz.nicolasfroidure.fr/elu-es/auriane-ait-lasri</link>
-        <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
       </item>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/avida-oulahcene</guid>
@@ -91,7 +91,7 @@
         <title>Coline CRAEYE</title>
         <description>Fiche de l&apos;élu·e Coline CRAEYE</description>
         <link>https://keskidiz.nicolasfroidure.fr/elu-es/coline-craeye</link>
-        <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
       </item>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/cyril-carbonnel</guid>
@@ -112,7 +112,7 @@
         <title>François GUIFFARD</title>
         <description>Fiche de l&apos;élu·e François GUIFFARD</description>
         <link>https://keskidiz.nicolasfroidure.fr/elu-es/francois-guiffard</link>
-        <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
       </item>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/francoise-prouvost</guid>
@@ -133,7 +133,7 @@
         <title>Frédéric CHÉREAU</title>
         <description>Fiche de l&apos;élu·e Frédéric CHÉREAU</description>
         <link>https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau</link>
-        <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
       </item>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/gerard-bailliet</guid>
@@ -311,6 +311,13 @@
         <pubDate>Sat, 01 Dec 2012 00:00:00 GMT</pubDate>
       </item>
       <item>
+        <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/nadia-bony</guid>
+        <title>Nadia BONY,</title>
+        <description>Fiche de l&apos;élu·e Nadia BONY,</description>
+        <link>https://keskidiz.nicolasfroidure.fr/elu-es/nadia-bony</link>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
+      </item>
+      <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/nathalie-apers</guid>
         <title>Nathalie APERS</title>
         <description>Fiche de l&apos;élu·e Nathalie APERS</description>
@@ -364,7 +371,7 @@
         <title>Thibaut FRANÇOIS</title>
         <description>Fiche de l&apos;élu·e Thibaut FRANÇOIS</description>
         <link>https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois</link>
-        <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
       </item>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/virginie-malolepszy</guid>
@@ -385,7 +392,7 @@
         <title>Yves PIQUOT</title>
         <description>Fiche de l&apos;élu·e Yves PIQUOT</description>
         <link>https://keskidiz.nicolasfroidure.fr/elu-es/yves-piquot</link>
-        <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
       </item>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/yvon-sipieter</guid>
