@@ -2,6 +2,7 @@ import Heading2 from "./h2";
 import UnorderedList from "./ul";
 import ListItem from "./li";
 import Anchor from "./a";
+import Strong from "./strong";
 import type { StatsSummary } from "../utils/writters";
 
 const Top = ({ summary }: { summary: StatsSummary }) => (
@@ -11,7 +12,7 @@ const Top = ({ summary }: { summary: StatsSummary }) => (
       {summary.sentiments.negative.max.value ? (
         <ListItem>
           <Anchor href={`/tribunes/${summary.sentiments.negative.max.ids[0]}`}>
-            Tribune la plus négative ({summary.sentiments.negative.max.value}{" "}
+            😠 Tribune la plus négative ({summary.sentiments.negative.max.value}{" "}
             phrases négatives).
           </Anchor>
         </ListItem>
@@ -19,7 +20,7 @@ const Top = ({ summary }: { summary: StatsSummary }) => (
       {summary.sentiments.positive.max.value ? (
         <ListItem>
           <Anchor href={`/tribunes/${summary.sentiments.positive.max.ids[0]}`}>
-            Tribune la plus positive ({summary.sentiments.positive.max.value}{" "}
+            👍 Tribune la plus positive ({summary.sentiments.positive.max.value}{" "}
             phrases positives).
           </Anchor>
         </ListItem>
@@ -27,31 +28,31 @@ const Top = ({ summary }: { summary: StatsSummary }) => (
       {summary.exclamations.max.value ? (
         <ListItem>
           <Anchor href={`/tribunes/${summary.exclamations.max.ids[0]}`}>
-            Tribune la plus affirmative ({summary.exclamations.max.value}{" "}
-            phrases affirmatives).
+            📢 Tribune la plus affirmative ({summary.exclamations.max.value}{" "}
+            phrases ¡affirmatives!).
           </Anchor>
         </ListItem>
       ) : null}
       {summary.questions.max.value ? (
         <ListItem>
           <Anchor href={`/tribunes/${summary.questions.max.ids[0]}`}>
-            Tribune la plus interrogative ({summary.questions.max.value} phrases
-            interrogative).
+            ❓ Tribune la plus interrogative ({summary.questions.max.value} phrases
+            ¿interrogatives?̉).
           </Anchor>
         </ListItem>
       ) : null}
       {summary.bolds.max.value ? (
         <ListItem>
           <Anchor href={`/tribunes/${summary.bolds.max.ids[0]}`}>
-            Tribune la plus grasse ({summary.bolds.max.value} utilisations du
-            gras).
+            𝐁 Tribune la plus grasse ({summary.bolds.max.value} utilisations du
+            <Strong>gras</Strong>).
           </Anchor>
         </ListItem>
       ) : null}
       {summary.caps.max.value ? (
         <ListItem>
           <Anchor href={`/tribunes/${summary.caps.max.ids[0]}`}>
-            Tribune la plus criarde ({summary.caps.max.value} mots en
+            🗯 Tribune la plus criarde ({summary.caps.max.value} mots en
             MAJUSCULES).
           </Anchor>
         </ListItem>

@@ -33,7 +33,7 @@ Dès 2022, je retiens les 220 000 € consacrés à la sécurisation des abords
 
 Merci aux habitants de la résidence Gayant qui se sont investis et se sont faits nos porte-paroles, dans l’exercice parfois difficile de la concertation, nouveau pour beaucoup d’entre nous.
 
-Guy Lagache
+Guy LAGACHE
 Conseiller municipal
 
 ---

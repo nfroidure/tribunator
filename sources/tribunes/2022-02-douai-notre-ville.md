@@ -29,7 +29,7 @@ Majorité municipale : Douai au Cœur (Vivre Douai)
 
 Les travaux de piétonisation se terminent. Les critiques se sont tues et nous déambulons aujourd’hui sereinement dans notre cœur de ville. Mais Douai est aussi riche de ses quartiers, ils ne sont pas oubliés. Lors du dernier conseil municipal, deux projets emblématiques, à Frais-Marais, ont été adoptés par la majorité : les créations d’une cour d’école oasis à la Solitude et d’une toute nouvelle maison de proximité à l’arrière de France services. De l’autre côté de la rocade, c’est aux Corons verts que commencent les travaux de rénovation des logements Maisons & Cités. Dans le cadre de l’ERBM, la commune finance chaque maison à hauteur de 6000 €. Les travaux terminés, ils se déplaceront à la Mouchonnière puis à la Ferronnière.
 
-Avida Oulahcene
+Avida OULAHCENE
 Conseillère municipale
 
 ---

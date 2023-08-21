@@ -1,6 +1,6 @@
 ---
 id: "2022-05-douai-notre-ville-guy-lagache"
-author: "Guy Lagache"
+author: "Guy LAGACHE"
 title: "Conseiller municipal"
 group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
 groupId: "douai-au-coeur-se"

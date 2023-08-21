@@ -18,7 +18,7 @@ Ensure you installed `inkscape` and `chromium`.
 
 Then, run the data ingestion:
 ```sh
-node bin/parse.mjs
+npm run parse
 ```
 
 And finally run the app:

@@ -1,6 +1,6 @@
 ---
 id: "2022-02-douai-notre-ville-avida-oulahcene"
-author: "Avida Oulahcene"
+author: "Avida OULAHCENE"
 title: "Conseillère municipale"
 group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
 groupId: "douai-au-coeur-se"
