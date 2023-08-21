@@ -1,26 +1,31 @@
 import type { BaseContentPageMetadata } from "./contents";
 import type { MarkdownRootNode } from "./markdown";
 
+export type Author = {
+  id: string;
+  name: string;
+  mandates: string[];
+  portrait: string;
+};
+export type BaseGroup = {
+  id: string;
+  name: string;
+  type?: string;
+  party?: string;
+  abbr?: string;
+  logo?: string;
+};
+
 export type TribuneFrontmatterMetadata = {
   id: string;
-  author: string;
-  title: string;
-  description: string;
-  summary: string;
-  mandate: string;
-  group: string;
-  groupId: string;
+  authors: Author[];
+  group: BaseGroup;
   date: string;
   publication: string;
   source: string;
   language: string;
   locality: string;
   country: string;
-  portrait: string;
-  illustration?: {
-    url: string;
-    alt: string;
-  };
 };
 
 export type Tribune = {

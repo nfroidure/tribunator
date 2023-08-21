@@ -1,16 +1,24 @@
 ---
 id: "2019-01-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2019-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-01-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 2018 s’achève dans une atmosphère moins joyeuse qu’on ne le souhaite au moment de Noël. La fête aura été endeuillée à Strasbourg et toute la France s’est associée à la douleur de l’Alsace.

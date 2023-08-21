@@ -1,16 +1,24 @@
 ---
 id: "2023-07-douai-notre-ville-yves-piquot"
-author: "Yves PIQUOT"
-title: "Conseiller municipal"
-group: "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
-groupId: "douai-au-coeur-eelv"
+authors:
+- id: "yves-piquot"
+  name: "Yves PIQUOT"
+  mandates: 
+  - "Conseiller municipal"
+  portrait: "yves-piquot.jpg"
+group:
+  id: "douai-au-coeur-eelv"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Europe Écologie-Les Verts"
+  abbr: "EELV"
+  logo: "eelv-douaisis.svg"
 date: "2023-07-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-07-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "yves-piquot.jpg"
 ---
 
 Comment puis-je contribuer concrètement à la protection de la nature ? Face au constat inquiétant de la diminution des espèces sauvages, beaucoup de citoyens s’interrogent sur les actions à mener pour stopper ce déclin.

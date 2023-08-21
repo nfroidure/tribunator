@@ -1,16 +1,24 @@
 ---
 id: "2021-02-douai-notre-ville-eric-lemaitre"
-author: "Éric LEMAITRE"
-title: "Conseiller municipal"
-group: "Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)"
-groupId: "douai-au-coeur-pcf"
+authors:
+- id: "eric-lemaitre"
+  name: "Éric LEMAITRE"
+  mandates: 
+  - "Conseiller municipal"
+  portrait: "eric-lemaitre.jpg"
+group:
+  id: "douai-au-coeur-pcf"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Communiste Français"
+  abbr: "PCF"
+  logo: "pcf.svg"
 date: "2021-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-02-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "eric-lemaitre.jpg"
 ---
 
 Chères Douaisiennes, Chers Douaisiens,

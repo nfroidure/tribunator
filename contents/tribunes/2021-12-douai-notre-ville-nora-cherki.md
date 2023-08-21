@@ -1,16 +1,24 @@
 ---
 id: "2021-12-douai-notre-ville-nora-cherki"
-author: "Nora CHERKI"
-title: "Conseillère municipale"
-group: "Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)"
-groupId: "douai-au-coeur-pcf"
+authors:
+- id: "nora-cherki"
+  name: "Nora CHERKI"
+  mandates: 
+  - "Conseillère municipale"
+  portrait: "nora-cherki.jpg"
+group:
+  id: "douai-au-coeur-pcf"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Communiste Français"
+  abbr: "PCF"
+  logo: "pcf.svg"
 date: "2021-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-12-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "nora-cherki.jpg"
 ---
 
 Chères Douaisiennes, Chers Douaisiens,

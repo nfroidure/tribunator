@@ -1,16 +1,24 @@
 ---
 id: "2021-12-douai-notre-ville-coline-craeye"
-author: "Coline CRAEYE"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douai dynamique et durable"
-groupId: "douai-dynamique-et-durable-dvd"
+authors:
+- id: "coline-craeye"
+  name: "Coline CRAEYE"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "coline-craeye.jpg"
+group:
+  id: "douai-dynamique-et-durable-dvd"
+  name: "Douai dynamique et durable"
+  type: "Élus d’opposition"
+  party: "Alliance LReM-Modem"
+  abbr: "DVD"
+  logo: "default.svg"
 date: "2021-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-12-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "coline-craeye.jpg"
 ---
 
 Tout d'abord, **nous tenons à vous souhaiter de belles fêtes de fin d'année**. En espérant que vous pourrez les passer en famille ou entre amis, et nous avons une pensée pour celles et ceux qui seront éloignés de leurs proches.

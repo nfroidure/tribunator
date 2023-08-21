@@ -87,8 +87,7 @@ Cette année 2022 qui s’achève a été particulièrement riche pour chacun d�
 Cette nouvelle année 2023 s’annonce déjà très animée et sera particulièrement délicate pour tous les Français et les Douaisiens. Je reste mobilisé et attentif à vos attentes pour vous défendre au Conseil Municipal de notre ville et à l’Assemblée Nationale.
 
 Thibaut FRANÇOIS
-Conseiller municipal d’opposition
-Député de la circonscription
+Conseiller municipal d’opposition, Député de la circonscription
 
 ---
 

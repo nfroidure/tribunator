@@ -265,10 +265,14 @@
     "Adjoint au maire"
   ],
   "groups": [
-    "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
-  ],
-  "groupsIds": [
-    "douai-au-coeur-eelv"
+    {
+      "id": "douai-au-coeur-eelv",
+      "name": "Douai au Cœur",
+      "type": "Majorité municipale",
+      "party": "Europe Écologie-Les Verts",
+      "abbr": "EELV",
+      "logo": "eelv-douaisis.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

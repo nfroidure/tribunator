@@ -1,16 +1,24 @@
 ---
 id: "2015-09-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2015-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2015-09-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Une nouvelle fois, les animations de juin, couronnées par de très belles fêtes de Gayant, ont été un succès. Il était temps de mettre en œuvre le second engagement de la municipalité pour la relance du centre-ville : améliorer la circulation et le stationnement. Un effort avait déjà été fait pour rendre plus repérable et attractif le parking couvert du Dauphin. Nous avons aussi souhaité simplifier et fluidifier certains axes de circulation en ville. Dès cet été, la rue du Canteleu a été inversée pour permettre l’accès aux parkings Schuman et de la Poste depuis la rue de la Madeleine. Plusieurs feux ont disparu place Carnot, avant une inversion des rues Saint-Jean et Victor Hugo qui facilitera la circulation dans l’axe central.

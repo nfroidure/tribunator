@@ -1,16 +1,24 @@
 ---
 id: "2014-11-douai-notre-ville-marie-delecambre"
-author: "Marie DELECAMBRE"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "marie-delecambre"
+  name: "Marie DELECAMBRE"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "default.svg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2014-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2014-11-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 Après la rentrée économique et politique de la foire, les journées du patrimoine, le stimulant baptême du Parc Jacques Vernier et la braderie commerciale, les forces vives associatives du douaisis se retrouvaient le 12 octobre à Gayant expo pour la belle fête populaire des associations.

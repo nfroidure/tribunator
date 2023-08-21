@@ -1,16 +1,24 @@
 ---
 id: "2021-07-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2021-07-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-07-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Enfin le virus semble reculer. La vie reprend peu à peu un cours plus normal. Mais nous ne sommes pas encore sortis d’affaire ! La moitié à peine de la population est vaccinée, ce qui ne nous met pas encore à l’abri d’une quatrième vague. Alors, n’attendons pas : celles et ceux qui hésitent encore, ou préféreraient attendre septembre, doivent se faire vacciner dès maintenant. Après tout, on ne se vaccine pas seulement pour soi-même, mais aussi pour les autres.

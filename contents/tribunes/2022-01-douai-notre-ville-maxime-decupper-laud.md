@@ -1,16 +1,24 @@
 ---
 id: "2022-01-douai-notre-ville-maxime-decupper-laud"
-author: "Maxime DECUPPER-LAUD"
-title: "Conseiller municipal"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "maxime-decupper-laud"
+  name: "Maxime DECUPPER-LAUD"
+  mandates: 
+  - "Conseiller municipal"
+  portrait: "maxime-decupper-laud.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2022-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-01-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "maxime-decupper-laud.jpg"
 ---
 
 L’année 2022 marquera la première édition du défi des 3 Boucles : Les Boucles Aquatiques le 26 mars, les Boucles Pédestres le 26 mai et les Boucles Cyclistes le 26 juin.

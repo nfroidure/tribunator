@@ -1,16 +1,24 @@
 ---
 id: "2020-07-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2020-07-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2020-07-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Ce 28 juin aura lieu le second tour de l’élection municipale, plus de trois mois après la date prévue. Parce que beaucoup d’entre nous étaient inquiets, la participation avait été plus faible que d’habitude en mars. Pour ce second tour, les mesures de sécurité dans les bureaux de vote resteront évidemment très strictes, même si le risque a fortement diminué. Il est donc important que chacune, chacun exprime clairement son choix. Le résultat sera déterminant pour les six années à venir.

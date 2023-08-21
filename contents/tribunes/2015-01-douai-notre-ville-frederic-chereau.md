@@ -1,16 +1,24 @@
 ---
 id: "2015-01-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2015-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2015-01-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 2014 s'achève et je souhaite que ce soit pour vous de la plus belle des manières, en famille ou entouré d'amis, par exemple dans l'un des nombreux moments festifs qu'organisent nos associations dans les derniers jours de décembre. Parmi les vœux que je formule pour 2015 gure celui de voir Douai continuer à s’animer, à agir, à investir. Bien sûr, l’année qui s’ouvre devra être une année de stricte gestion, contexte financier oblige. Mais même dans ce contexte difficile, nous ne renoncerons pas à ce qui fait l’âme de notre ville. Les investissements iront en priorité à des aménagements qui réduiront, demain, les frais de fonctionnement de nos équipements.

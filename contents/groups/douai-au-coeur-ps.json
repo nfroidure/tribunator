@@ -3901,12 +3901,39 @@
       "count": 37
     }
   ],
-  "portrait": "frederic-chereau.jpg",
   "authors": [
-    "Agnès DUPUIS",
-    "Carolle DIVRECHY",
-    "Frédéric CHÉREAU",
-    "Jean-Marie DUPIRE"
+    {
+      "id": "agnes-dupuis",
+      "name": "Agnès DUPUIS",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "agnes-dupuis.jpg"
+    },
+    {
+      "id": "carolle-divrechy",
+      "name": "Carolle DIVRECHY",
+      "mandates": [
+        "Conseillère municipale"
+      ],
+      "portrait": "carolle-divrechy.jpg"
+    },
+    {
+      "id": "frederic-chereau",
+      "name": "Frédéric CHÉREAU",
+      "mandates": [
+        "Maire de Douai"
+      ],
+      "portrait": "frederic-chereau.jpg"
+    },
+    {
+      "id": "jean-marie-dupire",
+      "name": "Jean-Marie DUPIRE",
+      "mandates": [
+        "Conseiller municipal"
+      ],
+      "portrait": "jean-marie-dupire.jpg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

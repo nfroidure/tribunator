@@ -1,16 +1,24 @@
 ---
 id: "2023-05-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2023-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-05-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 La commune a adopté le 7 avril son budget pour l’année 2023. Malgré l’envolée des prix de l’énergie, malgré l’inflation sur tous les produits, malgré la décision de l’État de rattraper d’un coup plusieurs années sans augmentation du point d’indice des fonctionnaires, nous équilibrons notre budget sans modifier le taux des impôts. Douai reste dans la moyenne des villes comparables en termes d’imposition.

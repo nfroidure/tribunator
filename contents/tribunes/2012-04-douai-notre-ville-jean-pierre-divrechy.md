@@ -1,16 +1,24 @@
 ---
 id: "2012-04-douai-notre-ville-jean-pierre-divrechy"
-author: "Jean-Pierre DIVRECHY"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Vivons Douai (Parti Socialiste)"
-groupId: "vivons-douai-ps"
+authors:
+- id: "jean-pierre-divrechy"
+  name: "Jean-Pierre DIVRECHY"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "default.svg"
+group:
+  id: "vivons-douai-ps"
+  name: "Vivons Douai"
+  type: "Élus d’opposition"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2012-04-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2012-04-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 **Quelques questions “complémentaires”**

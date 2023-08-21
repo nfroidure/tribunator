@@ -1,16 +1,24 @@
 ---
 id: "2018-06-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2018-06-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2018-06-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Ce sont les forces vives de notre ville qui ont élaboré notre stratégie de centre-ville, que je présenterai le 15 juin au conseil municipal et le 30 à la population. Membres des conseils de quartier, commerçants, jeunes, agents municipaux, représentants de la CCI, du Scot ou de la CAD, ils ont été plusieurs dizaines à imaginer le cœur de ville de demain avec les élus. Grâce à leur travail, nous ouvrons un second chapitre de notre travail sur l’attractivité de Douai. Un chapitre déjà validé par l’État, qui a retenu Douai parmi 222communes accompagnées au niveau national, et qui salue l’état d’avancement de notre démarche.

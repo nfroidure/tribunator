@@ -1309,9 +1309,15 @@
       "count": 6
     }
   ],
-  "portrait": "francois-guiffard.jpg",
   "authors": [
-    "François GUIFFARD"
+    {
+      "id": "francois-guiffard",
+      "name": "François GUIFFARD",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "francois-guiffard.jpg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

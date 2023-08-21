@@ -1,16 +1,24 @@
 ---
 id: "2022-09-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2022-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-09-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Deux ans déjà ! Marqué par la crise du Covid, le premier tiers de ce mandat est vite passé. Transition écologique, éducation, jeunes, aînés, quartiers, cœur de ville : malgré la difficulté, beaucoup d’engagements pris en 2020 ont déjà été tenus ! Vous pourrez les découvrir au cœur de ce numéro. Le travail continue, bien sûr, et vos élus vous proposeront un second bilan d’étape en 2024.

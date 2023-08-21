@@ -1,3 +1,4 @@
+import { Fragment } from "react";
 import { pathJoin } from "../../utils/files";
 import { readEntries } from "../../utils/frontmatter";
 import {
@@ -8,7 +9,6 @@ import { DOMAIN_NAME, PUBLICATIONS } from "../../utils/constants";
 import { fixText } from "../../utils/text";
 import { renderMarkdown } from "../../utils/markdown";
 import { entriesToBaseListingMetadata } from ".";
-import { toASCIIString } from "../../utils/ascii";
 import UnorderedList from "../../components/ul";
 import ListItem from "../../components/li";
 import Strong from "../../components/strong";
@@ -67,15 +67,18 @@ const Entry = ({ entry, stats }: Props) => {
         <Heading2>Détails</Heading2>
         <UnorderedList>
           <ListItem>
-            <Strong>Auteur·e :</Strong>{' '}
-            <Anchor href={`/elu-es/${toASCIIString(entry.author)}`}>
-              {entry.author}
-            </Anchor>
+            <Strong>Auteur·e{entry.authors.length > 1 ? "s" : ""} :</Strong>{" "}
+            {entry.authors.map((author, index) => (
+              <Fragment key={author.id}>
+                {index === 0 ? '' : ', '}
+                <Anchor href={`/elu-es/${author.id}`}>{author.name}</Anchor>
+              </Fragment>
+            ))}.
           </ListItem>
           <ListItem>
-            <Strong>Groupe politique :</Strong>{' '}
-            <Anchor href={`/groupes/${toASCIIString(entry.groupId)}`}>
-              {entry.group}
+            <Strong>Groupe politique :</Strong>{" "}
+            <Anchor href={`/groupes/${entry.group.id}`}>
+              {entry.group.name} ({entry.group.party})
             </Anchor>
           </ListItem>
           <ListItem>
@@ -158,13 +161,13 @@ export const getStaticProps: GetStaticProps<Props, Params> = async ({
   params,
 }) => {
   const baseProps = entriesToBaseListingMetadata(
-    await readEntries<TribuneFrontmatterMetadata>(pathJoin(".", "contents", "tribunes"))
+    await readEntries<TribuneFrontmatterMetadata>(
+      pathJoin(".", "contents", "tribunes")
+    )
   );
-  const entry = baseProps.entries.find(
-    ({ id }) => id === (params || {}).id
-  );
+  const entry = baseProps.entries.find(({ id }) => id === (params || {}).id);
   const writterStats = await readWritterEntry(
-    authorToWritterFilename(entry.author)
+    authorToWritterFilename(entry.authors[0].name)
   );
   const stats = {
     sentences: writterStats.sentences.find(({ date }) => date === entry.date)

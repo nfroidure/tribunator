@@ -34,5 +34,4 @@ Cordialement et, à nouveau, bonne année à tous !
 Votre maire,
 
 Jacques VERNIER
-Maire de Douai
-Conseiller Régional
+Maire de Douai, Conseiller Régional

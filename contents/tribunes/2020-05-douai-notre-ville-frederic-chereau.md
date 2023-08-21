@@ -1,16 +1,24 @@
 ---
 id: "2020-05-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2020-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2020-05-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Le Grand Confinement. Voilà sans doute le nom qui restera dans l'Histoire du monde pour cette période incroyable et profondément déstabilisante que nous vivons. Du jour au lendemain, il a fallu bouleverser nos modes de vie, tout réorganiser, tout réapprendre. Accepter de ne plus voir autrement que par écran interposé certaines personnes qui nous sont chères. Pour certaines, certains, ce n'est qu'un mauvais moment à passer. Voire une expérience de vie originale. Pour beaucoup d'autres, ce confinement est une épreuve, parfois une catastrophe. Pour celles et ceux qui vivent dans un petit logement, sans jardin. Pour celles et ceux qui ont peur de perdre leur emploi, leur entreprise. Pour celles et ceux qui affrontent ce nouveau virus dans leur chair. Pour celles et ceux, enfin, qui doivent continuer à travailler, pour nous tous, malgré les risques.

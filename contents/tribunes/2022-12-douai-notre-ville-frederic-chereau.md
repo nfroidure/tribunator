@@ -1,16 +1,24 @@
 ---
 id: "2022-12-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2022-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-12-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Les fêtes de Noël se préparent et elles seront belles et festives, malgré les incertitudes du moment. Elles seront aussi solidaires, grâce à notre traditionnelle distribution de colis aux aînés, avec un nombre record de personnes inscrites, et aux personnes relevant du RSA, qui pourront à cette occasion découvrir les offres de la ville pour l’accueil des jeunes enfants. Nos crèches ne sont pas réservées qu’aux parents qui travaillent ! Et beaucoup d’actions liées à la parentalité sont organisées dans le cadre de la Cité éducative ou du programme de réussite éducative. Parmi nos aînés à qui le CCAS livre des repas à domicile, les plus modestes sont désormais conviés chaque mercredi pendant l’hiver à un repas avec animation, avec le soutien du Département.

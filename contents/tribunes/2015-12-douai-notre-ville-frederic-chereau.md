@@ -1,16 +1,24 @@
 ---
 id: "2015-12-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2015-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2015-12-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Triste Noël. A l’orée de ce mois de décembre d’habitude synonyme de paix, de fête et de chaleur humaine, c’est le chagrin qui nous étreint. Chagrin d’avoir vu brisées tant de vies innocentes, souvent jeunes, vies de celles et ceux qui ont été lâchement assassinés et vies de leurs proches qui les pleurent aujourd’hui. Chagrin aussi de voir des filles et fils de France embrigadés dans la folie criminelle d’une secte malfaisante.

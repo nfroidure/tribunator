@@ -1,16 +1,24 @@
 ---
 id: "2023-04-douai-notre-ville-xavier-thierry"
-author: "Xavier THIERRY"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Douai dynamique et durable"
-groupId: "douai-dynamique-et-durable-dvd"
+authors:
+- id: "xavier-thierry"
+  name: "Xavier THIERRY"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "xavier-thierry.jpg"
+group:
+  id: "douai-dynamique-et-durable-dvd"
+  name: "Douai dynamique et durable"
+  type: "Élus d’opposition"
+  party: "Alliance LReM-Modem"
+  abbr: "DVD"
+  logo: "default.svg"
 date: "2023-04-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-04-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "xavier-thierry.jpg"
 ---
 
 "Gouverner, c’est prévoir". Réviser le PLU d’un territoire fait partie de ces exercices, et à ce titre il engage.

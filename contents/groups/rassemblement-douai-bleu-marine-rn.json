@@ -2533,10 +2533,23 @@
       "count": 12
     }
   ],
-  "portrait": "guy-cannie.jpg",
   "authors": [
-    "Guy CANNIE",
-    "Gérard BAILLIET"
+    {
+      "id": "guy-cannie",
+      "name": "Guy CANNIE",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "guy-cannie.jpg"
+    },
+    {
+      "id": "gerard-bailliet",
+      "name": "Gérard BAILLIET",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

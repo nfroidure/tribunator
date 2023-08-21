@@ -1,16 +1,24 @@
 ---
 id: "2023-04-douai-notre-ville-auriane-ait-lasri"
-author: "Auriane AÏT LASRI"
-title: "Adjointe au maire"
-group: "Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)"
-groupId: "douai-au-coeur-pcf"
+authors:
+- id: "auriane-ait-lasri"
+  name: "Auriane AIT LASRI"
+  mandates: 
+  - "Adjointe au maire"
+  portrait: "auriane-ait-lasri.jpg"
+group:
+  id: "douai-au-coeur-pcf"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Communiste Français"
+  abbr: "PCF"
+  logo: "pcf.svg"
 date: "2023-04-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-04-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "auriane-ait-lasri.jpg"
 ---
 
 Depuis le début, nous nous sommes tous mobilisés pour exiger le retrait de la réforme des retraites. La ville de Douai a permis à tous les agents municipaux de participer à chaque manifestation, et nous saluons ce geste fort. Elle est devenue au fil des jours un choix idéologique imposé à toute la société française.

@@ -1,16 +1,24 @@
 ---
 id: "2016-04-douai-notre-ville-chantal-rybak"
-author: "Chantal RYBAK"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "chantal-rybak"
+  name: "Chantal RYBAK"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "chantal-rybak.jpg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2016-04-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2016-04-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "chantal-rybak.jpg"
 ---
 
 Une hausse du taux des impôts communaux est envisagée par le Maire, elle viendra s’ajouter à celles prévues par le Département et la CAD.

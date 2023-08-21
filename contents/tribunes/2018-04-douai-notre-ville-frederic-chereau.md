@@ -1,16 +1,24 @@
 ---
 id: "2018-04-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2018-04-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2018-04-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Le 7 mars 2017, le Premier ministre Bernard Cazeneuve affirmait à Oignies l’engagement de l’État de contribuer au renouveau du Bassin minier, notamment à la rénovation des cités minières. Le 21 février dernier, à Douai, le Premier ministre Édouard Philippe renouvelait cet engagement, qui se traduit depuis le 1er janvier par une zone franche urbaine couvrant la totalité du territoire de 148 communes, dont Douai. Cette zone franche concerne la création ou l’extension de petites et moyennes entreprises.

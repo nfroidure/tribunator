@@ -1163,13 +1163,17 @@
   "name": "Thibaut FRANÇOIS",
   "mandates": [
     "Conseiller municipal d’opposition",
-    "Conseiller municipal d’opposition\nDéputé de la circonscription"
+    "Député de la circonscription"
   ],
   "groups": [
-    "Élus d’opposition : Douai, plus belle, plus propre, plus sûre (Rassemblement National)"
-  ],
-  "groupsIds": [
-    "douai-plus-belle-plus-propre-plus-sure-rn"
+    {
+      "id": "douai-plus-belle-plus-propre-plus-sure-rn",
+      "name": "Douai, plus belle, plus propre, plus sûre",
+      "type": "Élus d’opposition",
+      "party": "Rassemblement National",
+      "abbr": "RN",
+      "logo": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

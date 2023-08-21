@@ -1,16 +1,24 @@
 ---
 id: "2022-11-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2022-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-11-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Face à la crise énergétique qui frappe toute l’Europe, notre ville dispose de deux atouts. 1 - elle est bien gérée : la dette par habitant est modérée, les dépenses maîtrisées par rapport à des communes comparables, nous avons de quoi investir. 2 - elle a déjà réduit sa consommation de gaz et d’électricité de 20% en 8 ans, grâce à des efforts dans tous les domaines : passage d’un quart des éclairages publics (et de tous les éclairages de Noël) en Led, isolation des bâtiments, renouvellement des chaudières, récupération de la chaleur des égouts à la piscine, etc.

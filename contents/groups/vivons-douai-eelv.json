@@ -157,9 +157,15 @@
       "count": 1
     }
   ],
-  "portrait": "default.svg",
   "authors": [
-    "Jackie AVENEL"
+    {
+      "id": "jackie-avenel",
+      "name": "Jackie AVENEL",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

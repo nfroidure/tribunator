@@ -48,7 +48,7 @@ La crise n’a pas la même saveur pour tout le monde. Les dividendes versés au
 L’humain d’abord est un projet de société cohérent pour se libérer du pouvoir de l’argent que nous tentons de faire vivre avec une voix différente au sein de la majorité de gauche.
 Nous vous souhaitons une excellente rentrée.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

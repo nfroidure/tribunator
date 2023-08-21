@@ -2173,12 +2173,14 @@
     "Conseiller municipal d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Rassemblement Douai Bleu Marine (Rassemblement National)",
-    "Élus d’opposition : Douai, plus belle, plus propre, plus sûre (Rassemblement National)"
-  ],
-  "groupsIds": [
-    "rassemblement-douai-bleu-marine-rn",
-    "douai-plus-belle-plus-propre-plus-sure-rn"
+    {
+      "id": "rassemblement-douai-bleu-marine-rn",
+      "name": "Rassemblement Douai Bleu Marine",
+      "type": "Élus d’opposition",
+      "party": "Rassemblement National",
+      "abbr": "RN",
+      "logo": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

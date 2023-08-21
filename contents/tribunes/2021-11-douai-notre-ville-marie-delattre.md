@@ -1,16 +1,24 @@
 ---
 id: "2021-11-douai-notre-ville-marie-delattre"
-author: "Marie DELATTRE"
-title: "Adjointe au maire"
-group: "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
-groupId: "douai-au-coeur-eelv"
+authors:
+- id: "marie-delattre"
+  name: "Marie DELATTRE"
+  mandates: 
+  - "Adjointe au maire"
+  portrait: "marie-delattre.jpg"
+group:
+  id: "douai-au-coeur-eelv"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Europe Écologie-Les Verts"
+  abbr: "EELV"
+  logo: "eelv-douaisis.svg"
 date: "2021-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-11-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "marie-delattre.jpg"
 ---
 
 Le 9 octobre s’est tenue la journée inter-conseil de quartier !

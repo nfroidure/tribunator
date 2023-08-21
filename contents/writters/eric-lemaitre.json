@@ -157,10 +157,14 @@
     "Conseiller municipal"
   ],
   "groups": [
-    "Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)"
-  ],
-  "groupsIds": [
-    "douai-au-coeur-pcf"
+    {
+      "id": "douai-au-coeur-pcf",
+      "name": "Douai au Cœur",
+      "type": "Majorité municipale",
+      "party": "Parti Communiste Français",
+      "abbr": "PCF",
+      "logo": "pcf.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

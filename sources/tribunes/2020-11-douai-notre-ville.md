@@ -64,7 +64,7 @@ nées vers ses proches, l’ensemble du corps enseignant mérite un soutien sans
 titutions de la République. De réforme en réforme, l’Éducation nationale a été malmenée depuis des décennies. Nous le disons depuis des années, les fractures profondes de notre Répu-
 blique trouvent leurs sources dans les reculs des services publics, le manque d’emploi, l’absence de perspective pour la jeunesse. Nous sommes convaincus que le respect mutuel des citoyens dans leur diversité et le respect de la laïcité sont des impératifs qui ne peuvent être remis en cause. Ils sont le fondement sur lesquels  repose notre République, la pierre angulaire à laquelle s’adosse le vivre ensemble.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

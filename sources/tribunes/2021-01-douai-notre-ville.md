@@ -68,7 +68,7 @@ Lors du dernier conseil municipal, notre proposition de faire venir à Douai le 
 
 En cette fin d’année, nous vous souhaitons beaucoup de bonheur. Comme l’écrivait Paul ELUARD : "Il ne faut pas de tout pour faire un monde, Il faut du bonheur et rien d’autre."
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

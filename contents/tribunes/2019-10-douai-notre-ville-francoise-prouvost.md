@@ -1,16 +1,24 @@
 ---
 id: "2019-10-douai-notre-ville-francoise-prouvost"
-author: "Françoise PROUVOST"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "francoise-prouvost"
+  name: "Françoise PROUVOST"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "default.svg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2019-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-10-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 Début septembre, le maire de Douai a fait parvenir à l’opposition un courrier précisant que nous sommes désormais en période électorale et qu’il ne nous est plus possible d’exprimer une position susceptible d’entrer dans un registre électoral. Exercer notre droit à la libre expression dans ces conditions devient une mission particulièrement délicate !

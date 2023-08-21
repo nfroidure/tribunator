@@ -1,5 +1,6 @@
 import { toASCIIString } from "./ascii";
 import { pathJoin, readDir, readJSON } from "./files";
+import { BaseGroup } from "./tribunes";
 
 export type OccurenceItem = {
   id: string;
@@ -46,10 +47,10 @@ export type StatsData = {
   summary: StatsSummary;
 };
 export type WritterStats = {
+  id: string;
   name: string;
   mandates: string[];
-  groups: string[];
-  groupsIds: string[];
+  groups: BaseGroup[];
   locality: string;
   country: string;
   portrait: string;

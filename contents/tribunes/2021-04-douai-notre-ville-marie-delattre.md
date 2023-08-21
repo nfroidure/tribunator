@@ -1,16 +1,24 @@
 ---
 id: "2021-04-douai-notre-ville-marie-delattre"
-author: "Marie DELATTRE"
-title: "Adjointe au maire"
-group: "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
-groupId: "douai-au-coeur-eelv"
+authors:
+- id: "marie-delattre"
+  name: "Marie DELATTRE"
+  mandates: 
+  - "Adjointe au maire"
+  portrait: "marie-delattre.jpg"
+group:
+  id: "douai-au-coeur-eelv"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Europe Écologie-Les Verts"
+  abbr: "EELV"
+  logo: "eelv-douaisis.svg"
 date: "2021-04-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-04-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "marie-delattre.jpg"
 ---
 
 Lors du vote du Budget 2021, la majorité du conseil municipal a voté la réfection de deux rues : l’axe Bellain-Madeleine mais également l’Avenue des Alizés à Dorignies.

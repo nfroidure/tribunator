@@ -1,16 +1,24 @@
 ---
 id: "2012-05-douai-notre-ville-brigitte-bonnaffe-leriche"
-author: "Brigitte BONNAFFE-LERICHE"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Vivons Douai (Parti Communiste)"
-groupId: "vivons-douai-pcf"
+authors:
+- id: "brigitte-bonnaffe-leriche"
+  name: "Brigitte BONNAFFE-LERICHE"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "default.svg"
+group:
+  id: "vivons-douai-pcf"
+  name: "Vivons Douai"
+  type: "Élus d’opposition"
+  party: "Parti Communiste Français"
+  abbr: "PCF"
+  logo: "pcf.svg"
 date: "2012-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2012-05-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 **Est-ce ainsi que les hommes vivent ?**

@@ -1,16 +1,24 @@
 ---
 id: "2016-11-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2016-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2016-11-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 L’attractivité de centre-ville est, à Douai, une priorité en actes. La première saison complète de piétonisation s’est achevée, à la satisfaction d’une grande partie des commerçants, selon la Voix du Nord : des promeneurs détendus, des animations, plus de cortèges bruyants… Une nouvelle enquête permettra dès cet automne de mieux connaître les attentes et les réactions des riverains, visiteurs et commerçants, avant de lancer la saison 2017, pourquoi pas jusqu’à Noël cette fois ?

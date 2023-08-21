@@ -1,16 +1,24 @@
 ---
 id: "2016-10-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2016-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2016-10-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Une passerelle piétonne entre Dorignies et le parc Jacques Vernier verra bien le jour en 2017 ! Ce beau projet est rendu possible par le soutien de la Cad, qui met à disposition de la ville l’ancien pont de chemin de fer enjambant la Scarpe, mais également par des financements de l’Europe et de l’État. Pour les habitants de Dorignies, le temps de trajet vers le parc s’en trouvera fortement réduit ! Merci à nos partenaires.

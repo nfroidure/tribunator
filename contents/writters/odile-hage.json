@@ -157,10 +157,14 @@
     "Conseillère municipale d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Vivons Douai (Parti Communiste)"
-  ],
-  "groupsIds": [
-    "vivons-douai-pcf"
+    {
+      "id": "vivons-douai-pcf",
+      "name": "Vivons Douai",
+      "type": "Élus d’opposition",
+      "party": "Parti Communiste Français",
+      "abbr": "PCF",
+      "logo": "pcf.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

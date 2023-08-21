@@ -265,10 +265,14 @@
     "Conseillère municipale d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-  ],
-  "groupsIds": [
-    "douaisiens-passionnement-ump"
+    {
+      "id": "douaisiens-passionnement-ump",
+      "name": "Douaisiens passionnément !",
+      "type": "Élus d’opposition",
+      "party": "Union pour un Mouvement Populaire",
+      "abbr": "UMP",
+      "logo": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

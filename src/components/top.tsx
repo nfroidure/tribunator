@@ -29,22 +29,22 @@ const Top = ({ summary }: { summary: StatsSummary }) => (
         <ListItem>
           <Anchor href={`/tribunes/${summary.exclamations.max.ids[0]}`}>
             📢 Tribune la plus affirmative ({summary.exclamations.max.value}{" "}
-            phrases ¡affirmatives!).
+            phrases affirmatives).
           </Anchor>
         </ListItem>
       ) : null}
       {summary.questions.max.value ? (
         <ListItem>
           <Anchor href={`/tribunes/${summary.questions.max.ids[0]}`}>
-            ❓ Tribune la plus interrogative ({summary.questions.max.value} phrases
-            ¿interrogatives?̉).
+            ❓ Tribune la plus interrogative ({summary.questions.max.value}{" "}
+            phrases interrogatives).
           </Anchor>
         </ListItem>
       ) : null}
       {summary.bolds.max.value ? (
         <ListItem>
           <Anchor href={`/tribunes/${summary.bolds.max.ids[0]}`}>
-            𝐁 Tribune la plus grasse ({summary.bolds.max.value} utilisations du
+            𝐁 Tribune la plus grasse ({summary.bolds.max.value} utilisations du{" "}
             <Strong>gras</Strong>).
           </Anchor>
         </ListItem>

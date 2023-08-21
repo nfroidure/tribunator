@@ -229,10 +229,14 @@
     "Conseillère municipale d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Douai dynamique et durable"
-  ],
-  "groupsIds": [
-    "douai-dynamique-et-durable-dvd"
+    {
+      "id": "douai-dynamique-et-durable-dvd",
+      "name": "Douai dynamique et durable",
+      "type": "Élus d’opposition",
+      "party": "Alliance LReM-Modem",
+      "abbr": "DVD",
+      "logo": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

@@ -1,16 +1,24 @@
 ---
 id: "2012-09-douai-notre-ville-odile-hage"
-author: "Odile HAGE"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Vivons Douai (Parti Communiste)"
-groupId: "vivons-douai-pcf"
+authors:
+- id: "odile-hage"
+  name: "Odile HAGE"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "default.svg"
+group:
+  id: "vivons-douai-pcf"
+  name: "Vivons Douai"
+  type: "Élus d’opposition"
+  party: "Parti Communiste Français"
+  abbr: "PCF"
+  logo: "pcf.svg"
 date: "2012-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2012-09-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 Comme leur Président,les douaisiens aspirent à une vie “normale”.

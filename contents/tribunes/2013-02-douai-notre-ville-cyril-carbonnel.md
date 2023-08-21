@@ -1,16 +1,24 @@
 ---
 id: "2013-02-douai-notre-ville-cyril-carbonnel"
-author: "Cyril CARBONNEL"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Vivons Douai (Parti Socialiste)"
-groupId: "vivons-douai-ps"
+authors:
+- id: "cyril-carbonnel"
+  name: "Cyril CARBONNEL"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "default.svg"
+group:
+  id: "vivons-douai-ps"
+  name: "Vivons Douai"
+  type: "Élus d’opposition"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2013-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2013-02-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 **Oui à l’intercommunalité mais pas à n’importe quel prix**

@@ -1,16 +1,24 @@
 ---
 id: "2021-01-douai-notre-ville-guy-cannie"
-author: "Guy CANNIE"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Douai, plus belle, plus propre, plus sûre (Rassemblement National)"
-groupId: "douai-plus-belle-plus-propre-plus-sure-rn"
+authors:
+- id: "guy-cannie"
+  name: "Guy CANNIE"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "guy-cannie.jpg"
+group:
+  id: "douai-plus-belle-plus-propre-plus-sure-rn"
+  name: "Douai, plus belle, plus propre, plus sûre"
+  type: "Élus d’opposition"
+  party: "Rassemblement National"
+  abbr: "RN"
+  logo: "default.svg"
 date: "2021-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-01-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "guy-cannie.jpg"
 ---
 
 **Le RN souhaite la démission de Jérôme SALOMON**

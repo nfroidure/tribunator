@@ -73,7 +73,7 @@ Cher·e·s Douaisien·ne·s, La crise sanitaire démontre un besoin de renforcem
 Le SMTD met en place une journée de la gratuité des transports le 19 septembre. Nous réaffirmons notre volonté d’une étude sérieuse pour la mise en place permanente de la gratuité des transports publics dans tout le Douaisis impératif social et écologique.
 Enfin, nous sommes aux côtés de celles et ceux qui luttent pour les précaires les sans-abris, les militants associatifs, bénévoles, et leur apportons tout notre soutien.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

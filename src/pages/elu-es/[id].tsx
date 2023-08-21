@@ -3,6 +3,7 @@ import { pathJoin } from "../../utils/files";
 import { fixText } from "../../utils/text";
 import { readWrittersEntries } from "../../utils/writters";
 import { entriesToBaseListingMetadata } from ".";
+import { Fragment } from "react";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Heading1 from "../../components/h1";
@@ -51,12 +52,12 @@ const Entry = ({ entry }: Props) => {
           <ListItem>
             <Strong>Groupe politique :</Strong>{" "}
             {entry.stats.groups.map((group, index) => (
-              <>
+              <Fragment key={group.id}>
                 {index ? ", " : ""}
-                <Anchor href={`/groupes/${entry.stats.groupsIds[index]}`}>
-                  {group}
+                <Anchor href={`/groupes/${group.id}`}>
+                  {group.name} ({group.party})
                 </Anchor>
-              </>
+              </Fragment>
             ))}
           </ListItem>
           <ListItem>

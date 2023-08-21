@@ -1,16 +1,24 @@
 ---
 id: "2018-07-douai-notre-ville-guy-cannie"
-author: "Guy CANNIE"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Rassemblement Douai Bleu Marine (Rassemblement National)"
-groupId: "rassemblement-douai-bleu-marine-rn"
+authors:
+- id: "guy-cannie"
+  name: "Guy CANNIE"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "guy-cannie.jpg"
+group:
+  id: "rassemblement-douai-bleu-marine-rn"
+  name: "Rassemblement Douai Bleu Marine"
+  type: "Élus d’opposition"
+  party: "Rassemblement National"
+  abbr: "RN"
+  logo: "default.svg"
 date: "2018-07-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2018-07-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "guy-cannie.jpg"
 ---
 
 **Le Rassemblement National : accélérez, Monsieur le Maire !**

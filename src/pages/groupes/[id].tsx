@@ -19,6 +19,7 @@ import Top from "../../components/top";
 import Stats from "../../components/stats";
 import type { GetStaticProps, GetStaticPaths } from "next";
 import type { Group } from "../../utils/groups";
+import { Fragment } from "react";
 
 type Params = { id: string };
 type Props = {
@@ -53,12 +54,10 @@ const Entry = ({ entry }: Props) => {
           <ListItem>
             <Strong>Membres :</Strong>{" "}
             {entry.stats.authors.map((author, index) => (
-              <>
+              <Fragment key={author.id}>
                 {index ? ", " : ""}
-                <Anchor href={`/elu-es/${toASCIIString(author)}`}>
-                  {author}
-                </Anchor>
-              </>
+                <Anchor href={`/elu-es/${author.id}`}>{author.name}</Anchor>
+              </Fragment>
             ))}
           </ListItem>
           <ListItem>

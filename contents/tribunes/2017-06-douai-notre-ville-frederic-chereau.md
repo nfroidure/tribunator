@@ -1,16 +1,24 @@
 ---
 id: "2017-06-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2017-06-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2017-06-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Accompagner les initiatives des habitants : c'est le sens des trois outils créés ou réorganisés par la Ville : "J'aime mon quartier", réservé aux grandes fêtes de quartier organisées par des collectifs d'associations, le "Fonds d'aide aux quartiers" (FAQ), pour les plus petits projets associatifs, un fonds géré en mode inter-quartiers et qui remplace le FPH de la Région, et le "Fonds de travaux urbain", pour des aménagements urbains (bancs, arbres, squares...). Les idées de petits aménagements ne manquent pas, j'ai pu le constater au fil des déambulations de printemps avec chaque conseil de quartier !

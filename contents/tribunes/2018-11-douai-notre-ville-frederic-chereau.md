@@ -1,16 +1,24 @@
 ---
 id: "2018-11-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2018-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2018-11-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Toutes les cloches de la ville sonneront à 11h, ce 11 novembre, à l'occasion du centenaire de l'armistice de 1918. Cette date sera le point d'orgue d'un trimestre d'événements culturels liés à cet anniversaire : expositions, spectacles, conférences, films, visites touristiques proposés par tous les services culturels de la ville et plusieurs associations... Jeunes et adultes pourront revivre et comprendre ce moment charnière de notre histoire et cette terrible année 1918, qui fut pour Douai à la fois celle de la libération et celle des pires destructions.

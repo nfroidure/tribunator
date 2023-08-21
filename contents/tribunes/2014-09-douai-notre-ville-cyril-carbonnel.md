@@ -1,16 +1,24 @@
 ---
 id: "2014-09-douai-notre-ville-cyril-carbonnel"
-author: "Cyril CARBONNEL"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "cyril-carbonnel"
+  name: "Cyril CARBONNEL"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "default.svg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2014-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2014-09-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 **Une rentrée sous surveillance**

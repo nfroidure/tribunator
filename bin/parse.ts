@@ -12,6 +12,7 @@ import type {
   StatItem,
   StatsSummary,
 } from "../src/utils/writters";
+import type { Author, BaseGroup } from "../src/utils/tribunes";
 
 const exec = promisify(_exec);
 
@@ -52,10 +53,12 @@ async function run() {
         );
         const tempFile = pathJoin(tempDir, filename);
 
-        await new Promise((resolve) => setTimeout(resolve, 500));
-        await exec(`google-chrome  --headless --screenshot=${tempFile} ${source}`);
-        await new Promise((resolve) => setTimeout(resolve, 500));
-        await exec(`convert ${tempFile} -trim ${captureDestination}`);
+        // await new Promise((resolve) => setTimeout(resolve, 500));
+        // await exec(
+        //   `google-chrome  --headless --screenshot=${tempFile} ${source}`
+        // );
+        // await new Promise((resolve) => setTimeout(resolve, 500));
+        // await exec(`convert ${tempFile} -trim ${captureDestination}`);
         return [...captures, captureDestination];
       },
       Promise.resolve([] as string[])
@@ -73,29 +76,50 @@ async function run() {
       const authorPart = (parts.pop() as string).trim();
       const mayorCase = !!authorPart.match(/^\s*votre maire/i);
       const authorParts = authorPart.split(/\n/).slice(mayorCase ? 1 : 0);
-      const author = authorParts.shift() as string;
-      const title = authorParts.join("\n");
+
+      if (authorParts.length % 2 !== 0) {
+        console.error(`🤔 - Author parts for ${file} looks strange!`);
+      }
+
+      const authors: Author[] = [];
+
+      do {
+        const name = authorParts.shift() as string;
+        const id = toASCIIString(name);
+        let portrait = id + ".jpg";
+        const mandates = (authorParts.shift() as string).split(/\s*,\s+/);
+
+        try {
+          await access(pathJoin("public", "images", "portraits", portrait));
+        } catch (err) {
+          portrait = "default.svg";
+        }
+
+        authors.push({
+          id,
+          name,
+          mandates,
+          portrait,
+        });
+      } while (authorParts.length);
+
       const content = parts
         .slice(mayorCase ? 0 : 1)
         .join("\n\n")
         .trim();
-      const group = mayorCase
-        ? "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-        : parts.slice(0, 1).join("");
-      const groupDetails = buildGroupDetails(group);
+      const group: BaseGroup = buildGroupDetails(
+        mayorCase
+          ? "Majorité municipale : Douai au Cœur (Parti Socialiste)"
+          : parts.slice(0, 1).join("")
+      );
       const source = mayorCase
         ? sourcesCaptures[1] || sourcesCaptures[0]
         : sourcesCaptures[0];
-      let portrait = toASCIIString(author) + ".jpg";
-
-      try {
-        await access(pathJoin("public", "images", "portraits", portrait));
-      } catch (err) {
-        portrait = "default.svg";
-      }
 
       const date = `${occurence}-01T00:00:00Z`;
-      const id = `${occurence}-${publication}-${toASCIIString(author)}`;
+      const id = `${occurence}-${publication}-${authors
+        .map(({ id }) => id)
+        .join("-")}`;
       const response = await axios({
         method: "post",
         url: `http://localhost:9000`,
@@ -122,13 +146,13 @@ async function run() {
         []
       );
 
-      const groupAggregation = groupsAggregations[groupDetails.id] || {
-        id: groupDetails.id,
-        name: groupDetails.name,
-        party: groupDetails.party,
-        partyAbbr: groupDetails.abbr,
-        type: groupDetails.type,
-        logo: groupDetails.logo,
+      const groupAggregation = groupsAggregations[group.id] || {
+        id: group.id,
+        name: group.name,
+        party: group.party,
+        partyAbbr: group.abbr,
+        type: group.type,
+        logo: group.logo,
         writtings: [],
         sentences: [],
         sentiments: [],
@@ -137,50 +161,65 @@ async function run() {
         bolds: [],
         caps: [],
         words: [],
-        portrait,
-        authors: [author],
+        authors,
         locality: "Douai",
         country: "France",
       };
 
-      groupsAggregations[groupDetails.id] = groupAggregation;
+      groupsAggregations[group.id] = groupAggregation;
       groupAggregation.authors = [
-        ...Array.from(new Set(groupAggregation.authors.concat(author))),
-      ].sort();
-
-      const writerAggregation = writtersAggregations[toASCIIString(author)] || {
-        writtings: [],
-        sentences: [],
-        sentiments: [],
-        exclamations: [],
-        questions: [],
-        bolds: [],
-        caps: [],
-        words: [],
-        portrait,
-        name: author,
-        mandates: [title],
-        groups: [group],
-        groupsIds: [groupDetails.id],
-        locality: "Douai",
-        country: "France",
-      };
-
-      writtersAggregations[toASCIIString(author)] = writerAggregation;
-      writerAggregation.groups = [
-        ...Array.from(new Set(writerAggregation.groups.concat(group))),
-      ];
-      writerAggregation.groupsIds = [
-        ...Array.from(
-          new Set(writerAggregation.groupsIds.concat(groupDetails.id))
+        ...groupAggregation.authors,
+        ...authors.filter(
+          ({ name }) =>
+            !groupAggregation.authors.some(
+              ({ name: otherName }) => name === otherName
+            )
         ),
-      ];
-      writerAggregation.mandates = [
-        ...Array.from(new Set(writerAggregation.mandates.concat(title))),
+      ].sort(sortByName);
+
+      const aggregationsList = [
+        groupAggregation,
+        ...authors.map(({ name, mandates, portrait }) => {
+          const writerAggregation = writtersAggregations[
+            toASCIIString(name)
+          ] || {
+            writtings: [],
+            sentences: [],
+            sentiments: [],
+            exclamations: [],
+            questions: [],
+            bolds: [],
+            caps: [],
+            words: [],
+            portrait,
+            name,
+            mandates,
+            groups: [group],
+            locality: "Douai",
+            country: "France",
+          };
+
+          writtersAggregations[toASCIIString(name)] = writerAggregation;
+          writerAggregation.groups = [
+            ...writerAggregation.groups,
+            ...(writerAggregation.groups.some(
+              ({ name: otherName }) => name === otherName
+            )
+              ? []
+              : []),
+          ].sort(sortByName);
+
+          writerAggregation.mandates = [
+            ...Array.from(new Set(writerAggregation.mandates.concat(mandates))),
+          ];
+
+          return writerAggregation;
+        }),
       ];
 
-      writerAggregation.writtings.push({ date, id });
-      groupAggregation.writtings.push({ date, id });
+      aggregationsList.forEach((aggregation) => {
+        aggregation.writtings.push({ date, id });
+      });
 
       const exclamation = {
         id,
@@ -191,8 +230,9 @@ async function run() {
           }, count);
         }, 0),
       };
-      writerAggregation.exclamations.push(exclamation);
-      groupAggregation.exclamations.push(exclamation);
+      aggregationsList.forEach((aggregation) => {
+        aggregation.exclamations.push(exclamation);
+      });
 
       const question = {
         id,
@@ -203,8 +243,9 @@ async function run() {
           }, count);
         }, 0),
       };
-      writerAggregation.questions.push(question);
-      groupAggregation.questions.push(question);
+      aggregationsList.forEach((aggregation) => {
+        aggregation.questions.push(question);
+      });
 
       const bold = {
         id,
@@ -215,8 +256,9 @@ async function run() {
           Math.floor([...Array.from(content.matchAll(/\*\*/gm))]?.length / 2) ||
           0,
       };
-      writerAggregation.bolds.push(bold);
-      groupAggregation.bolds.push(bold);
+      aggregationsList.forEach((aggregation) => {
+        aggregation.bolds.push(bold);
+      });
 
       const cap = {
         id,
@@ -233,12 +275,14 @@ async function run() {
           }, count);
         }, 0),
       };
-      writerAggregation.caps.push(cap);
-      groupAggregation.caps.push(cap);
+      aggregationsList.forEach((aggregation) => {
+        aggregation.caps.push(cap);
+      });
 
       const sentence = { id, date, count: response.data.sentences.length };
-      writerAggregation.sentences.push(sentence);
-      groupAggregation.sentences.push(sentence);
+      aggregationsList.forEach((aggregation) => {
+        aggregation.sentences.push(sentence);
+      });
 
       const sentiment = {
         id,
@@ -250,30 +294,46 @@ async function run() {
         negative: sentiments.filter((sentiment) => sentiment === "Negative")
           .length,
       };
-      writerAggregation.sentiments.push(sentiment);
-      groupAggregation.sentiments.push(sentiment);
+      aggregationsList.forEach((aggregation) => {
+        aggregation.sentiments.push(sentiment);
+      });
 
       words.forEach((word) => {
         const lemma = nl.lem(word.word);
-        writerAggregation.words[lemma] =
-          (writerAggregation.words[lemma] || 0) + 1;
-        groupAggregation.words[lemma] =
-          (groupAggregation.words[lemma] || 0) + 1;
+        aggregationsList.forEach((aggregation) => {
+          aggregation.words[lemma] = (aggregation.words[lemma] || 0) + 1;
+        });
       });
 
       const markdown = `---
 id: "${id}"
-author: "${author}"
-title: "${title}"
-group: "${group}"
-groupId: "${groupDetails.id}"
+authors:${authors
+        .map(
+          ({ id, name, mandates, portrait }) => `
+- id: "${id}"
+  name: "${name}"
+  mandates: ${mandates
+    .map(
+      (mandate) => `
+  - "${mandate}"`
+    )
+    .join("")}
+  portrait: "${portrait}"`
+        )
+        .join("")}
+group:
+  id: "${group.id}"
+  name: "${group.name}"
+  type: "${group.type}"
+  party: "${group.party}"
+  abbr: "${group.abbr}"
+  logo: "${group.logo}"
 date: "${date}"
 publication: "${publication}"
 source: "${source}"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "${portrait}"
 ---
 
 ${content}
@@ -373,8 +433,8 @@ ${content}
     JSON.stringify(shrinkSummary(globalStats), null, 2)
   );
 
-  function buildGroupDetails(group) {
-    const matches = group.match(/^(.*) :([^\(]*)(\(.*\)|)$/);
+  function buildGroupDetails(fullName): BaseGroup {
+    const matches = fullName.match(/^(.*) :([^\(]*)(\(.*\)|)$/);
     const name = matches[2].trim() || "Non-Affilié·es";
     const type = matches[1].trim();
     let party = matches[3].trim() || "Sans-Étiquette";
@@ -412,11 +472,11 @@ ${content}
       party = "Union pour un Mouvement Populaire";
       abbr = "UMP";
     }
-    if (group.includes("Douai dynamique et durable")) {
+    if (fullName.includes("Douai dynamique et durable")) {
       party = "Alliance LReM-Modem";
       abbr = "DVD";
     }
-    if (group.includes("Ensemble faisons Douai")) {
+    if (fullName.includes("Ensemble faisons Douai")) {
       party = "Sans-Étiquette";
       abbr = "SE";
     }
@@ -570,5 +630,17 @@ ${content}
         negative: shrinkStats(summary.sentiments.negative),
       },
     };
+  }
+
+  function sortByName<T extends { name: string }>(
+    authorA: T,
+    authorB: T
+  ): number {
+    if (authorA.name < authorB.name) {
+      return -1;
+    } else if (authorA.name > authorB.name) {
+      return 1;
+    }
+    return 0;
   }
 }

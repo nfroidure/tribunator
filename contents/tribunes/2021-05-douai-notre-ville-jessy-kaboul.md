@@ -1,16 +1,24 @@
 ---
 id: "2021-05-douai-notre-ville-jessy-kaboul"
-author: "Jessy KABOUL"
-title: "Adjoint au maire"
-group: "Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)"
-groupId: "douai-au-coeur-pcf"
+authors:
+- id: "jessy-kaboul"
+  name: "Jessy KABOUL"
+  mandates: 
+  - "Adjoint au maire"
+  portrait: "default.svg"
+group:
+  id: "douai-au-coeur-pcf"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Communiste Français"
+  abbr: "PCF"
+  logo: "pcf.svg"
 date: "2021-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-05-p15.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 Cher(e)s Douaisien(ne)s,

@@ -1,16 +1,24 @@
 ---
 id: "2019-09-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2019-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-09-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Nous voilà finalement en septembre. Tongs et maillots de bain ont rejoint les placards. Chacun se prépare pour la rentrée ! Si vous avez des enfants scolarisés, ils sont normalement déjà inscrits à la cantine, à la garderie ou aux accueils du mercredi depuis juin. Il reste toutefois quelques jours aux derniers retardataires, jusqu’au 4 ! Profitez-en, si vous le souhaitez, pour vous inscrire sur le kiosque en ligne, qui vous permettra de gérer toutes vos démarches à distance, à toute heure.

@@ -1,5 +1,6 @@
 import { toASCIIString } from "./ascii";
 import { pathJoin, readDir, readJSON } from "./files";
+import type { Author } from "./tribunes";
 import type { StatsData } from "./writters";
 
 export type GroupStats = {
@@ -9,7 +10,7 @@ export type GroupStats = {
   partyAbbr: string;
   type: string;
   logo: string;
-  authors: string[];
+  authors: Author[];
   locality: string;
   country: string;
 } & StatsData;

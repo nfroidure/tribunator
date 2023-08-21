@@ -1309,13 +1309,39 @@
       "count": 7
     }
   ],
-  "portrait": "auriane-ait-lasri.jpg",
   "authors": [
-    "Auriane AIT LASRI",
-    "Auriane AÏT LASRI",
-    "Jessy KABOUL",
-    "Nora CHERKI",
-    "Éric LEMAITRE"
+    {
+      "id": "auriane-ait-lasri",
+      "name": "Auriane AIT LASRI",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "auriane-ait-lasri.jpg"
+    },
+    {
+      "id": "jessy-kaboul",
+      "name": "Jessy KABOUL",
+      "mandates": [
+        "Adjoint au maire"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "nora-cherki",
+      "name": "Nora CHERKI",
+      "mandates": [
+        "Conseillère municipale"
+      ],
+      "portrait": "nora-cherki.jpg"
+    },
+    {
+      "id": "eric-lemaitre",
+      "name": "Éric LEMAITRE",
+      "mandates": [
+        "Conseiller municipal"
+      ],
+      "portrait": "eric-lemaitre.jpg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

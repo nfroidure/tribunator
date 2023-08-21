@@ -625,9 +625,16 @@
       "count": 4
     }
   ],
-  "portrait": "default.svg",
   "authors": [
-    "Jacques VERNIER"
+    {
+      "id": "jacques-vernier",
+      "name": "Jacques VERNIER",
+      "mandates": [
+        "Maire de Douai",
+        "Conseiller Régional"
+      ],
+      "portrait": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

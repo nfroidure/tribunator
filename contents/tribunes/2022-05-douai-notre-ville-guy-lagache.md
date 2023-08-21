@@ -1,16 +1,24 @@
 ---
 id: "2022-05-douai-notre-ville-guy-lagache"
-author: "Guy LAGACHE"
-title: "Conseiller municipal"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "guy-lagache"
+  name: "Guy LAGACHE"
+  mandates: 
+  - "Conseiller municipal"
+  portrait: "guy-lagache.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2022-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-05-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "guy-lagache.jpg"
 ---
 
 Après celle de Frais-Marais, je me réjouis qu’une nouvelle concertation ait eu lieu cet hiver à Gayant. Les conclusions de ce grand rendez-vous citoyen ont dévoilé toute une série d’aménage-

@@ -1,16 +1,24 @@
 ---
 id: "2021-09-douai-notre-ville-jean-marie-dupire"
-author: "Jean-Marie DUPIRE"
-title: "Conseiller municipal"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "jean-marie-dupire"
+  name: "Jean-Marie DUPIRE"
+  mandates: 
+  - "Conseiller municipal"
+  portrait: "jean-marie-dupire.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2021-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-09-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "jean-marie-dupire.jpg"
 ---
 
 Cher(e)s Douaisien(ne)s,

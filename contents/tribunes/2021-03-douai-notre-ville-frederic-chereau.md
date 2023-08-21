@@ -1,16 +1,24 @@
 ---
 id: "2021-03-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2021-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-03-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Alors que la fin de l’hiver approche, le risque d’un nouveau confinement menace. Nous avons l’impression que nous ne sortirons jamais de cette situation désespérante. Et pourtant ! Le développement de plusieurs vaccins en un temps record est un signe d’espoir. Soignants et élus locaux ont mis en place des centres de vaccinations efficaces, notamment ici à Douai. Nous finirons par sortir de cette crise. Mais le monde d’après sera différent du monde d’avant.

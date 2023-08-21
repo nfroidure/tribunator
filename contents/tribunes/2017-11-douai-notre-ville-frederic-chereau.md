@@ -1,16 +1,24 @@
 ---
 id: "2017-11-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2017-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2017-11-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Enfin la rue de la Mairie s’achève ! Il fallait y refaire des réseaux d’eau anciens et vétustes. Nous avons saisi l’occasion de la transformer. Sa réouverture sera l’occasion d’un mois festif avec les commerçants. En parallèle, la Ville aménage un nouveau commerce, dans le local de l’ancien glacier. L’an prochain sera lancée, avec le soutien de l’État, la rénovation des façades nord de l’hôtel de ville.

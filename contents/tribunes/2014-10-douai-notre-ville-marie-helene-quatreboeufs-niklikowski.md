@@ -1,16 +1,24 @@
 ---
 id: "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski"
-author: "Marie-Hélène QUATREBOEUFS-NIKLIKOWSKI"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "marie-helene-quatreboeufs-niklikowski"
+  name: "Marie-Hélène QUATREBOEUFS-NIKLIKOWSKI"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "default.svg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2014-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2014-10-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 J’imaginais que l’alternance politique voulue à Douai marquerait un réel changement, que la page Jacques Vernier avec ses aspects positifs et négatifs se tournerait avec respect et clarté.

@@ -1,16 +1,24 @@
 ---
 id: "2022-07-douai-notre-ville-thibaut-francois"
-author: "Thibaut FRANÇOIS"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Douai, plus belle, plus propre, plus sûre (Rassemblement National)"
-groupId: "douai-plus-belle-plus-propre-plus-sure-rn"
+authors:
+- id: "thibaut-francois"
+  name: "Thibaut FRANÇOIS"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "thibaut-francois.jpg"
+group:
+  id: "douai-plus-belle-plus-propre-plus-sure-rn"
+  name: "Douai, plus belle, plus propre, plus sûre"
+  type: "Élus d’opposition"
+  party: "Rassemblement National"
+  abbr: "RN"
+  logo: "default.svg"
 date: "2022-07-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-07-p15.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "thibaut-francois.jpg"
 ---
 
 Chers Douaisiens,

@@ -1,16 +1,24 @@
 ---
 id: "2019-12-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2019-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-12-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Noël arrive ! Et comme chaque année, nous célébrerons de belle manière à Douai cette fête familiale, qui fait la part belle aux enfants. Douai d’hiver, notre village de Noël, s’installera sur la place d’Armes du 14 décembre au 5 janvier. Douaisis Tourisme vous proposera une exceptionnelle journée culturelle autour de Noël le 15 décembre. L’esprit de Noël soufflera aussi dans chaque quartier de la ville, avec goûters, concours de maisons décorées, villages de Noël ou la désormais traditionnelle fête des lumières de Frais-Marais.

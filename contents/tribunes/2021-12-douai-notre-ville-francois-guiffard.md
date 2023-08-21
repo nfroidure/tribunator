@@ -1,16 +1,24 @@
 ---
 id: "2021-12-douai-notre-ville-francois-guiffard"
-author: "François GUIFFARD"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Ensemble faisons Douai"
-groupId: "ensemble-faisons-douai-se"
+authors:
+- id: "francois-guiffard"
+  name: "François GUIFFARD"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "francois-guiffard.jpg"
+group:
+  id: "ensemble-faisons-douai-se"
+  name: "Ensemble faisons Douai"
+  type: "Élus d’opposition"
+  party: "Sans-Étiquette"
+  abbr: "SE"
+  logo: "default.svg"
 date: "2021-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-12-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "francois-guiffard.jpg"
 ---
 
 Résorber les friches urbaines Lors d’un précédent conseil municipal, j’avais interpellé la majorité au sujet de l’ancienne annexe du lycée agricole, située rue de l’Université (à deux pas de notre Beffroi). Depuis de nombreuses années en effet, ce magnifique lieu est vide. Or cet exemple de friche urbaine n'est qu'un exemple parmi d'autres à Douai.

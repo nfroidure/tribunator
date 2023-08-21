@@ -1,16 +1,24 @@
 ---
 id: "2023-01-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2023-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-01-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Avec les membres du conseil municipal, je vous adresse mes vœux les plus chaleureux pour cette année 2023 ! Quelles que soient les surprises, bonnes ou moins bonnes, que nous réserve cette année, je vous souhaite de savoir profiter des bonheurs simples passés avec vos proches, de vivre sans regret ni impatience ce qu’offre chaque journée. Marcher dans un parc, lire un bon livre, partager un repas entre amis, savourer un film, une musique, ou goûter tout simplement la présence des gens qu’on aime : voilà qui peut suffire au bonheur.

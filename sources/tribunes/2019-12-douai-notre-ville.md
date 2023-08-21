@@ -18,12 +18,20 @@ Conseiller municipal d’opposition
 
 Joyeux Noël !
 Fête de la paix, fête de famille, fête des enfants, fête religieuse… À chacun son Noël et chacun le célèbre à sa façon. Vers les familles que les aléas de la vie ou le décès d’un proche ont frappées, vers ceux qui seront seuls ce jour-là, vers ceux qui ne parviennent pas à offrir à leurs enfants le Noël qu’ils aimeraient leur offrir vont toutes nos pensées. À toutes les Douaisiennes et à tous les Douaisiens, notre équipe souhaite un très JOYEUX NOËL,
-Françoise PROUVOST, Franz QUATREBOEUFS,
-Chantal RYBAK, Cyril CARBONNEL,
-Marie DELECAMBRE, Bruno BUFQUIN, Isabelle CHÂTELAIN,
-Conseillers municipaux d’opposition
 
 Françoise PROUVOST
+Conseillère municipale d’opposition
+Franz QUATREBOEUFS
+Conseiller municipal d’opposition
+Marie DELECAMBRE
+Conseillère municipale d’opposition
+Cyril CARBONNEL
+Conseiller municipal d’opposition
+Chantal RYBAK
+Conseillère municipale d’opposition
+Bruno BUFQUIN
+Conseiller municipal d’opposition
+Isabelle CHÂTELAIN
 Conseillère municipale d’opposition
 
 ---

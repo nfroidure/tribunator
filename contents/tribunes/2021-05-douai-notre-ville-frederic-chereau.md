@@ -1,16 +1,24 @@
 ---
 id: "2021-05-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2021-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-05-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Douai cité du livre ! Avec l’espoir d’accueillir la Bibliothèque nationale de France à Flers, c’est un projet qui pourrait rapidement prendre corps. Mais en réalité, Douai est déjà un peu ville du livre. Trois bibliothèques de quartier se sont ajoutées ces dernières années à notre médiathèque municipale Marceline Desbordes-Valmore, qui devrait déménager en cœur de ville dans les prochaines années. Un réseau de bibliothèques s’est mis en place avec Lambres et Cuincy et demain, peut-être, avec d’autres communes…

@@ -1,16 +1,24 @@
 ---
 id: "2022-01-douai-notre-ville-francois-guiffard"
-author: "François GUIFFARD"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Ensemble faisons Douai"
-groupId: "ensemble-faisons-douai-se"
+authors:
+- id: "francois-guiffard"
+  name: "François GUIFFARD"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "francois-guiffard.jpg"
+group:
+  id: "ensemble-faisons-douai-se"
+  name: "Ensemble faisons Douai"
+  type: "Élus d’opposition"
+  party: "Sans-Étiquette"
+  abbr: "SE"
+  logo: "default.svg"
 date: "2022-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-01-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "francois-guiffard.jpg"
 ---
 
 Chères Douaisiennes, chers Douaisiens, Notre équipe vous adresse ses meilleurs vœux ! Après une nouvelle année impactée par la crise du Covid, nous espérons que le plus dur est derrière nous. Durant cette période, il convient de saluer :

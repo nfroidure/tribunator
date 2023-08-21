@@ -79,7 +79,7 @@ Bravo à eux.
 
 *"La culture est un droit et un bonheur"* Jack RALITE
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

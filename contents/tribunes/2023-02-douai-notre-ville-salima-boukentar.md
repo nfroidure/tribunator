@@ -1,16 +1,24 @@
 ---
 id: "2023-02-douai-notre-ville-salima-boukentar"
-author: "Salima BOUKENTAR"
-title: "Conseillère municipale"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "salima-boukentar"
+  name: "Salima BOUKENTAR"
+  mandates: 
+  - "Conseillère municipale"
+  portrait: "salima-boukentar.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2023-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-02-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "salima-boukentar.jpg"
 ---
 
 Pourquoi est-il de plus en plus difficile de communiquer ? De nouveaux com-

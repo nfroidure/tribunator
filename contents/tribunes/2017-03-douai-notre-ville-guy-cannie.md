@@ -1,16 +1,24 @@
 ---
 id: "2017-03-douai-notre-ville-guy-cannie"
-author: "Guy CANNIE"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Rassemblement Douai Bleu Marine (Rassemblement National)"
-groupId: "rassemblement-douai-bleu-marine-rn"
+authors:
+- id: "guy-cannie"
+  name: "Guy CANNIE"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "guy-cannie.jpg"
+group:
+  id: "rassemblement-douai-bleu-marine-rn"
+  name: "Rassemblement Douai Bleu Marine"
+  type: "Élus d’opposition"
+  party: "Rassemblement National"
+  abbr: "RN"
+  logo: "default.svg"
 date: "2017-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2017-03-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "guy-cannie.jpg"
 ---
 
 **Le Front National : adieu Maître**

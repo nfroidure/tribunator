@@ -3794,12 +3794,14 @@
     "Maire de Douai"
   ],
   "groups": [
-    "Élus d’opposition : Vivons Douai (Parti Socialiste)",
-    "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-  ],
-  "groupsIds": [
-    "vivons-douai-ps",
-    "douai-au-coeur-ps"
+    {
+      "id": "vivons-douai-ps",
+      "name": "Vivons Douai",
+      "type": "Élus d’opposition",
+      "party": "Parti Socialiste",
+      "abbr": "PS",
+      "logo": "ps.png"
+    }
   ],
   "locality": "Douai",
   "country": "France",

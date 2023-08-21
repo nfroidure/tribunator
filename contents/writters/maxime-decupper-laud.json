@@ -193,10 +193,14 @@
     "Conseiller municipal"
   ],
   "groups": [
-    "Majorité municipale : Douai au Cœur (Vivre Douai)"
-  ],
-  "groupsIds": [
-    "douai-au-coeur-se"
+    {
+      "id": "douai-au-coeur-se",
+      "name": "Douai au Cœur",
+      "type": "Majorité municipale",
+      "party": "Citoyen·nes de Vivre Douai",
+      "abbr": "SE",
+      "logo": "douai-au-coeur.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

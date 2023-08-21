@@ -1,16 +1,24 @@
 ---
 id: "2015-03-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2015-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2015-03-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Nous fêterons ce 8 mars la journée mondiale des femmes. Si certains en profitent -c’est louable- pour offrir des fleurs, cette journée est d’abord l’occasion de nous rappeler les combats menés depuis plus de 200 ans par les citoyennes françaises, d’Olympe de Gouges à Simone Veil ou Yvette Roudy, pour défendre leurs droits. La loi autorisant une Française à gérer librement ses biens ou à ouvrir seule un compte en banque aura 50 ans cette année !

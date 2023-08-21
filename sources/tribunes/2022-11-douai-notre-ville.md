@@ -34,7 +34,7 @@ L’absence de service public est catastrophique et la santé ne doit pas être 
 Nous sommes également préoccupés par le manque de médecins dans nos communes et nous espérons un réel accompagnement pour agir dans le sens d’une meilleure prise en compte de ce pro-
 blème.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---
@@ -72,8 +72,7 @@ Nous avons appris que le passage Gayant baissera définitivement ses rideaux le 
 C’est une énième mauvaise nouvelle, qui sanctionne les mauvaises politiques de la municipalité socialiste qui continue d’abandonner nos commerçants. Nous payons le manque de volontarisme de la Mairie et ce sont les Douaisiens qui vont en subir les conséquences.
 
 Thibaut FRANÇOIS
-Conseiller municipal d’opposition
-Député de la circonscription
+Conseiller municipal d’opposition, Député de la circonscription
 
 ---
 

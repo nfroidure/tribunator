@@ -1,16 +1,24 @@
 ---
 id: "2022-01-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2022-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-01-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Au moment de quitter cette année 2021, un peu meilleure que la précédente mais encore difficile et mouvementée, j’ai une pensée reconnaissante, de nouveau, pour les médecins, infirmières et infirmiers, soignants qui nous ont tant protégés depuis le début de cette crise et continuent de le faire. Une pensée aussi pour les enseignant·e·s et pour tous nos personnels des crèches et des écoles qui ont tenu en première ligne, pour les policiers, les pompiers mais aussi les professionnel·le·s de l’action sociale et les bénévoles des associations de proximité, grâce à qui beaucoup d’entre nous ont tenu bon.

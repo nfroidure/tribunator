@@ -1,16 +1,24 @@
 ---
 id: "2020-10-douai-notre-ville-mohamed-kheraki"
-author: "Mohamed KHERAKI"
-title: "Adjoint au Maire"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "mohamed-kheraki"
+  name: "Mohamed KHERAKI"
+  mandates: 
+  - "Adjoint au Maire"
+  portrait: "mohamed-kheraki.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2020-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2020-10-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "mohamed-kheraki.jpg"
 ---
 
 De nombreux projets se mettent en place pour nos usagers avec un budget ambitieux, volontariste.

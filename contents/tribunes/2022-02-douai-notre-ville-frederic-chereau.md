@@ -1,16 +1,24 @@
 ---
 id: "2022-02-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2022-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-02-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Les communes, comme chacune et chacun d’entre nous, devraient subir, en 2022, une forte augmentation des coûts du gaz et de l’électricité. Sur une facture annuelle de 3 M€, la ville prévoit ainsi 700 000 € de plus cette année, soit 25% d’augmentation ! C’est un chiffre considérable, qui aura un impact sur nos finances. Fort heureusement, la ville mène depuis des années une politique constante de réduction de sa consommation, en isolant nos bâtiments, en remplaçant nos éclairages urbains par des Led.

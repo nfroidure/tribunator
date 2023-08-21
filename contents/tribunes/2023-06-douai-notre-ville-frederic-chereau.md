@@ -1,16 +1,24 @@
 ---
 id: "2023-06-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2023-06-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-06-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Le sport, c’est la santé, dit le proverbe ! C’est vrai que les bienfaits d’une activité physique régulière sont innombrables, sur le bien-être du corps comme de l’esprit. À Douai, vos élus s’attachent à ce que le sport soit accessible à tous, via de nombreux événements gratuits ou très abordables, des écoles municipales de sport gratuites pour les enfants, la piscine à 1€, des pistes cyclables nombreuses ou l’accès libre à des parcs aménagés, à des agrès sportifs ou des vestiaires.

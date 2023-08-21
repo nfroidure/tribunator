@@ -193,10 +193,14 @@
     "Conseiller municipal d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Vivons Douai (Parti Socialiste)"
-  ],
-  "groupsIds": [
-    "vivons-douai-ps"
+    {
+      "id": "vivons-douai-ps",
+      "name": "Vivons Douai",
+      "type": "Élus d’opposition",
+      "party": "Parti Socialiste",
+      "abbr": "PS",
+      "logo": "ps.png"
+    }
   ],
   "locality": "Douai",
   "country": "France",

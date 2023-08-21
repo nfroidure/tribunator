@@ -1,16 +1,24 @@
 ---
 id: "2021-10-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2021-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-10-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Notre cœur de ville se métamorphose et ça se voit ! Durant les beaux week-ends de ce mois de septembre, nous avons pu profiter de notre rue de la mairie piétonne, entre terrasses et marché aux livres. La rue de Bellain, elle aussi, sera bientôt libérée de ses travaux, retardés pour cause de difficultés d’approvisionnement. De très nombreux chantiers en France sont hélas touchés par ce problème et Douai ne fait pas exception…

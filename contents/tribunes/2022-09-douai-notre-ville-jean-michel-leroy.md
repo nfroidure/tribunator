@@ -1,16 +1,24 @@
 ---
 id: "2022-09-douai-notre-ville-jean-michel-leroy"
-author: "Jean-Michel LEROY"
-title: "Adjoint au maire"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "jean-michel-leroy"
+  name: "Jean-Michel LEROY"
+  mandates: 
+  - "Adjoint au maire"
+  portrait: "jean-michel-leroy.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2022-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-09-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "jean-michel-leroy.jpg"
 ---
 
 Après deux ans d’absence, les festivités tant attendues ont pu reprendre. Et oui, les fêtes de Gayant ont de nouveau animé la ville ! Nos Géants ont déambulé dans les rues de Douai et ont apprécié le beau bouclier, emblème de la ville, au carrefour de la place d’Armes et de la rue de la Mairie.

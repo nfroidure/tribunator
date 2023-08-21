@@ -88,7 +88,7 @@ Progressivement, les lieux culturels, les commerces, les terrasses des cafés et
 
 Le secteur culturel a particulièrement souffert. C’est pourquoi nous avons fait le pari d’ouvrir de nouveau au public les équipements culturels, dès le 19 mai, alors que de nombreuses communes ont reporté cette possibilité. Nous pourrons de nouveau nous retrouver autour de l’exposition Rimbaud, le théâtre sera en fête avec 7 spectacles et tout autant à l’Hippodrome.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

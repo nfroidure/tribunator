@@ -19,6 +19,14 @@
     {
       "date": "2016-01-01T00:00:00Z",
       "id": "2016-01-douai-notre-ville-cyril-carbonnel"
+    },
+    {
+      "date": "2019-04-01T00:00:00Z",
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
+    },
+    {
+      "date": "2019-12-01T00:00:00Z",
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
     }
   ],
   "sentences": [
@@ -46,6 +54,16 @@
       "id": "2016-01-douai-notre-ville-cyril-carbonnel",
       "date": "2016-01-01T00:00:00Z",
       "count": 6
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 9
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -83,6 +101,20 @@
       "positive": 0,
       "neutral": 5,
       "negative": 1
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -110,6 +142,16 @@
       "id": "2016-01-douai-notre-ville-cyril-carbonnel",
       "date": "2016-01-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -136,6 +178,16 @@
     {
       "id": "2016-01-douai-notre-ville-cyril-carbonnel",
       "date": "2016-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -164,6 +216,16 @@
       "id": "2016-01-douai-notre-ville-cyril-carbonnel",
       "date": "2016-01-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -191,6 +253,16 @@
       "id": "2016-01-douai-notre-ville-cyril-carbonnel",
       "date": "2016-01-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "count": 1
     }
   ],
   "words": [
@@ -215,11 +287,23 @@
       "count": 5
     },
     {
+      "word": "nouveau",
+      "count": 5
+    },
+    {
+      "word": "douaisiens",
+      "count": 4
+    },
+    {
+      "word": "local",
+      "count": 4
+    },
+    {
       "word": "service",
       "count": 4
     },
     {
-      "word": "nouveau",
+      "word": "devoir",
       "count": 4
     },
     {
@@ -228,6 +312,10 @@
     },
     {
       "word": "activité",
+      "count": 4
+    },
+    {
+      "word": "fête",
       "count": 4
     },
     {
@@ -251,10 +339,6 @@
       "count": 3
     },
     {
-      "word": "douaisiens",
-      "count": 3
-    },
-    {
       "word": "municipalité",
       "count": 3
     },
@@ -271,7 +355,7 @@
       "count": 3
     },
     {
-      "word": "devoir",
+      "word": "famille",
       "count": 3
     },
     {
@@ -279,20 +363,8 @@
       "count": 3
     },
     {
-      "word": "vœux",
+      "word": "fait",
       "count": 3
-    },
-    {
-      "word": "avoir",
-      "count": 2
-    },
-    {
-      "word": "mesure",
-      "count": 2
-    },
-    {
-      "word": "actuel",
-      "count": 2
     }
   ],
   "portrait": "default.svg",
@@ -301,25 +373,27 @@
     "Conseiller municipal d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Vivons Douai (Parti Socialiste)",
-    "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-  ],
-  "groupsIds": [
-    "vivons-douai-ps",
-    "douaisiens-passionnement-ump"
+    {
+      "id": "vivons-douai-ps",
+      "name": "Vivons Douai",
+      "type": "Élus d’opposition",
+      "party": "Parti Socialiste",
+      "abbr": "PS",
+      "logo": "ps.png"
+    }
   ],
   "locality": "Douai",
   "country": "France",
   "summary": {
     "sentences": {
       "mean": {
-        "count": 47,
-        "total": 5
+        "count": 60,
+        "total": 7
       },
       "min": {
-        "value": 6,
+        "value": 4,
         "ids": [
-          "2016-01-douai-notre-ville-cyril-carbonnel"
+          "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
         "restLength": 0
       },
@@ -333,8 +407,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 5,
-        "total": 5
+        "count": 7,
+        "total": 7
       },
       "min": {
         "value": 0,
@@ -356,7 +430,7 @@
     "questions": {
       "mean": {
         "count": 5,
-        "total": 5
+        "total": 7
       },
       "min": {
         "value": 0,
@@ -364,9 +438,10 @@
           "2012-02-douai-notre-ville-cyril-carbonnel",
           "2013-02-douai-notre-ville-cyril-carbonnel",
           "2014-09-douai-notre-ville-cyril-carbonnel",
-          "2016-01-douai-notre-ville-cyril-carbonnel"
+          "2016-01-douai-notre-ville-cyril-carbonnel",
+          "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
-        "restLength": 0
+        "restLength": 1
       },
       "max": {
         "value": 5,
@@ -378,13 +453,14 @@
     },
     "bolds": {
       "mean": {
-        "count": 4,
-        "total": 5
+        "count": 5,
+        "total": 7
       },
       "min": {
         "value": 0,
         "ids": [
-          "2015-03-douai-notre-ville-cyril-carbonnel"
+          "2015-03-douai-notre-ville-cyril-carbonnel",
+          "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
         "restLength": 0
       },
@@ -394,15 +470,16 @@
           "2012-02-douai-notre-ville-cyril-carbonnel",
           "2013-02-douai-notre-ville-cyril-carbonnel",
           "2014-09-douai-notre-ville-cyril-carbonnel",
-          "2016-01-douai-notre-ville-cyril-carbonnel"
+          "2016-01-douai-notre-ville-cyril-carbonnel",
+          "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
         "restLength": 0
       }
     },
     "caps": {
       "mean": {
-        "count": 2,
-        "total": 5
+        "count": 3,
+        "total": 7
       },
       "min": {
         "value": 0,
@@ -410,7 +487,8 @@
           "2012-02-douai-notre-ville-cyril-carbonnel",
           "2013-02-douai-notre-ville-cyril-carbonnel",
           "2014-09-douai-notre-ville-cyril-carbonnel",
-          "2015-03-douai-notre-ville-cyril-carbonnel"
+          "2015-03-douai-notre-ville-cyril-carbonnel",
+          "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
         "restLength": 0
       },
@@ -426,14 +504,16 @@
       "positive": {
         "mean": {
           "count": 2,
-          "total": 5
+          "total": 7
         },
         "min": {
           "value": 0,
           "ids": [
             "2014-09-douai-notre-ville-cyril-carbonnel",
             "2015-03-douai-notre-ville-cyril-carbonnel",
-            "2016-01-douai-notre-ville-cyril-carbonnel"
+            "2016-01-douai-notre-ville-cyril-carbonnel",
+            "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+            "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
           ],
           "restLength": 0
         },
@@ -448,13 +528,13 @@
       },
       "neutral": {
         "mean": {
-          "count": 41,
-          "total": 5
+          "count": 53,
+          "total": 7
         },
         "min": {
-          "value": 5,
+          "value": 4,
           "ids": [
-            "2016-01-douai-notre-ville-cyril-carbonnel"
+            "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
           ],
           "restLength": 0
         },
@@ -468,13 +548,14 @@
       },
       "negative": {
         "mean": {
-          "count": 4,
-          "total": 5
+          "count": 5,
+          "total": 7
         },
         "min": {
           "value": 0,
           "ids": [
-            "2015-03-douai-notre-ville-cyril-carbonnel"
+            "2015-03-douai-notre-ville-cyril-carbonnel",
+            "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
           ],
           "restLength": 0
         },
@@ -484,7 +565,8 @@
             "2012-02-douai-notre-ville-cyril-carbonnel",
             "2013-02-douai-notre-ville-cyril-carbonnel",
             "2014-09-douai-notre-ville-cyril-carbonnel",
-            "2016-01-douai-notre-ville-cyril-carbonnel"
+            "2016-01-douai-notre-ville-cyril-carbonnel",
+            "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
           ],
           "restLength": 0
         }

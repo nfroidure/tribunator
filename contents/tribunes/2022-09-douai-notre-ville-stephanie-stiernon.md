@@ -1,16 +1,24 @@
 ---
 id: "2022-09-douai-notre-ville-stephanie-stiernon"
-author: "Stéphanie STIERNON"
-title: "Adjointe au maire"
-group: "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
-groupId: "douai-au-coeur-eelv"
+authors:
+- id: "stephanie-stiernon"
+  name: "Stéphanie STIERNON"
+  mandates: 
+  - "Adjointe au maire"
+  portrait: "stephanie-stiernon.jpg"
+group:
+  id: "douai-au-coeur-eelv"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Europe Écologie-Les Verts"
+  abbr: "EELV"
+  logo: "eelv-douaisis.svg"
 date: "2022-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-09-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "stephanie-stiernon.jpg"
 ---
 
 L’été 2022 a encore montré les effets locaux du réchauffement climatique :

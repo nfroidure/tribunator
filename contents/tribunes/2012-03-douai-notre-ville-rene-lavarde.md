@@ -1,16 +1,24 @@
 ---
 id: "2012-03-douai-notre-ville-rene-lavarde"
-author: "René LAVARDE"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Vivons Douai (Parti Socialiste)"
-groupId: "vivons-douai-ps"
+authors:
+- id: "rene-lavarde"
+  name: "René LAVARDE"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "default.svg"
+group:
+  id: "vivons-douai-ps"
+  name: "Vivons Douai"
+  type: "Élus d’opposition"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2012-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2012-03-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 **Place d’Armes : sous les pavés, l’espoir ?**

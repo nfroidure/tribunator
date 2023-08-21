@@ -81,7 +81,7 @@ Il est important de réfléchir à une nouvelle façon de faire de la politique 
 
 Le FIGRA, dont la devise est "comprendre le monde pour mieux se comprendre", fait partie de cette ambition : c’est un projet culturel majeur pour connaître notre monde, avec une qualité des reportages qui seront diffusés, des journalistes présents qui ont visité des pays nombreux à travers le monde. Une exposition sera au cœur de notre citoyenneté sur le thème des droits humains, au musée de la Chartreuse. Les enfants des écoles de Douai, seront partie prenante du projet.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

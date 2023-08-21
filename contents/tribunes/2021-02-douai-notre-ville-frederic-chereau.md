@@ -1,16 +1,24 @@
 ---
 id: "2021-02-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2021-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-02-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Malgré la crise sanitaire, les élus de Douai ont souhaité maintenir un niveau d’investissement élevé en 2021. Notre situation budgétaire saine le permet. Cela signifie que nous continuons à travailler à l’embellissement et au renouveau de notre ville. Cela signifie aussi que nous apportons une activité bienvenue à nos entreprises, qui en ont besoin.

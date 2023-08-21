@@ -1,17 +1,25 @@
 ---
 id: "2012-10-douai-notre-ville-jacques-vernier"
-author: "Jacques VERNIER"
-title: "Maire de Douai
-Conseiller Régional"
-group: "Majorité municipale : Jacques Vernier (UMP)"
-groupId: "jacques-vernier-ump"
+authors:
+- id: "jacques-vernier"
+  name: "Jacques VERNIER"
+  mandates: 
+  - "Maire de Douai"
+  - "Conseiller Régional"
+  portrait: "default.svg"
+group:
+  id: "jacques-vernier-ump"
+  name: "Jacques Vernier"
+  type: "Majorité municipale"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2012-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2012-10-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 **Place d’Armes

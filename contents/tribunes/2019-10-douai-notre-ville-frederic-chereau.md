@@ -1,16 +1,24 @@
 ---
 id: "2019-10-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2019-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-10-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Plusieurs rendez-vous santé vous attendent en octobre. Avec en clôture du mois, bien sûr, l’événement toujours attendu de l’automne : Octobre rose. Le grand défilé aura lieu le 25 à 20h au théâtre municipal. Avec un message unique, au-delà du plaisir et de l’émotion de la soirée : mesdames, faites-vous dépister, messieurs, encouragez et accompagnez les femmes qui vous entourent !

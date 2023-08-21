@@ -1,16 +1,24 @@
 ---
 id: "2017-11-douai-notre-ville-marie-delecambre"
-author: "Marie DELECAMBRE"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "marie-delecambre"
+  name: "Marie DELECAMBRE"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "default.svg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2017-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2017-11-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 La Commission d’Appel d’Offre réunie le 13 octobre dernier s’est prononcée sur le choix de l’entreprise qui posera et déposera les motifs d’illuminations de fin d’année.

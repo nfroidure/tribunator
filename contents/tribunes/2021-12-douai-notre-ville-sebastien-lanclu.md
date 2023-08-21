@@ -1,16 +1,24 @@
 ---
 id: "2021-12-douai-notre-ville-sebastien-lanclu"
-author: "Sébastien LANCLU"
-title: "Conseiller municipal"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "sebastien-lanclu"
+  name: "Sébastien LANCLU"
+  mandates: 
+  - "Conseiller municipal"
+  portrait: "sebastien-lanclu.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2021-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-12-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "sebastien-lanclu.jpg"
 ---
 
 Les fêtes de fin d’année sont toujours l’occasion de passer de bons moments en famille, entre ami·e·s. C’est également le temps de faire le bilan et de constater qu’un an après le vote de la délibération cadre “Grands Projets Urbains”, la ville poursuit sa mutation en profondeur.

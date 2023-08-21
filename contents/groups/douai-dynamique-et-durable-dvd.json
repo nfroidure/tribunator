@@ -1309,16 +1309,71 @@
       "count": 7
     }
   ],
-  "portrait": "coline-craeye.jpg",
   "authors": [
-    "Anissa BOUCHABOUN",
-    "Anne COLIN",
-    "Chantal RYBAK",
-    "Coline CRAEYE",
-    "Coline CRAEYE,",
-    "Franz QUATREBOEUFS",
-    "Mohamed FELOUKI",
-    "Xavier THIERRY"
+    {
+      "id": "anissa-bouchaboun",
+      "name": "Anissa BOUCHABOUN",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "anissa-bouchaboun.jpg"
+    },
+    {
+      "id": "anne-colin",
+      "name": "Anne COLIN",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "anne-colin.jpg"
+    },
+    {
+      "id": "chantal-rybak",
+      "name": "Chantal RYBAK",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "chantal-rybak.jpg"
+    },
+    {
+      "id": "coline-craeye",
+      "name": "Coline CRAEYE",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "coline-craeye.jpg"
+    },
+    {
+      "id": "coline-craeye",
+      "name": "Coline CRAEYE,",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "coline-craeye.jpg"
+    },
+    {
+      "id": "franz-quatreboeufs",
+      "name": "Franz QUATREBOEUFS",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "franz-quatreboeufs.jpg"
+    },
+    {
+      "id": "mohamed-felouki",
+      "name": "Mohamed FELOUKI",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "mohamed-felouki.jpg"
+    },
+    {
+      "id": "xavier-thierry",
+      "name": "Xavier THIERRY",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "xavier-thierry.jpg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

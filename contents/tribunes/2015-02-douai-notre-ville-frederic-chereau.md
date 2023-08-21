@@ -1,16 +1,24 @@
 ---
 id: "2015-02-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2015-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2015-02-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 ace aux crimes odieux qui ont frappé notre pays en ce début d’année, les Douaisiens ont su se montrer solidaires et unis dans leur diversité, affirmant ensemble leur attachement profond aux valeurs républicaines et à une certaine idée du vivre-ensemble. Le 8, le 11 janvier, Douai était saisie d’une juste colère mais Douai était belle. Cette capacité à nous rassembler dans l’adversité est notre force ! Soyons en fiers.

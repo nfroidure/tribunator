@@ -1,16 +1,24 @@
 ---
 id: "2022-10-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2022-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-10-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 En mai, Douai notre ville vous avait expliqué, dans une infographie, à quoi la municipalité utilisait son budget. Ce mois-ci, au moment où certains d’entre nous vont recevoir leur avis d’impôt foncier, votre magazine vous éclaire sur les recettes de la commune. Une grande partie vient de l’Etat ou de Douaisis agglo ! La taxe foncière elle-même est souvent payée par des gens qui n’habitent pas Douai, de même que certains services, comme la cantine, les parcmètres ou les locations de salles. Inversement, près des deux tiers des Douaisiens ne paient pas l’impôt foncier.

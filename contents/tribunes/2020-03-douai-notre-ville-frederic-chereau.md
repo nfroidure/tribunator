@@ -1,16 +1,24 @@
 ---
 id: "2020-03-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2020-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2020-03-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Dans quelques jours, les 15 et 22 mars, auront lieu les élections municipales. L’occasion pour chacune et chacun d’exprimer un choix, de se faire entendre comme citoyenne, comme citoyen. 24 bureaux de vote couvrent notre ville, au plus près des habitant·es, de façon qu’il soit simple pour tou-te-s d’aller voter. Ils seront ouverts ces deux dimanches de 8h à 18h.

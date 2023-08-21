@@ -1,16 +1,24 @@
 ---
 id: "2022-02-douai-notre-ville-francois-guiffard"
-author: "François GUIFFARD"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Ensemble faisons Douai"
-groupId: "ensemble-faisons-douai-se"
+authors:
+- id: "francois-guiffard"
+  name: "François GUIFFARD"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "francois-guiffard.jpg"
+group:
+  id: "ensemble-faisons-douai-se"
+  name: "Ensemble faisons Douai"
+  type: "Élus d’opposition"
+  party: "Sans-Étiquette"
+  abbr: "SE"
+  logo: "default.svg"
 date: "2022-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-02-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "francois-guiffard.jpg"
 ---
 
 Si l’édition 2021 de Douai d’Hiver fut une nouvelle fois marquée par la crise sanitaire, il apparaît opportun d’en faire un bilan afin de construire une formule plus ambitieuse.

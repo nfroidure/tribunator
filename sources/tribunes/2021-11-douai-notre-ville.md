@@ -93,7 +93,7 @@ La santé, c’est aussi un contrat local qui doit être débattu à l’échell
 
 Nous souhaitons en être parties prenantes, pour construire une réelle politique volontariste au service des habitants. Encore faudrait-il que la ville-centre soit respectée par l’agglomération…
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

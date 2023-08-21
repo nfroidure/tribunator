@@ -127,24 +127,31 @@ export const entriesToBaseListingMetadata = (
 
       return {
         ...entry.attributes,
-        title: `${entry.attributes.author} - ${new Intl.DateTimeFormat(
-          "fr-FR",
-          {
-            year: "numeric",
-            month: "long",
-          }
-        ).format(new Date(entry.attributes.date))}`,
-        description: `Tribune de ${entry.attributes.author} dans le ${
+        title: `${
+          entry.attributes.authors.length === 1
+            ? entry.attributes.authors[0].name
+            : entry.attributes.group.name
+        } - ${new Intl.DateTimeFormat("fr-FR", {
+          year: "numeric",
+          month: "long",
+        }).format(new Date(entry.attributes.date))}`,
+        description: `Tribune de ${entry.attributes.authors
+          .map(({ name }) => name)
+          .join(", ")} dans le ${
           PUBLICATIONS[entry.attributes.publication]
         } du ${new Intl.DateTimeFormat("fr-FR", {
           dateStyle: "full",
         }).format(new Date(entry.attributes.date))}`,
         content,
         summary: summarize(collectMarkdownText(content), 155),
-        illustration: {
-          url: `images/portraits/${entry.attributes.portrait}`,
-          alt: `Portrait de ${entry.attributes.author}`,
-        },
+        ...(entry.attributes.authors.length === 1
+          ? {
+              illustration: {
+                url: `images/portraits/${entry.attributes.authors[0].portrait}`,
+                alt: `Portrait de ${entry.attributes.authors[0].name}`,
+              },
+            }
+          : {}),
       };
     })
     .sort(datedPagesSorter);

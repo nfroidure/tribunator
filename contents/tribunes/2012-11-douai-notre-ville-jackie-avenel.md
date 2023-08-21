@@ -1,16 +1,24 @@
 ---
 id: "2012-11-douai-notre-ville-jackie-avenel"
-author: "Jackie AVENEL"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Vivons Douai (Europe Écologie les Verts)"
-groupId: "vivons-douai-eelv"
+authors:
+- id: "jackie-avenel"
+  name: "Jackie AVENEL"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "default.svg"
+group:
+  id: "vivons-douai-eelv"
+  name: "Vivons Douai"
+  type: "Élus d’opposition"
+  party: "Europe Écologie-Les Verts"
+  abbr: "EELV"
+  logo: "eelv-douaisis.svg"
 date: "2012-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2012-11-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 **Notre municipalité se serait-elle convertie à la démocratie participative ?**

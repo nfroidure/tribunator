@@ -1,16 +1,24 @@
 ---
 id: "2021-11-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2021-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-11-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Un million d’euros en trois ans : voilà la somme engagée par l’État sur la cité éducative Douai-Waziers, un nouveau dispositif de soutiens aux élèves et à leurs parents, qui concerne 15 écoles, maternelles et élémentaires, et trois collèges de notre ville. La commune apportera, elle 340 000 € en trois ans. La médiation scolaire, le développement du langage chez les plus jeunes, le soutien à la parentalité ou l’inclusion des enfants porteurs de handicap : voilà quelques-uns des thèmes principaux de ce projet partenarial, qui a vocation à vivre dans et hors de l’école.

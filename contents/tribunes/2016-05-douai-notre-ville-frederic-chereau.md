@@ -1,16 +1,24 @@
 ---
 id: "2016-05-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2016-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2016-05-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Depuis deux ans, l’équipe municipale que je conduis est au travail pour investir, développer notre ville, la rendre plus attractive et plus animée. Nous avons eu à cœur de faire participer largement citoyennes et citoyens aux décisions qui les concernent. La participation des habitants, ça marche ! Ce message sera au cœur de l’anniversaire du jardin des Millions, le 20 mai. Un espace voulu et imaginé par les habitants, il y a dix ans ! Et un exemple à suivre aujourd’hui.

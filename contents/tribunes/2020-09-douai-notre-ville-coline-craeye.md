@@ -1,16 +1,24 @@
 ---
 id: "2020-09-douai-notre-ville-coline-craeye"
-author: "Coline CRAEYE"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douai dynamique et durable"
-groupId: "douai-dynamique-et-durable-dvd"
+authors:
+- id: "coline-craeye"
+  name: "Coline CRAEYE"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "coline-craeye.jpg"
+group:
+  id: "douai-dynamique-et-durable-dvd"
+  name: "Douai dynamique et durable"
+  type: "Élus d’opposition"
+  party: "Alliance LReM-Modem"
+  abbr: "DVD"
+  logo: "default.svg"
 date: "2020-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2020-09-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "coline-craeye.jpg"
 ---
 
 C’est une rentrée particulière que nous vivons, après un été marqué par la crise du COVID. Une crise toujours présente qui nous oblige à redoubler d’efforts pour la santé de tous.

@@ -45,7 +45,7 @@ Chers Douaisiens, Chères Douaisiennes,
 La situation internationale alarmante conjuguée aux résultats de l’élection présidentielle provoque un climat d’incertitude (au moment où cette tribune est rédigée, seul le premier tour s’est déroulé). Les conséquences économiques de la guerre en Ukraine sont un fardeau pour les peuples, qui subissent les augmentations des produits de première nécessité. Pendant ce temps, nous apprenons que les salaires des grands patrons du CAC 40 ont doublé !
 Nul doute que le FIGRA (Festival International du grand reportage d'actualité) sera une fenêtre sur le monde  pour que le maximum de Douaisiens puisse accéder à des documentaires de qualité et, échanger avec les grands reporters.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

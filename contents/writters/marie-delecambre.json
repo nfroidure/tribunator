@@ -31,6 +31,14 @@
     {
       "date": "2019-03-01T00:00:00Z",
       "id": "2019-03-douai-notre-ville-marie-delecambre"
+    },
+    {
+      "date": "2019-04-01T00:00:00Z",
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
+    },
+    {
+      "date": "2019-12-01T00:00:00Z",
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
     }
   ],
   "sentences": [
@@ -73,6 +81,16 @@
       "id": "2019-03-douai-notre-ville-marie-delecambre",
       "date": "2019-03-01T00:00:00Z",
       "count": 6
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 9
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -131,6 +149,20 @@
       "positive": 0,
       "neutral": 4,
       "negative": 2
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -172,6 +204,16 @@
     {
       "id": "2019-03-douai-notre-ville-marie-delecambre",
       "date": "2019-03-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -215,6 +257,16 @@
       "id": "2019-03-douai-notre-ville-marie-delecambre",
       "date": "2019-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -256,6 +308,16 @@
     {
       "id": "2019-03-douai-notre-ville-marie-delecambre",
       "date": "2019-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -299,6 +361,16 @@
       "id": "2019-03-douai-notre-ville-marie-delecambre",
       "date": "2019-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
+      "date": "2019-12-01T00:00:00Z",
+      "count": 1
     }
   ],
   "words": [
@@ -311,11 +383,19 @@
       "count": 11
     },
     {
+      "word": "fête",
+      "count": 7
+    },
+    {
       "word": "année",
       "count": 7
     },
     {
       "word": "nombreux",
+      "count": 5
+    },
+    {
+      "word": "régional",
       "count": 5
     },
     {
@@ -327,6 +407,10 @@
       "count": 4
     },
     {
+      "word": "nouveau",
+      "count": 4
+    },
+    {
       "word": "service",
       "count": 4
     },
@@ -335,15 +419,19 @@
       "count": 4
     },
     {
+      "word": "équipe",
+      "count": 4
+    },
+    {
       "word": "culturel",
       "count": 4
     },
     {
-      "word": "régional",
+      "word": "danse",
       "count": 4
     },
     {
-      "word": "danse",
+      "word": "dernier",
       "count": 4
     },
     {
@@ -352,14 +440,6 @@
     },
     {
       "word": "octobre",
-      "count": 3
-    },
-    {
-      "word": "fête",
-      "count": 3
-    },
-    {
-      "word": "nouveau",
       "count": 3
     },
     {
@@ -375,6 +455,10 @@
       "count": 3
     },
     {
+      "word": "douaisiens",
+      "count": 3
+    },
+    {
       "word": "proposer",
       "count": 3
     },
@@ -387,19 +471,7 @@
       "count": 3
     },
     {
-      "word": "activité",
-      "count": 3
-    },
-    {
-      "word": "dernier",
-      "count": 3
-    },
-    {
-      "word": "conseil",
-      "count": 3
-    },
-    {
-      "word": "administration",
+      "word": "aller",
       "count": 3
     }
   ],
@@ -409,24 +481,29 @@
     "Conseillère municipale d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-  ],
-  "groupsIds": [
-    "douaisiens-passionnement-ump"
+    {
+      "id": "douaisiens-passionnement-ump",
+      "name": "Douaisiens passionnément !",
+      "type": "Élus d’opposition",
+      "party": "Union pour un Mouvement Populaire",
+      "abbr": "UMP",
+      "logo": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",
   "summary": {
     "sentences": {
       "mean": {
-        "count": 58,
-        "total": 8
+        "count": 71,
+        "total": 10
       },
       "min": {
         "value": 4,
         "ids": [
           "2014-11-douai-notre-ville-marie-delecambre",
-          "2016-06-douai-notre-ville-marie-delecambre"
+          "2016-06-douai-notre-ville-marie-delecambre",
+          "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
         "restLength": 0
       },
@@ -440,8 +517,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 7,
-        "total": 8
+        "count": 9,
+        "total": 10
       },
       "min": {
         "value": 0,
@@ -462,7 +539,7 @@
     "questions": {
       "mean": {
         "count": 7,
-        "total": 8
+        "total": 10
       },
       "min": {
         "value": 0,
@@ -473,7 +550,7 @@
           "2016-06-douai-notre-ville-marie-delecambre",
           "2019-03-douai-notre-ville-marie-delecambre"
         ],
-        "restLength": 0
+        "restLength": 2
       },
       "max": {
         "value": 3,
@@ -485,8 +562,8 @@
     },
     "bolds": {
       "mean": {
-        "count": 2,
-        "total": 8
+        "count": 3,
+        "total": 10
       },
       "min": {
         "value": 0,
@@ -497,21 +574,22 @@
           "2016-11-douai-notre-ville-marie-delecambre",
           "2017-03-douai-notre-ville-marie-delecambre"
         ],
-        "restLength": 1
+        "restLength": 2
       },
       "max": {
         "value": 1,
         "ids": [
           "2016-02-douai-notre-ville-marie-delecambre",
-          "2017-11-douai-notre-ville-marie-delecambre"
+          "2017-11-douai-notre-ville-marie-delecambre",
+          "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
         "restLength": 0
       }
     },
     "caps": {
       "mean": {
-        "count": 0,
-        "total": 8
+        "count": 1,
+        "total": 10
       },
       "min": {
         "value": 0,
@@ -522,25 +600,21 @@
           "2016-06-douai-notre-ville-marie-delecambre",
           "2016-11-douai-notre-ville-marie-delecambre"
         ],
-        "restLength": 3
+        "restLength": 4
       },
       "max": {
-        "value": 0,
+        "value": 1,
         "ids": [
-          "2014-11-douai-notre-ville-marie-delecambre",
-          "2015-04-douai-notre-ville-marie-delecambre",
-          "2016-02-douai-notre-ville-marie-delecambre",
-          "2016-06-douai-notre-ville-marie-delecambre",
-          "2016-11-douai-notre-ville-marie-delecambre"
+          "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
-        "restLength": 3
+        "restLength": 0
       }
     },
     "sentiments": {
       "positive": {
         "mean": {
           "count": 8,
-          "total": 8
+          "total": 10
         },
         "min": {
           "value": 0,
@@ -548,9 +622,10 @@
             "2016-06-douai-notre-ville-marie-delecambre",
             "2016-11-douai-notre-ville-marie-delecambre",
             "2017-11-douai-notre-ville-marie-delecambre",
-            "2019-03-douai-notre-ville-marie-delecambre"
+            "2019-03-douai-notre-ville-marie-delecambre",
+            "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
           ],
-          "restLength": 0
+          "restLength": 1
         },
         "max": {
           "value": 3,
@@ -562,8 +637,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 46,
-          "total": 8
+          "count": 58,
+          "total": 10
         },
         "min": {
           "value": 2,
@@ -582,8 +657,8 @@
       },
       "negative": {
         "mean": {
-          "count": 4,
-          "total": 8
+          "count": 5,
+          "total": 10
         },
         "min": {
           "value": 0,
@@ -594,7 +669,7 @@
             "2017-03-douai-notre-ville-marie-delecambre",
             "2017-11-douai-notre-ville-marie-delecambre"
           ],
-          "restLength": 0
+          "restLength": 1
         },
         "max": {
           "value": 2,

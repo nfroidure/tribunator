@@ -1,16 +1,24 @@
 ---
 id: "2022-04-douai-notre-ville-francois-guiffard"
-author: "François GUIFFARD"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Ensemble faisons Douai"
-groupId: "ensemble-faisons-douai-se"
+authors:
+- id: "francois-guiffard"
+  name: "François GUIFFARD"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "francois-guiffard.jpg"
+group:
+  id: "ensemble-faisons-douai-se"
+  name: "Ensemble faisons Douai"
+  type: "Élus d’opposition"
+  party: "Sans-Étiquette"
+  abbr: "SE"
+  logo: "default.svg"
 date: "2022-04-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-04-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "francois-guiffard.jpg"
 ---
 
 Pour la première fois, j’écris cette tribune en ne faisant pas directement référence à Douai, mais au contexte national que nous sommes en train de vivre. Dans quelques jours, nous devrons nous prononcer sur le nom du Président de la République. Plus qu’un nom, c’est un choix de société.

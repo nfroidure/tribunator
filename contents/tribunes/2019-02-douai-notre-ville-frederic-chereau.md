@@ -1,16 +1,24 @@
 ---
 id: "2019-02-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2019-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-02-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Le gouvernement a choisi de lancer un grand débat, occasion de partir à la rencontre des Français. Je ne peux que saluer l’initiative, étant favorable par principe à la consultation des habitants et à l’échange démocratique. La ville de Douai mettra s’il le faut à disposition gratuitement une salle, un matériel de sonorisation, voire pourquoi pas quelques rafraîchissements. A titre personnel, je serai dans la salle aux côtés des habitants pour écouter, questionner, proposer. Mais je n’organiserai pas le débat. Sur des questions nationales, ce n’est pas mon rôle.

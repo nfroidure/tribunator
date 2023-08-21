@@ -1,16 +1,24 @@
 ---
 id: "2021-05-douai-notre-ville-katia-bittner"
-author: "Katia BITTNER"
-title: "Conseillère municipale"
-group: "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
-groupId: "douai-au-coeur-eelv"
+authors:
+- id: "katia-bittner"
+  name: "Katia BITTNER"
+  mandates: 
+  - "Conseillère municipale"
+  portrait: "katia-bittner.jpg"
+group:
+  id: "douai-au-coeur-eelv"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Europe Écologie-Les Verts"
+  abbr: "EELV"
+  logo: "eelv-douaisis.svg"
 date: "2021-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-05-p15.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "katia-bittner.jpg"
 ---
 
 Elu·es, professionnel·les de santé, sapeurs-pompiers, associations,  conseils de  quartier se mobilisent pour accélérer le rythme des vaccinations sur notre territoire ! Ensemble nous sommes à vos côtés pour la vie retrouvée !

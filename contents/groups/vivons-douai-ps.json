@@ -517,15 +517,63 @@
       "count": 4
     }
   ],
-  "portrait": "default.svg",
   "authors": [
-    "Annick LOUVION",
-    "Cyril CARBONNEL",
-    "Frédéric CHÉREAU",
-    "Jean-Pierre DIVRECHY",
-    "Karine DOYEN CARBONNEL",
-    "Monique AMGHAR",
-    "René LAVARDE"
+    {
+      "id": "annick-louvion",
+      "name": "Annick LOUVION",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "cyril-carbonnel",
+      "name": "Cyril CARBONNEL",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "frederic-chereau",
+      "name": "Frédéric CHÉREAU",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "frederic-chereau.jpg"
+    },
+    {
+      "id": "jean-pierre-divrechy",
+      "name": "Jean-Pierre DIVRECHY",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "karine-doyen-carbonnel",
+      "name": "Karine DOYEN CARBONNEL",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "monique-amghar",
+      "name": "Monique AMGHAR",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "rene-lavarde",
+      "name": "René LAVARDE",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

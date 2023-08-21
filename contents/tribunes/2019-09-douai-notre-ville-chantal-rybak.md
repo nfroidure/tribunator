@@ -1,16 +1,24 @@
 ---
 id: "2019-09-douai-notre-ville-chantal-rybak"
-author: "Chantal RYBAK"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "chantal-rybak"
+  name: "Chantal RYBAK"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "chantal-rybak.jpg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2019-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-09-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "chantal-rybak.jpg"
 ---
 
 Un article du Parisien, du 23 mai 2019, présentait les avantages de la loi Pinel pour l’investissement dans l’immobilier de location, accompagné de conseils pour réussir un placement dans ce domaine.

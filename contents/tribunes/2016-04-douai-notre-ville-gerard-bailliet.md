@@ -1,16 +1,24 @@
 ---
 id: "2016-04-douai-notre-ville-gerard-bailliet"
-author: "Gérard BAILLIET"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Rassemblement Douai Bleu Marine (Rassemblement National)"
-groupId: "rassemblement-douai-bleu-marine-rn"
+authors:
+- id: "gerard-bailliet"
+  name: "Gérard BAILLIET"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "default.svg"
+group:
+  id: "rassemblement-douai-bleu-marine-rn"
+  name: "Rassemblement Douai Bleu Marine"
+  type: "Élus d’opposition"
+  party: "Rassemblement National"
+  abbr: "RN"
+  logo: "default.svg"
 date: "2016-04-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2016-04-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 **Le dérapage fiscal, c’est reparti !**

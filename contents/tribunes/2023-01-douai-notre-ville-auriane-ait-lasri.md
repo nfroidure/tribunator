@@ -1,16 +1,24 @@
 ---
 id: "2023-01-douai-notre-ville-auriane-ait-lasri"
-author: "Auriane AÏT LASRI"
-title: "Adjointe au maire"
-group: "Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)"
-groupId: "douai-au-coeur-pcf"
+authors:
+- id: "auriane-ait-lasri"
+  name: "Auriane AIT LASRI"
+  mandates: 
+  - "Adjointe au maire"
+  portrait: "auriane-ait-lasri.jpg"
+group:
+  id: "douai-au-coeur-pcf"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Communiste Français"
+  abbr: "PCF"
+  logo: "pcf.svg"
 date: "2023-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-01-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "auriane-ait-lasri.jpg"
 ---
 
 Chères Douaisiennes, Chers Douaisiens,

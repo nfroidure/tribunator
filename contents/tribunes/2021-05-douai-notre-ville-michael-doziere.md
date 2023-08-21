@@ -1,16 +1,24 @@
 ---
 id: "2021-05-douai-notre-ville-michael-doziere"
-author: "Michaël DOZIÈRE"
-title: "Adjoint au maire"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "michael-doziere"
+  name: "Michaël DOZIÈRE"
+  mandates: 
+  - "Adjoint au maire"
+  portrait: "michael-doziere.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2021-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-05-p15.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "michael-doziere.jpg"
 ---
 
 Voilà le mois de mai ! Peut-être ne ferons-nous pas encore ce qu’il nous plaît. Mais nous pouvons avoir des raisons d’espérer. Nos centres de vaccination, maintenant bien rodés, vont contribuer à endiguer la pandémie et nous aider à retrouver progressivement nos activités préférées.

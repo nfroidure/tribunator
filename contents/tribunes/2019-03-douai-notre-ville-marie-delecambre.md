@@ -1,16 +1,24 @@
 ---
 id: "2019-03-douai-notre-ville-marie-delecambre"
-author: "Marie DELECAMBRE"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "marie-delecambre"
+  name: "Marie DELECAMBRE"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "default.svg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2019-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-03-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "default.svg"
 ---
 
 Nous voterons prochainement la délibération qui accorde les subventions aux associations. C’est une part importante du budget et une belle occasion de se féliciter du dynamisme de la vie associative dans notre ville.

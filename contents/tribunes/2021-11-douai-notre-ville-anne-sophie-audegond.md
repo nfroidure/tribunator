@@ -1,16 +1,24 @@
 ---
 id: "2021-11-douai-notre-ville-anne-sophie-audegond"
-author: "Anne-Sophie AUDEGOND"
-title: "Conseillère municipale"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "anne-sophie-audegond"
+  name: "Anne-Sophie AUDEGOND"
+  mandates: 
+  - "Conseillère municipale"
+  portrait: "anne-sophie-audegond.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2021-11-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-11-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "anne-sophie-audegond.jpg"
 ---
 
 Le 2 octobre, nous inaugurions la place Raymonde Delecluse, Douaisienne, résistante et déportée. Le 30 novembre, Joséphine Baker entrera au Panthéon. Durant plus de 200 ans, n’y sont entrées que des personnalités masculines. En 1995, la première sera Marie Curie. D'autres suivront, comme Germaine Tillion et Geneviève De Gaulle ou en 2018, Simone Veil qui s'est tant battue pour la cause des femmes.

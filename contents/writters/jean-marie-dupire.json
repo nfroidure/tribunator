@@ -157,10 +157,14 @@
     "Conseiller municipal"
   ],
   "groups": [
-    "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-  ],
-  "groupsIds": [
-    "douai-au-coeur-ps"
+    {
+      "id": "douai-au-coeur-ps",
+      "name": "Douai au Cœur",
+      "type": "Majorité municipale",
+      "party": "Parti Socialiste",
+      "abbr": "PS",
+      "logo": "ps.png"
+    }
   ],
   "locality": "Douai",
   "country": "France",

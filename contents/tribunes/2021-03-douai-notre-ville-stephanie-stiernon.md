@@ -1,16 +1,24 @@
 ---
 id: "2021-03-douai-notre-ville-stephanie-stiernon"
-author: "Stéphanie STIERNON"
-title: "Adjointe au maire"
-group: "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
-groupId: "douai-au-coeur-eelv"
+authors:
+- id: "stephanie-stiernon"
+  name: "Stéphanie STIERNON"
+  mandates: 
+  - "Adjointe au maire"
+  portrait: "stephanie-stiernon.jpg"
+group:
+  id: "douai-au-coeur-eelv"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Europe Écologie-Les Verts"
+  abbr: "EELV"
+  logo: "eelv-douaisis.svg"
 date: "2021-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-03-p15.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "stephanie-stiernon.jpg"
 ---
 
 Le budget d’investissement 2021-2026 et plus précisément le budget 2021 ont été présentés en conseil municipal le 19 février 2021. À noter un fort engagement en faveur de la transition écologique avec pas moins de 20 % du budget dédiés à cette thématique.

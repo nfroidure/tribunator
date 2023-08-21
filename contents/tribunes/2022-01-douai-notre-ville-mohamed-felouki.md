@@ -1,16 +1,24 @@
 ---
 id: "2022-01-douai-notre-ville-mohamed-felouki"
-author: "Mohamed FELOUKI"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Douai dynamique et durable"
-groupId: "douai-dynamique-et-durable-dvd"
+authors:
+- id: "mohamed-felouki"
+  name: "Mohamed FELOUKI"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "mohamed-felouki.jpg"
+group:
+  id: "douai-dynamique-et-durable-dvd"
+  name: "Douai dynamique et durable"
+  type: "Élus d’opposition"
+  party: "Alliance LReM-Modem"
+  abbr: "DVD"
+  logo: "default.svg"
 date: "2022-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-01-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "mohamed-felouki.jpg"
 ---
 
 Chères Douaisiennes, Chers Douaisiens,

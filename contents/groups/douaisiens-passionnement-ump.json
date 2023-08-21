@@ -220,7 +220,7 @@
     },
     {
       "date": "2019-04-01T00:00:00Z",
-      "id": "2019-04-douai-notre-ville-francoise-prouvost"
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
     },
     {
       "date": "2019-05-01T00:00:00Z",
@@ -248,7 +248,7 @@
     },
     {
       "date": "2019-12-01T00:00:00Z",
-      "id": "2019-12-douai-notre-ville-francoise-prouvost"
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
     },
     {
       "date": "2020-01-01T00:00:00Z",
@@ -542,7 +542,7 @@
       "count": 6
     },
     {
-      "id": "2019-04-douai-notre-ville-francoise-prouvost",
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-04-01T00:00:00Z",
       "count": 9
     },
@@ -577,7 +577,7 @@
       "count": 5
     },
     {
-      "id": "2019-12-douai-notre-ville-francoise-prouvost",
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-12-01T00:00:00Z",
       "count": 4
     },
@@ -985,7 +985,7 @@
       "negative": 2
     },
     {
-      "id": "2019-04-douai-notre-ville-francoise-prouvost",
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-04-01T00:00:00Z",
       "positive": 0,
       "neutral": 8,
@@ -1034,7 +1034,7 @@
       "negative": 2
     },
     {
-      "id": "2019-12-douai-notre-ville-francoise-prouvost",
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-12-01T00:00:00Z",
       "positive": 0,
       "neutral": 4,
@@ -1350,7 +1350,7 @@
       "count": 1
     },
     {
-      "id": "2019-04-douai-notre-ville-francoise-prouvost",
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-04-01T00:00:00Z",
       "count": 1
     },
@@ -1385,7 +1385,7 @@
       "count": 0
     },
     {
-      "id": "2019-12-douai-notre-ville-francoise-prouvost",
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-12-01T00:00:00Z",
       "count": 1
     },
@@ -1687,7 +1687,7 @@
       "count": 0
     },
     {
-      "id": "2019-04-douai-notre-ville-francoise-prouvost",
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-04-01T00:00:00Z",
       "count": 0
     },
@@ -1722,7 +1722,7 @@
       "count": 0
     },
     {
-      "id": "2019-12-douai-notre-ville-francoise-prouvost",
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-12-01T00:00:00Z",
       "count": 0
     },
@@ -2024,7 +2024,7 @@
       "count": 0
     },
     {
-      "id": "2019-04-douai-notre-ville-francoise-prouvost",
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-04-01T00:00:00Z",
       "count": 1
     },
@@ -2059,7 +2059,7 @@
       "count": 0
     },
     {
-      "id": "2019-12-douai-notre-ville-francoise-prouvost",
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-12-01T00:00:00Z",
       "count": 0
     },
@@ -2361,9 +2361,9 @@
       "count": 0
     },
     {
-      "id": "2019-04-douai-notre-ville-francoise-prouvost",
+      "id": "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-04-01T00:00:00Z",
-      "count": 7
+      "count": 0
     },
     {
       "id": "2019-05-douai-notre-ville-chantal-rybak",
@@ -2396,9 +2396,9 @@
       "count": 0
     },
     {
-      "id": "2019-12-douai-notre-ville-francoise-prouvost",
+      "id": "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
       "date": "2019-12-01T00:00:00Z",
-      "count": 8
+      "count": 1
     },
     {
       "id": "2020-01-douai-notre-ville-isabelle-chatelain",
@@ -2469,10 +2469,6 @@
       "count": 19
     },
     {
-      "word": "municipal",
-      "count": 18
-    },
-    {
       "word": "devoir",
       "count": 18
     },
@@ -2486,6 +2482,10 @@
     },
     {
       "word": "fait",
+      "count": 17
+    },
+    {
+      "word": "municipal",
       "count": 17
     },
     {
@@ -2533,16 +2533,71 @@
       "count": 13
     }
   ],
-  "portrait": "default.svg",
   "authors": [
-    "Bruno BUFQUIN",
-    "Chantal RYBAK",
-    "Cyril CARBONNEL",
-    "Franz QUATREBOEUFS",
-    "Françoise PROUVOST",
-    "Isabelle CHÂTELAIN",
-    "Marie DELECAMBRE",
-    "Marie-Hélène QUATREBOEUFS-NIKLIKOWSKI"
+    {
+      "id": "bruno-bufquin",
+      "name": "Bruno BUFQUIN",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "chantal-rybak",
+      "name": "Chantal RYBAK",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "chantal-rybak.jpg"
+    },
+    {
+      "id": "cyril-carbonnel",
+      "name": "Cyril CARBONNEL",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "franz-quatreboeufs",
+      "name": "Franz QUATREBOEUFS",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "franz-quatreboeufs.jpg"
+    },
+    {
+      "id": "francoise-prouvost",
+      "name": "Françoise PROUVOST",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "isabelle-chatelain",
+      "name": "Isabelle CHÂTELAIN",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "marie-delecambre",
+      "name": "Marie DELECAMBRE",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "marie-helene-quatreboeufs-niklikowski",
+      "name": "Marie-Hélène QUATREBOEUFS-NIKLIKOWSKI",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",
@@ -2648,7 +2703,7 @@
     },
     "caps": {
       "mean": {
-        "count": 33,
+        "count": 19,
         "total": 67
       },
       "min": {
@@ -2660,12 +2715,12 @@
           "2014-10-douai-notre-ville-marie-helene-quatreboeufs-niklikowski",
           "2014-11-douai-notre-ville-marie-delecambre"
         ],
-        "restLength": 52
+        "restLength": 53
       },
       "max": {
-        "value": 8,
+        "value": 4,
         "ids": [
-          "2019-12-douai-notre-ville-francoise-prouvost"
+          "2017-05-douai-notre-ville-francoise-prouvost"
         ],
         "restLength": 0
       }

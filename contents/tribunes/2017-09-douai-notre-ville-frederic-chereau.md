@@ -1,16 +1,24 @@
 ---
 id: "2017-09-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2017-09-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2017-09-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Le terrorisme djihadiste a encore frappé cet été, en Afghanistan, à Ouagadougou, au Nigéria, à Barcelone et Cambrils. Je veux avoir une pensée en cette rentrée pour celles et ceux qui ont perdu des proches. J’ai adressé le 13 août un message d’amitié au maire de Dédougou, notre ville jumelée au Burkina Faso.

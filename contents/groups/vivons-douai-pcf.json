@@ -193,10 +193,23 @@
       "count": 1
     }
   ],
-  "portrait": "default.svg",
   "authors": [
-    "Brigitte BONNAFFE-LERICHE",
-    "Odile HAGE"
+    {
+      "id": "brigitte-bonnaffe-leriche",
+      "name": "Brigitte BONNAFFE-LERICHE",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "odile-hage",
+      "name": "Odile HAGE",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

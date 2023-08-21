@@ -1,16 +1,24 @@
 ---
 id: "2023-06-douai-notre-ville-auriane-ait-lasri"
-author: "Auriane AIT LASRI"
-title: "Adjointe au maire"
-group: "Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)"
-groupId: "douai-au-coeur-pcf"
+authors:
+- id: "auriane-ait-lasri"
+  name: "Auriane AIT LASRI"
+  mandates: 
+  - "Adjointe au maire"
+  portrait: "auriane-ait-lasri.jpg"
+group:
+  id: "douai-au-coeur-pcf"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Communiste Français"
+  abbr: "PCF"
+  logo: "pcf.svg"
 date: "2023-06-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-06-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "auriane-ait-lasri.jpg"
 ---
 
 Le Figra existe depuis 30 ans dans les Hauts-de-France. Dès son arrivée à Douai en 2021, une dynamique pour tous les publics a été proposée avec la ville afin de rayonner dans le département du Nord et dans le Douaisis avec des actions qui favorisent l’attractivité du territoire.

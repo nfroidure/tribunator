@@ -1,16 +1,24 @@
 ---
 id: "2022-06-douai-notre-ville-anne-colin"
-author: "Anne COLIN"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douai dynamique et durable"
-groupId: "douai-dynamique-et-durable-dvd"
+authors:
+- id: "anne-colin"
+  name: "Anne COLIN"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "anne-colin.jpg"
+group:
+  id: "douai-dynamique-et-durable-dvd"
+  name: "Douai dynamique et durable"
+  type: "Élus d’opposition"
+  party: "Alliance LReM-Modem"
+  abbr: "DVD"
+  logo: "default.svg"
 date: "2022-06-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-06-p17.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "anne-colin.jpg"
 ---
 
 La propreté, l'autre priorité !

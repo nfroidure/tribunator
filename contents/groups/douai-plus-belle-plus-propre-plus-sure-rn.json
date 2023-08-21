@@ -1309,11 +1309,31 @@
       "count": 6
     }
   ],
-  "portrait": "thibaut-francois.jpg",
   "authors": [
-    "Guy CANNIE",
-    "Thibaut FRANCOIS,",
-    "Thibaut FRANÇOIS"
+    {
+      "id": "guy-cannie",
+      "name": "Guy CANNIE",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "guy-cannie.jpg"
+    },
+    {
+      "id": "thibaut-francois",
+      "name": "Thibaut FRANCOIS,",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "thibaut-francois.jpg"
+    },
+    {
+      "id": "thibaut-francois",
+      "name": "Thibaut FRANÇOIS",
+      "mandates": [
+        "Conseiller municipal d’opposition"
+      ],
+      "portrait": "thibaut-francois.jpg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

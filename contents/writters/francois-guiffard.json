@@ -1309,10 +1309,14 @@
     "Conseiller municipal d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Ensemble faisons Douai"
-  ],
-  "groupsIds": [
-    "ensemble-faisons-douai-se"
+    {
+      "id": "ensemble-faisons-douai-se",
+      "name": "Ensemble faisons Douai",
+      "type": "Élus d’opposition",
+      "party": "Sans-Étiquette",
+      "abbr": "SE",
+      "logo": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

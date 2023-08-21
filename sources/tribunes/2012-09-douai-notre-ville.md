@@ -41,5 +41,4 @@ Cordialement.
 Votre maire,
 
 Jacques VERNIER
-Maire de Douai
-Conseiller Régional
+Maire de Douai, Conseiller Régional

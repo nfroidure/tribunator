@@ -1,16 +1,24 @@
 ---
 id: "2023-07-douai-notre-ville-nadia-bony"
-author: "Nadia BONY,"
-title: "Conseillère municipale"
-group: "Majorité municipale : Douai au Cœur"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "nadia-bony"
+  name: "Nadia BONY,"
+  mandates: 
+  - "Conseillère municipale"
+  portrait: "nadia-bony.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Sans-Étiquette"
+  abbr: "SE"
+  logo: "default.svg"
 date: "2023-07-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2023-07-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "nadia-bony.jpg"
 ---
 
 Plus rien à Douai ? Un "rien" bien agréable en balade au fil de la Scarpe, de nos rues et de son architecture, de nos parcs mais aussi de nos commerces…

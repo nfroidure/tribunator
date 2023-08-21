@@ -27,5 +27,4 @@ Avec le site internet de la ville, qui vient d’être entièrement renouvelé, 
 Bien cordialement, Votre maire,
 
 Jacques VERNIER
-Maire de Douai
-Conseiller Régional
+Maire de Douai, Conseiller Régional

@@ -1,16 +1,24 @@
 ---
 id: "2022-12-douai-notre-ville-michael-doziere"
-author: "Michaël DOZIÈRE"
-title: "Adjoint au maire"
-group: "Majorité municipale : Douai au Cœur (Vivre Douai)"
-groupId: "douai-au-coeur-se"
+authors:
+- id: "michael-doziere"
+  name: "Michaël DOZIÈRE"
+  mandates: 
+  - "Adjoint au maire"
+  portrait: "michael-doziere.jpg"
+group:
+  id: "douai-au-coeur-se"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Citoyen·nes de Vivre Douai"
+  abbr: "SE"
+  logo: "douai-au-coeur.svg"
 date: "2022-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-12-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "michael-doziere.jpg"
 ---
 
 C’est promis ; l’inflation galopante, dans tous les secteurs de l’économie, ne nous gâchera pas nos fêtes de fin d’année !

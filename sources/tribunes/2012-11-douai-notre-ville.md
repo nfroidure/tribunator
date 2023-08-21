@@ -30,5 +30,4 @@ PS : le verre continuera d’être collecté une fois par semaine le matin.
 Votre maire,
 
 Jacques VERNIER
-Maire de Douai
-Conseiller Régional
+Maire de Douai, Conseiller Régional

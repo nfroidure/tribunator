@@ -622,13 +622,18 @@
   "portrait": "default.svg",
   "name": "Jacques VERNIER",
   "mandates": [
-    "Maire de Douai\nConseiller Régional"
+    "Maire de Douai",
+    "Conseiller Régional"
   ],
   "groups": [
-    "Majorité municipale : Jacques Vernier (UMP)"
-  ],
-  "groupsIds": [
-    "jacques-vernier-ump"
+    {
+      "id": "jacques-vernier-ump",
+      "name": "Jacques Vernier",
+      "type": "Majorité municipale",
+      "party": "Union pour un Mouvement Populaire",
+      "abbr": "UMP",
+      "logo": "default.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

@@ -75,7 +75,7 @@ Les 10 et 24 avril 2022 aura lieu l’élection présidentielle. Beaucoup d’en
 
 Nous vous invitons à vous inscrire en ligne ou au service des élections à l’hôtel de ville au plus tard le 4 mars. En attendant des jours heureux, nous continuerons de défendre l’intérêt des Douaisiennes et des Douaisiens et les services publics, notamment les services de santé. L’hôpital public est en souffrance et la seule réponse à cette crise doit être sanitaire et ne pas devenir un objet politique.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

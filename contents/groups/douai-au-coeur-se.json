@@ -1129,24 +1129,135 @@
       "count": 5
     }
   ],
-  "portrait": "mohamed-kheraki.jpg",
   "authors": [
-    "Anne-Sophie AUDEGOND",
-    "Avida OULAHCENE",
-    "Guy LAGACHE",
-    "Hocine MAZY",
-    "Jamila MEKKI",
-    "Jean-Michel LEROY",
-    "Khadija AHANTAT",
-    "Maxime DECUPPER-LAUD",
-    "Michaël DOZIÈRE",
-    "Mohamed KHERAKI",
-    "Nadia BONY,",
-    "Nathalie APERS",
-    "Salima BOUKENTAR",
-    "Sébastien LANCLU",
-    "Virginie MALOLEPSZY",
-    "Yvon SIPIETER"
+    {
+      "id": "anne-sophie-audegond",
+      "name": "Anne-Sophie AUDEGOND",
+      "mandates": [
+        "Conseillère municipale"
+      ],
+      "portrait": "anne-sophie-audegond.jpg"
+    },
+    {
+      "id": "avida-oulahcene",
+      "name": "Avida OULAHCENE",
+      "mandates": [
+        "Conseillère municipale"
+      ],
+      "portrait": "avida-oulahcene.jpg"
+    },
+    {
+      "id": "guy-lagache",
+      "name": "Guy LAGACHE",
+      "mandates": [
+        "Conseiller municipal"
+      ],
+      "portrait": "guy-lagache.jpg"
+    },
+    {
+      "id": "hocine-mazy",
+      "name": "Hocine MAZY",
+      "mandates": [
+        "Adjoint au maire"
+      ],
+      "portrait": "hocine-mazy.jpg"
+    },
+    {
+      "id": "jamila-mekki",
+      "name": "Jamila MEKKI",
+      "mandates": [
+        "Conseillère municipale"
+      ],
+      "portrait": "jamila-mekki.jpg"
+    },
+    {
+      "id": "jean-michel-leroy",
+      "name": "Jean-Michel LEROY",
+      "mandates": [
+        "Adjoint au maire"
+      ],
+      "portrait": "jean-michel-leroy.jpg"
+    },
+    {
+      "id": "khadija-ahantat",
+      "name": "Khadija AHANTAT",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "khadija-ahantat.jpg"
+    },
+    {
+      "id": "maxime-decupper-laud",
+      "name": "Maxime DECUPPER-LAUD",
+      "mandates": [
+        "Conseiller municipal"
+      ],
+      "portrait": "maxime-decupper-laud.jpg"
+    },
+    {
+      "id": "michael-doziere",
+      "name": "Michaël DOZIÈRE",
+      "mandates": [
+        "Adjoint au maire"
+      ],
+      "portrait": "michael-doziere.jpg"
+    },
+    {
+      "id": "mohamed-kheraki",
+      "name": "Mohamed KHERAKI",
+      "mandates": [
+        "Adjoint au Maire"
+      ],
+      "portrait": "mohamed-kheraki.jpg"
+    },
+    {
+      "id": "nadia-bony",
+      "name": "Nadia BONY,",
+      "mandates": [
+        "Conseillère municipale"
+      ],
+      "portrait": "nadia-bony.jpg"
+    },
+    {
+      "id": "nathalie-apers",
+      "name": "Nathalie APERS",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "nathalie-apers.jpg"
+    },
+    {
+      "id": "salima-boukentar",
+      "name": "Salima BOUKENTAR",
+      "mandates": [
+        "Conseillère municipale"
+      ],
+      "portrait": "salima-boukentar.jpg"
+    },
+    {
+      "id": "sebastien-lanclu",
+      "name": "Sébastien LANCLU",
+      "mandates": [
+        "Conseiller municipal"
+      ],
+      "portrait": "sebastien-lanclu.jpg"
+    },
+    {
+      "id": "virginie-malolepszy",
+      "name": "Virginie MALOLEPSZY",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "default.svg"
+    },
+    {
+      "id": "yvon-sipieter",
+      "name": "Yvon SIPIETER",
+      "mandates": [
+        "Adjoint au maire"
+      ],
+      "portrait": "yvon-sipieter.jpg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

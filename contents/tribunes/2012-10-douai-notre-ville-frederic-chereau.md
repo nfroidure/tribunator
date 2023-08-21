@@ -1,16 +1,24 @@
 ---
 id: "2012-10-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Vivons Douai (Parti Socialiste)"
-groupId: "vivons-douai-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "vivons-douai-ps"
+  name: "Vivons Douai"
+  type: "Élus d’opposition"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2012-10-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2012-10-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 **Cohésion sociale : quelle politique sociale à Douai ?**

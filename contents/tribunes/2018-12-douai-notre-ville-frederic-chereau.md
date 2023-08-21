@@ -1,16 +1,24 @@
 ---
 id: "2018-12-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2018-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2018-12-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Bien que cela ne saute pas aux yeux immédiatement, le mouvement des gilets jaunes et les difficultés des centres-villes sont en partie des problèmes liés. La France paye aujourd’hui des années d’extension urbaine où logements, commerces et emplois se sont peu à peu séparés les uns des autres, quittant la ville pour des zones et des lotissements spécialisés où la voiture est reine. Conséquence : quand les prix du carburant augmentent, la situation devient intenable pour les ménages modestes qui dépendent de leur véhicule pour tout faire.

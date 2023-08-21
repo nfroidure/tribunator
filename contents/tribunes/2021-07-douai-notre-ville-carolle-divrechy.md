@@ -1,16 +1,24 @@
 ---
 id: "2021-07-douai-notre-ville-carolle-divrechy"
-author: "Carolle DIVRECHY"
-title: "Conseillère municipale"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "carolle-divrechy"
+  name: "Carolle DIVRECHY"
+  mandates: 
+  - "Conseillère municipale"
+  portrait: "carolle-divrechy.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2021-07-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-07-p15.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "carolle-divrechy.jpg"
 ---
 
 Cher(e)s Douaisien(ne)s,

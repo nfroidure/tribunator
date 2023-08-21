@@ -1,16 +1,24 @@
 ---
 id: "2020-02-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2020-02-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2020-02-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 L’actualité de nos écoles est riche ce mois-ci ! Le 13 janvier dernier a eu lieu dans toutes nos écoles élémentaires l’élection des membres du conseil municipal des enfants, pour lequel 130 enfants de CM1 et CM2 avaient présenté leur candidature. Son installation est prévue le 8 février. Ce conseil pourra faire des propositions sur la vie des écoles mais aussi sur tout ce qui concerne les enfants dans notre ville. Ses membres pourront aussi participer à certaines cérémonies et découvrir le fonctionnement concret d’une municipalité.

@@ -157,10 +157,14 @@
     "Conseiller municipal d’opposition"
   ],
   "groups": [
-    "Élus d’opposition : Vivons Douai (Europe Écologie les Verts)"
-  ],
-  "groupsIds": [
-    "vivons-douai-eelv"
+    {
+      "id": "vivons-douai-eelv",
+      "name": "Vivons Douai",
+      "type": "Élus d’opposition",
+      "party": "Europe Écologie-Les Verts",
+      "abbr": "EELV",
+      "logo": "eelv-douaisis.svg"
+    }
   ],
   "locality": "Douai",
   "country": "France",

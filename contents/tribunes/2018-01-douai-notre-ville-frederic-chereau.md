@@ -1,16 +1,24 @@
 ---
 id: "2018-01-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2018-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2018-01-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Douai change, Douai embellit ! 2018 verra l’ouverture de la nouvelle place centrale et du centre Camille Guérin réhabilité au faubourg de Béthune, d’une annexe de la bibliothèque et de la passerelle de Dorignies, d’un centre de santé et d’une autre annexe de la bibliothèque à Frais-Marais, d’une école maternelle au faubourg de Paris, d’une nouvelle aire de jeux au parc Bertin, mais aussi bien sûr, en cœur de ville, d’un restaurant gastronomique, d’un tout nouveau Furet du Nord –avec l’aide de la CAD- et du nouveau Palais de justice !

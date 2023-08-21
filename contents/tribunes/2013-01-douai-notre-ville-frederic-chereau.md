@@ -1,16 +1,24 @@
 ---
 id: "2013-01-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Conseiller municipal d’opposition"
-group: "Élus d’opposition : Vivons Douai (Parti Socialiste)"
-groupId: "vivons-douai-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Conseiller municipal d’opposition"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "vivons-douai-ps"
+  name: "Vivons Douai"
+  type: "Élus d’opposition"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2013-01-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2013-01-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 **Amazon : un succès collectif**

@@ -1,16 +1,24 @@
 ---
 id: "2021-05-douai-notre-ville-chantal-rybak"
-author: "Chantal RYBAK"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douai dynamique et durable"
-groupId: "douai-dynamique-et-durable-dvd"
+authors:
+- id: "chantal-rybak"
+  name: "Chantal RYBAK"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "chantal-rybak.jpg"
+group:
+  id: "douai-dynamique-et-durable-dvd"
+  name: "Douai dynamique et durable"
+  type: "Élus d’opposition"
+  party: "Alliance LReM-Modem"
+  abbr: "DVD"
+  logo: "default.svg"
 date: "2021-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2021-05-p15.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "chantal-rybak.jpg"
 ---
 
 **Stop à la hausse des taxes!**

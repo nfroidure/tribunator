@@ -1,16 +1,24 @@
 ---
 id: "2019-05-douai-notre-ville-chantal-rybak"
-author: "Chantal RYBAK"
-title: "Conseillère municipale d’opposition"
-group: "Élus d’opposition : Douaisiens passionnément ! (UMP)"
-groupId: "douaisiens-passionnement-ump"
+authors:
+- id: "chantal-rybak"
+  name: "Chantal RYBAK"
+  mandates: 
+  - "Conseillère municipale d’opposition"
+  portrait: "chantal-rybak.jpg"
+group:
+  id: "douaisiens-passionnement-ump"
+  name: "Douaisiens passionnément !"
+  type: "Élus d’opposition"
+  party: "Union pour un Mouvement Populaire"
+  abbr: "UMP"
+  logo: "default.svg"
 date: "2019-05-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2019-05-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "chantal-rybak.jpg"
 ---
 
 Au cœur des interrogations et débats du jour l’échéance des élections européennes peut paraître  lointaine. Pourtant n’ayons pas la mémoire courte, les financements européens ont irrigué et continuent d’irriguer notre pays et notre région.

@@ -1,16 +1,24 @@
 ---
 id: "2022-12-douai-notre-ville-guy-caruyer"
-author: "Guy CARUYER"
-title: "Conseiller municipal délégué"
-group: "Majorité municipale : Douai au Cœur (Europe Écologie les Verts)"
-groupId: "douai-au-coeur-eelv"
+authors:
+- id: "guy-caruyer"
+  name: "Guy CARUYER"
+  mandates: 
+  - "Conseiller municipal délégué"
+  portrait: "guy-caruyer.jpg"
+group:
+  id: "douai-au-coeur-eelv"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Europe Écologie-Les Verts"
+  abbr: "EELV"
+  logo: "eelv-douaisis.svg"
 date: "2022-12-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-12-p13.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "guy-caruyer.jpg"
 ---
 
 DOUCEURS.

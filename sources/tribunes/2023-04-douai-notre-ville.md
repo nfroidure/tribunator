@@ -62,7 +62,7 @@ C’est une réforme injuste socialement et notamment pour les femmes. Elles qui
 
 Son retrait s’impose, purement et simplement.
 
-Auriane AÏT LASRI
+Auriane AIT LASRI
 Adjointe au maire
 
 ---

@@ -1,16 +1,24 @@
 ---
 id: "2022-03-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2022-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2022-03-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 Avec la forte baisse de l’épidémie, nos événements habituels peuvent peu à peu reprendre ! Le salon du livre jeunesse, habituellement organisé en janvier, aura bien lieu, fin mars, aux salles d’Anchin. Les bonnes volontés sont d’ailleurs les bienvenues pour donner un coup de main aux bénévoles de Brouillons de culture. C’est que le papier, ça pèse lourd et il y a plusieurs milliers de livres à installer. Pour les jeunes âgés de 17 à 25 ans, le temps consacré peut être converti en aide au permis de conduire ou au Bafa grâce au dispositif "coup de pouce citoyen" piloté par la MJC !

@@ -1,16 +1,24 @@
 ---
 id: "2017-03-douai-notre-ville-frederic-chereau"
-author: "Frédéric CHÉREAU"
-title: "Maire de Douai"
-group: "Majorité municipale : Douai au Cœur (Parti Socialiste)"
-groupId: "douai-au-coeur-ps"
+authors:
+- id: "frederic-chereau"
+  name: "Frédéric CHÉREAU"
+  mandates: 
+  - "Maire de Douai"
+  portrait: "frederic-chereau.jpg"
+group:
+  id: "douai-au-coeur-ps"
+  name: "Douai au Cœur"
+  type: "Majorité municipale"
+  party: "Parti Socialiste"
+  abbr: "PS"
+  logo: "ps.png"
 date: "2017-03-01T00:00:00Z"
 publication: "douai-notre-ville"
 source: "public/images/sources/douai-notre-ville-2017-03-p2.png"
 language: "fr"
 locality: "Douai"
 country: "France"
-portrait: "frederic-chereau.jpg"
 ---
 
 La Ville et la CAD rendent une nouvelle jeunesse à la rue de la Mairie, à la fois en surface et en sous-sol. Il était indispensable, voire urgent, de rénover les très anciennes canalisations d’assainissement et d’eau potable, qui pouvaient rompre à tout moment. C’est le sens des deux premières phases de chantier, celle qui vient de s’achever (assainissement) et celle qui prendra place autour des vacances de Pâques (eau et réseaux électriques en même temps, pour gagner du temps). Après les fêtes de Gayant, laVille rénovera entièrement la voirie de cette rue un peu triste et vieillissante au regard de la qualité des commerces qu’elle accueille.

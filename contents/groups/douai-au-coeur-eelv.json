@@ -1309,14 +1309,55 @@
       "count": 2
     }
   ],
-  "portrait": "stephanie-stiernon.jpg",
   "authors": [
-    "Guy CARUYER",
-    "Jean-Christophe LECLERCQ",
-    "Katia BITTNER",
-    "Marie DELATTRE",
-    "Stéphanie STIERNON",
-    "Yves PIQUOT"
+    {
+      "id": "guy-caruyer",
+      "name": "Guy CARUYER",
+      "mandates": [
+        "Conseiller municipal délégué"
+      ],
+      "portrait": "guy-caruyer.jpg"
+    },
+    {
+      "id": "jean-christophe-leclercq",
+      "name": "Jean-Christophe LECLERCQ",
+      "mandates": [
+        "Adjoint au maire"
+      ],
+      "portrait": "jean-christophe-leclercq.jpg"
+    },
+    {
+      "id": "katia-bittner",
+      "name": "Katia BITTNER",
+      "mandates": [
+        "Conseillère municipale"
+      ],
+      "portrait": "katia-bittner.jpg"
+    },
+    {
+      "id": "marie-delattre",
+      "name": "Marie DELATTRE",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "marie-delattre.jpg"
+    },
+    {
+      "id": "stephanie-stiernon",
+      "name": "Stéphanie STIERNON",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "stephanie-stiernon.jpg"
+    },
+    {
+      "id": "yves-piquot",
+      "name": "Yves PIQUOT",
+      "mandates": [
+        "Conseiller municipal"
+      ],
+      "portrait": "yves-piquot.jpg"
+    }
   ],
   "locality": "Douai",
   "country": "France",
