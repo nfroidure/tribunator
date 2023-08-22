@@ -86,6 +86,32 @@ const Entry = ({ entry }: Props) => {
               <Fragment key={instance}>
                 <Heading3>{INSTANCES[instance]}</Heading3>
                 <UnorderedList>
+                  <ListItem>
+                    ✅ Présences : {entry.presencesStats[instance].present}/
+                    {entry.presencesStats[instance].total}
+                  </ListItem>
+                  <ListItem>
+                    ❌ Absences :{" "}
+                    {entry.presencesStats[instance].total -
+                      entry.presencesStats[instance].present}
+                    /{entry.presencesStats[instance].total}
+                  </ListItem>
+                  <ListItem>
+                    ⌚ Retards : {entry.presencesStats[instance].arrivedLate}/
+                    {entry.presencesStats[instance].total}
+                  </ListItem>
+                  <ListItem>
+                    🏃🏽 Départs anticipés :{" "}
+                    {entry.presencesStats[instance].leftBeforeTheEnd}/
+                    {entry.presencesStats[instance].total}
+                  </ListItem>
+                  <ListItem>
+                    🤾 Pouvoirs donnés :{" "}
+                    {entry.presencesStats[instance].delegation}/
+                    {entry.presencesStats[instance].total}
+                  </ListItem>
+                </UnorderedList>
+                <UnorderedList>
                   {entry.presences[instance].map((presence) => (
                     <ListItem>
                       <Strong>

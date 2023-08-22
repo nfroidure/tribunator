@@ -82,6 +82,25 @@ async function run() {
       writterData.presences[file.replace(/\.csv$/, "")] =
         presences.sort(sortByDate);
 
+      writterData.presencesStats = writterData.presencesStats || {};
+      writterData.presencesStats[file.replace(/\.csv$/, "")] = presences.reduce(
+        (stats, presence) => ({
+          total: stats.total + 1,
+          present: stats.present + (presence.present ? 1 : 0),
+          arrivedLate: stats.arrivedLate + (presence.arrivedLate ? 1 : 0),
+          leftBeforeTheEnd:
+            stats.leftBeforeTheEnd + (presence.leftBeforeTheEnd ? 1 : 0),
+          delegation: stats.delegation + (presence.delegation ? 1 : 0),
+        }),
+        {
+          total: 0,
+          present: 0,
+          arrivedLate: 0,
+          leftBeforeTheEnd: 0,
+          delegation: 0,
+        }
+      );
+
       await writeFile(
         pathJoin("contents", "writters", `${persons[personId].id}.json`),
         JSON.stringify(writterData, null, 2)

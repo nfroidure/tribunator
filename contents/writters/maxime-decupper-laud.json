@@ -488,5 +488,14 @@
         "present": true
       }
     ]
+  },
+  "presencesStats": {
+    "cm-douai": {
+      "total": 22,
+      "present": 17,
+      "arrivedLate": 1,
+      "leftBeforeTheEnd": 0,
+      "delegation": 5
+    }
   }
 }

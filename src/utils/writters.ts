@@ -9,6 +9,13 @@ export type PresenceItem = {
   arrivedLate?: boolean;
   leftBeforeTheEnd?: boolean;
 };
+export type PresenceStatItem = {
+  total: number;
+  present: number;
+  arrivedLate: number;
+  leftBeforeTheEnd: number;
+  delegation: number;
+};
 export type OccurenceItem = {
   id: string;
   date: string;
@@ -62,6 +69,7 @@ export type WritterStats = {
   country: string;
   portrait: string;
   presences?: Record<string, PresenceItem[]>;
+  presencesStats?: Record<string, PresenceStatItem>;
 } & StatsData;
 
 export type Writter = {
@@ -75,6 +83,7 @@ export type Writter = {
   };
   stats: Omit<WritterStats, "presences">;
   presences?: Record<string, PresenceItem[]>;
+  presencesStats?: Record<string, PresenceStatItem>;
 };
 
 export function authorToWritterFilename(author: string) {
