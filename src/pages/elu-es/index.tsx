@@ -102,13 +102,16 @@ export const entriesToBaseListingMetadata = (
   const description =
     "Retrouvez toustes les élu·es du Douaisis cité·es sur ce site et les statistiques relatives à leurs tribunes.";
   const entries = baseEntries
-    .map<Writter>((stats) => {
+    .map<Writter>(({ presences, ...stats }) => {
       return {
         id: toASCIIString(stats.name),
-        date: stats.writtings[stats.writtings.length - 1].date,
+        date: stats.writtings.length
+          ? stats.writtings[stats.writtings.length - 1].date
+          : new Date().toISOString(),
         title: `${stats.name}`,
         description: `Fiche de l'élu·e ${stats.name}`,
         stats,
+        ...(presences ? { presences } : {}),
         illustration: {
           url: `images/portraits/${stats.portrait}`,
           alt: `Portrait de ${stats.name}`,

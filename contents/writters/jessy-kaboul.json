@@ -375,5 +375,41 @@
         }
       }
     }
+  },
+  "presences": {
+    "cm-douai": [
+      {
+        "date": "2023-01-20T19:00:00Z",
+        "present": false,
+        "delegation": {
+          "id": "khadija-ahantat",
+          "name": "Khadija AHANTAT"
+        }
+      },
+      {
+        "date": "2023-02-10T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-03-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-04-07T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-05-26T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-06-09T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-06-30T19:00:00Z",
+        "present": true
+      }
+    ]
   }
 }

@@ -1,7 +1,14 @@
 import { toASCIIString } from "./ascii";
 import { pathJoin, readDir, readJSON } from "./files";
-import { BaseGroup } from "./tribunes";
+import type { Author, BaseGroup } from "./tribunes";
 
+export type PresenceItem = {
+  date: string;
+  present: boolean;
+  delegation?: Pick<Author, "id" | "name">;
+  arrivedLate?: boolean;
+  leftBeforeTheEnd?: boolean;
+};
 export type OccurenceItem = {
   id: string;
   date: string;
@@ -54,6 +61,7 @@ export type WritterStats = {
   locality: string;
   country: string;
   portrait: string;
+  presences?: Record<string, PresenceItem[]>;
 } & StatsData;
 
 export type Writter = {
@@ -65,7 +73,8 @@ export type Writter = {
     url: string;
     alt: string;
   };
-  stats: WritterStats;
+  stats: Omit<WritterStats, "presences">;
+  presences?: Record<string, PresenceItem[]>;
 };
 
 export function authorToWritterFilename(author: string) {

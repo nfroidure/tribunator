@@ -19,6 +19,11 @@ import Top from "../../components/top";
 import Stats from "../../components/stats";
 import type { GetStaticProps, GetStaticPaths } from "next";
 import type { Writter } from "../../utils/writters";
+import Heading3 from "../../components/h3";
+
+const INSTANCES = {
+  "cm-douai": "Conseil Municipal de la Ville de Douai",
+};
 
 type Params = { id: string };
 type Props = {
@@ -74,6 +79,47 @@ const Entry = ({ entry }: Props) => {
         </UnorderedList>
         <Stats stats={entry.stats} />
         <Top summary={entry.stats.summary} />
+        {entry.presences ? (
+          <>
+            <Heading2>Feuille de présence</Heading2>
+            {Object.keys(entry.presences).map((instance) => (
+              <Fragment key={instance}>
+                <Heading3>{INSTANCES[instance]}</Heading3>
+                <UnorderedList>
+                  {entry.presences[instance].map((presence) => (
+                    <ListItem>
+                      <Strong>
+                        {new Intl.DateTimeFormat("fr-FR", {
+                          year: "numeric",
+                          month: "long",
+                        }).format(new Date(presence.date))}
+                         :
+                      </Strong>{" "}
+                      {presence.present ? "✅ présent·e" : "❌ absent·e"}
+                      {presence.arrivedLate || presence.leftBeforeTheEnd
+                        ? ` (${presence.arrivedLate ? "en retard" : ""}${
+                            presence.arrivedLate && presence.leftBeforeTheEnd
+                              ? " et "
+                              : ""
+                          }${
+                            presence.leftBeforeTheEnd ? "parti·e plus tôt" : ""
+                          })`
+                        : ""}
+                      {presence.delegation ? (
+                        <>
+                          , a donné son pouvoir à{" "}
+                          <Anchor href={`/elu-es/${presence.delegation.id}`}>
+                            {presence.delegation.name}
+                          </Anchor>
+                        </>
+                      ) : null}
+                    </ListItem>
+                  ))}
+                </UnorderedList>
+              </Fragment>
+            ))}
+          </>
+        ) : null}
         <Heading2>Liste des tribunes</Heading2>
         <UnorderedList>
           {entry.stats.writtings.map(({ id, date }) => (

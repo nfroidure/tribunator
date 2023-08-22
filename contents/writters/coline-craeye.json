@@ -1126,5 +1126,98 @@
         }
       }
     }
+  },
+  "presences": {
+    "cm-douai": [
+      {
+        "date": "2020-11-13T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2020-11-28T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2020-12-11T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-01-22T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-02-19T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-03-25T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-04-23T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-09-24T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-10-22T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-11-19T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-07-08T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-09-23T19:00:00Z",
+        "present": true,
+        "arrivedLate": true
+      },
+      {
+        "date": "2022-10-21T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-11-18T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-12-16T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-01-20T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-02-10T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-03-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-04-07T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-05-26T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-06-09T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2023-06-30T19:00:00Z",
+        "present": true
+      }
+    ]
   }
 }

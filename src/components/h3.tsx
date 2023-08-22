@@ -9,7 +9,7 @@ const Heading3 = ({
     <style jsx>{`
       .root {
         font-family: var(--headingFont);
-        font-size: var(--greatFontSize);
+        font-size: var(--bigFontSize);
         line-height: var(--greatLineHeight);
         text-decoration: underline;
         font-weigth: normal;
