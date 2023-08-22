@@ -6,8 +6,8 @@
     <description>Retrouvez toustes les élu·es du Douaisis cité·es sur ce site et les statistiques relatives à leurs tribunes.</description>
     <link>https://keskidiz.nicolasfroidure.fr/elu-es</link>
     <atom:link href="https://keskidiz.nicolasfroidure.fr/elu-es.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 GMT</lastBuildDate>
-    <pubDate>Mon, 21 Aug 2023 16:40:04 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2023 10:36:39 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2023 10:36:39 GMT</pubDate>
     <ttl>1800</ttl>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/agnes-dupuis</guid>
@@ -393,6 +393,13 @@
         <description>Fiche de l&apos;élu·e Yves PIQUOT</description>
         <link>https://keskidiz.nicolasfroidure.fr/elu-es/yves-piquot</link>
         <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/yvette-wattebled</guid>
+        <title>Yvette WATTEBLED</title>
+        <description>Fiche de l&apos;élu·e Yvette WATTEBLED</description>
+        <link>https://keskidiz.nicolasfroidure.fr/elu-es/yvette-wattebled</link>
+        <pubDate>Tue, 22 Aug 2023 10:36:39 GMT</pubDate>
       </item>
       <item>
         <guid isPermaLink="true">https://keskidiz.nicolasfroidure.fr/elu-es/yvon-sipieter</guid>
