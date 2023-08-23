@@ -8,15 +8,16 @@ import Heading3 from "../components/h3";
 import Paragraph from "../components/p";
 import { readGlobalStats } from "../utils/globalStats";
 import Strong from "../components/strong";
+import UnorderedList from "../components/ul";
+import ListItem from "../components/li";
+import Anchor from "../components/a";
+import { CSS_BREAKPOINT_START_M } from "../utils/constants";
 import {
   getStaticProps as baseGetStaticProps,
   type Props as BaseProps,
 } from "./[...slug]";
 import type { GetStaticProps } from "next";
 import type { StatsSummary } from "../utils/writters";
-import UnorderedList from "../components/ul";
-import ListItem from "../components/li";
-import Anchor from "../components/a";
 
 type Props = BaseProps & {
   globalStats: StatsSummary;
@@ -147,11 +148,14 @@ const Page = ({ entry, globalStats }: Props) => (
       .clear {
         clear: both;
       }
-      .top {
-        display: flex;
-      }
-      .top .column {
-        flex: 1;
+
+      @media screen and (min-width: ${CSS_BREAKPOINT_START_M}) {
+        .top {
+          display: flex;
+        }
+        .top .column {
+          flex: 1;
+        }
       }
     `}</style>
   </Layout>
