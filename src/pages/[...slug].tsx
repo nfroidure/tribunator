@@ -49,8 +49,9 @@ const Page = ({ entry }: Props) => {
 export default Page;
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = (await readDir(pathJoin(".", "contents", "pages"))).map(
-    (path) => {
+  const paths = (await readDir(pathJoin(".", "contents", "pages")))
+    .filter((file) => file !== "index.md")
+    .map((path) => {
       const slug = path.replace(".md", "").split("/");
 
       if (slug[slug.length - 1] === "index") {
@@ -60,8 +61,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
       return {
         params: { slug },
       };
-    }
-  );
+    });
 
   return { paths, fallback: false };
 };
