@@ -35,7 +35,7 @@ const Page = ({ entry, globalStats }: Props) => (
         <Strong>{entry.description}</Strong>
       </Paragraph>
 
-      <Heading2>🏆 Les bons élèves</Heading2>
+      <Heading2>🏆 Les bon·nes élèves</Heading2>
       <div className="top">
         <div className="column">
           <Heading3>✅ Assiduité</Heading3>
@@ -90,7 +90,7 @@ const Page = ({ entry, globalStats }: Props) => (
           </UnorderedList>
         </div>
       </div>
-      <Heading2>🤔 Les mauvais élèves</Heading2>
+      <Heading2>🤔 Les mauvais·es élèves</Heading2>
       <div className="top">
         <div className="column">
           <Heading3>🤷 Absentéisme</Heading3>
