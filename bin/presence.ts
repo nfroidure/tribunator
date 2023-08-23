@@ -1,8 +1,21 @@
 import { join as pathJoin } from "node:path";
 import { readFile, writeFile, readdir, access } from "node:fs/promises";
 import { toASCIIString } from "../src/utils/ascii";
+import {
+  OccurenceItem,
+  aggregatesStats,
+  computeStats,
+  createBaseStatsItem,
+  shrinkStats,
+  sortByDate,
+} from "../src/utils/stats";
 import type { Author } from "../src/utils/tribunes";
-import type { PresenceItem } from "../src/utils/writters";
+import type {
+  PresenceItem,
+  PresenceStatItem,
+  PresenceStatsSummary,
+  StatsSummary,
+} from "../src/utils/writters";
 
 run();
 
@@ -54,6 +67,30 @@ async function run() {
       }
     }
 
+    const instanceCode = file.replace(/\.csv$/, "");
+    const globalStats = JSON.parse(
+      (await readFile(pathJoin("contents", `globalStats.json`))).toString()
+    ) as StatsSummary;
+    const globalOccurences: Record<
+      keyof PresenceStatsSummary,
+      OccurenceItem[]
+    > = {
+      presenceRatio: [],
+      arrivedLate: [],
+      leftBeforeTheEnd: [],
+      delegation: [],
+    };
+
+    globalStats.presences = globalStats.presences || {};
+    globalStats.presences[instanceCode] = [];
+    globalStats.presencesStats = globalStats.presencesStats || {};
+    globalStats.presencesStats[instanceCode] = {
+      presenceRatio: createBaseStatsItem(),
+      arrivedLate: createBaseStatsItem(),
+      leftBeforeTheEnd: createBaseStatsItem(),
+      delegation: createBaseStatsItem(),
+    };
+
     for (const personId of Object.keys(persons)) {
       const presences: PresenceItem[] = persons[personId].presences.map(
         (presence) =>
@@ -76,14 +113,16 @@ async function run() {
             pathJoin("contents", "writters", `${persons[personId].id}.json`)
           )
         ).toString()
-      );
+      ) as {
+        presences?: Record<string, PresenceItem[]>;
+        presencesStats?: Record<string, PresenceStatItem>;
+      };
 
       writterData.presences = writterData.presences || {};
-      writterData.presences[file.replace(/\.csv$/, "")] =
-        presences.sort(sortByDate);
+      writterData.presences[instanceCode] = presences.sort(sortByDate);
 
       writterData.presencesStats = writterData.presencesStats || {};
-      writterData.presencesStats[file.replace(/\.csv$/, "")] = presences.reduce(
+      writterData.presencesStats[instanceCode] = presences.reduce(
         (stats, presence) => ({
           total: stats.total + 1,
           present: stats.present + (presence.present ? 1 : 0),
@@ -105,7 +144,71 @@ async function run() {
         pathJoin("contents", "writters", `${persons[personId].id}.json`),
         JSON.stringify(writterData, null, 2)
       );
+
+      globalStats.authors[persons[personId].id] = globalStats.authors[
+        persons[personId].id
+      ] || {
+        id: persons[personId].id,
+        name: persons[personId].name,
+        portrait: "default.svg",
+        mandates: [],
+        totalSignificantWords: 0,
+        totalWords: 0,
+      };
+
+      globalStats.presences[instanceCode].push({
+        id: persons[personId].id,
+        ...writterData.presencesStats[instanceCode],
+      });
+
+      aggregatesStats(
+        createBaseStatsItem(
+          (writterData.presencesStats[instanceCode].present /
+            writterData.presencesStats[instanceCode].total) *
+            100,
+          persons[personId].id
+        ),
+        globalStats.presencesStats[instanceCode].presenceRatio
+      );
+      globalStats.presencesStats[instanceCode].presenceRatio = shrinkStats(
+        globalStats.presencesStats[instanceCode].presenceRatio
+      );
+      aggregatesStats(
+        createBaseStatsItem(
+          writterData.presencesStats[instanceCode].arrivedLate,
+          persons[personId].id
+        ),
+        globalStats.presencesStats[instanceCode].arrivedLate
+      );
+      globalStats.presencesStats[instanceCode].arrivedLate = shrinkStats(
+        globalStats.presencesStats[instanceCode].arrivedLate
+      );
+      aggregatesStats(
+        createBaseStatsItem(
+          writterData.presencesStats[instanceCode].leftBeforeTheEnd,
+          persons[personId].id
+        ),
+        globalStats.presencesStats[instanceCode].leftBeforeTheEnd
+      );
+      globalStats.presencesStats[instanceCode].leftBeforeTheEnd = shrinkStats(
+        globalStats.presencesStats[instanceCode].leftBeforeTheEnd
+      );
+      aggregatesStats(
+        createBaseStatsItem(
+          writterData.presencesStats[instanceCode].delegation,
+          persons[personId].id
+        ),
+        globalStats.presencesStats[instanceCode].delegation
+      );
+      globalStats.presencesStats[instanceCode].delegation = shrinkStats(
+        globalStats.presencesStats[instanceCode].delegation
+      );
     }
+
+    await writeFile(
+      pathJoin("contents", `globalStats.json`),
+      JSON.stringify(globalStats, null, 2)
+    );
   }
 }
 
@@ -130,16 +233,4 @@ function parsePresenceCode(code: string): PartialPresence {
         }
       : {}),
   };
-}
-
-function sortByDate<T extends { date: string }>(
-  authorA: T,
-  authorB: T
-): number {
-  if (Date.parse(authorA.date) < Date.parse(authorB.date)) {
-    return -1;
-  } else if (Date.parse(authorA.date) > Date.parse(authorB.date)) {
-    return 1;
-  }
-  return 0;
 }

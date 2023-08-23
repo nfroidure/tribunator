@@ -1,5 +1,6 @@
 import { toASCIIString } from "./ascii";
 import { pathJoin, readDir, readJSON } from "./files";
+import type { OccurenceItem, StatItem } from "./stats";
 import type { Author, BaseGroup } from "./tribunes";
 
 export type PresenceItem = {
@@ -16,22 +17,19 @@ export type PresenceStatItem = {
   leftBeforeTheEnd: number;
   delegation: number;
 };
-export type OccurenceItem = {
-  id: string;
-  date: string;
-  count: number;
+export type PresenceStatsSummary = {
+  presenceRatio: StatItem;
+  arrivedLate: StatItem;
+  leftBeforeTheEnd: StatItem;
+  delegation: StatItem;
 };
+
 export type SentimentOccurenceItem = {
   id: string;
   date: string;
   positive: number;
   neutral: number;
   negative: number;
-};
-export type StatItem = {
-  mean: { count: number; total: number };
-  min: { value: number; ids: string[]; restLength?: number };
-  max: { value: number; ids: string[]; restLength?: number };
 };
 
 export type StatsSummary = {
@@ -45,6 +43,14 @@ export type StatsSummary = {
     neutral: StatItem;
     negative: StatItem;
   };
+  authors: Record<string, Author>;
+  presences?: Record<
+    string,
+    (PresenceStatItem & {
+      id: string;
+    })[]
+  >;
+  presencesStats?: Record<string, PresenceStatsSummary>;
 };
 export type StatsData = {
   writtings: {

@@ -5,6 +5,7 @@
   "partyAbbr": "UMP",
   "type": "Élus d’opposition",
   "logo": "default.svg",
+  "totalWords": 3753,
   "writtings": [
     {
       "date": "2014-05-01T00:00:00Z",
@@ -2540,7 +2541,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "chantal-rybak",
@@ -2548,7 +2551,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "chantal-rybak.jpg"
+      "portrait": "chantal-rybak.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "cyril-carbonnel",
@@ -2556,7 +2561,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "franz-quatreboeufs",
@@ -2564,7 +2571,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "franz-quatreboeufs.jpg"
+      "portrait": "franz-quatreboeufs.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "francoise-prouvost",
@@ -2572,7 +2581,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "isabelle-chatelain",
@@ -2580,7 +2591,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "marie-delecambre",
@@ -2588,7 +2601,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "marie-helene-quatreboeufs-niklikowski",
@@ -2596,7 +2611,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     }
   ],
   "locality": "Douai",

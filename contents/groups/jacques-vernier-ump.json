@@ -5,6 +5,7 @@
   "partyAbbr": "UMP",
   "type": "Majorité municipale",
   "logo": "default.svg",
+  "totalWords": 736,
   "writtings": [
     {
       "date": "2012-01-01T00:00:00Z",
@@ -633,7 +634,9 @@
         "Maire de Douai",
         "Conseiller Régional"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     }
   ],
   "locality": "Douai",

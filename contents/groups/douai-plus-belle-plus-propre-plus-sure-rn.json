@@ -5,6 +5,7 @@
   "partyAbbr": "RN",
   "type": "Élus d’opposition",
   "logo": "default.svg",
+  "totalWords": 1446,
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -1316,7 +1317,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "guy-cannie.jpg"
+      "portrait": "guy-cannie.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "thibaut-francois",
@@ -1324,7 +1327,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "thibaut-francois.jpg"
+      "portrait": "thibaut-francois.jpg",
+      "totalSignificantWords": 647,
+      "totalWords": 1274
     },
     {
       "id": "thibaut-francois",
@@ -1332,7 +1337,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "thibaut-francois.jpg"
+      "portrait": "thibaut-francois.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     }
   ],
   "locality": "Douai",

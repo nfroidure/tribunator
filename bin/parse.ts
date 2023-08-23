@@ -7,12 +7,17 @@ import { promisify } from "node:util";
 import nodeLefff from "node-lefff";
 import { toASCIIString } from "../src/utils/ascii";
 import type {
-  OccurenceItem,
   SentimentOccurenceItem,
-  StatItem,
   StatsSummary,
 } from "../src/utils/writters";
 import type { Author, BaseGroup } from "../src/utils/tribunes";
+import {
+  createBaseStatsItem,
+  shrinkStats,
+  sortByName,
+  aggregatesStats,
+  computeStats,
+} from "../src/utils/stats";
 
 const exec = promisify(_exec);
 
@@ -95,12 +100,17 @@ async function run() {
           portrait = "default.svg";
         }
 
-        authors.push({
+        const author = {
           id,
           name,
           mandates,
           portrait,
-        });
+          totalSignificantWords: 0,
+          totalWords: 0,
+        };
+
+        authors.push(author);
+        globalStats.authors[author.id] = author;
       } while (authorParts.length);
 
       const content = parts
@@ -153,6 +163,7 @@ async function run() {
         partyAbbr: group.abbr,
         type: group.type,
         logo: group.logo,
+        totalWords: 0,
         writtings: [],
         sentences: [],
         sentiments: [],
@@ -183,6 +194,7 @@ async function run() {
           const writerAggregation = writtersAggregations[
             toASCIIString(name)
           ] || {
+            totalWords: 0,
             writtings: [],
             sentences: [],
             sentiments: [],
@@ -300,8 +312,10 @@ async function run() {
 
       words.forEach((word) => {
         const lemma = nl.lem(word.word);
+
         aggregationsList.forEach((aggregation) => {
           aggregation.words[lemma] = (aggregation.words[lemma] || 0) + 1;
+          aggregation.totalWords += word.word.length > 3 ? 1 : 0;
         });
       });
 
@@ -351,12 +365,17 @@ ${content}
       caps: computeStats(writtersAggregations[key].caps),
       sentiments: computeSentimentStats(writtersAggregations[key].sentiments),
     };
+    const allWords = Object.keys(writtersAggregations[key].words).filter(
+      (word) => word.length > 3
+    );
+
+    globalStats.authors[key].totalWords = writtersAggregations[key].totalWords;
+    globalStats.authors[key].totalSignificantWords = allWords.length;
 
     const finalAggregation = {
       ...writtersAggregations[key],
       summary: shrinkSummary(summary),
-      words: Object.keys(writtersAggregations[key].words)
-        .filter((word) => word.length > 3)
+      words: allWords
         .sort((wordA, wordB) =>
           writtersAggregations[key].words[wordA] <
           writtersAggregations[key].words[wordB]
@@ -432,215 +451,113 @@ ${content}
     pathJoin("contents", `globalStats.json`),
     JSON.stringify(shrinkSummary(globalStats), null, 2)
   );
+}
 
-  function buildGroupDetails(fullName): BaseGroup {
-    const matches = fullName.match(/^(.*) :([^\(]*)(\(.*\)|)$/);
-    const name = matches[2].trim() || "Non-Affilié·es";
-    const type = matches[1].trim();
-    let party = matches[3].trim() || "Sans-Étiquette";
-    let abbr = "SE";
-    let logo = "default.svg";
+function buildGroupDetails(fullName): BaseGroup {
+  const matches = fullName.match(/^(.*) :([^\(]*)(\(.*\)|)$/);
+  const name = matches[2].trim() || "Non-Affilié·es";
+  const type = matches[1].trim();
+  let party = matches[3].trim() || "Sans-Étiquette";
+  let abbr = "SE";
+  let logo = "default.svg";
 
-    if (party.includes("Europe Écologie les Verts")) {
-      party = "Europe Écologie-Les Verts";
-      abbr = "EELV";
-      logo = "eelv-douaisis.svg";
-    }
-    if (party.includes("Vivre Douai")) {
-      party = "Citoyen·nes de Vivre Douai";
-      abbr = "SE";
-      logo = "douai-au-coeur.svg";
-    }
-    if (party.includes("Parti Socialiste")) {
-      party = "Parti Socialiste";
-      abbr = "PS";
-      logo = "ps.png";
-    }
-    if (
-      party.includes("L’humain d’abord pour Douai") ||
-      party.includes("Parti Communiste")
-    ) {
-      party = "Parti Communiste Français";
-      abbr = "PCF";
-      logo = "pcf.svg";
-    }
-    if (party.includes("Rassemblement National")) {
-      party = "Rassemblement National";
-      abbr = "RN";
-    }
-    if (party.includes("UMP")) {
-      party = "Union pour un Mouvement Populaire";
-      abbr = "UMP";
-    }
-    if (fullName.includes("Douai dynamique et durable")) {
-      party = "Alliance LReM-Modem";
-      abbr = "DVD";
-    }
-    if (fullName.includes("Ensemble faisons Douai")) {
-      party = "Sans-Étiquette";
-      abbr = "SE";
-    }
+  if (party.includes("Europe Écologie les Verts")) {
+    party = "Europe Écologie-Les Verts";
+    abbr = "EELV";
+    logo = "eelv-douaisis.svg";
+  }
+  if (party.includes("Vivre Douai")) {
+    party = "Citoyen·nes de Vivre Douai";
+    abbr = "SE";
+    logo = "douai-au-coeur.svg";
+  }
+  if (party.includes("Parti Socialiste")) {
+    party = "Parti Socialiste";
+    abbr = "PS";
+    logo = "ps.png";
+  }
+  if (
+    party.includes("L’humain d’abord pour Douai") ||
+    party.includes("Parti Communiste")
+  ) {
+    party = "Parti Communiste Français";
+    abbr = "PCF";
+    logo = "pcf.svg";
+  }
+  if (party.includes("Rassemblement National")) {
+    party = "Rassemblement National";
+    abbr = "RN";
+  }
+  if (party.includes("UMP")) {
+    party = "Union pour un Mouvement Populaire";
+    abbr = "UMP";
+  }
+  if (fullName.includes("Douai dynamique et durable")) {
+    party = "Alliance LReM-Modem";
+    abbr = "DVD";
+  }
+  if (fullName.includes("Ensemble faisons Douai")) {
+    party = "Sans-Étiquette";
+    abbr = "SE";
+  }
+
+  return {
+    id: toASCIIString(`${name} ${abbr}`),
+    name,
+    type,
+    party,
+    abbr,
+    logo,
+  };
+}
+
+function createBaseStatsObject() {
+  return {
+    authors: {},
+    sentences: createBaseStatsItem(),
+    exclamations: createBaseStatsItem(),
+    questions: createBaseStatsItem(),
+    bolds: createBaseStatsItem(),
+    caps: createBaseStatsItem(),
+    sentiments: {
+      positive: createBaseStatsItem(),
+      neutral: createBaseStatsItem(),
+      negative: createBaseStatsItem(),
+    },
+  };
+}
+
+function computeSentimentStats(
+  occurences: SentimentOccurenceItem[]
+): StatsSummary["sentiments"] {
+  return ["positive", "neutral", "negative"].reduce((stats, sentiment) => {
+    const reshapedOccurences = occurences.map(({ id, date, ...occurence }) => ({
+      id,
+      date,
+      count: occurence[sentiment],
+    }));
 
     return {
-      id: toASCIIString(`${name} ${abbr}`),
-      name,
-      type,
-      party,
-      abbr,
-      logo,
+      ...stats,
+      [sentiment]: computeStats(reshapedOccurences),
     };
-  }
+  }, {} as Partial<StatsSummary["sentiments"]>) as StatsSummary["sentiments"];
+}
 
-  function createBaseStatsItem(): StatItem {
-    return {
-      mean: { count: 0, total: 0 },
-      min: { value: Infinity, ids: [] },
-      max: { value: -Infinity, ids: [] },
-    };
-  }
-
-  function createBaseStatsObject(): StatsSummary {
-    return {
-      sentences: createBaseStatsItem(),
-      exclamations: createBaseStatsItem(),
-      questions: createBaseStatsItem(),
-      bolds: createBaseStatsItem(),
-      caps: createBaseStatsItem(),
-      sentiments: {
-        positive: createBaseStatsItem(),
-        neutral: createBaseStatsItem(),
-        negative: createBaseStatsItem(),
-      },
-    };
-  }
-
-  function aggregatesStats(statsItem: StatItem, statsObject: StatItem) {
-    statsObject.mean.total += statsItem.mean.total;
-    statsObject.mean.count++;
-    if (statsObject.min.value > statsItem.min.value) {
-      statsObject.min = statsItem.min;
-    }
-    if (statsObject.min.value === statsItem.min.value) {
-      statsObject.min = {
-        value: statsItem.min.value,
-        ids: [...statsObject.min.ids, ...statsItem.min.ids],
-      };
-    }
-    if (statsObject.max.value < statsItem.max.value) {
-      statsObject.max = statsItem.max;
-    }
-    if (statsObject.max.value === statsItem.max.value) {
-      statsObject.max = {
-        value: statsItem.max.value,
-        ids: [...statsObject.max.ids, ...statsItem.max.ids],
-      };
-    }
-  }
-
-  function computeStats(occurences: OccurenceItem[]): StatItem {
-    return {
-      mean: {
-        count: occurences.reduce((total, { count }) => total + count, 0),
-        total: occurences.length,
-      },
-      min: occurences.reduce(
-        (actualMin, { count: value, id }) => {
-          if (actualMin.value > value) {
-            return {
-              value,
-              ids: [id],
-            };
-          }
-          if (actualMin.value === value) {
-            return {
-              value,
-              ids: [...actualMin.ids, id],
-            };
-          }
-          return actualMin;
-        },
-        { value: Infinity, ids: [] } as StatItem["min"]
-      ),
-      max: occurences.reduce(
-        (actualMax, { count: value, id }) => {
-          if (actualMax.value < value) {
-            return {
-              value,
-              ids: [id],
-            };
-          }
-          if (actualMax.value === value) {
-            return {
-              value,
-              ids: [...actualMax.ids, id],
-            };
-          }
-          return actualMax;
-        },
-        { value: -Infinity, ids: [] } as StatItem["max"]
-      ),
-    };
-  }
-
-  function computeSentimentStats(
-    occurences: SentimentOccurenceItem[]
-  ): StatsSummary["sentiments"] {
-    return ["positive", "neutral", "negative"].reduce((stats, sentiment) => {
-      const reshapedOccurences = occurences.map(
-        ({ id, date, ...occurence }) => ({
-          id,
-          date,
-          count: occurence[sentiment],
-        })
-      );
-
-      return {
-        ...stats,
-        [sentiment]: computeStats(reshapedOccurences),
-      };
-    }, {} as Partial<StatsSummary["sentiments"]>) as StatsSummary["sentiments"];
-  }
-
-  function shrinkStats(statsItem: StatItem): StatItem {
-    return {
-      mean: statsItem.mean,
-      min: {
-        value: statsItem.min.value,
-        ids: statsItem.min.ids.slice(0, 5),
-        restLength: statsItem.min.ids.slice(5).length,
-      },
-      max: {
-        value: statsItem.max.value,
-        ids: statsItem.max.ids.slice(0, 5),
-        restLength: statsItem.max.ids.slice(5).length,
-      },
-    };
-  }
-
-  function shrinkSummary(summary: StatsSummary): StatsSummary {
-    return {
-      sentences: shrinkStats(summary.sentences),
-      exclamations: shrinkStats(summary.exclamations),
-      questions: shrinkStats(summary.questions),
-      bolds: shrinkStats(summary.bolds),
-      caps: shrinkStats(summary.caps),
-      sentiments: {
-        positive: shrinkStats(summary.sentiments.positive),
-        neutral: shrinkStats(summary.sentiments.neutral),
-        negative: shrinkStats(summary.sentiments.negative),
-      },
-    };
-  }
-
-  function sortByName<T extends { name: string }>(
-    authorA: T,
-    authorB: T
-  ): number {
-    if (authorA.name < authorB.name) {
-      return -1;
-    } else if (authorA.name > authorB.name) {
-      return 1;
-    }
-    return 0;
-  }
+function shrinkSummary(
+  summary: Omit<StatsSummary, "authors">
+): Omit<StatsSummary, "authors"> {
+  return {
+    ...summary,
+    sentences: shrinkStats(summary.sentences),
+    exclamations: shrinkStats(summary.exclamations),
+    questions: shrinkStats(summary.questions),
+    bolds: shrinkStats(summary.bolds),
+    caps: shrinkStats(summary.caps),
+    sentiments: {
+      positive: shrinkStats(summary.sentiments.positive),
+      neutral: shrinkStats(summary.sentiments.neutral),
+      negative: shrinkStats(summary.sentiments.negative),
+    },
+  };
 }

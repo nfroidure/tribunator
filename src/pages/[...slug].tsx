@@ -24,7 +24,7 @@ type Entry = {
 } & PageFrontmatterMetadata;
 
 type Params = { slug: string[] };
-type Props = { entry: Entry };
+export type Props = { entry: Entry };
 
 const Page = ({ entry }: Props) => {
   return (

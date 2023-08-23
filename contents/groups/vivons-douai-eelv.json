@@ -5,6 +5,7 @@
   "partyAbbr": "EELV",
   "type": "Élus d’opposition",
   "logo": "eelv-douaisis.svg",
+  "totalWords": 93,
   "writtings": [
     {
       "date": "2012-11-01T00:00:00Z",
@@ -164,7 +165,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 78,
+      "totalWords": 93
     }
   ],
   "locality": "Douai",

@@ -5,6 +5,7 @@
   "partyAbbr": "PCF",
   "type": "Élus d’opposition",
   "logo": "pcf.svg",
+  "totalWords": 114,
   "writtings": [
     {
       "date": "2012-05-01T00:00:00Z",
@@ -200,7 +201,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 52,
+      "totalWords": 52
     },
     {
       "id": "odile-hage",
@@ -208,7 +211,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 60,
+      "totalWords": 62
     }
   ],
   "locality": "Douai",

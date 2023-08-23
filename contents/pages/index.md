@@ -1,6 +1,6 @@
 ---
-title: Que disent les élu·es de Douai ?
-description: Un site qui recense toutes les tribunes des élu·es de Douai et les analyse pour en tirer l'essentiel.
+title: Les élu·es de Douai passé·es à la moulinette !
+description: Savoir ce que disent et font les élu·es est essentiel pour bien choisir ses représentant·es.
 date: "2023-05-08T22:15:47.659Z"
 draft: false
 illustration:
@@ -8,20 +8,11 @@ illustration:
   alt: "Bannière du site Keskidiz"
 ---
 
-# Keskidiz ?
+## À propos
 
-**Les tribunes des élu·es passées à la moulinette !**
-
-Les tribunes présentes dans les divers magazines institutionnels ne sont pas toujours lues par les citoyen·nes.
-
-C'est pourquoi j'ai eu l'envie de les rendre plus attractives grâce à une technique informatique nommée **analyse du langage naturel**.
-
-Pour le moment, ce site propose, pour chaque élu·e et chaque formation politique, une agrégation comprenant :
-- les mots les plus utilisés,
-- les sentiments exprimés (positif, négatif, neutre),
-- des indicateurs sur le contenu : nombre de tribunes, nombre de caractères, de phrases (questions, exclamations) et même sur la mise en forme (gras, majuscules).
-
-Pour le moment, seules les tribunes de la ville de Douai sont analysées.
+Pour vous aider à y voir plus clair, ce site propose, pour chaque élu·e et chaque formation politique, une agrégation comprenant :
+- la présence aux conseils municipaux,
+- une analyse des tribunes: les mots les plus utilisés, les sentiments exprimés (positif, négatif, neutre) et des indicateurs sur le contenu : nombre de tribunes, nombre de caractères, de phrases (questions, exclamations) et même sur la mise en forme (gras, majuscules).
 
 Bien-sûr, le contenu des tribunes est reporté de la manière la plus fidèle possible et l'information est sourcée via une capture d'écran du site.
 

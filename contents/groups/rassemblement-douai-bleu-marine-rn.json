@@ -5,6 +5,7 @@
   "partyAbbr": "RN",
   "type": "Élus d’opposition",
   "logo": "default.svg",
+  "totalWords": 3656,
   "writtings": [
     {
       "date": "2014-05-01T00:00:00Z",
@@ -2540,7 +2541,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "guy-cannie.jpg"
+      "portrait": "guy-cannie.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "gerard-bailliet",
@@ -2548,7 +2551,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     }
   ],
   "locality": "Douai",

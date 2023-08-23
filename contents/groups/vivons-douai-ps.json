@@ -5,6 +5,7 @@
   "partyAbbr": "PS",
   "type": "Élus d’opposition",
   "logo": "ps.png",
+  "totalWords": 814,
   "writtings": [
     {
       "date": "2012-01-01T00:00:00Z",
@@ -524,7 +525,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 72,
+      "totalWords": 77
     },
     {
       "id": "cyril-carbonnel",
@@ -532,7 +535,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "frederic-chereau",
@@ -540,7 +545,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "frederic-chereau.jpg"
+      "portrait": "frederic-chereau.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "jean-pierre-divrechy",
@@ -548,7 +555,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "karine-doyen-carbonnel",
@@ -556,7 +565,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 75,
+      "totalWords": 85
     },
     {
       "id": "monique-amghar",
@@ -564,7 +575,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "rene-lavarde",
@@ -572,7 +585,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 64,
+      "totalWords": 76
     }
   ],
   "locality": "Douai",

@@ -113,7 +113,7 @@ const Entry = ({ entry }: Props) => {
                 </UnorderedList>
                 <UnorderedList>
                   {entry.presences[instance].map((presence) => (
-                    <ListItem>
+                    <ListItem key={presence.date}>
                       <Strong>
                         {new Intl.DateTimeFormat("fr-FR", {
                           year: "numeric",

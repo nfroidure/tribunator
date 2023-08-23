@@ -5,6 +5,7 @@
   "partyAbbr": "EELV",
   "type": "Majorité municipale",
   "logo": "eelv-douaisis.svg",
+  "totalWords": 1657,
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -1316,7 +1317,9 @@
       "mandates": [
         "Conseiller municipal délégué"
       ],
-      "portrait": "guy-caruyer.jpg"
+      "portrait": "guy-caruyer.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "jean-christophe-leclercq",
@@ -1324,7 +1327,9 @@
       "mandates": [
         "Adjoint au maire"
       ],
-      "portrait": "jean-christophe-leclercq.jpg"
+      "portrait": "jean-christophe-leclercq.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "katia-bittner",
@@ -1332,7 +1337,9 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "katia-bittner.jpg"
+      "portrait": "katia-bittner.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "marie-delattre",
@@ -1340,7 +1347,9 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "marie-delattre.jpg"
+      "portrait": "marie-delattre.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "stephanie-stiernon",
@@ -1348,7 +1357,9 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "stephanie-stiernon.jpg"
+      "portrait": "stephanie-stiernon.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "yves-piquot",
@@ -1356,7 +1367,9 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "yves-piquot.jpg"
+      "portrait": "yves-piquot.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     }
   ],
   "locality": "Douai",

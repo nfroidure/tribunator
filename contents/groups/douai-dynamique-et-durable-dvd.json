@@ -5,6 +5,7 @@
   "partyAbbr": "DVD",
   "type": "Élus d’opposition",
   "logo": "default.svg",
+  "totalWords": 1627,
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -1316,7 +1317,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "anissa-bouchaboun.jpg"
+      "portrait": "anissa-bouchaboun.jpg",
+      "totalSignificantWords": 40,
+      "totalWords": 50
     },
     {
       "id": "anne-colin",
@@ -1324,7 +1327,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "anne-colin.jpg"
+      "portrait": "anne-colin.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "chantal-rybak",
@@ -1332,7 +1337,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "chantal-rybak.jpg"
+      "portrait": "chantal-rybak.jpg",
+      "totalSignificantWords": 552,
+      "totalWords": 876
     },
     {
       "id": "coline-craeye",
@@ -1340,7 +1347,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "coline-craeye.jpg"
+      "portrait": "coline-craeye.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "coline-craeye",
@@ -1348,7 +1357,9 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "coline-craeye.jpg"
+      "portrait": "coline-craeye.jpg",
+      "totalSignificantWords": 617,
+      "totalWords": 1087
     },
     {
       "id": "franz-quatreboeufs",
@@ -1356,7 +1367,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "franz-quatreboeufs.jpg"
+      "portrait": "franz-quatreboeufs.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "mohamed-felouki",
@@ -1364,7 +1377,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "mohamed-felouki.jpg"
+      "portrait": "mohamed-felouki.jpg",
+      "totalSignificantWords": 43,
+      "totalWords": 50
     },
     {
       "id": "xavier-thierry",
@@ -1372,7 +1387,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "xavier-thierry.jpg"
+      "portrait": "xavier-thierry.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     }
   ],
   "locality": "Douai",

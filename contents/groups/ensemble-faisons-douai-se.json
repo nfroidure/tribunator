@@ -5,6 +5,7 @@
   "partyAbbr": "SE",
   "type": "Élus d’opposition",
   "logo": "default.svg",
+  "totalWords": 1657,
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -1316,7 +1317,9 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "francois-guiffard.jpg"
+      "portrait": "francois-guiffard.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     }
   ],
   "locality": "Douai",

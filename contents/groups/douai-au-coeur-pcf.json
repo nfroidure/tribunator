@@ -5,6 +5,7 @@
   "partyAbbr": "PCF",
   "type": "Majorité municipale",
   "logo": "pcf.svg",
+  "totalWords": 1559,
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -1316,7 +1317,9 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "auriane-ait-lasri.jpg"
+      "portrait": "auriane-ait-lasri.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "jessy-kaboul",
@@ -1324,7 +1327,9 @@
       "mandates": [
         "Adjoint au maire"
       ],
-      "portrait": "default.svg"
+      "portrait": "default.svg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "nora-cherki",
@@ -1332,7 +1337,9 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "nora-cherki.jpg"
+      "portrait": "nora-cherki.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "eric-lemaitre",
@@ -1340,7 +1347,9 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "eric-lemaitre.jpg"
+      "portrait": "eric-lemaitre.jpg",
+      "totalSignificantWords": 45,
+      "totalWords": 47
     }
   ],
   "locality": "Douai",

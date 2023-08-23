@@ -6,6 +6,8 @@ export type Author = {
   name: string;
   mandates: string[];
   portrait: string;
+  totalSignificantWords: number;
+  totalWords: number;
 };
 export type BaseGroup = {
   id: string;

@@ -5,6 +5,7 @@
   "partyAbbr": "PS",
   "type": "Majorité municipale",
   "logo": "ps.png",
+  "totalWords": 10466,
   "writtings": [
     {
       "date": "2014-05-01T00:00:00Z",
@@ -3908,7 +3909,9 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "agnes-dupuis.jpg"
+      "portrait": "agnes-dupuis.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "carolle-divrechy",
@@ -3916,7 +3919,9 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "carolle-divrechy.jpg"
+      "portrait": "carolle-divrechy.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "frederic-chereau",
@@ -3924,7 +3929,9 @@
       "mandates": [
         "Maire de Douai"
       ],
-      "portrait": "frederic-chereau.jpg"
+      "portrait": "frederic-chereau.jpg",
+      "totalSignificantWords": 0,
+      "totalWords": 0
     },
     {
       "id": "jean-marie-dupire",
@@ -3932,7 +3939,9 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "jean-marie-dupire.jpg"
+      "portrait": "jean-marie-dupire.jpg",
+      "totalSignificantWords": 45,
+      "totalWords": 50
     }
   ],
   "locality": "Douai",
