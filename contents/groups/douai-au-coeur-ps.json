@@ -333,11 +333,11 @@
     },
     {
       "date": "2021-09-01T00:00:00Z",
-      "id": "2021-09-douai-notre-ville-jean-marie-dupire"
+      "id": "2021-09-douai-notre-ville-frederic-chereau"
     },
     {
       "date": "2021-09-01T00:00:00Z",
-      "id": "2021-09-douai-notre-ville-frederic-chereau"
+      "id": "2021-09-douai-notre-ville-jean-marie-dupire"
     },
     {
       "date": "2021-10-01T00:00:00Z",
@@ -835,14 +835,14 @@
       "count": 21
     },
     {
-      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
-      "date": "2021-09-01T00:00:00Z",
-      "count": 5
-    },
-    {
       "id": "2021-09-douai-notre-ville-frederic-chereau",
       "date": "2021-09-01T00:00:00Z",
       "count": 12
+    },
+    {
+      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
+      "date": "2021-09-01T00:00:00Z",
+      "count": 5
     },
     {
       "id": "2021-10-douai-notre-ville-frederic-chereau",
@@ -1524,18 +1524,18 @@
       "negative": 1
     },
     {
-      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
-      "date": "2021-09-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 3,
-      "negative": 1
-    },
-    {
       "id": "2021-09-douai-notre-ville-frederic-chereau",
       "date": "2021-09-01T00:00:00Z",
       "positive": 1,
       "neutral": 8,
       "negative": 2
+    },
+    {
+      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
+      "date": "2021-09-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
     },
     {
       "id": "2021-10-douai-notre-ville-frederic-chereau",
@@ -2099,14 +2099,14 @@
       "count": 5
     },
     {
-      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
-      "date": "2021-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
       "id": "2021-09-douai-notre-ville-frederic-chereau",
       "date": "2021-09-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
     },
     {
       "id": "2021-10-douai-notre-ville-frederic-chereau",
@@ -2626,12 +2626,12 @@
       "count": 0
     },
     {
-      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
+      "id": "2021-09-douai-notre-ville-frederic-chereau",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
-      "id": "2021-09-douai-notre-ville-frederic-chereau",
+      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
@@ -3153,12 +3153,12 @@
       "count": 0
     },
     {
-      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
+      "id": "2021-09-douai-notre-ville-frederic-chereau",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
-      "id": "2021-09-douai-notre-ville-frederic-chereau",
+      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
@@ -3680,12 +3680,12 @@
       "count": 0
     },
     {
-      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
+      "id": "2021-09-douai-notre-ville-frederic-chereau",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
     {
-      "id": "2021-09-douai-notre-ville-frederic-chereau",
+      "id": "2021-09-douai-notre-ville-jean-marie-dupire",
       "date": "2021-09-01T00:00:00Z",
       "count": 0
     },
@@ -3909,9 +3909,7 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "agnes-dupuis.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "agnes-dupuis.jpg"
     },
     {
       "id": "carolle-divrechy",
@@ -3919,9 +3917,7 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "carolle-divrechy.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "carolle-divrechy.jpg"
     },
     {
       "id": "frederic-chereau",
@@ -3929,9 +3925,7 @@
       "mandates": [
         "Maire de Douai"
       ],
-      "portrait": "frederic-chereau.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "frederic-chereau.jpg"
     },
     {
       "id": "jean-marie-dupire",
@@ -3939,9 +3933,7 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "jean-marie-dupire.jpg",
-      "totalSignificantWords": 45,
-      "totalWords": 50
+      "portrait": "jean-marie-dupire.jpg"
     }
   ],
   "locality": "Douai",

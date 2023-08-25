@@ -4,7 +4,6 @@ import { toASCIIString } from "../src/utils/ascii";
 import {
   OccurenceItem,
   aggregatesStats,
-  computeStats,
   createBaseStatsItem,
   shrinkStats,
   sortByDate,

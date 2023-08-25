@@ -18,7 +18,10 @@ Ensure you installed `inkscape` and `chromium`.
 
 Then, run the data ingestion:
 ```sh
-npm run parse
+npm run tribunes
+npm run profiles
+npm run stats
+npm run presences
 ```
 
 And finally run the app:
@@ -30,6 +33,6 @@ npm run dev
 
 Lemmatization is not working properly. May be useful to [see this](http://www.erwanlenagard.com/general/tutoriel-implementer-stanford-corenlp-avec-talend-1354).
 
-## Windows users
+## Windows & MAC users
 
 Lol.

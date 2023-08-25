@@ -201,9 +201,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 52,
-      "totalWords": 52
+      "portrait": "default.svg"
     },
     {
       "id": "odile-hage",
@@ -211,9 +209,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 60,
-      "totalWords": 62
+      "portrait": "default.svg"
     }
   ],
   "locality": "Douai",

@@ -1317,9 +1317,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "anissa-bouchaboun.jpg",
-      "totalSignificantWords": 40,
-      "totalWords": 50
+      "portrait": "anissa-bouchaboun.jpg"
     },
     {
       "id": "anne-colin",
@@ -1327,9 +1325,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "anne-colin.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "anne-colin.jpg"
     },
     {
       "id": "chantal-rybak",
@@ -1337,9 +1333,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "chantal-rybak.jpg",
-      "totalSignificantWords": 552,
-      "totalWords": 876
+      "portrait": "chantal-rybak.jpg"
     },
     {
       "id": "coline-craeye",
@@ -1347,9 +1341,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "coline-craeye.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "coline-craeye.jpg"
     },
     {
       "id": "coline-craeye",
@@ -1357,9 +1349,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "coline-craeye.jpg",
-      "totalSignificantWords": 617,
-      "totalWords": 1087
+      "portrait": "coline-craeye.jpg"
     },
     {
       "id": "franz-quatreboeufs",
@@ -1367,9 +1357,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "franz-quatreboeufs.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "franz-quatreboeufs.jpg"
     },
     {
       "id": "mohamed-felouki",
@@ -1377,9 +1365,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "mohamed-felouki.jpg",
-      "totalSignificantWords": 43,
-      "totalWords": 50
+      "portrait": "mohamed-felouki.jpg"
     },
     {
       "id": "xavier-thierry",
@@ -1387,9 +1373,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "xavier-thierry.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "xavier-thierry.jpg"
     }
   ],
   "locality": "Douai",

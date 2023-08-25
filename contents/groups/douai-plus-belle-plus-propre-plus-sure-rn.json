@@ -1317,9 +1317,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "guy-cannie.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "guy-cannie.jpg"
     },
     {
       "id": "thibaut-francois",
@@ -1327,9 +1325,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "thibaut-francois.jpg",
-      "totalSignificantWords": 647,
-      "totalWords": 1274
+      "portrait": "thibaut-francois.jpg"
     },
     {
       "id": "thibaut-francois",
@@ -1337,9 +1333,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "thibaut-francois.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "thibaut-francois.jpg"
     }
   ],
   "locality": "Douai",

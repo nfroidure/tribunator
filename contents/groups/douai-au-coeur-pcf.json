@@ -1317,9 +1317,7 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "auriane-ait-lasri.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "auriane-ait-lasri.jpg"
     },
     {
       "id": "jessy-kaboul",
@@ -1327,9 +1325,7 @@
       "mandates": [
         "Adjoint au maire"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "nora-cherki",
@@ -1337,9 +1333,7 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "nora-cherki.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "nora-cherki.jpg"
     },
     {
       "id": "eric-lemaitre",
@@ -1347,9 +1341,7 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "eric-lemaitre.jpg",
-      "totalSignificantWords": 45,
-      "totalWords": 47
+      "portrait": "eric-lemaitre.jpg"
     }
   ],
   "locality": "Douai",

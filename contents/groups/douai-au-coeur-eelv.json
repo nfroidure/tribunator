@@ -1317,9 +1317,7 @@
       "mandates": [
         "Conseiller municipal délégué"
       ],
-      "portrait": "guy-caruyer.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "guy-caruyer.jpg"
     },
     {
       "id": "jean-christophe-leclercq",
@@ -1327,9 +1325,7 @@
       "mandates": [
         "Adjoint au maire"
       ],
-      "portrait": "jean-christophe-leclercq.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "jean-christophe-leclercq.jpg"
     },
     {
       "id": "katia-bittner",
@@ -1337,9 +1333,7 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "katia-bittner.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "katia-bittner.jpg"
     },
     {
       "id": "marie-delattre",
@@ -1347,9 +1341,7 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "marie-delattre.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "marie-delattre.jpg"
     },
     {
       "id": "stephanie-stiernon",
@@ -1357,9 +1349,7 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "stephanie-stiernon.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "stephanie-stiernon.jpg"
     },
     {
       "id": "yves-piquot",
@@ -1367,9 +1357,7 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "yves-piquot.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "yves-piquot.jpg"
     }
   ],
   "locality": "Douai",

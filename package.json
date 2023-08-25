@@ -10,9 +10,10 @@
     "build": "next build && touch out/.nojekyll && echo 'keskidiz.nicolasfroidure.fr' > out/CNAME",
     "start": "next start",
     "types": "tsc",
-    "presence": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/presence.ts",
-    "parse": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/parse.ts",
-    "profile": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/profile.ts"
+    "presences": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/presences.ts",
+    "tribunes": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/tribunes.ts",
+    "stats": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/stats.ts",
+    "profiles": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/profiles.ts"
   },
   "dependencies": {
     "@types/inline-style-prefixer": "^5.0.0",
@@ -25,6 +26,7 @@
     "remark-parse": "^10.0.1",
     "ts-node": "^10.9.1",
     "unified": "^10.1.2",
+    "yaml": "^2.3.1",
     "yerror": "^6.2.1"
   },
   "devDependencies": {

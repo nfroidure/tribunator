@@ -525,9 +525,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 72,
-      "totalWords": 77
+      "portrait": "default.svg"
     },
     {
       "id": "cyril-carbonnel",
@@ -535,9 +533,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "frederic-chereau",
@@ -545,9 +541,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "frederic-chereau.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "frederic-chereau.jpg"
     },
     {
       "id": "jean-pierre-divrechy",
@@ -555,9 +549,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "karine-doyen-carbonnel",
@@ -565,9 +557,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 75,
-      "totalWords": 85
+      "portrait": "default.svg"
     },
     {
       "id": "monique-amghar",
@@ -575,9 +565,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "rene-lavarde",
@@ -585,9 +573,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 64,
-      "totalWords": 76
+      "portrait": "default.svg"
     }
   ],
   "locality": "Douai",

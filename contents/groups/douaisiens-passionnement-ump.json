@@ -2541,9 +2541,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "chantal-rybak",
@@ -2551,9 +2549,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "chantal-rybak.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "chantal-rybak.jpg"
     },
     {
       "id": "cyril-carbonnel",
@@ -2561,9 +2557,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "franz-quatreboeufs",
@@ -2571,9 +2565,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "franz-quatreboeufs.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "franz-quatreboeufs.jpg"
     },
     {
       "id": "francoise-prouvost",
@@ -2581,9 +2573,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "isabelle-chatelain",
@@ -2591,9 +2581,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "marie-delecambre",
@@ -2601,9 +2589,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     },
     {
       "id": "marie-helene-quatreboeufs-niklikowski",
@@ -2611,9 +2597,7 @@
       "mandates": [
         "Conseillère municipale d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     }
   ],
   "locality": "Douai",

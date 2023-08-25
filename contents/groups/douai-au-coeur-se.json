@@ -1137,9 +1137,7 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "anne-sophie-audegond.jpg",
-      "totalSignificantWords": 34,
-      "totalWords": 41
+      "portrait": "anne-sophie-audegond.jpg"
     },
     {
       "id": "avida-oulahcene",
@@ -1147,9 +1145,7 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "avida-oulahcene.jpg",
-      "totalSignificantWords": 41,
-      "totalWords": 45
+      "portrait": "avida-oulahcene.jpg"
     },
     {
       "id": "guy-lagache",
@@ -1157,9 +1153,7 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "guy-lagache.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "guy-lagache.jpg"
     },
     {
       "id": "hocine-mazy",
@@ -1167,9 +1161,7 @@
       "mandates": [
         "Adjoint au maire"
       ],
-      "portrait": "hocine-mazy.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "hocine-mazy.jpg"
     },
     {
       "id": "jamila-mekki",
@@ -1177,9 +1169,7 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "jamila-mekki.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "jamila-mekki.jpg"
     },
     {
       "id": "jean-michel-leroy",
@@ -1187,9 +1177,7 @@
       "mandates": [
         "Adjoint au maire"
       ],
-      "portrait": "jean-michel-leroy.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "jean-michel-leroy.jpg"
     },
     {
       "id": "khadija-ahantat",
@@ -1197,9 +1185,7 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "khadija-ahantat.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "khadija-ahantat.jpg"
     },
     {
       "id": "maxime-decupper-laud",
@@ -1207,9 +1193,7 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "maxime-decupper-laud.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "maxime-decupper-laud.jpg"
     },
     {
       "id": "michael-doziere",
@@ -1217,9 +1201,7 @@
       "mandates": [
         "Adjoint au maire"
       ],
-      "portrait": "michael-doziere.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "michael-doziere.jpg"
     },
     {
       "id": "mohamed-kheraki",
@@ -1227,9 +1209,7 @@
       "mandates": [
         "Adjoint au Maire"
       ],
-      "portrait": "mohamed-kheraki.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "mohamed-kheraki.jpg"
     },
     {
       "id": "nadia-bony",
@@ -1237,9 +1217,7 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "nadia-bony.jpg",
-      "totalSignificantWords": 47,
-      "totalWords": 56
+      "portrait": "nadia-bony.jpg"
     },
     {
       "id": "nathalie-apers",
@@ -1247,9 +1225,7 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "nathalie-apers.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "nathalie-apers.jpg"
     },
     {
       "id": "salima-boukentar",
@@ -1257,9 +1233,7 @@
       "mandates": [
         "Conseillère municipale"
       ],
-      "portrait": "salima-boukentar.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "salima-boukentar.jpg"
     },
     {
       "id": "sebastien-lanclu",
@@ -1267,9 +1241,7 @@
       "mandates": [
         "Conseiller municipal"
       ],
-      "portrait": "sebastien-lanclu.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "sebastien-lanclu.jpg"
     },
     {
       "id": "virginie-malolepszy",
@@ -1277,9 +1249,7 @@
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 47,
-      "totalWords": 48
+      "portrait": "default.svg"
     },
     {
       "id": "yvon-sipieter",
@@ -1287,9 +1257,7 @@
       "mandates": [
         "Adjoint au maire"
       ],
-      "portrait": "yvon-sipieter.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "yvon-sipieter.jpg"
     }
   ],
   "locality": "Douai",

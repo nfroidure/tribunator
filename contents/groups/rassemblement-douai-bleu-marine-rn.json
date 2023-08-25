@@ -2541,9 +2541,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "guy-cannie.jpg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "guy-cannie.jpg"
     },
     {
       "id": "gerard-bailliet",
@@ -2551,9 +2549,7 @@
       "mandates": [
         "Conseiller municipal d’opposition"
       ],
-      "portrait": "default.svg",
-      "totalSignificantWords": 0,
-      "totalWords": 0
+      "portrait": "default.svg"
     }
   ],
   "locality": "Douai",
