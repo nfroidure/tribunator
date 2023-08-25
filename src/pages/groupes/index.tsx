@@ -106,7 +106,7 @@ export const entriesToBaseListingMetadata = (
         id: stats.id,
         date: stats.writtings[stats.writtings.length - 1].date,
         title: `${stats.name} (${stats.partyAbbr})`,
-        description: `Fiche du groupe ${stats.name} - ${stats.party}.`,
+        description: `Fiche du groupe ${stats.name} - ${stats.party} : présence, tribunes et autres statistiques.`,
         stats,
         illustration: {
           url: `images/groups/${stats.logo}`,

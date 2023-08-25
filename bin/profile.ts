@@ -3,6 +3,7 @@ import { join as pathJoin } from "path";
 import { tmpdir } from "node:os";
 import childProcess from "node:child_process";
 import { promisify } from "node:util";
+import type { WritterStats } from "../src/utils/writters";
 
 const exec = promisify(childProcess.exec);
 
@@ -22,8 +23,9 @@ async function run() {
   for (const file of files) {
     const writter = JSON.parse(
       await fs.readFile(pathJoin("contents", "writters", file), "utf-8")
-    );
+    ) as WritterStats;
     let portraitData = defaultPortrait;
+    console.warn(`♻️ - Generating profile banner for ${writter.name}`);
 
     try {
       portraitData = `data:image/png;base64,${await fs.readFile(
@@ -41,8 +43,21 @@ async function run() {
     await fs.writeFile(
       tempFile,
       svgTemplate
+        .replace(
+          /\{x\}/gm,
+          writter.presencesStats
+            ? (
+                (writter.presencesStats["cm-douai"].present /
+                  writter.presencesStats["cm-douai"].total) *
+                100
+              ).toFixed(0)
+            : "-"
+        )
         .replace(/\{name\}/gm, writter.name)
-        .replace("{image}", portraitData)
+        .replace(/\{kw1\}/gm, writter.words?.[0]?.word || "-")
+        .replace(/\{kw2\}/gm, writter.words?.[1]?.word || "-")
+        .replace(/\{kw3\}/gm, writter.words?.[2]?.word || "-")
+        .replace(/\{image\}/gm, portraitData)
     );
     await exec(
       `inkscape --without-gui --export-png=${pathJoin(

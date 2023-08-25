@@ -109,7 +109,7 @@ export const entriesToBaseListingMetadata = (
           ? stats.writtings[stats.writtings.length - 1].date
           : new Date().toISOString(),
         title: `${stats.name}`,
-        description: `Fiche de l'élu·e ${stats.name}`,
+        description: `Fiche de l'élu·e ${stats.name} : présence, tribunes et autres statistiques.`,
         stats,
         ...(presences ? { presences } : {}),
         ...(presencesStats ? { presencesStats } : {}),
