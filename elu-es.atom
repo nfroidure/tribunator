@@ -6,13 +6,13 @@
   <subtitle>Retrouvez toustes les élu·es du Douaisis cité·es sur ce site et les statistiques relatives à leurs tribunes.</subtitle>
   <link href="https://keskidiz.nicolasfroidure.fr/elu-es.atom" rel="self" type="application/atom+xml" />
   <link href="https://keskidiz.nicolasfroidure.fr/elu-es" rel="alternate" type="text/html" />
-  <updated>2023-08-25T07:52:59.812Z</updated>
+  <updated>2023-09-01T00:00:00.000Z</updated>
   <entry>
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/agnes-dupuis</id>
     <title>Agnès DUPUIS</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/agnes-dupuis" rel="alternate" type="text/html" />
-    <updated>2021-06-01T00:00:00Z</updated>
-    <published>2021-06-01T00:00:00Z</published>
+    <updated>2023-09-01T00:00:00Z</updated>
+    <published>2023-09-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Agnès DUPUIS : présence, tribunes et autres statistiques.</summary>
     <author>
       <name>Keskidiz</name>
@@ -63,12 +63,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://keskidiz.nicolasfroidure.fr/elu-es/auriane-ait-lasri</id>
-    <title>Auriane AIT LASRI</title>
-    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/auriane-ait-lasri" rel="alternate" type="text/html" />
-    <updated>2023-07-01T00:00:00Z</updated>
-    <published>2023-07-01T00:00:00Z</published>
-    <summary>Fiche de l&apos;élu·e Auriane AIT LASRI : présence, tribunes et autres statistiques.</summary>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/auriane-delbarre</id>
+    <title>Auriane DELBARRE</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/auriane-delbarre" rel="alternate" type="text/html" />
+    <updated>2023-09-01T00:00:00Z</updated>
+    <published>2023-09-01T00:00:00Z</published>
+    <summary>Fiche de l&apos;élu·e Auriane DELBARRE : présence, tribunes et autres statistiques.</summary>
     <author>
       <name>Keskidiz</name>
     </author>
@@ -132,8 +132,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/coline-craeye</id>
     <title>Coline CRAEYE</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/coline-craeye" rel="alternate" type="text/html" />
-    <updated>2023-07-01T00:00:00Z</updated>
-    <published>2023-07-01T00:00:00Z</published>
+    <updated>2023-09-01T00:00:00Z</updated>
+    <published>2023-09-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Coline CRAEYE : présence, tribunes et autres statistiques.</summary>
     <author>
       <name>Keskidiz</name>
@@ -165,8 +165,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/francois-guiffard</id>
     <title>François GUIFFARD</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/francois-guiffard" rel="alternate" type="text/html" />
-    <updated>2023-07-01T00:00:00Z</updated>
-    <published>2023-07-01T00:00:00Z</published>
+    <updated>2023-09-01T00:00:00Z</updated>
+    <published>2023-09-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e François GUIFFARD : présence, tribunes et autres statistiques.</summary>
     <author>
       <name>Keskidiz</name>
@@ -198,8 +198,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau</id>
     <title>Frédéric CHÉREAU</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau" rel="alternate" type="text/html" />
-    <updated>2023-07-01T00:00:00Z</updated>
-    <published>2023-07-01T00:00:00Z</published>
+    <updated>2023-09-01T00:00:00Z</updated>
+    <published>2023-09-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Frédéric CHÉREAU : présence, tribunes et autres statistiques.</summary>
     <author>
       <name>Keskidiz</name>
@@ -536,6 +536,17 @@
     </author>
   </entry>
   <entry>
+    <id>https://keskidiz.nicolasfroidure.fr/elu-es/saliha-grevin</id>
+    <title>Saliha GRÉVIN</title>
+    <link href="https://keskidiz.nicolasfroidure.fr/elu-es/saliha-grevin" rel="alternate" type="text/html" />
+    <updated>2023-08-30T18:52:10.652Z</updated>
+    <published>2023-08-30T18:52:10.652Z</published>
+    <summary>Fiche de l&apos;élu·e Saliha GRÉVIN : présence, tribunes et autres statistiques.</summary>
+    <author>
+      <name>Keskidiz</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/salima-boukentar</id>
     <title>Salima BOUKENTAR</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/salima-boukentar" rel="alternate" type="text/html" />
@@ -561,8 +572,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/stephanie-stiernon</id>
     <title>Stéphanie STIERNON</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/stephanie-stiernon" rel="alternate" type="text/html" />
-    <updated>2023-05-01T00:00:00Z</updated>
-    <published>2023-05-01T00:00:00Z</published>
+    <updated>2023-09-01T00:00:00Z</updated>
+    <published>2023-09-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Stéphanie STIERNON : présence, tribunes et autres statistiques.</summary>
     <author>
       <name>Keskidiz</name>
@@ -572,8 +583,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois</id>
     <title>Thibaut FRANÇOIS</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois" rel="alternate" type="text/html" />
-    <updated>2023-07-01T00:00:00Z</updated>
-    <published>2023-07-01T00:00:00Z</published>
+    <updated>2023-09-01T00:00:00Z</updated>
+    <published>2023-09-01T00:00:00Z</published>
     <summary>Fiche de l&apos;élu·e Thibaut FRANÇOIS : présence, tribunes et autres statistiques.</summary>
     <author>
       <name>Keskidiz</name>
@@ -616,8 +627,8 @@
     <id>https://keskidiz.nicolasfroidure.fr/elu-es/yvette-wattebled</id>
     <title>Yvette WATTEBLED</title>
     <link href="https://keskidiz.nicolasfroidure.fr/elu-es/yvette-wattebled" rel="alternate" type="text/html" />
-    <updated>2023-08-25T07:52:59.812Z</updated>
-    <published>2023-08-25T07:52:59.812Z</published>
+    <updated>2023-08-30T18:52:10.652Z</updated>
+    <published>2023-08-30T18:52:10.652Z</published>
     <summary>Fiche de l&apos;élu·e Yvette WATTEBLED : présence, tribunes et autres statistiques.</summary>
     <author>
       <name>Keskidiz</name>
