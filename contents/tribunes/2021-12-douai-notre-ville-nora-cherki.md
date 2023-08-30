@@ -11,7 +11,7 @@ group:
   name: "Douai au Cœur"
   type: "Majorité municipale"
   party: "Parti Communiste Français"
-  abbr: "PCF"
+  partyAbbr: "PCF"
   logo: "pcf.svg"
 date: "2021-12-01T00:00:00Z"
 publication: "douai-notre-ville"

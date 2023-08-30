@@ -17,8 +17,7 @@ Comme cela a été annoncé, l’Office de Tourisme va déménager dans l’anci
 
 Plus encore : un espace séparé sera réservé afin d’accueillir et d'informer les habitants sur nos services (logement, déchets, etc). Nous aurons donc un bel outil de rayonnement mais aussi de proximité. Et surtout… une friche commerciale résorbée !
 
-C'est la preuve enfin que l'Agglomération ne néglige pas sa ville-
-centre. D'autres projets sont à venir comme EuraDouai.
+C'est la preuve enfin que l'Agglomération ne néglige pas sa ville centre. D'autres projets sont à venir comme EuraDouai.
 
 François GUIFFARD
 Conseiller municipal d’opposition

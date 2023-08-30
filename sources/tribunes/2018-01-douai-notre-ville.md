@@ -31,7 +31,7 @@ Construire l’avenir, c’est aussi travailler sur les accueils de loisirs de n
 
 En 2018, comme chaque année, nos aînés aussi seront à l’honneur, avec le traditionnel goûter-spectacle de janvier, qui animera à quatre reprises la salle des fêtes. Avec l’installation d’une nouvelle directrice seniors au centre communal d’action sociale, la ville repense en profondeur les activités qu’elle souhaite proposer aux personnes de plus de 65 ans, en plus de nos clubs : sorties, après-midi conviviales, conférences, sport… nos aînés seront sollicités pour exprimer leurs souhaits !
 
-Au moment où s’ouvre cette nouvelle page de notre vie municipale, je voudrais souhaiter une excellente année 2018 à toutes et à tous, de tous âges. Je voudrais surtout souhaiter à chacun-e des moments de joie partagée, d’échanges et de convivialité. Que continue de vivre, tout simplement, notre esprit douaisien, courageux, accueillant et  solidaire !
+Au moment où s’ouvre cette nouvelle page de notre vie municipale, je voudrais souhaiter une excellente année 2018 à toutes et à tous, de tous âges. Je voudrais surtout souhaiter à chacun·e des moments de joie partagée, d’échanges et de convivialité. Que continue de vivre, tout simplement, notre esprit douaisien, courageux, accueillant et  solidaire !
 
 Excellente année à toutes et à tous.
 

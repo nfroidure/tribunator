@@ -1,17 +1,20 @@
 import { readFile, writeFile, readDir, access } from "../src/utils/files";
-import { join as pathJoin } from "path";
+import { join as pathJoin } from "node:path";
 import { tmpdir } from "node:os";
+import { argv } from "node:process";
 import { exec as _exec } from "node:child_process";
 import { promisify } from "node:util";
 import { toASCIIString } from "../src/utils/ascii";
-import type { Author, BaseGroup } from "../src/utils/tribunes";
+import type { BaseAuthor, BaseGroup } from "../src/utils/tribunes";
 
 const exec = promisify(_exec);
 
 run();
 
 async function run() {
-  const files = await readDir(pathJoin("sources", "tribunes"));
+  const files = (await readDir(pathJoin("sources", "tribunes"))).filter(
+    (file) => (argv.slice(2).length ? argv.includes(file) : true)
+  );
 
   for (const file of files) {
     const content = await readFile(pathJoin("sources", "tribunes", file));
@@ -68,7 +71,7 @@ async function run() {
         console.error(`🤔 - Author parts for ${file} looks strange!`);
       }
 
-      const authors: Author[] = [];
+      const authors: BaseAuthor[] = [];
 
       do {
         const name = authorParts.shift() as string;
@@ -82,7 +85,7 @@ async function run() {
           portrait = "default.svg";
         }
 
-        const author: Author = {
+        const author: BaseAuthor = {
           id,
           name,
           mandates,
@@ -131,7 +134,7 @@ group:
   name: "${group.name}"
   type: "${group.type}"
   party: "${group.party}"
-  abbr: "${group.abbr}"
+  partyAbbr: "${group.partyAbbr}"
   logo: "${group.logo}"
 date: "${date}"
 publication: "${publication}"
@@ -201,7 +204,7 @@ function buildGroupDetails(fullName): BaseGroup {
     name,
     type,
     party,
-    abbr,
+    partyAbbr: abbr,
     logo,
   };
 }

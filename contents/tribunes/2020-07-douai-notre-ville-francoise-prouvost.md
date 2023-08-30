@@ -11,7 +11,7 @@ group:
   name: "Douaisiens passionnément !"
   type: "Élus d’opposition"
   party: "Union pour un Mouvement Populaire"
-  abbr: "UMP"
+  partyAbbr: "UMP"
   logo: "default.svg"
 date: "2020-07-01T00:00:00Z"
 publication: "douai-notre-ville"

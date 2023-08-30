@@ -11,7 +11,7 @@ group:
   name: "Douai au Cœur"
   type: "Majorité municipale"
   party: "Europe Écologie-Les Verts"
-  abbr: "EELV"
+  partyAbbr: "EELV"
   logo: "eelv-douaisis.svg"
 date: "2022-10-01T00:00:00Z"
 publication: "douai-notre-ville"

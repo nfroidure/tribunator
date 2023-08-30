@@ -12,7 +12,7 @@ group:
   name: "Jacques Vernier"
   type: "Majorité municipale"
   party: "Union pour un Mouvement Populaire"
-  abbr: "UMP"
+  partyAbbr: "UMP"
   logo: "default.svg"
 date: "2012-06-01T00:00:00Z"
 publication: "douai-notre-ville"
@@ -28,8 +28,7 @@ Toute la ville s’animerale 21 juin au soir (voir pages 8 et 9 de ce numéro). 
 
 Quatre groupes **musicaux du Douaisis** ont été sélectionnés par un jury pour se produire sur ces 4 podiums.
 
-Nouveauté de cette année : un podium place de Gaulle, de-
-vant la Poste. Autre nouveauté : des groupes, au lieu d’être fixes, déambuleront dans la ville.
+Nouveauté de cette année : un podium place de Gaulle, devant la Poste. Autre nouveauté : des groupes, au lieu d’être fixes, déambuleront dans la ville.
 
 Et puis, bien sûr, des musiques plus “classiques” pourront être entendues à l’hôtel de ville, au conservatoire et au musée de la Chartreuse.
 

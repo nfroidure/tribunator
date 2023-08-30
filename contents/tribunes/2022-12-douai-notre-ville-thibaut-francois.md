@@ -12,7 +12,7 @@ group:
   name: "Douai, plus belle, plus propre, plus sûre"
   type: "Élus d’opposition"
   party: "Rassemblement National"
-  abbr: "RN"
+  partyAbbr: "RN"
   logo: "default.svg"
 date: "2022-12-01T00:00:00Z"
 publication: "douai-notre-ville"

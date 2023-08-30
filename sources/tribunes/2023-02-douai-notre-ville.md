@@ -27,8 +27,7 @@ Conseiller municipal d’opposition
 
 Majorité municipale : Douai au Cœur (Vivre Douai)
 
-Pourquoi est-il de plus en plus difficile de communiquer ? De nouveaux com-
-portements se sont imposés, rendant le dialogue difficile voire inexistant. Les désaccords, qui devraient TOUJOURS favoriser le débat ou les échanges, prennent de l’ampleur et finissent trop souvent mal.
+Pourquoi est-il de plus en plus difficile de communiquer ? De nouveaux comportements se sont imposés, rendant le dialogue difficile voire inexistant. Les désaccords, qui devraient TOUJOURS favoriser le débat ou les échanges, prennent de l’ampleur et finissent trop souvent mal.
 
 La médiation reste l’outil indispensable pour apaiser les tensions en favorisant le dialogue. Des techniques d’approche sont essentielles pour aboutir à une communication bienveillante. Alors qualité, compétence ou comportement, le SAVOIR ÊTRE reste essentiel pour s’adapter aux situations et relever les défis qui nous attendent…
 
@@ -79,7 +78,7 @@ Bravo à eux.
 
 *"La culture est un droit et un bonheur"* Jack RALITE
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

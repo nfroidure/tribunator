@@ -11,7 +11,7 @@ group:
   name: "Rassemblement Douai Bleu Marine"
   type: "Élus d’opposition"
   party: "Rassemblement National"
-  abbr: "RN"
+  partyAbbr: "RN"
   logo: "default.svg"
 date: "2019-04-01T00:00:00Z"
 publication: "douai-notre-ville"
@@ -23,8 +23,7 @@ country: "France"
 
 Le Rassemblement National : E. MACRON responsable.
 
--1 Maison d’arrêt de Douai bloquée. Suite à l’agression, par un détenu islamiste, des surveillants péniten-
-tiaires de la prison de Condé-sur-Sarthe, la maison d’arrêt de Douai a été bloquée.
+-1 Maison d’arrêt de Douai bloquée. Suite à l’agression, par un détenu islamiste, des surveillants pénitentiaires de la prison de Condé-sur-Sarthe, la maison d’arrêt de Douai a été bloquée.
 
 Le Rassemblement National apporte tout son soutien aux surveillants de Douai et condamne l’attitude d’Emmanuel MACRON et de son gouvernement qui, protégé par le laxisme européen, refuse d’intensifier les fouilles lors des visites aux détenus.
 

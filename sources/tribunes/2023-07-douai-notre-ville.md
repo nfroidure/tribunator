@@ -44,13 +44,12 @@ Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)
 Chères Douaisiennes,
 chers Douaisiens,
 Nous apprenons que Missak Manouchian, résistant arménien communiste va entrer au Panthéon.
-À travers la France, de nombreux Résistants qui n’avaient pas la natio-
-nalité française, ont donné leur vie pour la République, pour la France, au même titre que Suzanne Lanoy à qui nous avons rendu hommage le 27 mai, date anniversaire du 80ème anniversaire du Conseil National de la Résistance.
+À travers la France, de nombreux Résistants qui n’avaient pas la nationalité française, ont donné leur vie pour la République, pour la France, au même titre que Suzanne Lanoy à qui nous avons rendu hommage le 27 mai, date anniversaire du 80ème anniversaire du Conseil National de la Résistance.
 À l’heure où notre République, le vivre ensemble, le lien social sont bafoués par les idéologies rétrogrades, plus que jamais nous devons nous souvenir, et agir dans le sens de l’humain et de la fraternité.
 "Je vous salue ma France, où les blés et les seigles, mûrissent au soleil de la diversité."
 Louis ARAGON—
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---
@@ -71,8 +70,7 @@ Conseiller municipal
 
 Chers Douaisiens, Chers Douaisiennes,
 
-Alors que nous clôturons cette année scolaire, je tiens à adresser mes félicitations les plus chaleureuses à tous nos étudiants pour leurs résultats aux examens. Je tiens aussi à exprimer ma gratitude envers nos enseignants qui tout au long de cette année vous ont accom-
-pagnés.
+Alors que nous clôturons cette année scolaire, je tiens à adresser mes félicitations les plus chaleureuses à tous nos étudiants pour leurs résultats aux examens. Je tiens aussi à exprimer ma gratitude envers nos enseignants qui tout au long de cette année vous ont accompagnés.
 
 À présent, il est temps de profiter pleinement des vacances scolaires, pour explorer les merveilles de notre belle ville de Douai.
 

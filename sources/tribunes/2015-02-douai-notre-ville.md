@@ -8,8 +8,7 @@ Face au péril islamiste : la fermeté.
 L’unité nationale ne doit pas être utilisée par ceux qui portent une lourde responsabilité dans les terribles événements que la France vient de subir.
 N’oublions pas que SARKOZY a permis l’entrée d’un million d’immigrés et a fait des Organisations Islamiques de France (U.O.I.F.), classée organisation terroriste, un partenaire de l’Etat français. Quant à HOLLANDE, il a amplifié cette politique. Le Front National propose des solutions fermes :
 - L’arrêt de l’immigration massive
-- L’interdiction de financer des activités reli-
-gieuses
+- L’interdiction de financer des activités religieuses
 - La suppression du droit du sol
 - La déchéance des djihadistes de la nationalité française
 - L’abrogation de la loi TAUBIRA

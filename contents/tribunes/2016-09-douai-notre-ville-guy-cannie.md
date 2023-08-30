@@ -11,7 +11,7 @@ group:
   name: "Rassemblement Douai Bleu Marine"
   type: "Élus d’opposition"
   party: "Rassemblement National"
-  abbr: "RN"
+  partyAbbr: "RN"
   logo: "default.svg"
 date: "2016-09-01T00:00:00Z"
 publication: "douai-notre-ville"
@@ -22,9 +22,7 @@ country: "France"
 ---
 
 **Le Front National : non aux migrants à Douai.**
-Lors du dernier conseil municipal, Monsieur le Maire a annoncé qu’il était décidé à accueillir dans notre ville des demandeurs d’asile. Nous regrettons que cette déci-
-sion unilatérale ait été prise sans aucune consulta-
-tion préalable des Douaisiens.
+Lors du dernier conseil municipal, Monsieur le Maire a annoncé qu’il était décidé à accueillir dans notre ville des demandeurs d’asile. Nous regrettons que cette décision unilatérale ait été prise sans aucune consultation préalable des Douaisiens.
 
 Le Front National  est formellement opposé à cette décision. En effet, Douai, comme la France, n’a pas à accueillir ces flux migratoires : n’oublions jamais que 10 millions de nos compatriotes vivent sous le seuil de pauvreté. La réforme du droit d’asile est une nécessité afin d’en limiter sa portée.
 

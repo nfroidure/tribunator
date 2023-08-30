@@ -9,7 +9,7 @@
     "dev": "next",
     "build": "next build && touch out/.nojekyll && echo 'keskidiz.nicolasfroidure.fr' > out/CNAME",
     "start": "next start",
-    "types": "tsc",
+    "types": "tsc --pretty --noEmit",
     "presences": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/presences.ts",
     "tribunes": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/tribunes.ts",
     "stats": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/stats.ts",

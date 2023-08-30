@@ -5,7 +5,108 @@
   "partyAbbr": "EELV",
   "type": "Majorité municipale",
   "logo": "eelv-douaisis.svg",
-  "totalWords": 1657,
+  "words": [
+    {
+      "word": "ville",
+      "count": 31
+    },
+    {
+      "word": "santé",
+      "count": 21
+    },
+    {
+      "word": "quartier",
+      "count": 18
+    },
+    {
+      "word": "aménagement",
+      "count": 15
+    },
+    {
+      "word": "habitant",
+      "count": 15
+    },
+    {
+      "word": "conseil",
+      "count": 14
+    },
+    {
+      "word": "biodiversité",
+      "count": 13
+    },
+    {
+      "word": "climatique",
+      "count": 13
+    },
+    {
+      "word": "face",
+      "count": 12
+    },
+    {
+      "word": "citoyen",
+      "count": 12
+    },
+    {
+      "word": "pouvoir",
+      "count": 11
+    },
+    {
+      "word": "sport",
+      "count": 11
+    },
+    {
+      "word": "public",
+      "count": 11
+    },
+    {
+      "word": "cadre",
+      "count": 9
+    },
+    {
+      "word": "avoir",
+      "count": 9
+    },
+    {
+      "word": "association",
+      "count": 9
+    },
+    {
+      "word": "projet",
+      "count": 9
+    },
+    {
+      "word": "espace",
+      "count": 9
+    },
+    {
+      "word": "école",
+      "count": 9
+    },
+    {
+      "word": "transition",
+      "count": 8
+    },
+    {
+      "word": "sportif",
+      "count": 8
+    },
+    {
+      "word": "jardin",
+      "count": 8
+    },
+    {
+      "word": "action",
+      "count": 8
+    },
+    {
+      "word": "agir",
+      "count": 7
+    },
+    {
+      "word": "faire",
+      "count": 7
+    }
+  ],
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -138,6 +239,10 @@
     {
       "date": "2023-07-01T00:00:00Z",
       "id": "2023-07-douai-notre-ville-yves-piquot"
+    },
+    {
+      "date": "2023-09-01T00:00:00Z",
+      "id": "2023-09-douai-notre-ville-stephanie-stiernon"
     }
   ],
   "sentences": [
@@ -304,6 +409,11 @@
     {
       "id": "2023-07-douai-notre-ville-yves-piquot",
       "date": "2023-07-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2023-09-douai-notre-ville-stephanie-stiernon",
+      "date": "2023-09-01T00:00:00Z",
       "count": 5
     }
   ],
@@ -538,6 +648,13 @@
       "positive": 0,
       "neutral": 2,
       "negative": 3
+    },
+    {
+      "id": "2023-09-douai-notre-ville-stephanie-stiernon",
+      "date": "2023-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -705,6 +822,11 @@
       "id": "2023-07-douai-notre-ville-yves-piquot",
       "date": "2023-07-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-stephanie-stiernon",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 2
     }
   ],
   "questions": [
@@ -872,6 +994,11 @@
       "id": "2023-07-douai-notre-ville-yves-piquot",
       "date": "2023-07-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-stephanie-stiernon",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -1038,6 +1165,11 @@
     {
       "id": "2023-07-douai-notre-ville-yves-piquot",
       "date": "2023-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-stephanie-stiernon",
+      "date": "2023-09-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1206,108 +1338,11 @@
       "id": "2023-07-douai-notre-ville-yves-piquot",
       "date": "2023-07-01T00:00:00Z",
       "count": 0
-    }
-  ],
-  "words": [
-    {
-      "word": "ville",
-      "count": 31
     },
     {
-      "word": "santé",
-      "count": 21
-    },
-    {
-      "word": "quartier",
-      "count": 18
-    },
-    {
-      "word": "aménagement",
-      "count": 15
-    },
-    {
-      "word": "habitant",
-      "count": 15
-    },
-    {
-      "word": "conseil",
-      "count": 14
-    },
-    {
-      "word": "biodiversité",
-      "count": 13
-    },
-    {
-      "word": "climatique",
-      "count": 13
-    },
-    {
-      "word": "face",
-      "count": 12
-    },
-    {
-      "word": "sport",
-      "count": 11
-    },
-    {
-      "word": "public",
-      "count": 11
-    },
-    {
-      "word": "citoyen",
-      "count": 11
-    },
-    {
-      "word": "pouvoir",
-      "count": 10
-    },
-    {
-      "word": "cadre",
-      "count": 9
-    },
-    {
-      "word": "avoir",
-      "count": 9
-    },
-    {
-      "word": "espace",
-      "count": 9
-    },
-    {
-      "word": "école",
-      "count": 9
-    },
-    {
-      "word": "action",
-      "count": 8
-    },
-    {
-      "word": "service",
-      "count": 7
-    },
-    {
-      "word": "protection",
-      "count": 7
-    },
-    {
-      "word": "municipal",
-      "count": 6
-    },
-    {
-      "word": "place",
-      "count": 5
-    },
-    {
-      "word": "priorité",
-      "count": 5
-    },
-    {
-      "word": "cœur",
-      "count": 4
-    },
-    {
-      "word": "participation",
-      "count": 2
+      "id": "2023-09-douai-notre-ville-stephanie-stiernon",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1362,11 +1397,13 @@
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 1702,
+  "totalSignificantWords": 865,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 177,
-        "total": 33
+        "count": 182,
+        "total": 34
       },
       "min": {
         "value": 4,
@@ -1389,8 +1426,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 20,
-        "total": 33
+        "count": 22,
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1414,7 +1451,7 @@
     "questions": {
       "mean": {
         "count": 3,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1425,7 +1462,7 @@
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-01-douai-notre-ville-jean-christophe-leclercq"
         ],
-        "restLength": 25
+        "restLength": 26
       },
       "max": {
         "value": 1,
@@ -1440,7 +1477,7 @@
     "bolds": {
       "mean": {
         "count": 4,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1451,7 +1488,7 @@
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-01-douai-notre-ville-jean-christophe-leclercq"
         ],
-        "restLength": 27
+        "restLength": 28
       },
       "max": {
         "value": 4,
@@ -1464,7 +1501,7 @@
     "caps": {
       "mean": {
         "count": 5,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1475,7 +1512,7 @@
           "2021-01-douai-notre-ville-jean-christophe-leclercq",
           "2021-02-douai-notre-ville-guy-caruyer"
         ],
-        "restLength": 24
+        "restLength": 25
       },
       "max": {
         "value": 2,
@@ -1489,7 +1526,7 @@
       "positive": {
         "mean": {
           "count": 16,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1500,7 +1537,7 @@
             "2021-07-douai-notre-ville-yves-piquot",
             "2021-09-douai-notre-ville-stephanie-stiernon"
           ],
-          "restLength": 16
+          "restLength": 17
         },
         "max": {
           "value": 3,
@@ -1512,8 +1549,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 142,
-          "total": 33
+          "count": 147,
+          "total": 34
         },
         "min": {
           "value": 1,
@@ -1533,7 +1570,7 @@
       "negative": {
         "mean": {
           "count": 19,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1544,7 +1581,7 @@
             "2021-02-douai-notre-ville-guy-caruyer",
             "2021-03-douai-notre-ville-stephanie-stiernon"
           ],
-          "restLength": 13
+          "restLength": 14
         },
         "max": {
           "value": 3,

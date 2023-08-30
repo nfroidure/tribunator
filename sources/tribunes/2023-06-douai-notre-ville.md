@@ -14,8 +14,7 @@ Juin 2023
 
 **Orionis : un nouvel équipement structurant pour le territoire**
 
-Le mois dernier, Douaisis Agglo a organisé l’inauguration du nouveau planétarium. Situé dans le quartier de Frais-Marais, cet outil ser-
-vira non seulement à promouvoir la culture scientifique auprès de tous (les scolaires en particulier), mais constitue aussi un pôle d’attractivité majeur pour notre ville. 11000 personnes se sont déplacées lors du week-end d'ouverture, ce qui témoigne bien de l'engouement touristique du planétarium. Pour rendre plus attractive Douai, il faut pouvoir se doter d'une politique qui ose :
+Le mois dernier, Douaisis Agglo a organisé l’inauguration du nouveau planétarium. Situé dans le quartier de Frais-Marais, cet outil servira non seulement à promouvoir la culture scientifique auprès de tous (les scolaires en particulier), mais constitue aussi un pôle d’attractivité majeur pour notre ville. 11000 personnes se sont déplacées lors du week-end d'ouverture, ce qui témoigne bien de l'engouement touristique du planétarium. Pour rendre plus attractive Douai, il faut pouvoir se doter d'une politique qui ose :
 - Réaliser des équipements ambitieux,
 - Les faire vivre en y organisant des événements singuliers.
 
@@ -47,7 +46,7 @@ Une exceptionnelle expo-photos *"Entre guerres et paix"* de Goran Tomašević qu
 
 Un événement à ne pas manquer !
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

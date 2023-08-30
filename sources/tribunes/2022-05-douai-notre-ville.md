@@ -26,8 +26,7 @@ Conseiller municipal d’opposition
 
 Majorité municipale : Douai au Cœur (Vivre Douai)
 
-Après celle de Frais-Marais, je me réjouis qu’une nouvelle concertation ait eu lieu cet hiver à Gayant. Les conclusions de ce grand rendez-vous citoyen ont dévoilé toute une série d’aménage-
-ments pensés avec les habitants, pour la période 2022-2025.
+Après celle de Frais-Marais, je me réjouis qu’une nouvelle concertation ait eu lieu cet hiver à Gayant. Les conclusions de ce grand rendez-vous citoyen ont dévoilé toute une série d’aménagements pensés avec les habitants, pour la période 2022-2025.
 
 Dès 2022, je retiens les 220 000 € consacrés à la sécurisation des abords des écoles Mohen, l’installation d’une station Air-fit près du city-stade ou la remise en état du terrain de foot. Soucieux de notre cadre de vie, j’apprécie que l’école Mohen élémentaire accueille dès 2023, une cour d’école oasis.
 
@@ -45,7 +44,7 @@ Chers Douaisiens, Chères Douaisiennes,
 La situation internationale alarmante conjuguée aux résultats de l’élection présidentielle provoque un climat d’incertitude (au moment où cette tribune est rédigée, seul le premier tour s’est déroulé). Les conséquences économiques de la guerre en Ukraine sont un fardeau pour les peuples, qui subissent les augmentations des produits de première nécessité. Pendant ce temps, nous apprenons que les salaires des grands patrons du CAC 40 ont doublé !
 Nul doute que le FIGRA (Festival International du grand reportage d'actualité) sera une fenêtre sur le monde  pour que le maximum de Douaisiens puisse accéder à des documentaires de qualité et, échanger avec les grands reporters.
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

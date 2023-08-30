@@ -5,7 +5,108 @@
   "partyAbbr": "PS",
   "type": "Élus d’opposition",
   "logo": "ps.png",
-  "totalWords": 814,
+  "words": [
+    {
+      "word": "année",
+      "count": 12
+    },
+    {
+      "word": "pouvoir",
+      "count": 10
+    },
+    {
+      "word": "sociale",
+      "count": 9
+    },
+    {
+      "word": "place",
+      "count": 9
+    },
+    {
+      "word": "politique",
+      "count": 8
+    },
+    {
+      "word": "ville",
+      "count": 8
+    },
+    {
+      "word": "devoir",
+      "count": 7
+    },
+    {
+      "word": "commercial",
+      "count": 7
+    },
+    {
+      "word": "maire",
+      "count": 6
+    },
+    {
+      "word": "complémentaire",
+      "count": 6
+    },
+    {
+      "word": "nouveau",
+      "count": 6
+    },
+    {
+      "word": "projet",
+      "count": 6
+    },
+    {
+      "word": "faire",
+      "count": 5
+    },
+    {
+      "word": "entreprise",
+      "count": 5
+    },
+    {
+      "word": "municipal",
+      "count": 4
+    },
+    {
+      "word": "surface",
+      "count": 4
+    },
+    {
+      "word": "successeur",
+      "count": 4
+    },
+    {
+      "word": "emploi",
+      "count": 4
+    },
+    {
+      "word": "crise",
+      "count": 4
+    },
+    {
+      "word": "achat",
+      "count": 4
+    },
+    {
+      "word": "avoir",
+      "count": 4
+    },
+    {
+      "word": "sembler",
+      "count": 4
+    },
+    {
+      "word": "prix",
+      "count": 4
+    },
+    {
+      "word": "créer",
+      "count": 4
+    },
+    {
+      "word": "dire",
+      "count": 4
+    }
+  ],
   "writtings": [
     {
       "date": "2012-01-01T00:00:00Z",
@@ -184,8 +285,8 @@
       "id": "2013-03-douai-notre-ville-jean-pierre-divrechy",
       "date": "2013-03-01T00:00:00Z",
       "positive": 1,
-      "neutral": 3,
-      "negative": 3
+      "neutral": 4,
+      "negative": 2
     }
   ],
   "exclamations": [
@@ -416,108 +517,6 @@
       "count": 0
     }
   ],
-  "words": [
-    {
-      "word": "année",
-      "count": 12
-    },
-    {
-      "word": "pouvoir",
-      "count": 10
-    },
-    {
-      "word": "sociale",
-      "count": 9
-    },
-    {
-      "word": "place",
-      "count": 9
-    },
-    {
-      "word": "politique",
-      "count": 8
-    },
-    {
-      "word": "ville",
-      "count": 8
-    },
-    {
-      "word": "devoir",
-      "count": 7
-    },
-    {
-      "word": "commercial",
-      "count": 7
-    },
-    {
-      "word": "maire",
-      "count": 6
-    },
-    {
-      "word": "complémentaire",
-      "count": 6
-    },
-    {
-      "word": "nouveau",
-      "count": 6
-    },
-    {
-      "word": "projet",
-      "count": 6
-    },
-    {
-      "word": "faire",
-      "count": 5
-    },
-    {
-      "word": "entreprise",
-      "count": 5
-    },
-    {
-      "word": "municipal",
-      "count": 4
-    },
-    {
-      "word": "surface",
-      "count": 4
-    },
-    {
-      "word": "successeur",
-      "count": 4
-    },
-    {
-      "word": "emploi",
-      "count": 4
-    },
-    {
-      "word": "crise",
-      "count": 4
-    },
-    {
-      "word": "achat",
-      "count": 4
-    },
-    {
-      "word": "avoir",
-      "count": 4
-    },
-    {
-      "word": "sembler",
-      "count": 4
-    },
-    {
-      "word": "prix",
-      "count": 4
-    },
-    {
-      "word": "créer",
-      "count": 4
-    },
-    {
-      "word": "dire",
-      "count": 4
-    }
-  ],
   "authors": [
     {
       "id": "annick-louvion",
@@ -578,6 +577,8 @@
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 815,
+  "totalSignificantWords": 546,
   "summary": {
     "sentences": {
       "mean": {
@@ -721,11 +722,11 @@
       },
       "neutral": {
         "mean": {
-          "count": 90,
+          "count": 91,
           "total": 11
         },
         "min": {
-          "value": 3,
+          "value": 4,
           "ids": [
             "2013-03-douai-notre-ville-jean-pierre-divrechy"
           ],
@@ -741,7 +742,7 @@
       },
       "negative": {
         "mean": {
-          "count": 15,
+          "count": 14,
           "total": 11
         },
         "min": {
@@ -752,8 +753,11 @@
           "restLength": 0
         },
         "max": {
-          "value": 3,
+          "value": 2,
           "ids": [
+            "2012-03-douai-notre-ville-rene-lavarde",
+            "2012-04-douai-notre-ville-jean-pierre-divrechy",
+            "2012-07-douai-notre-ville-annick-louvion",
             "2013-03-douai-notre-ville-jean-pierre-divrechy"
           ],
           "restLength": 0

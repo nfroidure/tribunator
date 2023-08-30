@@ -1,5 +1,5 @@
 {
-  "totalWords": 656,
+  "id": "gerard-bailliet",
   "writtings": [
     {
       "date": "2014-09-01T00:00:00Z",
@@ -134,8 +134,8 @@
     {
       "id": "2014-09-douai-notre-ville-gerard-bailliet",
       "date": "2014-09-01T00:00:00Z",
-      "positive": 3,
-      "neutral": 2,
+      "positive": 2,
+      "neutral": 3,
       "negative": 1
     },
     {
@@ -556,6 +556,10 @@
       "count": 4
     },
     {
+      "word": "démocratie",
+      "count": 4
+    },
+    {
       "word": "besoin",
       "count": 4
     },
@@ -589,10 +593,6 @@
     },
     {
       "word": "respecter",
-      "count": 3
-    },
-    {
-      "word": "démocratie",
       "count": 3
     },
     {
@@ -631,12 +631,14 @@
       "name": "Rassemblement Douai Bleu Marine",
       "type": "Élus d’opposition",
       "party": "Rassemblement National",
-      "abbr": "RN",
+      "partyAbbr": "RN",
       "logo": "default.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 654,
+  "totalSignificantWords": 491,
   "summary": {
     "sentences": {
       "mean": {
@@ -757,7 +759,7 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 11,
+          "count": 10,
           "total": 14
         },
         "min": {
@@ -772,22 +774,26 @@
           "restLength": 2
         },
         "max": {
-          "value": 3,
+          "value": 2,
           "ids": [
-            "2014-09-douai-notre-ville-gerard-bailliet"
+            "2014-09-douai-notre-ville-gerard-bailliet",
+            "2016-06-douai-notre-ville-gerard-bailliet",
+            "2017-04-douai-notre-ville-gerard-bailliet"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 94,
+          "count": 95,
           "total": 14
         },
         "min": {
-          "value": 2,
+          "value": 3,
           "ids": [
-            "2014-09-douai-notre-ville-gerard-bailliet"
+            "2014-09-douai-notre-ville-gerard-bailliet",
+            "2014-12-douai-notre-ville-gerard-bailliet",
+            "2015-09-douai-notre-ville-gerard-bailliet"
           ],
           "restLength": 0
         },

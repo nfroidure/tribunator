@@ -58,13 +58,9 @@ Adjointe au maire
 Majorité municipale : Douai au Cœur (L’humain d’abord pour Douai)
 
 Cher·e·s Douaisien·ne·s,
-L’espace nous manque pour marquer notre pro-
-fonde indignation suite à l’assassinat de Samuel PATY par un fanatique. Nos pensées sont tour-
-nées vers ses proches, l’ensemble du corps enseignant mérite un soutien sans faille des ins-
-titutions de la République. De réforme en réforme, l’Éducation nationale a été malmenée depuis des décennies. Nous le disons depuis des années, les fractures profondes de notre Répu-
-blique trouvent leurs sources dans les reculs des services publics, le manque d’emploi, l’absence de perspective pour la jeunesse. Nous sommes convaincus que le respect mutuel des citoyens dans leur diversité et le respect de la laïcité sont des impératifs qui ne peuvent être remis en cause. Ils sont le fondement sur lesquels  repose notre République, la pierre angulaire à laquelle s’adosse le vivre ensemble.
+L’espace nous manque pour marquer notre profonde indignation suite à l’assassinat de Samuel PATY par un fanatique. Nos pensées sont tournées vers ses proches, l’ensemble du corps enseignant mérite un soutien sans faille des institutions de la République. De réforme en réforme, l’Éducation nationale a été malmenée depuis des décennies. Nous le disons depuis des années, les fractures profondes de notre République trouvent leurs sources dans les reculs des services publics, le manque d’emploi, l’absence de perspective pour la jeunesse. Nous sommes convaincus que le respect mutuel des citoyens dans leur diversité et le respect de la laïcité sont des impératifs qui ne peuvent être remis en cause. Ils sont le fondement sur lesquels  repose notre République, la pierre angulaire à laquelle s’adosse le vivre ensemble.
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

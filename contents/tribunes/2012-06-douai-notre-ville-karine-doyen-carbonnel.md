@@ -11,7 +11,7 @@ group:
   name: "Vivons Douai"
   type: "Élus d’opposition"
   party: "Parti Socialiste"
-  abbr: "PS"
+  partyAbbr: "PS"
   logo: "ps.png"
 date: "2012-06-01T00:00:00Z"
 publication: "douai-notre-ville"
@@ -29,6 +29,5 @@ François Hollande a mis en avant une de ses priorités : la jeunesse ! Même 
 En effet, les établissements scolaires, ceux de Douai n’étant pas épargnés, subissent chaque année des suppressions massives de postes : enseignants, infirmières, personnels d’encadrements...
 
 La qualité de l’enseignement s’en ressent. Les enseignants doivent faire face à des classes de plus en plus surchargées avec parfois de faibles moyens. Les conditions d’enseignement sont tellement dégradées qu’il devient de plus en plus difficile de recruter de nouveaux professeurs.
-Emploi, industrie et justice, qui concernent particulièrement Douai, sont d’autres priorités de François Hollande. Seule une majorité forte à l’Assem-
-blée Nationale lui permettra de mettre en œuvre son projet.
+Emploi, industrie et justice, qui concernent particulièrement Douai, sont d’autres priorités de François Hollande. Seule une majorité forte à l’Assemblée Nationale lui permettra de mettre en œuvre son projet.
 Voter est un acte citoyen et quelle que soit votre sensibilité, je vous invite à voter massivement lors des élections législatives.

@@ -18,9 +18,15 @@ Ensure you installed `inkscape` and `chromium`.
 
 Then, run the data ingestion:
 ```sh
+## Generate tribunes from raw sources
 npm run tribunes
+## Or only the one you want
+npm run tribunes -- 2023-07-douai-notre-ville.md
+## Generate profiles banners
 npm run profiles
+## Compute writting stats
 npm run stats
+## Compute presence stats
 npm run presences
 ```
 

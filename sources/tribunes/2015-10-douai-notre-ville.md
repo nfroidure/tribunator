@@ -32,11 +32,7 @@ Conseiller municipal d’opposition
 
 Du 26 septembre au 31 octobre, chaque samedi, la rue de Bellain et le haut de la rue de la mairie seront livrés aux piétons et aux mobilités douces, pour découvrir une nouvelle manière de profiter de la ville.
 
-L’inversion de la rue du Canteleu et la meilleure signalisation du parking du Dauphin permet-
-tront aux visiteurs qui souhaitent venir en voi-
-ture de trouver facilement à se garer à proximité du centre. Même la cour de la mairie sera acces-
-sible. Mais c’est aussi l’occasion de laisser la voi-
-ture et de venir à vélo ou à pied de chez soi.
+L’inversion de la rue du Canteleu et la meilleure signalisation du parking du Dauphin permettront aux visiteurs qui souhaitent venir en voiture de trouver facilement à se garer à proximité du centre. Même la cour de la mairie sera accessible. Mais c’est aussi l’occasion de laisser la voiture et de venir à vélo ou à pied de chez soi.
 Piétonniser, c’est rendre l’espace aux promeneurs et à tous ceux qui souhaitent en profiter. Commerçants, associations, musiciens, artistes de rue seront libres de s’installer pour une heure ou deux dans ces espaces libérés pour une démonstration, une “flashmob” ou un moment d’échange, à condition de ne pas mobiliser de matériel lourd et de se signaler en mairie. Quelques tables et chaises seront à la disposition de ceux qui le souhaitent.
 
 En octobre, à Douai, la rue est à tous. À nous tous d’y inventer l’animation dont nous rêvons !

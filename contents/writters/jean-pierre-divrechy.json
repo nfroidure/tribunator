@@ -1,5 +1,5 @@
 {
-  "totalWords": 116,
+  "id": "jean-pierre-divrechy",
   "writtings": [
     {
       "date": "2012-04-01T00:00:00Z",
@@ -34,8 +34,8 @@
       "id": "2013-03-douai-notre-ville-jean-pierre-divrechy",
       "date": "2013-03-01T00:00:00Z",
       "positive": 1,
-      "neutral": 3,
-      "negative": 3
+      "neutral": 4,
+      "negative": 2
     }
   ],
   "exclamations": [
@@ -199,12 +199,14 @@
       "name": "Vivons Douai",
       "type": "Élus d’opposition",
       "party": "Parti Socialiste",
-      "abbr": "PS",
+      "partyAbbr": "PS",
       "logo": "ps.png"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 117,
+  "totalSignificantWords": 102,
   "summary": {
     "sentences": {
       "mean": {
@@ -331,11 +333,11 @@
       },
       "neutral": {
         "mean": {
-          "count": 8,
+          "count": 9,
           "total": 2
         },
         "min": {
-          "value": 3,
+          "value": 4,
           "ids": [
             "2013-03-douai-notre-ville-jean-pierre-divrechy"
           ],
@@ -351,19 +353,21 @@
       },
       "negative": {
         "mean": {
-          "count": 5,
+          "count": 4,
           "total": 2
         },
         "min": {
           "value": 2,
           "ids": [
-            "2012-04-douai-notre-ville-jean-pierre-divrechy"
+            "2012-04-douai-notre-ville-jean-pierre-divrechy",
+            "2013-03-douai-notre-ville-jean-pierre-divrechy"
           ],
           "restLength": 0
         },
         "max": {
-          "value": 3,
+          "value": 2,
           "ids": [
+            "2012-04-douai-notre-ville-jean-pierre-divrechy",
             "2013-03-douai-notre-ville-jean-pierre-divrechy"
           ],
           "restLength": 0

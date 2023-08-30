@@ -11,7 +11,7 @@ group:
   name: "Douaisiens passionnément !"
   type: "Élus d’opposition"
   party: "Union pour un Mouvement Populaire"
-  abbr: "UMP"
+  partyAbbr: "UMP"
   logo: "default.svg"
 date: "2014-07-01T00:00:00Z"
 publication: "douai-notre-ville"
@@ -31,7 +31,6 @@ Soit une hausse de 146000€/an !
 
 Et nous apprenons que les parents douaisiens devront payer pour les activités périscolaires à hauteur de 100000 euros !
 
-L’équipe précédente s’était pourtant engagée à poursuivre la politique de gratuité des activités périscolaires, sur le principe des contrats éducatifs municipaux. Aujourd’hui les élus socialistes et apparentés s’augmentent et les familles douai-
-siennes payent. Espérons que le nouveau maire ne proposera pas en outre une augmentation du taux de l’impôt, qui serait catastrophique !
+L’équipe précédente s’était pourtant engagée à poursuivre la politique de gratuité des activités périscolaires, sur le principe des contrats éducatifs municipaux. Aujourd’hui les élus socialistes et apparentés s’augmentent et les familles douaisiennes payent. Espérons que le nouveau maire ne proposera pas en outre une augmentation du taux de l’impôt, qui serait catastrophique !
 
 **Ensemble pour Douai**

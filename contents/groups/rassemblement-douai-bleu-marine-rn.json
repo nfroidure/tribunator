@@ -5,7 +5,108 @@
   "partyAbbr": "RN",
   "type": "Élus d’opposition",
   "logo": "default.svg",
-  "totalWords": 3656,
+  "words": [
+    {
+      "word": "ville",
+      "count": 42
+    },
+    {
+      "word": "pouvoir",
+      "count": 39
+    },
+    {
+      "word": "commerce",
+      "count": 24
+    },
+    {
+      "word": "national",
+      "count": 24
+    },
+    {
+      "word": "maire",
+      "count": 21
+    },
+    {
+      "word": "fait",
+      "count": 21
+    },
+    {
+      "word": "année",
+      "count": 21
+    },
+    {
+      "word": "taxe",
+      "count": 21
+    },
+    {
+      "word": "municipal",
+      "count": 20
+    },
+    {
+      "word": "conseil",
+      "count": 19
+    },
+    {
+      "word": "avoir",
+      "count": 18
+    },
+    {
+      "word": "dernier",
+      "count": 16
+    },
+    {
+      "word": "sécurité",
+      "count": 15
+    },
+    {
+      "word": "nombreux",
+      "count": 15
+    },
+    {
+      "word": "prendre",
+      "count": 15
+    },
+    {
+      "word": "circulation",
+      "count": 14
+    },
+    {
+      "word": "souhaiter",
+      "count": 14
+    },
+    {
+      "word": "doit",
+      "count": 14
+    },
+    {
+      "word": "nécessaire",
+      "count": 14
+    },
+    {
+      "word": "éolien",
+      "count": 14
+    },
+    {
+      "word": "français",
+      "count": 13
+    },
+    {
+      "word": "santé",
+      "count": 13
+    },
+    {
+      "word": "douaisiens",
+      "count": 13
+    },
+    {
+      "word": "piétonisation",
+      "count": 13
+    },
+    {
+      "word": "faire",
+      "count": 12
+    }
+  ],
   "writtings": [
     {
       "date": "2014-05-01T00:00:00Z",
@@ -618,8 +719,8 @@
       "id": "2014-05-douai-notre-ville-guy-cannie",
       "date": "2014-05-01T00:00:00Z",
       "positive": 0,
-      "neutral": 3,
-      "negative": 1
+      "neutral": 2,
+      "negative": 2
     },
     {
       "id": "2014-07-douai-notre-ville-guy-cannie",
@@ -631,15 +732,15 @@
     {
       "id": "2014-09-douai-notre-ville-gerard-bailliet",
       "date": "2014-09-01T00:00:00Z",
-      "positive": 3,
-      "neutral": 2,
+      "positive": 2,
+      "neutral": 3,
       "negative": 1
     },
     {
       "id": "2014-10-douai-notre-ville-guy-cannie",
       "date": "2014-10-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 1,
+      "positive": 0,
+      "neutral": 2,
       "negative": 0
     },
     {
@@ -786,8 +887,8 @@
       "id": "2016-09-douai-notre-ville-guy-cannie",
       "date": "2016-09-01T00:00:00Z",
       "positive": 0,
-      "neutral": 7,
-      "negative": 0
+      "neutral": 6,
+      "negative": 1
     },
     {
       "id": "2016-10-douai-notre-ville-guy-cannie",
@@ -939,8 +1040,8 @@
     {
       "id": "2018-09-douai-notre-ville-guy-cannie",
       "date": "2018-09-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 6,
+      "positive": 0,
+      "neutral": 7,
       "negative": 0
     },
     {
@@ -2432,108 +2533,6 @@
       "count": 1
     }
   ],
-  "words": [
-    {
-      "word": "ville",
-      "count": 42
-    },
-    {
-      "word": "pouvoir",
-      "count": 39
-    },
-    {
-      "word": "commerce",
-      "count": 24
-    },
-    {
-      "word": "national",
-      "count": 24
-    },
-    {
-      "word": "maire",
-      "count": 21
-    },
-    {
-      "word": "fait",
-      "count": 21
-    },
-    {
-      "word": "taxe",
-      "count": 21
-    },
-    {
-      "word": "année",
-      "count": 20
-    },
-    {
-      "word": "municipal",
-      "count": 19
-    },
-    {
-      "word": "conseil",
-      "count": 19
-    },
-    {
-      "word": "avoir",
-      "count": 18
-    },
-    {
-      "word": "dernier",
-      "count": 16
-    },
-    {
-      "word": "sécurité",
-      "count": 15
-    },
-    {
-      "word": "prendre",
-      "count": 15
-    },
-    {
-      "word": "douaisiens",
-      "count": 14
-    },
-    {
-      "word": "circulation",
-      "count": 14
-    },
-    {
-      "word": "nombreux",
-      "count": 14
-    },
-    {
-      "word": "souhaiter",
-      "count": 14
-    },
-    {
-      "word": "doit",
-      "count": 14
-    },
-    {
-      "word": "nécessaire",
-      "count": 14
-    },
-    {
-      "word": "éolien",
-      "count": 14
-    },
-    {
-      "word": "français",
-      "count": 13
-    },
-    {
-      "word": "santé",
-      "count": 13
-    },
-    {
-      "word": "piétonisation",
-      "count": 13
-    },
-    {
-      "word": "faire",
-      "count": 12
-    }
-  ],
   "authors": [
     {
       "id": "guy-cannie",
@@ -2554,6 +2553,8 @@
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 3643,
+  "totalSignificantWords": 1635,
   "summary": {
     "sentences": {
       "mean": {
@@ -2686,7 +2687,7 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 47,
+          "count": 44,
           "total": 67
         },
         "min": {
@@ -2694,28 +2695,33 @@
           "ids": [
             "2014-05-douai-notre-ville-guy-cannie",
             "2014-07-douai-notre-ville-guy-cannie",
+            "2014-10-douai-notre-ville-guy-cannie",
             "2014-11-douai-notre-ville-guy-cannie",
-            "2015-03-douai-notre-ville-guy-cannie",
-            "2015-04-douai-notre-ville-gerard-bailliet"
+            "2015-03-douai-notre-ville-guy-cannie"
           ],
-          "restLength": 26
+          "restLength": 28
         },
         "max": {
-          "value": 3,
+          "value": 2,
           "ids": [
-            "2014-09-douai-notre-ville-gerard-bailliet"
+            "2014-09-douai-notre-ville-gerard-bailliet",
+            "2016-06-douai-notre-ville-gerard-bailliet",
+            "2016-07-douai-notre-ville-guy-cannie",
+            "2017-03-douai-notre-ville-guy-cannie",
+            "2017-04-douai-notre-ville-gerard-bailliet"
           ],
-          "restLength": 0
+          "restLength": 5
         }
       },
       "neutral": {
         "mean": {
-          "count": 391,
+          "count": 392,
           "total": 67
         },
         "min": {
-          "value": 1,
+          "value": 2,
           "ids": [
+            "2014-05-douai-notre-ville-guy-cannie",
             "2014-10-douai-notre-ville-guy-cannie"
           ],
           "restLength": 0
@@ -2730,7 +2736,7 @@
       },
       "negative": {
         "mean": {
-          "count": 34,
+          "count": 36,
           "total": 67
         },
         "min": {
@@ -2742,7 +2748,7 @@
             "2014-12-douai-notre-ville-gerard-bailliet",
             "2015-01-douai-notre-ville-guy-cannie"
           ],
-          "restLength": 35
+          "restLength": 34
         },
         "max": {
           "value": 3,

@@ -1,5 +1,5 @@
 {
-  "totalWords": 62,
+  "id": "odile-hage",
   "writtings": [
     {
       "date": "2012-09-01T00:00:00Z",
@@ -163,12 +163,14 @@
       "name": "Vivons Douai",
       "type": "Élus d’opposition",
       "party": "Parti Communiste Français",
-      "abbr": "PCF",
+      "partyAbbr": "PCF",
       "logo": "pcf.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 61,
+  "totalSignificantWords": 59,
   "summary": {
     "sentences": {
       "mean": {

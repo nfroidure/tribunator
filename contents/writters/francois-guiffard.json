@@ -1,5 +1,5 @@
 {
-  "totalWords": 1657,
+  "id": "francois-guiffard",
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -132,6 +132,10 @@
     {
       "date": "2023-07-01T00:00:00Z",
       "id": "2023-07-douai-notre-ville-francois-guiffard"
+    },
+    {
+      "date": "2023-09-01T00:00:00Z",
+      "id": "2023-09-douai-notre-ville-francois-guiffard"
     }
   ],
   "sentences": [
@@ -298,6 +302,11 @@
     {
       "id": "2023-07-douai-notre-ville-francois-guiffard",
       "date": "2023-07-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2023-09-douai-notre-ville-francois-guiffard",
+      "date": "2023-09-01T00:00:00Z",
       "count": 6
     }
   ],
@@ -501,8 +510,8 @@
     {
       "id": "2023-03-douai-notre-ville-francois-guiffard",
       "date": "2023-03-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 6,
+      "positive": 0,
+      "neutral": 7,
       "negative": 1
     },
     {
@@ -531,6 +540,13 @@
       "date": "2023-07-01T00:00:00Z",
       "positive": 0,
       "neutral": 5,
+      "negative": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-francois-guiffard",
+      "date": "2023-09-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
       "negative": 1
     }
   ],
@@ -699,6 +715,11 @@
       "id": "2023-07-douai-notre-ville-francois-guiffard",
       "date": "2023-07-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-francois-guiffard",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -866,6 +887,11 @@
       "id": "2023-07-douai-notre-ville-francois-guiffard",
       "date": "2023-07-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-francois-guiffard",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -1032,6 +1058,11 @@
     {
       "id": "2023-07-douai-notre-ville-francois-guiffard",
       "date": "2023-07-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-francois-guiffard",
+      "date": "2023-09-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -1200,6 +1231,11 @@
       "id": "2023-07-douai-notre-ville-francois-guiffard",
       "date": "2023-07-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-francois-guiffard",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 1
     }
   ],
   "words": [
@@ -1280,6 +1316,10 @@
       "count": 7
     },
     {
+      "word": "faillir",
+      "count": 7
+    },
+    {
       "word": "habitant",
       "count": 7
     },
@@ -1298,10 +1338,6 @@
     {
       "word": "façon",
       "count": 6
-    },
-    {
-      "word": "nombreux",
-      "count": 6
     }
   ],
   "portrait": "francois-guiffard.jpg",
@@ -1315,17 +1351,19 @@
       "name": "Ensemble faisons Douai",
       "type": "Élus d’opposition",
       "party": "Sans-Étiquette",
-      "abbr": "SE",
+      "partyAbbr": "SE",
       "logo": "default.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 1711,
+  "totalSignificantWords": 917,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 247,
-        "total": 33
+        "count": 253,
+        "total": 34
       },
       "min": {
         "value": 4,
@@ -1344,8 +1382,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 28,
-        "total": 33
+        "count": 29,
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1373,7 +1411,7 @@
     "questions": {
       "mean": {
         "count": 8,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1384,7 +1422,7 @@
           "2021-01-douai-notre-ville-francois-guiffard",
           "2021-02-douai-notre-ville-francois-guiffard"
         ],
-        "restLength": 23
+        "restLength": 24
       },
       "max": {
         "value": 3,
@@ -1396,8 +1434,8 @@
     },
     "bolds": {
       "mean": {
-        "count": 9,
-        "total": 33
+        "count": 10,
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1419,13 +1457,13 @@
           "2022-12-douai-notre-ville-francois-guiffard",
           "2023-02-douai-notre-ville-francois-guiffard"
         ],
-        "restLength": 4
+        "restLength": 5
       }
     },
     "caps": {
       "mean": {
-        "count": 0,
-        "total": 33
+        "count": 1,
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1439,22 +1477,18 @@
         "restLength": 28
       },
       "max": {
-        "value": 0,
+        "value": 1,
         "ids": [
-          "2020-09-douai-notre-ville-francois-guiffard",
-          "2020-10-douai-notre-ville-francois-guiffard",
-          "2020-11-douai-notre-ville-francois-guiffard",
-          "2020-12-douai-notre-ville-francois-guiffard",
-          "2021-01-douai-notre-ville-francois-guiffard"
+          "2023-09-douai-notre-ville-francois-guiffard"
         ],
-        "restLength": 28
+        "restLength": 0
       }
     },
     "sentiments": {
       "positive": {
         "mean": {
           "count": 21,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1465,7 +1499,7 @@
             "2021-04-douai-notre-ville-francois-guiffard",
             "2021-07-douai-notre-ville-francois-guiffard"
           ],
-          "restLength": 12
+          "restLength": 13
         },
         "max": {
           "value": 2,
@@ -1481,8 +1515,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 210,
-          "total": 33
+          "count": 215,
+          "total": 34
         },
         "min": {
           "value": 2,
@@ -1502,8 +1536,8 @@
       },
       "negative": {
         "mean": {
-          "count": 16,
-          "total": 33
+          "count": 17,
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1528,6 +1562,18 @@
   },
   "presences": {
     "cm-douai": [
+      {
+        "date": "2020-07-15T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2020-09-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2020-10-15T19:00:00Z",
+        "present": true
+      },
       {
         "date": "2020-11-13T19:00:00Z",
         "present": true
@@ -1557,6 +1603,19 @@
         "present": false
       },
       {
+        "date": "2021-05-28T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-06-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-07-08T19:00:00Z",
+        "present": true,
+        "arrivedLate": true
+      },
+      {
         "date": "2021-09-24T19:00:00Z",
         "present": true
       },
@@ -1568,6 +1627,38 @@
         "date": "2021-11-19T19:00:00Z",
         "present": true,
         "arrivedLate": true
+      },
+      {
+        "date": "2021-12-10T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-01-27T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-03-04T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-04-01T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-04-29T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-05-19T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-06-17T19:00:00Z",
+        "present": false,
+        "delegation": {
+          "id": "marie-delattre",
+          "name": "Marie DELATTRE"
+        }
       },
       {
         "date": "2022-07-08T19:00:00Z",
@@ -1613,8 +1704,8 @@
         "date": "2023-06-09T19:00:00Z",
         "present": false,
         "delegation": {
-          "id": "auriane-ait-lasri",
-          "name": "Auriane AIT LASRI"
+          "id": "auriane-delbarre",
+          "name": "Auriane DELBARRE"
         }
       },
       {
@@ -1625,11 +1716,11 @@
   },
   "presencesStats": {
     "cm-douai": {
-      "total": 22,
-      "present": 15,
-      "arrivedLate": 1,
+      "total": 35,
+      "present": 27,
+      "arrivedLate": 2,
       "leftBeforeTheEnd": 0,
-      "delegation": 1
+      "delegation": 2
     }
   }
 }

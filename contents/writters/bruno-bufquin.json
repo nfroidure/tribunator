@@ -1,5 +1,5 @@
 {
-  "totalWords": 362,
+  "id": "bruno-bufquin",
   "writtings": [
     {
       "date": "2017-06-01T00:00:00Z",
@@ -343,12 +343,14 @@
       "name": "Douaisiens passionnément !",
       "type": "Élus d’opposition",
       "party": "Union pour un Mouvement Populaire",
-      "abbr": "UMP",
+      "partyAbbr": "UMP",
       "logo": "default.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 362,
+  "totalSignificantWords": 280,
   "summary": {
     "sentences": {
       "mean": {

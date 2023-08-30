@@ -1,17 +1,17 @@
 ---
-id: "2022-01-douai-notre-ville-auriane-ait-lasri"
+id: "2022-01-douai-notre-ville-auriane-delbarre"
 authors:
-- id: "auriane-ait-lasri"
-  name: "Auriane AIT LASRI"
+- id: "auriane-delbarre"
+  name: "Auriane DELBARRE"
   mandates: 
   - "Adjointe au maire"
-  portrait: "auriane-ait-lasri.jpg"
+  portrait: "auriane-delbarre.jpg"
 group:
   id: "douai-au-coeur-pcf"
   name: "Douai au Cœur"
   type: "Majorité municipale"
   party: "Parti Communiste Français"
-  abbr: "PCF"
+  partyAbbr: "PCF"
   logo: "pcf.svg"
 date: "2022-01-01T00:00:00Z"
 publication: "douai-notre-ville"

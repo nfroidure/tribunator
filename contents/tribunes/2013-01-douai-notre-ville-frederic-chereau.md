@@ -11,7 +11,7 @@ group:
   name: "Vivons Douai"
   type: "Élus d’opposition"
   party: "Parti Socialiste"
-  abbr: "PS"
+  partyAbbr: "PS"
   logo: "ps.png"
 date: "2013-01-01T00:00:00Z"
 publication: "douai-notre-ville"

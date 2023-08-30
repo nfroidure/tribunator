@@ -55,8 +55,8 @@ Conseiller municipal
 
 Majorité municipale : Douai au Cœur (Europe Écologie les Verts)
 
-La question de l’accueil de familles afghanes fuyant le régime taliban se pose pour la ville de Douai comme pour d’autres. Ce sujet prégnant est l’occasion de réfléchir à l’organisation des solidarités face à la situation des réfugiés poli-
-tiques mais également climatiques.
+La question de l’accueil de familles afghanes fuyant le régime taliban se pose pour la ville de Douai comme pour d’autres. Ce sujet prégnant est l’occasion de réfléchir à l’organisation des solidarités face à la situation des réfugiés politiques mais également climatiques.
+
 En effet, les différentes catastrophes climatiques (incendies, inondations, …) qui s’enchaînent, y compris cet été, laissent entrevoir la nécessité de contribuer localement à l’entraide mais également d’accélérer notre engagement dans les actions d’adaptation au changement climatique au sein de nos territoires.
 
 La solidarité et la résilience de nos territoires y compris à l’échelle locale reste la seule solution face aux évènements actuels et à ceux qui s’annoncent.

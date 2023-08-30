@@ -23,8 +23,7 @@ Conseiller municipal d’opposition
 Élus d’opposition : Douaisiens passionnément ! (UMP)
 
 **Gayant approche !**
-Cette année, profitez des fêtes de Gayant en famille, que vous veniez de Douai ou d'ail-
-leurs ! Notre cœur de ville vous accueille : visiter le beffroi, flâner le long des berges de la Scarpe et emprunter les ruelles, voilà la meilleure façon de redécouvrir les richesses de notre cité millénaire !
+Cette année, profitez des fêtes de Gayant en famille, que vous veniez de Douai ou d'ailleurs ! Notre cœur de ville vous accueille : visiter le beffroi, flâner le long des berges de la Scarpe et emprunter les ruelles, voilà la meilleure façon de redécouvrir les richesses de notre cité millénaire !
 Le groupe "Ensemble pour Douai" vous souhaite de très bonnes fêtes de Gayant et un excellent séjour dans notre belle ville.
 
 Isabelle CHÂTELAIN

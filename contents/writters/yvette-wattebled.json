@@ -159,6 +159,18 @@
   "presences": {
     "cm-douai": [
       {
+        "date": "2020-07-15T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2020-09-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2020-10-15T19:00:00Z",
+        "present": true
+      },
+      {
         "date": "2020-11-13T19:00:00Z",
         "present": false,
         "delegation": {
@@ -215,6 +227,18 @@
         }
       },
       {
+        "date": "2021-05-28T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-06-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-07-08T19:00:00Z",
+        "present": true
+      },
+      {
         "date": "2021-09-24T19:00:00Z",
         "present": true
       },
@@ -224,6 +248,42 @@
       },
       {
         "date": "2021-11-19T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-12-10T19:00:00Z",
+        "present": false
+      },
+      {
+        "date": "2022-01-27T19:00:00Z",
+        "present": false,
+        "delegation": {
+          "id": "thibaut-francois",
+          "name": "Thibaut FRANÇOIS"
+        }
+      },
+      {
+        "date": "2022-03-04T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-04-01T19:00:00Z",
+        "present": false,
+        "delegation": {
+          "id": "thibaut-francois",
+          "name": "Thibaut FRANÇOIS"
+        }
+      },
+      {
+        "date": "2022-04-29T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-05-19T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-06-17T19:00:00Z",
         "present": true
       },
       {
@@ -290,11 +350,11 @@
   },
   "presencesStats": {
     "cm-douai": {
-      "total": 22,
-      "present": 10,
+      "total": 35,
+      "present": 20,
       "arrivedLate": 0,
       "leftBeforeTheEnd": 0,
-      "delegation": 10
+      "delegation": 12
     }
   }
 }

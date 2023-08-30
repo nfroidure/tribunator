@@ -5,7 +5,108 @@
   "partyAbbr": "DVD",
   "type": "Élus d’opposition",
   "logo": "default.svg",
-  "totalWords": 1627,
+  "words": [
+    {
+      "word": "année",
+      "count": 22
+    },
+    {
+      "word": "sécurité",
+      "count": 19
+    },
+    {
+      "word": "ville",
+      "count": 18
+    },
+    {
+      "word": "majorité",
+      "count": 15
+    },
+    {
+      "word": "enfant",
+      "count": 14
+    },
+    {
+      "word": "municipale",
+      "count": 14
+    },
+    {
+      "word": "nouveau",
+      "count": 14
+    },
+    {
+      "word": "faire",
+      "count": 12
+    },
+    {
+      "word": "pouvoir",
+      "count": 12
+    },
+    {
+      "word": "investissement",
+      "count": 12
+    },
+    {
+      "word": "rentrée",
+      "count": 11
+    },
+    {
+      "word": "équipe",
+      "count": 11
+    },
+    {
+      "word": "école",
+      "count": 10
+    },
+    {
+      "word": "douaisiens",
+      "count": 9
+    },
+    {
+      "word": "police",
+      "count": 9
+    },
+    {
+      "word": "beau",
+      "count": 9
+    },
+    {
+      "word": "quartier",
+      "count": 8
+    },
+    {
+      "word": "avoir",
+      "count": 8
+    },
+    {
+      "word": "maire",
+      "count": 8
+    },
+    {
+      "word": "fête",
+      "count": 8
+    },
+    {
+      "word": "grâce",
+      "count": 8
+    },
+    {
+      "word": "conseil",
+      "count": 7
+    },
+    {
+      "word": "municipal",
+      "count": 7
+    },
+    {
+      "word": "fait",
+      "count": 7
+    },
+    {
+      "word": "priorité",
+      "count": 7
+    }
+  ],
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -138,6 +239,10 @@
     {
       "date": "2023-07-01T00:00:00Z",
       "id": "2023-07-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2023-09-01T00:00:00Z",
+      "id": "2023-09-douai-notre-ville-coline-craeye"
     }
   ],
   "sentences": [
@@ -305,6 +410,11 @@
       "id": "2023-07-douai-notre-ville-coline-craeye",
       "date": "2023-07-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2023-09-douai-notre-ville-coline-craeye",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 6
     }
   ],
   "sentiments": [
@@ -382,8 +492,8 @@
       "id": "2021-07-douai-notre-ville-anne-colin",
       "date": "2021-07-01T00:00:00Z",
       "positive": 0,
-      "neutral": 4,
-      "negative": 1
+      "neutral": 5,
+      "negative": 0
     },
     {
       "id": "2021-09-douai-notre-ville-coline-craeye",
@@ -537,6 +647,13 @@
       "date": "2023-07-01T00:00:00Z",
       "positive": 1,
       "neutral": 3,
+      "negative": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-coline-craeye",
+      "date": "2023-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
       "negative": 1
     }
   ],
@@ -705,6 +822,11 @@
       "id": "2023-07-douai-notre-ville-coline-craeye",
       "date": "2023-07-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-coline-craeye",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 2
     }
   ],
   "questions": [
@@ -872,6 +994,11 @@
       "id": "2023-07-douai-notre-ville-coline-craeye",
       "date": "2023-07-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-coline-craeye",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -1039,6 +1166,11 @@
       "id": "2023-07-douai-notre-ville-coline-craeye",
       "date": "2023-07-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-coline-craeye",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -1206,108 +1338,11 @@
       "id": "2023-07-douai-notre-ville-coline-craeye",
       "date": "2023-07-01T00:00:00Z",
       "count": 0
-    }
-  ],
-  "words": [
-    {
-      "word": "année",
-      "count": 22
     },
     {
-      "word": "sécurité",
-      "count": 19
-    },
-    {
-      "word": "ville",
-      "count": 18
-    },
-    {
-      "word": "majorité",
-      "count": 15
-    },
-    {
-      "word": "municipale",
-      "count": 14
-    },
-    {
-      "word": "nouveau",
-      "count": 14
-    },
-    {
-      "word": "pouvoir",
-      "count": 12
-    },
-    {
-      "word": "enfant",
-      "count": 11
-    },
-    {
-      "word": "faire",
-      "count": 11
-    },
-    {
-      "word": "rentrée",
-      "count": 10
-    },
-    {
-      "word": "équipe",
-      "count": 9
-    },
-    {
-      "word": "douaisiens",
-      "count": 9
-    },
-    {
-      "word": "police",
-      "count": 9
-    },
-    {
-      "word": "investissement",
-      "count": 9
-    },
-    {
-      "word": "beau",
-      "count": 9
-    },
-    {
-      "word": "avoir",
-      "count": 8
-    },
-    {
-      "word": "maire",
-      "count": 8
-    },
-    {
-      "word": "fête",
-      "count": 8
-    },
-    {
-      "word": "école",
-      "count": 8
-    },
-    {
-      "word": "conseil",
-      "count": 7
-    },
-    {
-      "word": "municipal",
-      "count": 7
-    },
-    {
-      "word": "fait",
-      "count": 7
-    },
-    {
-      "word": "nombreux",
-      "count": 7
-    },
-    {
-      "word": "quartier",
-      "count": 7
-    },
-    {
-      "word": "cœur",
-      "count": 7
+      "id": "2023-09-douai-notre-ville-coline-craeye",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1378,11 +1413,13 @@
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 1678,
+  "totalSignificantWords": 863,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 194,
-        "total": 33
+        "count": 200,
+        "total": 34
       },
       "min": {
         "value": 1,
@@ -1402,8 +1439,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 50,
-        "total": 33
+        "count": 52,
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1430,7 +1467,7 @@
     "questions": {
       "mean": {
         "count": 10,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1441,7 +1478,7 @@
           "2021-01-douai-notre-ville-coline-craeye",
           "2021-02-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 20
+        "restLength": 21
       },
       "max": {
         "value": 2,
@@ -1455,7 +1492,7 @@
     "bolds": {
       "mean": {
         "count": 27,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1466,7 +1503,7 @@
           "2021-03-douai-notre-ville-xavier-thierry",
           "2021-09-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 3
+        "restLength": 4
       },
       "max": {
         "value": 2,
@@ -1480,7 +1517,7 @@
     "caps": {
       "mean": {
         "count": 5,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1491,7 +1528,7 @@
           "2021-03-douai-notre-ville-xavier-thierry",
           "2021-04-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 23
+        "restLength": 24
       },
       "max": {
         "value": 1,
@@ -1509,7 +1546,7 @@
       "positive": {
         "mean": {
           "count": 20,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1520,7 +1557,7 @@
             "2021-07-douai-notre-ville-anne-colin",
             "2021-09-douai-notre-ville-coline-craeye"
           ],
-          "restLength": 13
+          "restLength": 14
         },
         "max": {
           "value": 3,
@@ -1532,8 +1569,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 153,
-          "total": 33
+          "count": 159,
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1555,7 +1592,7 @@
       "negative": {
         "mean": {
           "count": 21,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1566,7 +1603,7 @@
             "2021-01-douai-notre-ville-coline-craeye",
             "2021-05-douai-notre-ville-chantal-rybak"
           ],
-          "restLength": 12
+          "restLength": 13
         },
         "max": {
           "value": 2,

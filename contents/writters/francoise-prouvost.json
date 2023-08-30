@@ -1,5 +1,5 @@
 {
-  "totalWords": 1352,
+  "id": "francoise-prouvost",
   "writtings": [
     {
       "date": "2014-05-01T00:00:00Z",
@@ -359,8 +359,8 @@
     {
       "id": "2019-01-douai-notre-ville-francoise-prouvost",
       "date": "2019-01-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 4,
+      "positive": 2,
+      "neutral": 3,
       "negative": 2
     },
     {
@@ -984,6 +984,10 @@
       "count": 7
     },
     {
+      "word": "municipalité",
+      "count": 7
+    },
+    {
       "word": "centre ville",
       "count": 7
     },
@@ -1010,10 +1014,6 @@
     {
       "word": "adjoint",
       "count": 6
-    },
-    {
-      "word": "devoir",
-      "count": 6
     }
   ],
   "portrait": "default.svg",
@@ -1027,12 +1027,14 @@
       "name": "Douaisiens passionnément !",
       "type": "Élus d’opposition",
       "party": "Union pour un Mouvement Populaire",
-      "abbr": "UMP",
+      "partyAbbr": "UMP",
       "logo": "default.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 1352,
+  "totalSignificantWords": 788,
   "summary": {
     "sentences": {
       "mean": {
@@ -1159,7 +1161,7 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 12,
+          "count": 13,
           "total": 25
         },
         "min": {
@@ -1176,14 +1178,15 @@
         "max": {
           "value": 2,
           "ids": [
-            "2017-09-douai-notre-ville-francoise-prouvost"
+            "2017-09-douai-notre-ville-francoise-prouvost",
+            "2019-01-douai-notre-ville-francoise-prouvost"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 135,
+          "count": 134,
           "total": 25
         },
         "min": {

@@ -11,7 +11,7 @@ group:
   name: "Douai au Cœur"
   type: "Majorité municipale"
   party: "Citoyen·nes de Vivre Douai"
-  abbr: "SE"
+  partyAbbr: "SE"
   logo: "douai-au-coeur.svg"
 date: "2022-11-01T00:00:00Z"
 publication: "douai-notre-ville"

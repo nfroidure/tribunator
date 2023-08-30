@@ -4,16 +4,13 @@ https://p.calameoassets.com/161128115633-2a35b8f07bdbe82a955eccb979de27f3/p2.svg
 
 Élus d’opposition : Rassemblement Douai Bleu Marine (Rassemblement National)
 
-**Les regrets et les souhaits du Front National.** L’an-
-née 2016 a été marquée par deux graves décisions de notre Conseil municipal auxquelles les élus du Front National ont exprimé leur désaccord total :
--1 L’augmentation de 6 % des deux taxes (taxe fon-
-cière et taxe d’habitation) en deux ans, ce qui aura pour conséquence une baisse du pouvoir d’achat de nos concitoyens.
+**Les regrets et les souhaits du Front National.** L’année 2016 a été marquée par deux graves décisions de notre Conseil municipal auxquelles les élus du Front National ont exprimé leur désaccord total :
+-1 L’augmentation de 6 % des deux taxes (taxe foncière et taxe d’habitation) en deux ans, ce qui aura pour conséquence une baisse du pouvoir d’achat de nos concitoyens.
 -2 L’assentiment de notre Conseil municipal pour accueillir les migrants de Calais. Je rappelle qu’en présentant une motion "Ma commune sans migrants", le Front National n’a fait qu’exprimer l’avis d’une majorité de Français opposée à l’immigration clandestine. Le Front national souhaite pour qu’en 2017 plusieurs résolutions soient prises:
 -1 Un réel renforcement de la sécurité.
 -2 Un arrêt de la piétonisation : j’avais approuvé cette initiative avec une certaine réserve. L’expérience a démontré qu’elle était nuisible aux commerces de notre ville. Cessons de critiquer l’usage de l’automobile qui a tant apporté à l’homme : la liberté, l’évasion, le confort.
 -3 Une amélioration de la propreté à Douai.
--4 La modification du plan de circulation. Toutes ces propositions ne peuvent que favoriser le commerce de notre ville. Au nom du groupe Front National, je souhaite de joyeuses fêtes de Noël à tous les habi-
-tants de Douai.
+-4 La modification du plan de circulation. Toutes ces propositions ne peuvent que favoriser le commerce de notre ville. Au nom du groupe Front National, je souhaite de joyeuses fêtes de Noël à tous les habitants de Douai.
 
 Guy CANNIE
 Conseiller municipal d’opposition
@@ -22,10 +19,8 @@ Conseiller municipal d’opposition
 
 Élus d’opposition : Douaisiens passionnément ! (UMP)
 
-Au moment où je dois écrire cette tribune, nous rece-
-vons l’invitation pour les 1ères Assises du social à Douai. Au programme, décrochage scolaire, sortie de la personne détenue, aide alimentaire et santé ; curieusement, le point fondamental du logement indécent n’y est pas présent. Pourtant délabrement structurel, chauffage défaillant, peintures toxiques, sanitaires dégradés sont le lot des logements dont les loyers sont en grande partie versés directement aux bailleurs indélicats par le biais des APL. Ces logements indignes ne font qu’empirer la situation de détresse, la santé des personnes concernées et les résultats scolaires de leurs enfants. La lutte contre l’habitat indigne ne devrait-il pas être la première question de ces premières Assises du social ?
-Bonnes fêtes à tous et, pour nos achats, privilé-
-gions les commerces douaisiens !
+Au moment où je dois écrire cette tribune, nous recevons l’invitation pour les 1ères Assises du social à Douai. Au programme, décrochage scolaire, sortie de la personne détenue, aide alimentaire et santé ; curieusement, le point fondamental du logement indécent n’y est pas présent. Pourtant délabrement structurel, chauffage défaillant, peintures toxiques, sanitaires dégradés sont le lot des logements dont les loyers sont en grande partie versés directement aux bailleurs indélicats par le biais des APL. Ces logements indignes ne font qu’empirer la situation de détresse, la santé des personnes concernées et les résultats scolaires de leurs enfants. La lutte contre l’habitat indigne ne devrait-il pas être la première question de ces premières Assises du social ?
+Bonnes fêtes à tous et, pour nos achats, privilégions les commerces douaisiens !
 
 Chantal RYBAK
 Conseillère municipale d’opposition

@@ -11,7 +11,7 @@ group:
   name: "Vivons Douai"
   type: "Élus d’opposition"
   party: "Parti Communiste Français"
-  abbr: "PCF"
+  partyAbbr: "PCF"
   logo: "pcf.svg"
 date: "2012-05-01T00:00:00Z"
 publication: "douai-notre-ville"

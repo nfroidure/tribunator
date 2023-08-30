@@ -26,8 +26,7 @@ Conseillère municipale d’opposition
 
 ---
 
-En ces temps difficiles pour beaucoup d’entre nous, dé-
-cembre doit plus que jamais rester le mois de la solidarité.
+En ces temps difficiles pour beaucoup d’entre nous, décembre doit plus que jamais rester le mois de la solidarité.
 
 Les Restos du cœur reprennent leur campagne hivernale, hélas plus que jamais nécessaire. Et de nombreuses initiatives à travers toute la ville, des Blouses roses au Secours populaire et au Kiwanis, en passant par le Téléthon avec l’Union du commerce, permettront au plus grand nombre de passer de belles fêtes de fin d’année.
 

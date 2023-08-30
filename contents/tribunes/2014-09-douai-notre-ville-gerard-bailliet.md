@@ -11,7 +11,7 @@ group:
   name: "Rassemblement Douai Bleu Marine"
   type: "Élus d’opposition"
   party: "Rassemblement National"
-  abbr: "RN"
+  partyAbbr: "RN"
   logo: "default.svg"
 date: "2014-09-01T00:00:00Z"
 publication: "douai-notre-ville"
@@ -29,6 +29,4 @@ Pire, son parti est laminé aux européennes avec 5% des inscrits !
 
 Alors que, lorsqu’elle vote unie, l’opposition est de fait majoritaire, représentant 26% des inscrits !!!
 
-M. Chéreau serait donc bien inspiré de ne pas donner trop de leçons de démocratie à la Tau-
-bira, mais par contre, de privilégier la démocra-
-tie réelle.
+M. Chéreau serait donc bien inspiré de ne pas donner trop de leçons de démocratie à la Taubira, mais par contre, de privilégier la démocratie réelle.

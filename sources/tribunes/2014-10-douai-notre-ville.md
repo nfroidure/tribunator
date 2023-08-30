@@ -5,17 +5,11 @@ https://p.calameoassets.com/140926112050-ad7d70bae9d8fac6db24fd9af9b6709f/p2.svg
 Élus d’opposition : Rassemblement Douai Bleu Marine (Rassemblement National)
 
 **Non au communautarisme et aux incivilités.**
-Le samedi 6 septembre 2014, sur le rond-point de la Place l’Hérillier, les incivilités routières ont re-
-pris de plus belle, à l’occasion de deux mariages :
-- Plusieurs voitures sont passées à une allure folle dans le centre-ville, sur les boulevards et particu-
-lièrement sur la Place l’Hérillier
-- Certaines personnes se sont permises de bloquer la circulation par divers véhicules (voitures, mo-
-tos, quads)
-- D’autres “jeunes” se sont autorisés à une démons-
-tration de “burns” (démarrage en trombe), met-
-tant ainsi de nombreuses personnes en danger
-- Enfin flottaient, à bord des véhicules, des dra-
-peaux algériens tenus par ces “jeunes”, assis sur les rebords des portières
+Le samedi 6 septembre 2014, sur le rond-point de la Place l’Hérillier, les incivilités routières ont repris de plus belle, à l’occasion de deux mariages :
+- Plusieurs voitures sont passées à une allure folle dans le centre-ville, sur les boulevards et particulièrement sur la Place l’Hérillier
+- Certaines personnes se sont permises de bloquer la circulation par divers véhicules (voitures, motos, quads)
+- D’autres “jeunes” se sont autorisés à une démonstration de “burns” (démarrage en trombe), mettant ainsi de nombreuses personnes en danger
+- Enfin flottaient, à bord des véhicules, des drapeaux algériens tenus par ces “jeunes”, assis sur les rebords des portières
 Le Front National Rassemblement Bleu Marine condamne sévèrement ces démonstrations outrancières de communautarisme et demande à M. le Maire de prendre toutes dispositions utiles pour que ces faits n’aient plus lieu dans notre ville de Douai.
 
 Guy CANNIE
@@ -41,9 +35,7 @@ Dynamiser le commerce et l’artisanat, favoriser le développement des commerce
 
 Avec l’aide des unions commerciales, de la FUSCAD (Fédération des unions et syndicats de commerçants et artisans du Douaisis) et de la CCI, “Les vingt jours made in France” qui commencent le 2 octobre donneront également la possibilité aux commerçants de vous faire découvrir les circuits courts et les productions locales.
 
-Enfin, je vous donne rendez-vous lors du conseil municipal du 17 octobre où Daniel Sellier, adjoint au commerce, présentera un plan de relance du centre-ville qui passera notamment par la créa-
-tion de trois ateliers participatifs associant com-
-merçants, artisans et habitants.
+Enfin, je vous donne rendez-vous lors du conseil municipal du 17 octobre où Daniel Sellier, adjoint au commerce, présentera un plan de relance du centre-ville qui passera notamment par la création de trois ateliers participatifs associant commerçants, artisans et habitants.
 
 Votre maire,
 Frédéric CHÉREAU

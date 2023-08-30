@@ -11,7 +11,7 @@ group:
   name: "Douai au Cœur"
   type: "Majorité municipale"
   party: "Parti Socialiste"
-  abbr: "PS"
+  partyAbbr: "PS"
   logo: "ps.png"
 date: "2023-07-01T00:00:00Z"
 publication: "douai-notre-ville"

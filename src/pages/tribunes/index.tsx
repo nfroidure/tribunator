@@ -23,11 +23,11 @@ import type {
   BaseListingPageMetadata,
   BasePagingPageMetadata,
 } from "../../utils/contents";
-import type { StatsSummary } from "../../utils/writters";
+import type { GlobalStatsSummary } from "../../utils/writters";
 import HorizontalRule from "../../components/hr";
 
 export type Props = BasePagingPageMetadata<Tribune> & {
-  globalStats: StatsSummary;
+  globalStats: GlobalStatsSummary;
 };
 
 const PARAMS_DEFINITIONS = {

@@ -1,5 +1,5 @@
 {
-  "totalWords": 77,
+  "id": "annick-louvion",
   "writtings": [
     {
       "date": "2012-07-01T00:00:00Z",
@@ -163,12 +163,14 @@
       "name": "Vivons Douai",
       "type": "Élus d’opposition",
       "party": "Parti Socialiste",
-      "abbr": "PS",
+      "partyAbbr": "PS",
       "logo": "ps.png"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 77,
+  "totalSignificantWords": 72,
   "summary": {
     "sentences": {
       "mean": {

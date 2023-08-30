@@ -31,10 +31,9 @@ Malgré les alertes liées à la crise sanitaire, les personnels comme les patie
 Récemment, les urgences pédiatriques ont pu être sauvées.
 Aujourd’hui, c’est le service de gastroentérologie qui est menacé si nous n’agissons pas.
 L’absence de service public est catastrophique et la santé ne doit pas être une variable d’ajustement.
-Nous sommes également préoccupés par le manque de médecins dans nos communes et nous espérons un réel accompagnement pour agir dans le sens d’une meilleure prise en compte de ce pro-
-blème.
+Nous sommes également préoccupés par le manque de médecins dans nos communes et nous espérons un réel accompagnement pour agir dans le sens d’une meilleure prise en compte de ce problème.
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

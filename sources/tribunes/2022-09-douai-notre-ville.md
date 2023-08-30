@@ -13,8 +13,7 @@ Septembre 2022 Expressions politiques
 
 Je tiens à souhaiter une excellente rentrée à tous les jeunes Douaisien·ne·s qui retrouvent ce mois-ci le chemin de l’école. L’éducation est une priorité pour notre ville. C’est la raison pour laquelle nous devons investir dans la rénovation (thermique mais pas que !) de certains bâtiments. Au-delà de cet aspect, nous pouvons valoriser certaines actions éducatives. Lors du dernier conseil municipal, j’ai proposé :
 - D’une part que nous participions au financement de voyages sur les lieux de mémoire ;
-- D’autre part, que les bacheliers douaisiens ayant obtenu une men-
-tion puissent obtenir une bourse sous forme de bon d’achat auprès de nos commerces locaux ;
+- D’autre part, que les bacheliers douaisiens ayant obtenu une mention puissent obtenir une bourse sous forme de bon d’achat auprès de nos commerces locaux ;
 
 Enfin la ville doit garantir l’accès des élèves aux savoirs numériques. Allons plus vite !
 
@@ -48,7 +47,7 @@ La crise n’a pas la même saveur pour tout le monde. Les dividendes versés au
 L’humain d’abord est un projet de société cohérent pour se libérer du pouvoir de l’argent que nous tentons de faire vivre avec une voix différente au sein de la majorité de gauche.
 Nous vous souhaitons une excellente rentrée.
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

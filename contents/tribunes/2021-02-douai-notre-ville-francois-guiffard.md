@@ -11,7 +11,7 @@ group:
   name: "Ensemble faisons Douai"
   type: "Élus d’opposition"
   party: "Sans-Étiquette"
-  abbr: "SE"
+  partyAbbr: "SE"
   logo: "default.svg"
 date: "2021-02-01T00:00:00Z"
 publication: "douai-notre-ville"

@@ -66,6 +66,15 @@ const Entry = ({ entry }: Props) => {
           <ListItem>
             <Strong>Parti :</Strong> {entry.stats.party}
           </ListItem>
+          <ListItem>
+            <Strong>Richesse du vocabulaire :</Strong>{" "}
+            {entry.stats.totalSignificantWords} mots significatifs sur{" "}
+            {entry.stats.totalWords} soit un ratio de{" "}
+            {(
+              entry.stats.totalSignificantWords / entry.stats.totalWords
+            ).toFixed(2)}
+            .
+          </ListItem>
         </UnorderedList>
         <Heading2>Mots-Clés</Heading2>
         <UnorderedList>

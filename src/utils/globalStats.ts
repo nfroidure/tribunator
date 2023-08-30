@@ -1,6 +1,8 @@
 import { pathJoin, readJSON } from "./files";
-import type { StatsSummary } from "./writters";
+import type { GlobalStatsSummary } from "./writters";
 
-export async function readGlobalStats(): Promise<StatsSummary> {
-  return readJSON<StatsSummary>(pathJoin(".", "contents", "globalStats.json"));
+export async function readGlobalStats(): Promise<GlobalStatsSummary> {
+  return readJSON<GlobalStatsSummary>(
+    pathJoin(".", "contents", "globalStats.json")
+  );
 }

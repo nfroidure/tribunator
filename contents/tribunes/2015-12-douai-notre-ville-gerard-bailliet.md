@@ -11,7 +11,7 @@ group:
   name: "Rassemblement Douai Bleu Marine"
   type: "Élus d’opposition"
   party: "Rassemblement National"
-  abbr: "RN"
+  partyAbbr: "RN"
   logo: "default.svg"
 date: "2015-12-01T00:00:00Z"
 publication: "douai-notre-ville"
@@ -23,8 +23,7 @@ country: "France"
 
 **VIGILANCE !**
 Arrivant à la mi-temps d’un match de futsal subventionné par la ville, j’assiste au prêche d’un imam devant une centaine de spectateurs…
-Quelques mois auparavant, distribuant notre pro-
-gramme municipal, j’avais été menacé d’expulsion manu militari : “vous n’êtes pas les bienvenus”. Une autre fois, j’ai été sommé de décliner mon identité, justifier ma présence,  alors que fusaient les noms d’oiseaux…
+Quelques mois auparavant, distribuant notre programme municipal, j’avais été menacé d’expulsion manu militari : “vous n’êtes pas les bienvenus”. Une autre fois, j’ai été sommé de décliner mon identité, justifier ma présence,  alors que fusaient les noms d’oiseaux…
 
 J’en informais la municipalité lors d’un  Conseil. Son leader m’invita à me débrouiller par moi-même, affaire personnelle…
 

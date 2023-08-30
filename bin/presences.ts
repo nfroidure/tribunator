@@ -8,12 +8,12 @@ import {
   shrinkStats,
   sortByDate,
 } from "../src/utils/stats";
-import type { Author } from "../src/utils/tribunes";
+import type { BaseAuthor } from "../src/utils/tribunes";
 import type {
   PresenceItem,
   PresenceStatItem,
   PresenceStatsSummary,
-  StatsSummary,
+  GlobalStatsSummary,
 } from "../src/utils/writters";
 
 run();
@@ -33,8 +33,8 @@ async function run() {
       .filter((id) => id)
       .map((line) => line.split(",").map((cell) => cell.trim()));
     const persons: Record<
-      Author["id"],
-      Pick<Author, "id" | "name"> & {
+      BaseAuthor["id"],
+      Pick<BaseAuthor, "id" | "name"> & {
         presences: (PartialPresence & { date: string })[];
       }
     > = {};
@@ -69,7 +69,7 @@ async function run() {
     const instanceCode = file.replace(/\.csv$/, "");
     const globalStats = JSON.parse(
       (await readFile(pathJoin("contents", `globalStats.json`))).toString()
-    ) as StatsSummary;
+    ) as GlobalStatsSummary;
     const globalOccurences: Record<
       keyof PresenceStatsSummary,
       OccurenceItem[]

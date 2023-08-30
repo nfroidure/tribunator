@@ -32,8 +32,7 @@ Conseillère municipale d’opposition
 ---
 
 L’attractivité de centre-ville est, à Douai, une priorité en actes. La première saison complète de piétonisation s’est achevée, à la satisfaction d’une grande partie des commerçants, selon la Voix du Nord : des promeneurs détendus, des animations, plus de cortèges bruyants… Une nouvelle enquête permettra dès cet automne de mieux connaître les attentes et les réactions des riverains, visiteurs et commerçants, avant de lancer la saison 2017, pourquoi pas jusqu’à Noël cette fois ?
-En septembre a été lancé un concours d’architectes pour la refonte de la place du Dauphin, lieu stratégique en hyper-
-cœur de ville, vécu aujourd’hui comme un repoussoir par trop d’habitants. La population sera sollicitée pour donner un avis sur les projets proposés.
+En septembre a été lancé un concours d’architectes pour la refonte de la place du Dauphin, lieu stratégique en hyper-cœur de ville, vécu aujourd’hui comme un repoussoir par trop d’habitants. La population sera sollicitée pour donner un avis sur les projets proposés.
 En octobre, la Ville s’est dotée d’un périmètre de sauvegarde du commerce, qui permet de préempter un fonds de commerce lorsque le projet proposé ne correspond pas aux besoins.
 En décembre, le marché de Noël laissera la place à un concept entièrement renouvelé : "Douai d’hiver".
 En fin d'année, je réunirai autour de la Ville et de la CAD tous les acteurs concernés, pour annoncer l’ouverture de ce nouveau chapitre de notre action, avec le lancement d’une consultation pour nous faire accompagner d’un spécialiste des centres-villes. Il nous aidera à définir les prochaines priorités d’action et à faire travailler ensemble tous les acteurs de l’attractivité.

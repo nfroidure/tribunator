@@ -11,7 +11,7 @@ group:
   name: "Douai au Cœur"
   type: "Majorité municipale"
   party: "Parti Socialiste"
-  abbr: "PS"
+  partyAbbr: "PS"
   logo: "ps.png"
 date: "2014-10-01T00:00:00Z"
 publication: "douai-notre-ville"
@@ -28,6 +28,4 @@ Dynamiser le commerce et l’artisanat, favoriser le développement des commerce
 
 Avec l’aide des unions commerciales, de la FUSCAD (Fédération des unions et syndicats de commerçants et artisans du Douaisis) et de la CCI, “Les vingt jours made in France” qui commencent le 2 octobre donneront également la possibilité aux commerçants de vous faire découvrir les circuits courts et les productions locales.
 
-Enfin, je vous donne rendez-vous lors du conseil municipal du 17 octobre où Daniel Sellier, adjoint au commerce, présentera un plan de relance du centre-ville qui passera notamment par la créa-
-tion de trois ateliers participatifs associant com-
-merçants, artisans et habitants.
+Enfin, je vous donne rendez-vous lors du conseil municipal du 17 octobre où Daniel Sellier, adjoint au commerce, présentera un plan de relance du centre-ville qui passera notamment par la création de trois ateliers participatifs associant commerçants, artisans et habitants.

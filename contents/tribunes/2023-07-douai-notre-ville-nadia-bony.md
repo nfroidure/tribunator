@@ -11,7 +11,7 @@ group:
   name: "Douai au Cœur"
   type: "Majorité municipale"
   party: "Sans-Étiquette"
-  abbr: "SE"
+  partyAbbr: "SE"
   logo: "default.svg"
 date: "2023-07-01T00:00:00Z"
 publication: "douai-notre-ville"

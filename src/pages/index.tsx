@@ -17,10 +17,10 @@ import {
   type Props as BaseProps,
 } from "./[...slug]";
 import type { GetStaticProps } from "next";
-import type { StatsSummary } from "../utils/writters";
+import type { GlobalStatsSummary } from "../utils/writters";
 
 type Props = BaseProps & {
-  globalStats: StatsSummary;
+  globalStats: GlobalStatsSummary;
 };
 
 const Page = ({ entry, globalStats }: Props) => (

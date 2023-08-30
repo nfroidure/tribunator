@@ -12,7 +12,7 @@ group:
   name: "Jacques Vernier"
   type: "Majorité municipale"
   party: "Union pour un Mouvement Populaire"
-  abbr: "UMP"
+  partyAbbr: "UMP"
   logo: "default.svg"
 date: "2012-04-01T00:00:00Z"
 publication: "douai-notre-ville"

@@ -68,7 +68,7 @@ Formulons des vœux de paix pour chacune et chacun d'entre vous et vos familles,
 
 Vivement les jours heureux…
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

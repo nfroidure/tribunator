@@ -68,17 +68,32 @@ const Entry = ({ entry }: Props) => {
           <ListItem>
             <Strong>Mandats :</Strong> {entry.stats.mandates.join(", ")}
           </ListItem>
-        </UnorderedList>
-        <Heading2>Mots-Clés</Heading2>
-        <UnorderedList>
-          {entry.stats.words.slice(0, 10).map(({ word, count }) => (
-            <ListItem key={word}>
-              {word} ({count})
+          {entry.stats.writtings.length ? (
+            <ListItem>
+              <Strong>Richesse du vocabulaire :</Strong>{" "}
+              {entry.stats.totalSignificantWords} mots significatifs sur{" "}
+              {entry.stats.totalWords} soit un ratio de{" "}
+              {(
+                entry.stats.totalSignificantWords / entry.stats.totalWords
+              ).toFixed(2)}
+              .
             </ListItem>
-          ))}
+          ) : null}
         </UnorderedList>
-        <Stats stats={entry.stats} />
-        <Top summary={entry.stats.summary} />
+        {entry.stats.writtings.length ? (
+          <>
+            <Heading2>Mots-Clés</Heading2>
+            <UnorderedList>
+              {entry.stats.words.slice(0, 10).map(({ word, count }) => (
+                <ListItem key={word}>
+                  {word} ({count})
+                </ListItem>
+              ))}
+            </UnorderedList>
+            <Stats stats={entry.stats} />
+            <Top summary={entry.stats.summary} />
+          </>
+        ) : null}
         {entry.presences ? (
           <>
             <Heading2>Feuille de présence</Heading2>
@@ -147,18 +162,22 @@ const Entry = ({ entry }: Props) => {
           </>
         ) : null}
         <Heading2>Liste des tribunes</Heading2>
-        <UnorderedList>
-          {entry.stats.writtings.map(({ id, date }) => (
-            <ListItem key={id}>
-              <Anchor href={`/tribunes/${id}`}>
-                {new Intl.DateTimeFormat("fr-FR", {
-                  year: "numeric",
-                  month: "long",
-                }).format(new Date(date))}
-              </Anchor>
-            </ListItem>
-          ))}
-        </UnorderedList>
+        {entry.stats.writtings.length ? (
+          <UnorderedList>
+            {entry.stats.writtings.map(({ id, date }) => (
+              <ListItem key={id}>
+                <Anchor href={`/tribunes/${id}`}>
+                  {new Intl.DateTimeFormat("fr-FR", {
+                    year: "numeric",
+                    month: "long",
+                  }).format(new Date(date))}
+                </Anchor>
+              </ListItem>
+            ))}
+          </UnorderedList>
+        ) : (
+          <Paragraph>Aucune tribune rédigée à ce jour.</Paragraph>
+        )}
         <aside>
           <Heading2>Commenter et partager</Heading2>
           <Share

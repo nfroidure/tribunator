@@ -11,7 +11,7 @@ group:
   name: "Douai dynamique et durable"
   type: "Élus d’opposition"
   party: "Alliance LReM-Modem"
-  abbr: "DVD"
+  partyAbbr: "DVD"
   logo: "default.svg"
 date: "2022-01-01T00:00:00Z"
 publication: "douai-notre-ville"

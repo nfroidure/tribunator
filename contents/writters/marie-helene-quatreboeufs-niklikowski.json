@@ -1,5 +1,5 @@
 {
-  "totalWords": 226,
+  "id": "marie-helene-quatreboeufs-niklikowski",
   "writtings": [
     {
       "date": "2014-10-01T00:00:00Z",
@@ -271,12 +271,14 @@
       "name": "Douaisiens passionnément !",
       "type": "Élus d’opposition",
       "party": "Union pour un Mouvement Populaire",
-      "abbr": "UMP",
+      "partyAbbr": "UMP",
       "logo": "default.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 226,
+  "totalSignificantWords": 192,
   "summary": {
     "sentences": {
       "mean": {

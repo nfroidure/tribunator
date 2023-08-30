@@ -1,5 +1,5 @@
 {
-  "totalWords": 98,
+  "id": "jessy-kaboul",
   "writtings": [
     {
       "date": "2020-12-01T00:00:00Z",
@@ -199,12 +199,14 @@
       "name": "Douai au Cœur",
       "type": "Majorité municipale",
       "party": "Parti Communiste Français",
-      "abbr": "PCF",
+      "partyAbbr": "PCF",
       "logo": "pcf.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 98,
+  "totalSignificantWords": 86,
   "summary": {
     "sentences": {
       "mean": {
@@ -380,12 +382,32 @@
   "presences": {
     "cm-douai": [
       {
+        "date": "2022-06-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-07-08T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-09-23T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-10-21T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-11-18T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-12-16T19:00:00Z",
+        "present": true
+      },
+      {
         "date": "2023-01-20T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "khadija-ahantat",
-          "name": "Khadija AHANTAT"
-        }
+        "present": true
       },
       {
         "date": "2023-02-10T19:00:00Z",
@@ -397,7 +419,11 @@
       },
       {
         "date": "2023-04-07T19:00:00Z",
-        "present": true
+        "present": false,
+        "delegation": {
+          "id": "khadija-ahantat",
+          "name": "Khadija AHANTAT"
+        }
       },
       {
         "date": "2023-05-26T19:00:00Z",
@@ -409,17 +435,21 @@
       },
       {
         "date": "2023-06-30T19:00:00Z",
-        "present": true
+        "present": false,
+        "delegation": {
+          "id": "jean-christophe-leclercq",
+          "name": "Jean Christophe LECLERCQ"
+        }
       }
     ]
   },
   "presencesStats": {
     "cm-douai": {
-      "total": 7,
-      "present": 6,
+      "total": 13,
+      "present": 11,
       "arrivedLate": 0,
       "leftBeforeTheEnd": 0,
-      "delegation": 1
+      "delegation": 2
     }
   }
 }

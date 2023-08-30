@@ -18,8 +18,8 @@
         "Conseiller Régional"
       ],
       "portrait": "default.svg",
-      "totalSignificantWords": 430,
-      "totalWords": 736
+      "totalSignificantWords": 426,
+      "totalWords": 734
     },
     "cyril-carbonnel": {
       "id": "cyril-carbonnel",
@@ -29,7 +29,7 @@
       ],
       "portrait": "default.svg",
       "totalSignificantWords": 313,
-      "totalWords": 438
+      "totalWords": 437
     },
     "rene-lavarde": {
       "id": "rene-lavarde",
@@ -48,8 +48,8 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "default.svg",
-      "totalSignificantWords": 101,
-      "totalWords": 116
+      "totalSignificantWords": 102,
+      "totalWords": 117
     },
     "brigitte-bonnaffe-leriche": {
       "id": "brigitte-bonnaffe-leriche",
@@ -88,8 +88,8 @@
         "Conseillère municipale d’opposition"
       ],
       "portrait": "default.svg",
-      "totalSignificantWords": 60,
-      "totalWords": 62
+      "totalSignificantWords": 59,
+      "totalWords": 61
     },
     "frederic-chereau": {
       "id": "frederic-chereau",
@@ -98,8 +98,8 @@
         "Maire de Douai"
       ],
       "portrait": "frederic-chereau.jpg",
-      "totalSignificantWords": 2563,
-      "totalWords": 10363
+      "totalSignificantWords": 2562,
+      "totalWords": 10486
     },
     "jackie-avenel": {
       "id": "jackie-avenel",
@@ -118,8 +118,8 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "guy-cannie.jpg",
-      "totalSignificantWords": 1431,
-      "totalWords": 3172
+      "totalSignificantWords": 1406,
+      "totalWords": 3161
     },
     "francoise-prouvost": {
       "id": "francoise-prouvost",
@@ -128,7 +128,7 @@
         "Conseillère municipale d’opposition"
       ],
       "portrait": "default.svg",
-      "totalSignificantWords": 789,
+      "totalSignificantWords": 788,
       "totalWords": 1352
     },
     "gerard-bailliet": {
@@ -138,8 +138,8 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "default.svg",
-      "totalSignificantWords": 495,
-      "totalWords": 656
+      "totalSignificantWords": 491,
+      "totalWords": 654
     },
     "marie-helene-quatreboeufs-niklikowski": {
       "id": "marie-helene-quatreboeufs-niklikowski",
@@ -168,8 +168,8 @@
         "Conseillère municipale d’opposition"
       ],
       "portrait": "chantal-rybak.jpg",
-      "totalSignificantWords": 552,
-      "totalWords": 876
+      "totalSignificantWords": 548,
+      "totalWords": 872
     },
     "franz-quatreboeufs": {
       "id": "franz-quatreboeufs",
@@ -178,7 +178,7 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "franz-quatreboeufs.jpg",
-      "totalSignificantWords": 422,
+      "totalSignificantWords": 421,
       "totalWords": 610
     },
     "bruno-bufquin": {
@@ -198,8 +198,8 @@
         "Conseillère municipale d’opposition"
       ],
       "portrait": "default.svg",
-      "totalSignificantWords": 155,
-      "totalWords": 193
+      "totalSignificantWords": 154,
+      "totalWords": 192
     },
     "coline-craeye": {
       "id": "coline-craeye",
@@ -208,8 +208,8 @@
         "Conseillère municipale d’opposition"
       ],
       "portrait": "coline-craeye.jpg",
-      "totalSignificantWords": 617,
-      "totalWords": 1087
+      "totalSignificantWords": 627,
+      "totalWords": 1138
     },
     "francois-guiffard": {
       "id": "francois-guiffard",
@@ -218,8 +218,8 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "francois-guiffard.jpg",
-      "totalSignificantWords": 901,
-      "totalWords": 1657
+      "totalSignificantWords": 917,
+      "totalWords": 1711
     },
     "thibaut-francois": {
       "id": "thibaut-francois",
@@ -228,8 +228,8 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "thibaut-francois.jpg",
-      "totalSignificantWords": 647,
-      "totalWords": 1274
+      "totalSignificantWords": 660,
+      "totalWords": 1315
     },
     "agnes-dupuis": {
       "id": "agnes-dupuis",
@@ -238,8 +238,8 @@
         "Adjointe au maire"
       ],
       "portrait": "agnes-dupuis.jpg",
-      "totalSignificantWords": 88,
-      "totalWords": 104
+      "totalSignificantWords": 123,
+      "totalWords": 165
     },
     "stephanie-stiernon": {
       "id": "stephanie-stiernon",
@@ -248,8 +248,8 @@
         "Adjointe au maire"
       ],
       "portrait": "stephanie-stiernon.jpg",
-      "totalSignificantWords": 332,
-      "totalWords": 457
+      "totalSignificantWords": 361,
+      "totalWords": 502
     },
     "auriane-ait-lasri": {
       "id": "auriane-ait-lasri",
@@ -448,7 +448,7 @@
         "Conseillère municipale d’opposition"
       ],
       "portrait": "anne-colin.jpg",
-      "totalSignificantWords": 129,
+      "totalSignificantWords": 128,
       "totalWords": 147
     },
     "jean-marie-dupire": {
@@ -468,7 +468,7 @@
         "Conseillère municipale"
       ],
       "portrait": "salima-boukentar.jpg",
-      "totalSignificantWords": 82,
+      "totalSignificantWords": 81,
       "totalWords": 91
     },
     "anissa-bouchaboun": {
@@ -548,8 +548,8 @@
         "Conseiller municipal"
       ],
       "portrait": "guy-lagache.jpg",
-      "totalSignificantWords": 83,
-      "totalWords": 96
+      "totalSignificantWords": 82,
+      "totalWords": 95
     },
     "nadia-bony": {
       "id": "nadia-bony",
@@ -568,12 +568,162 @@
       "mandates": [],
       "totalSignificantWords": 0,
       "totalWords": 0
+    },
+    "auriane-delbarre": {
+      "id": "auriane-delbarre",
+      "name": "Auriane DELBARRE",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "auriane-delbarre.jpg",
+      "totalWords": 1065,
+      "totalSignificantWords": 609
+    },
+    "saliha-grevin": {
+      "id": "saliha-grevin",
+      "name": "Saliha GRÉVIN",
+      "portrait": "default.svg",
+      "mandates": [],
+      "totalSignificantWords": 0,
+      "totalWords": 0
+    }
+  },
+  "groups": {
+    "jacques-vernier-ump": {
+      "id": "jacques-vernier-ump",
+      "name": "Jacques Vernier",
+      "type": "Majorité municipale",
+      "party": "Union pour un Mouvement Populaire",
+      "partyAbbr": "UMP",
+      "logo": "default.svg",
+      "totalWords": 734,
+      "totalSignificantWords": 426
+    },
+    "vivons-douai-ps": {
+      "id": "vivons-douai-ps",
+      "name": "Vivons Douai",
+      "type": "Élus d’opposition",
+      "party": "Parti Socialiste",
+      "partyAbbr": "PS",
+      "logo": "ps.png",
+      "totalWords": 815,
+      "totalSignificantWords": 546
+    },
+    "vivons-douai-pcf": {
+      "id": "vivons-douai-pcf",
+      "name": "Vivons Douai",
+      "type": "Élus d’opposition",
+      "party": "Parti Communiste Français",
+      "partyAbbr": "PCF",
+      "logo": "pcf.svg",
+      "totalWords": 113,
+      "totalSignificantWords": 110
+    },
+    "vivons-douai-eelv": {
+      "id": "vivons-douai-eelv",
+      "name": "Vivons Douai",
+      "type": "Élus d’opposition",
+      "party": "Europe Écologie-Les Verts",
+      "partyAbbr": "EELV",
+      "logo": "eelv-douaisis.svg",
+      "totalWords": 93,
+      "totalSignificantWords": 78
+    },
+    "douaisiens-passionnement-ump": {
+      "id": "douaisiens-passionnement-ump",
+      "name": "Douaisiens passionnément !",
+      "type": "Élus d’opposition",
+      "party": "Union pour un Mouvement Populaire",
+      "partyAbbr": "UMP",
+      "logo": "default.svg",
+      "totalWords": 3747,
+      "totalSignificantWords": 1666
+    },
+    "douai-au-coeur-ps": {
+      "id": "douai-au-coeur-ps",
+      "name": "Douai au Cœur",
+      "type": "Majorité municipale",
+      "party": "Parti Socialiste",
+      "partyAbbr": "PS",
+      "logo": "ps.png",
+      "totalWords": 10650,
+      "totalSignificantWords": 2563
+    },
+    "rassemblement-douai-bleu-marine-rn": {
+      "id": "rassemblement-douai-bleu-marine-rn",
+      "name": "Rassemblement Douai Bleu Marine",
+      "type": "Élus d’opposition",
+      "party": "Rassemblement National",
+      "partyAbbr": "RN",
+      "logo": "default.svg",
+      "totalWords": 3643,
+      "totalSignificantWords": 1635
+    },
+    "douai-au-coeur-pcf": {
+      "id": "douai-au-coeur-pcf",
+      "name": "Douai au Cœur",
+      "type": "Majorité municipale",
+      "party": "Parti Communiste Français",
+      "partyAbbr": "PCF",
+      "logo": "pcf.svg",
+      "totalWords": 1613,
+      "totalSignificantWords": 805
+    },
+    "douai-dynamique-et-durable-dvd": {
+      "id": "douai-dynamique-et-durable-dvd",
+      "name": "Douai dynamique et durable",
+      "type": "Élus d’opposition",
+      "party": "Alliance LReM-Modem",
+      "partyAbbr": "DVD",
+      "logo": "default.svg",
+      "totalWords": 1678,
+      "totalSignificantWords": 863
+    },
+    "ensemble-faisons-douai-se": {
+      "id": "ensemble-faisons-douai-se",
+      "name": "Ensemble faisons Douai",
+      "type": "Élus d’opposition",
+      "party": "Sans-Étiquette",
+      "partyAbbr": "SE",
+      "logo": "default.svg",
+      "totalWords": 1711,
+      "totalSignificantWords": 917
+    },
+    "douai-au-coeur-eelv": {
+      "id": "douai-au-coeur-eelv",
+      "name": "Douai au Cœur",
+      "type": "Majorité municipale",
+      "party": "Europe Écologie-Les Verts",
+      "partyAbbr": "EELV",
+      "logo": "eelv-douaisis.svg",
+      "totalWords": 1702,
+      "totalSignificantWords": 865
+    },
+    "douai-plus-belle-plus-propre-plus-sure-rn": {
+      "id": "douai-plus-belle-plus-propre-plus-sure-rn",
+      "name": "Douai, plus belle, plus propre, plus sûre",
+      "type": "Élus d’opposition",
+      "party": "Rassemblement National",
+      "partyAbbr": "RN",
+      "logo": "default.svg",
+      "totalWords": 1487,
+      "totalSignificantWords": 750
+    },
+    "douai-au-coeur-se": {
+      "id": "douai-au-coeur-se",
+      "name": "Douai au Cœur",
+      "type": "Majorité municipale",
+      "party": "Citoyen·nes de Vivre Douai",
+      "partyAbbr": "SE",
+      "logo": "douai-au-coeur.svg",
+      "totalWords": 1342,
+      "totalSignificantWords": 797
     }
   },
   "sentences": {
     "mean": {
       "count": 13,
-      "total": 460
+      "total": 467
     },
     "min": {
       "value": 1,
@@ -593,7 +743,7 @@
   "exclamations": {
     "mean": {
       "count": 13,
-      "total": 460
+      "total": 467
     },
     "min": {
       "value": 0,
@@ -604,7 +754,7 @@
         "2012-09-douai-notre-ville-odile-hage",
         "2014-05-douai-notre-ville-francoise-prouvost"
       ],
-      "restLength": 181
+      "restLength": 183
     },
     "max": {
       "value": 8,
@@ -618,7 +768,7 @@
   "questions": {
     "mean": {
       "count": 13,
-      "total": 460
+      "total": 467
     },
     "min": {
       "value": 0,
@@ -629,7 +779,7 @@
         "2012-07-douai-notre-ville-jacques-vernier",
         "2012-09-douai-notre-ville-jacques-vernier"
       ],
-      "restLength": 362
+      "restLength": 368
     },
     "max": {
       "value": 7,
@@ -642,7 +792,7 @@
   "bolds": {
     "mean": {
       "count": 13,
-      "total": 460
+      "total": 467
     },
     "min": {
       "value": 0,
@@ -653,7 +803,7 @@
         "2014-11-douai-notre-ville-marie-delecambre",
         "2014-12-douai-notre-ville-chantal-rybak"
       ],
-      "restLength": 298
+      "restLength": 304
     },
     "max": {
       "value": 5,
@@ -666,7 +816,7 @@
   "caps": {
     "mean": {
       "count": 13,
-      "total": 460
+      "total": 467
     },
     "min": {
       "value": 0,
@@ -677,7 +827,7 @@
         "2012-06-douai-notre-ville-jacques-vernier",
         "2012-07-douai-notre-ville-jacques-vernier"
       ],
-      "restLength": 397
+      "restLength": 403
     },
     "max": {
       "value": 7,
@@ -691,7 +841,7 @@
     "positive": {
       "mean": {
         "count": 13,
-        "total": 460
+        "total": 467
       },
       "min": {
         "value": 0,
@@ -702,7 +852,7 @@
           "2012-05-douai-notre-ville-jacques-vernier",
           "2012-06-douai-notre-ville-jacques-vernier"
         ],
-        "restLength": 235
+        "restLength": 240
       },
       "max": {
         "value": 4,
@@ -719,7 +869,7 @@
     "neutral": {
       "mean": {
         "count": 13,
-        "total": 460
+        "total": 467
       },
       "min": {
         "value": 0,
@@ -739,7 +889,7 @@
     "negative": {
       "mean": {
         "count": 13,
-        "total": 460
+        "total": 467
       },
       "min": {
         "value": 0,
@@ -747,10 +897,10 @@
           "2012-02-douai-notre-ville-jacques-vernier",
           "2012-03-douai-notre-ville-jacques-vernier",
           "2012-05-douai-notre-ville-jacques-vernier",
-          "2012-10-douai-notre-ville-jacques-vernier",
-          "2012-11-douai-notre-ville-jacques-vernier"
+          "2012-07-douai-notre-ville-jacques-vernier",
+          "2012-10-douai-notre-ville-jacques-vernier"
         ],
-        "restLength": 195
+        "restLength": 200
       },
       "max": {
         "value": 6,
@@ -765,329 +915,337 @@
     "cm-douai": [
       {
         "id": "stephanie-stiernon",
-        "total": 22,
-        "present": 22,
+        "total": 35,
+        "present": 35,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 0
       },
       {
         "id": "frederic-chereau",
-        "total": 22,
-        "present": 22,
+        "total": 35,
+        "present": 35,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 0
       },
       {
         "id": "agnes-dupuis",
-        "total": 22,
-        "present": 22,
+        "total": 35,
+        "present": 34,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 0
+        "delegation": 1
       },
       {
         "id": "mohamed-kheraki",
-        "total": 22,
-        "present": 18,
+        "total": 35,
+        "present": 31,
         "arrivedLate": 1,
         "leftBeforeTheEnd": 0,
         "delegation": 3
       },
       {
         "id": "hocine-mazy",
-        "total": 22,
-        "present": 19,
-        "arrivedLate": 0,
-        "leftBeforeTheEnd": 0,
-        "delegation": 3
-      },
-      {
-        "id": "auriane-ait-lasri",
-        "total": 22,
-        "present": 18,
+        "total": 35,
+        "present": 29,
         "arrivedLate": 1,
         "leftBeforeTheEnd": 0,
-        "delegation": 4
+        "delegation": 7
+      },
+      {
+        "id": "auriane-delbarre",
+        "total": 35,
+        "present": 29,
+        "arrivedLate": 1,
+        "leftBeforeTheEnd": 0,
+        "delegation": 6
       },
       {
         "id": "jean-michel-leroy",
-        "total": 22,
-        "present": 19,
+        "total": 35,
+        "present": 29,
+        "arrivedLate": 0,
+        "leftBeforeTheEnd": 0,
+        "delegation": 6
+      },
+      {
+        "id": "jean-christophe-leclercq",
+        "total": 35,
+        "present": 32,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 3
       },
       {
-        "id": "jean-christophe-leclercq",
-        "total": 22,
-        "present": 21,
-        "arrivedLate": 0,
-        "leftBeforeTheEnd": 0,
-        "delegation": 1
-      },
-      {
         "id": "yvon-sipieter",
-        "total": 22,
-        "present": 22,
+        "total": 35,
+        "present": 35,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 0
       },
       {
         "id": "khadija-ahantat",
-        "total": 22,
-        "present": 22,
+        "total": 35,
+        "present": 35,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 0
       },
       {
         "id": "michael-doziere",
-        "total": 22,
-        "present": 19,
-        "arrivedLate": 0,
+        "total": 35,
+        "present": 32,
+        "arrivedLate": 2,
         "leftBeforeTheEnd": 0,
         "delegation": 2
       },
       {
         "id": "marie-delattre",
-        "total": 22,
-        "present": 20,
+        "total": 35,
+        "present": 32,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 2
+        "delegation": 3
       },
       {
         "id": "guy-caruyer",
-        "total": 22,
-        "present": 22,
+        "total": 35,
+        "present": 35,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 0
       },
       {
         "id": "avida-oulahcene",
-        "total": 22,
-        "present": 15,
+        "total": 35,
+        "present": 22,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 6
+        "delegation": 12
       },
       {
         "id": "carolle-divrechy",
-        "total": 22,
-        "present": 14,
+        "total": 35,
+        "present": 27,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 8
       },
       {
         "id": "katia-bittner",
-        "total": 22,
-        "present": 21,
+        "total": 35,
+        "present": 34,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 1
       },
       {
         "id": "jamila-mekki",
-        "total": 22,
-        "present": 18,
-        "arrivedLate": 0,
-        "leftBeforeTheEnd": 0,
-        "delegation": 2
-      },
-      {
-        "id": "yves-piquot",
-        "total": 22,
-        "present": 20,
-        "arrivedLate": 0,
-        "leftBeforeTheEnd": 0,
-        "delegation": 2
-      },
-      {
-        "id": "salima-boukentar",
-        "total": 22,
-        "present": 19,
+        "total": 35,
+        "present": 28,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 3
       },
       {
-        "id": "sebastien-lanclu",
-        "total": 22,
-        "present": 22,
+        "id": "yves-piquot",
+        "total": 35,
+        "present": 32,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 0
+        "delegation": 3
       },
       {
-        "id": "nora-cherki",
-        "total": 22,
-        "present": 18,
+        "id": "salima-boukentar",
+        "total": 35,
+        "present": 31,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 4
       },
       {
-        "id": "maxime-decupper-laud",
-        "total": 22,
-        "present": 17,
+        "id": "sebastien-lanclu",
+        "total": 35,
+        "present": 34,
+        "arrivedLate": 0,
+        "leftBeforeTheEnd": 0,
+        "delegation": 1
+      },
+      {
+        "id": "nora-cherki",
+        "total": 35,
+        "present": 31,
         "arrivedLate": 1,
         "leftBeforeTheEnd": 0,
-        "delegation": 5
+        "delegation": 4
+      },
+      {
+        "id": "maxime-decupper-laud",
+        "total": 35,
+        "present": 28,
+        "arrivedLate": 1,
+        "leftBeforeTheEnd": 0,
+        "delegation": 7
       },
       {
         "id": "guy-lagache",
-        "total": 15,
-        "present": 13,
+        "total": 22,
+        "present": 20,
         "arrivedLate": 1,
         "leftBeforeTheEnd": 0,
         "delegation": 2
       },
       {
         "id": "chantal-rybak",
-        "total": 22,
-        "present": 19,
-        "arrivedLate": 1,
+        "total": 35,
+        "present": 31,
+        "arrivedLate": 2,
         "leftBeforeTheEnd": 0,
-        "delegation": 3
+        "delegation": 5
       },
       {
         "id": "franz-quatreboeufs",
-        "total": 22,
-        "present": 22,
+        "total": 35,
+        "present": 35,
         "arrivedLate": 2,
         "leftBeforeTheEnd": 0,
         "delegation": 0
       },
       {
         "id": "anne-colin",
-        "total": 22,
-        "present": 20,
+        "total": 32,
+        "present": 29,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 2
+        "delegation": 3
       },
       {
         "id": "xavier-thierry",
-        "total": 22,
-        "present": 21,
-        "arrivedLate": 1,
+        "total": 35,
+        "present": 33,
+        "arrivedLate": 2,
         "leftBeforeTheEnd": 0,
-        "delegation": 2
+        "delegation": 3
       },
       {
         "id": "coline-craeye",
-        "total": 22,
-        "present": 22,
+        "total": 35,
+        "present": 35,
         "arrivedLate": 1,
         "leftBeforeTheEnd": 0,
         "delegation": 0
       },
       {
         "id": "eric-lemaitre",
-        "total": 22,
-        "present": 15,
-        "arrivedLate": 0,
+        "total": 35,
+        "present": 26,
+        "arrivedLate": 1,
         "leftBeforeTheEnd": 0,
-        "delegation": 6
+        "delegation": 9
       },
       {
         "id": "guy-cannie",
-        "total": 22,
-        "present": 18,
+        "total": 35,
+        "present": 27,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 3
+        "delegation": 7
       },
       {
         "id": "thibaut-francois",
-        "total": 22,
-        "present": 17,
+        "total": 35,
+        "present": 28,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 1,
-        "delegation": 5
+        "delegation": 6
       },
       {
         "id": "francois-guiffard",
-        "total": 22,
-        "present": 15,
-        "arrivedLate": 1,
+        "total": 35,
+        "present": 27,
+        "arrivedLate": 2,
         "leftBeforeTheEnd": 0,
-        "delegation": 1
+        "delegation": 2
       },
       {
         "id": "nathalie-apers",
-        "total": 22,
-        "present": 20,
+        "total": 35,
+        "present": 33,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 2
       },
       {
         "id": "nadia-bony",
-        "total": 12,
-        "present": 9,
+        "total": 16,
+        "present": 12,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 2
+        "delegation": 3
       },
       {
         "id": "mohamed-felouki",
-        "total": 22,
-        "present": 14,
+        "total": 35,
+        "present": 24,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 8
+        "delegation": 11
       },
       {
         "id": "anissa-bouchaboun",
-        "total": 22,
-        "present": 15,
+        "total": 34,
+        "present": 23,
         "arrivedLate": 2,
         "leftBeforeTheEnd": 0,
-        "delegation": 7
+        "delegation": 11
       },
       {
         "id": "anne-sophie-audegond",
-        "total": 22,
-        "present": 14,
+        "total": 35,
+        "present": 25,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
-        "delegation": 7
+        "delegation": 9
       },
       {
         "id": "yvette-wattebled",
-        "total": 22,
-        "present": 10,
+        "total": 35,
+        "present": 20,
+        "arrivedLate": 0,
+        "leftBeforeTheEnd": 0,
+        "delegation": 12
+      },
+      {
+        "id": "jean-marie-dupire",
+        "total": 34,
+        "present": 21,
         "arrivedLate": 0,
         "leftBeforeTheEnd": 0,
         "delegation": 10
       },
       {
-        "id": "jean-marie-dupire",
-        "total": 22,
-        "present": 12,
-        "arrivedLate": 0,
-        "leftBeforeTheEnd": 0,
-        "delegation": 8
-      },
-      {
         "id": "virginie-malolepszy",
-        "total": 10,
-        "present": 10,
-        "arrivedLate": 0,
+        "total": 19,
+        "present": 16,
+        "arrivedLate": 1,
         "leftBeforeTheEnd": 0,
-        "delegation": 0
+        "delegation": 3
       },
       {
         "id": "jessy-kaboul",
-        "total": 7,
-        "present": 6,
+        "total": 13,
+        "present": 11,
         "arrivedLate": 0,
+        "leftBeforeTheEnd": 0,
+        "delegation": 2
+      },
+      {
+        "id": "saliha-grevin",
+        "total": 3,
+        "present": 2,
+        "arrivedLate": 1,
         "leftBeforeTheEnd": 0,
         "delegation": 1
       }
@@ -1097,11 +1255,11 @@
     "cm-douai": {
       "presenceRatio": {
         "mean": {
-          "count": 41,
-          "total": 3456.4718614718618
+          "count": 42,
+          "total": 3575.724147498529
         },
         "min": {
-          "value": 45.45454545454545,
+          "value": 57.14285714285714,
           "ids": [
             "yvette-wattebled"
           ],
@@ -1112,17 +1270,17 @@
           "ids": [
             "stephanie-stiernon",
             "frederic-chereau",
-            "agnes-dupuis",
             "yvon-sipieter",
-            "khadija-ahantat"
+            "khadija-ahantat",
+            "guy-caruyer"
           ],
           "restLength": 0
         }
       },
       "arrivedLate": {
         "mean": {
-          "count": 41,
-          "total": 12
+          "count": 42,
+          "total": 22
         },
         "min": {
           "value": 0,
@@ -1130,23 +1288,26 @@
             "stephanie-stiernon",
             "frederic-chereau",
             "agnes-dupuis",
-            "hocine-mazy",
-            "jean-michel-leroy"
+            "jean-michel-leroy",
+            "jean-christophe-leclercq"
           ],
-          "restLength": 1
+          "restLength": 0
         },
         "max": {
           "value": 2,
           "ids": [
+            "michael-doziere",
+            "chantal-rybak",
             "franz-quatreboeufs",
-            "anissa-bouchaboun"
+            "xavier-thierry",
+            "francois-guiffard"
           ],
           "restLength": 0
         }
       },
       "leftBeforeTheEnd": {
         "mean": {
-          "count": 41,
+          "count": 42,
           "total": 1
         },
         "min": {
@@ -1170,23 +1331,24 @@
       },
       "delegation": {
         "mean": {
-          "count": 41,
-          "total": 118
+          "count": 42,
+          "total": 175
         },
         "min": {
           "value": 0,
           "ids": [
             "stephanie-stiernon",
             "frederic-chereau",
-            "agnes-dupuis",
             "yvon-sipieter",
-            "khadija-ahantat"
+            "khadija-ahantat",
+            "guy-caruyer"
           ],
           "restLength": 0
         },
         "max": {
-          "value": 10,
+          "value": 12,
           "ids": [
+            "avida-oulahcene",
             "yvette-wattebled"
           ],
           "restLength": 0

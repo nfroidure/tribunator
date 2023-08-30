@@ -1,5 +1,5 @@
 {
-  "totalWords": 56,
+  "id": "nadia-bony",
   "writtings": [
     {
       "date": "2023-07-01T00:00:00Z",
@@ -163,12 +163,14 @@
       "name": "Douai au Cœur",
       "type": "Majorité municipale",
       "party": "Sans-Étiquette",
-      "abbr": "SE",
+      "partyAbbr": "SE",
       "logo": "default.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 56,
+  "totalSignificantWords": 47,
   "summary": {
     "sentences": {
       "mean": {
@@ -336,7 +338,23 @@
   "presences": {
     "cm-douai": [
       {
-        "date": "2021-10-22T19:00:00Z",
+        "date": "2022-04-01T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-04-29T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-05-19T19:00:00Z",
+        "present": false,
+        "delegation": {
+          "id": "frederic-chereau",
+          "name": "Frédéric CHÉREAU"
+        }
+      },
+      {
+        "date": "2022-06-17T19:00:00Z",
         "present": true
       },
       {
@@ -345,14 +363,18 @@
       },
       {
         "date": "2022-09-23T19:00:00Z",
-        "present": false
-      },
-      {
-        "date": "2022-10-21T19:00:00Z",
         "present": true
       },
       {
+        "date": "2022-10-21T19:00:00Z",
+        "present": false
+      },
+      {
         "date": "2022-11-18T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-12-16T19:00:00Z",
         "present": true
       },
       {
@@ -395,11 +417,11 @@
   },
   "presencesStats": {
     "cm-douai": {
-      "total": 12,
-      "present": 9,
+      "total": 16,
+      "present": 12,
       "arrivedLate": 0,
       "leftBeforeTheEnd": 0,
-      "delegation": 2
+      "delegation": 3
     }
   }
 }

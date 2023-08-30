@@ -15,20 +15,24 @@ import { toASCIIString } from "../src/utils/ascii";
 import type {
   SentimentOccurenceItem,
   StatsSummary,
+  WritterStats,
+  GlobalStatsSummary,
 } from "../src/utils/writters";
-import type {
-  BaseGroup,
-  TribuneFrontmatterMetadata,
-} from "../src/utils/tribunes";
+import type { TribuneFrontmatterMetadata } from "../src/utils/tribunes";
+import type { GroupStats } from "../src/utils/groups";
+
+type TemporaryStats<T> = Omit<T, "summary" | "words"> & {
+  words: Record<string, number>;
+};
 
 run();
 
 async function run() {
-  const globalStats = await createBaseStatsObject();
+  const globalStats: GlobalStatsSummary = await createBaseStatsObject();
   const nl = await nodeLefff.load();
   const files = await readDir(pathJoin("contents", "tribunes"));
-  const writtersAggregations = {};
-  const groupsAggregations = {};
+  const writtersAggregations: Record<string, TemporaryStats<WritterStats>> = {};
+  const groupsAggregations: Record<string, TemporaryStats<GroupStats>> = {};
 
   for (const file of files) {
     console.warn(`➕ - Processing ${file}.`);
@@ -67,14 +71,16 @@ async function run() {
     );
 
     const { id, date, group, authors } = metadata;
-    const groupAggregation = groupsAggregations[group.id] || {
+    const groupAggregation: TemporaryStats<GroupStats> = groupsAggregations[
+      group.id
+    ] || {
       id: group.id,
       name: group.name,
       party: group.party,
-      partyAbbr: group.abbr,
+      partyAbbr: group.partyAbbr,
       type: group.type,
       logo: group.logo,
-      totalWords: 0,
+      words: {},
       writtings: [],
       sentences: [],
       sentiments: [],
@@ -82,10 +88,11 @@ async function run() {
       questions: [],
       bolds: [],
       caps: [],
-      words: [],
       authors,
       locality: "Douai",
       country: "France",
+      totalWords: 0,
+      totalSignificantWords: 0,
     };
 
     groupsAggregations[group.id] = groupAggregation;
@@ -102,23 +109,26 @@ async function run() {
     const aggregationsList = [
       groupAggregation,
       ...authors.map(({ name, mandates, portrait }) => {
-        const writerAggregation = writtersAggregations[toASCIIString(name)] || {
-          totalWords: 0,
-          writtings: [],
-          sentences: [],
-          sentiments: [],
-          exclamations: [],
-          questions: [],
-          bolds: [],
-          caps: [],
-          words: [],
-          portrait,
-          name,
-          mandates,
-          groups: [group],
-          locality: "Douai",
-          country: "France",
-        };
+        const writerAggregation: TemporaryStats<WritterStats> =
+          writtersAggregations[toASCIIString(name)] || {
+            id: toASCIIString(name),
+            writtings: [],
+            sentences: [],
+            sentiments: [],
+            exclamations: [],
+            questions: [],
+            bolds: [],
+            caps: [],
+            words: {},
+            portrait,
+            name,
+            mandates,
+            groups: [group],
+            locality: "Douai",
+            country: "France",
+            totalWords: 0,
+            totalSignificantWords: 0,
+          };
 
         writtersAggregations[toASCIIString(name)] = writerAggregation;
         writerAggregation.groups = [
@@ -241,10 +251,20 @@ async function run() {
       (word) => word.length > 3
     );
 
+    writtersAggregations[key].totalSignificantWords = allWords.length;
+
+    globalStats.authors[key] = globalStats.authors[key] || {
+      id: key,
+      name: writtersAggregations[key].name,
+      mandates: writtersAggregations[key].mandates,
+      portrait: writtersAggregations[key].portrait,
+      totalWords: 0,
+      totalSignificantWords: 0,
+    };
     globalStats.authors[key].totalWords = writtersAggregations[key].totalWords;
     globalStats.authors[key].totalSignificantWords = allWords.length;
 
-    const finalAggregation = {
+    const finalAggregation: Omit<WritterStats, "authors"> = {
       ...writtersAggregations[key],
       summary: shrinkSummary(summary),
       words: allWords
@@ -279,6 +299,26 @@ async function run() {
       caps: computeStats(groupsAggregations[key].caps),
       sentiments: computeSentimentStats(groupsAggregations[key].sentiments),
     };
+    const allWords = Object.keys(groupsAggregations[key].words).filter(
+      (word) => word.length > 3
+    );
+
+    groupsAggregations[key].totalSignificantWords = allWords.length;
+
+
+    globalStats.groups[key] = globalStats.groups[key] || {
+      id: key,
+      name: groupsAggregations[key].name,
+      type: groupsAggregations[key].type,
+      party: groupsAggregations[key].party,
+      partyAbbr: groupsAggregations[key].partyAbbr,
+      logo: groupsAggregations[key].logo,
+      totalWords: 0,
+      totalSignificantWords: 0,
+    };
+    globalStats.groups[key].totalWords = groupsAggregations[key].totalWords;
+    globalStats.groups[key].totalSignificantWords = allWords.length;
+
 
     aggregatesStats(summary.sentences, globalStats.sentences);
     aggregatesStats(summary.exclamations, globalStats.exclamations);
@@ -325,7 +365,7 @@ async function run() {
   );
 }
 
-async function createBaseStatsObject(): Promise<StatsSummary> {
+async function createBaseStatsObject(): Promise<GlobalStatsSummary> {
   let globalStats;
 
   try {
@@ -338,6 +378,7 @@ async function createBaseStatsObject(): Promise<StatsSummary> {
 
   return {
     authors: {},
+    groups: {},
     ...globalStats,
     sentences: createBaseStatsItem(),
     exclamations: createBaseStatsItem(),
@@ -369,9 +410,7 @@ function computeSentimentStats(
   }, {} as Partial<StatsSummary["sentiments"]>) as StatsSummary["sentiments"];
 }
 
-function shrinkSummary(
-  summary: Omit<StatsSummary, "authors">
-): Omit<StatsSummary, "authors"> {
+function shrinkSummary(summary: StatsSummary): StatsSummary {
   return {
     ...summary,
     sentences: shrinkStats(summary.sentences),

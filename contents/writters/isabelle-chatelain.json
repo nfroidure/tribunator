@@ -1,5 +1,5 @@
 {
-  "totalWords": 193,
+  "id": "isabelle-chatelain",
   "writtings": [
     {
       "date": "2017-10-01T00:00:00Z",
@@ -307,12 +307,14 @@
       "name": "Douaisiens passionnément !",
       "type": "Élus d’opposition",
       "party": "Union pour un Mouvement Populaire",
-      "abbr": "UMP",
+      "partyAbbr": "UMP",
       "logo": "default.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 192,
+  "totalSignificantWords": 154,
   "summary": {
     "sentences": {
       "mean": {

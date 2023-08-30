@@ -11,7 +11,7 @@ group:
   name: "Vivons Douai"
   type: "Élus d’opposition"
   party: "Europe Écologie-Les Verts"
-  abbr: "EELV"
+  partyAbbr: "EELV"
   logo: "eelv-douaisis.svg"
 date: "2012-11-01T00:00:00Z"
 publication: "douai-notre-ville"

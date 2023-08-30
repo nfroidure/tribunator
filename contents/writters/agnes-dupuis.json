@@ -1,5 +1,5 @@
 {
-  "totalWords": 104,
+  "id": "agnes-dupuis",
   "writtings": [
     {
       "date": "2020-09-01T00:00:00Z",
@@ -8,6 +8,10 @@
     {
       "date": "2021-06-01T00:00:00Z",
       "id": "2021-06-douai-notre-ville-agnes-dupuis"
+    },
+    {
+      "date": "2023-09-01T00:00:00Z",
+      "id": "2023-09-douai-notre-ville-agnes-dupuis"
     }
   ],
   "sentences": [
@@ -20,6 +24,11 @@
       "id": "2021-06-douai-notre-ville-agnes-dupuis",
       "date": "2021-06-01T00:00:00Z",
       "count": 7
+    },
+    {
+      "id": "2023-09-douai-notre-ville-agnes-dupuis",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 8
     }
   ],
   "sentiments": [
@@ -36,6 +45,13 @@
       "positive": 1,
       "neutral": 6,
       "negative": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-agnes-dupuis",
+      "date": "2023-09-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -48,6 +64,11 @@
       "id": "2021-06-douai-notre-ville-agnes-dupuis",
       "date": "2021-06-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-agnes-dupuis",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 3
     }
   ],
   "questions": [
@@ -60,6 +81,11 @@
       "id": "2021-06-douai-notre-ville-agnes-dupuis",
       "date": "2021-06-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-agnes-dupuis",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 1
     }
   ],
   "bolds": [
@@ -71,6 +97,11 @@
     {
       "id": "2021-06-douai-notre-ville-agnes-dupuis",
       "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-agnes-dupuis",
+      "date": "2023-09-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -84,19 +115,44 @@
       "id": "2021-06-douai-notre-ville-agnes-dupuis",
       "date": "2021-06-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-agnes-dupuis",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "rentrée",
-      "count": 4
+      "count": 6
+    },
+    {
+      "word": "projet",
+      "count": 6
+    },
+    {
+      "word": "enfant",
+      "count": 5
     },
     {
       "word": "action",
-      "count": 3
+      "count": 4
     },
     {
       "word": "proposer",
+      "count": 4
+    },
+    {
+      "word": "parent",
+      "count": 4
+    },
+    {
+      "word": "jeune",
+      "count": 3
+    },
+    {
+      "word": "travail",
       "count": 3
     },
     {
@@ -104,19 +160,19 @@
       "count": 3
     },
     {
-      "word": "enfant",
-      "count": 2
+      "word": "éducatif",
+      "count": 3
     },
     {
-      "word": "travail",
-      "count": 2
-    },
-    {
-      "word": "projet",
+      "word": "école",
       "count": 2
     },
     {
       "word": "éducation",
+      "count": 2
+    },
+    {
+      "word": "année",
       "count": 2
     },
     {
@@ -128,7 +184,19 @@
       "count": 2
     },
     {
+      "word": "riche",
+      "count": 2
+    },
+    {
+      "word": "pouvoir",
+      "count": 2
+    },
+    {
       "word": "garderie",
+      "count": 2
+    },
+    {
+      "word": "nouveau",
       "count": 2
     },
     {
@@ -154,38 +222,6 @@
     {
       "word": "permi",
       "count": 1
-    },
-    {
-      "word": "jeune",
-      "count": 1
-    },
-    {
-      "word": "tourner",
-      "count": 1
-    },
-    {
-      "word": "insertion",
-      "count": 1
-    },
-    {
-      "word": "professionnel",
-      "count": 1
-    },
-    {
-      "word": "école",
-      "count": 1
-    },
-    {
-      "word": "apprenantes",
-      "count": 1
-    },
-    {
-      "word": "séjour",
-      "count": 1
-    },
-    {
-      "word": "renouer",
-      "count": 1
     }
   ],
   "portrait": "agnes-dupuis.jpg",
@@ -199,17 +235,19 @@
       "name": "Douai au Cœur",
       "type": "Majorité municipale",
       "party": "Parti Socialiste",
-      "abbr": "PS",
+      "partyAbbr": "PS",
       "logo": "ps.png"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 165,
+  "totalSignificantWords": 123,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 12,
-        "total": 2
+        "count": 20,
+        "total": 3
       },
       "min": {
         "value": 5,
@@ -219,17 +257,17 @@
         "restLength": 0
       },
       "max": {
-        "value": 7,
+        "value": 8,
         "ids": [
-          "2021-06-douai-notre-ville-agnes-dupuis"
+          "2023-09-douai-notre-ville-agnes-dupuis"
         ],
         "restLength": 0
       }
     },
     "exclamations": {
       "mean": {
-        "count": 2,
-        "total": 2
+        "count": 5,
+        "total": 3
       },
       "min": {
         "value": 1,
@@ -240,18 +278,17 @@
         "restLength": 0
       },
       "max": {
-        "value": 1,
+        "value": 3,
         "ids": [
-          "2020-09-douai-notre-ville-agnes-dupuis",
-          "2021-06-douai-notre-ville-agnes-dupuis"
+          "2023-09-douai-notre-ville-agnes-dupuis"
         ],
         "restLength": 0
       }
     },
     "questions": {
       "mean": {
-        "count": 0,
-        "total": 2
+        "count": 1,
+        "total": 3
       },
       "min": {
         "value": 0,
@@ -262,10 +299,9 @@
         "restLength": 0
       },
       "max": {
-        "value": 0,
+        "value": 1,
         "ids": [
-          "2020-09-douai-notre-ville-agnes-dupuis",
-          "2021-06-douai-notre-ville-agnes-dupuis"
+          "2023-09-douai-notre-ville-agnes-dupuis"
         ],
         "restLength": 0
       }
@@ -273,13 +309,14 @@
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2020-09-douai-notre-ville-agnes-dupuis",
-          "2021-06-douai-notre-ville-agnes-dupuis"
+          "2021-06-douai-notre-ville-agnes-dupuis",
+          "2023-09-douai-notre-ville-agnes-dupuis"
         ],
         "restLength": 0
       },
@@ -287,7 +324,8 @@
         "value": 0,
         "ids": [
           "2020-09-douai-notre-ville-agnes-dupuis",
-          "2021-06-douai-notre-ville-agnes-dupuis"
+          "2021-06-douai-notre-ville-agnes-dupuis",
+          "2023-09-douai-notre-ville-agnes-dupuis"
         ],
         "restLength": 0
       }
@@ -295,13 +333,14 @@
     "caps": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2020-09-douai-notre-ville-agnes-dupuis",
-          "2021-06-douai-notre-ville-agnes-dupuis"
+          "2021-06-douai-notre-ville-agnes-dupuis",
+          "2023-09-douai-notre-ville-agnes-dupuis"
         ],
         "restLength": 0
       },
@@ -309,7 +348,8 @@
         "value": 0,
         "ids": [
           "2020-09-douai-notre-ville-agnes-dupuis",
-          "2021-06-douai-notre-ville-agnes-dupuis"
+          "2021-06-douai-notre-ville-agnes-dupuis",
+          "2023-09-douai-notre-ville-agnes-dupuis"
         ],
         "restLength": 0
       }
@@ -317,8 +357,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 1,
-          "total": 2
+          "count": 2,
+          "total": 3
         },
         "min": {
           "value": 0,
@@ -330,15 +370,16 @@
         "max": {
           "value": 1,
           "ids": [
-            "2021-06-douai-notre-ville-agnes-dupuis"
+            "2021-06-douai-notre-ville-agnes-dupuis",
+            "2023-09-douai-notre-ville-agnes-dupuis"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 10,
-          "total": 2
+          "count": 16,
+          "total": 3
         },
         "min": {
           "value": 4,
@@ -350,15 +391,16 @@
         "max": {
           "value": 6,
           "ids": [
-            "2021-06-douai-notre-ville-agnes-dupuis"
+            "2021-06-douai-notre-ville-agnes-dupuis",
+            "2023-09-douai-notre-ville-agnes-dupuis"
           ],
           "restLength": 0
         }
       },
       "negative": {
         "mean": {
-          "count": 1,
-          "total": 2
+          "count": 2,
+          "total": 3
         },
         "min": {
           "value": 0,
@@ -370,7 +412,8 @@
         "max": {
           "value": 1,
           "ids": [
-            "2020-09-douai-notre-ville-agnes-dupuis"
+            "2020-09-douai-notre-ville-agnes-dupuis",
+            "2023-09-douai-notre-ville-agnes-dupuis"
           ],
           "restLength": 0
         }
@@ -379,6 +422,18 @@
   },
   "presences": {
     "cm-douai": [
+      {
+        "date": "2020-07-15T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2020-09-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2020-10-15T19:00:00Z",
+        "present": true
+      },
       {
         "date": "2020-11-13T19:00:00Z",
         "present": true
@@ -408,6 +463,18 @@
         "present": true
       },
       {
+        "date": "2021-05-28T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-06-17T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-07-08T19:00:00Z",
+        "present": true
+      },
+      {
         "date": "2021-09-24T19:00:00Z",
         "present": true
       },
@@ -417,6 +484,38 @@
       },
       {
         "date": "2021-11-19T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2021-12-10T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-01-27T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-03-04T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-04-01T19:00:00Z",
+        "present": false,
+        "delegation": {
+          "id": "mohamed-kheraki",
+          "name": "Mohamed KHÉRAKI"
+        }
+      },
+      {
+        "date": "2022-04-29T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-05-19T19:00:00Z",
+        "present": true
+      },
+      {
+        "date": "2022-06-17T19:00:00Z",
         "present": true
       },
       {
@@ -471,11 +570,11 @@
   },
   "presencesStats": {
     "cm-douai": {
-      "total": 22,
-      "present": 22,
+      "total": 35,
+      "present": 34,
       "arrivedLate": 0,
       "leftBeforeTheEnd": 0,
-      "delegation": 0
+      "delegation": 1
     }
   }
 }

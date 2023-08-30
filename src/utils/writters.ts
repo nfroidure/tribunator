@@ -1,12 +1,12 @@
 import { toASCIIString } from "./ascii";
 import { pathJoin, readDir, readJSON } from "./files";
 import type { OccurenceItem, StatItem } from "./stats";
-import type { Author, BaseGroup } from "./tribunes";
+import type { BaseAuthor, BaseGroup } from "./tribunes";
 
 export type PresenceItem = {
   date: string;
   present: boolean;
-  delegation?: Pick<Author, "id" | "name">;
+  delegation?: Pick<BaseAuthor, "id" | "name">;
   arrivedLate?: boolean;
   leftBeforeTheEnd?: boolean;
 };
@@ -43,7 +43,6 @@ export type StatsSummary = {
     neutral: StatItem;
     negative: StatItem;
   };
-  authors: Record<string, Author>;
   presences?: Record<
     string,
     (PresenceStatItem & {
@@ -52,6 +51,24 @@ export type StatsSummary = {
   >;
   presencesStats?: Record<string, PresenceStatsSummary>;
 };
+
+export type GlobalStatsSummary = StatsSummary & {
+  authors: Record<
+    string,
+    BaseAuthor & {
+      totalSignificantWords: number;
+      totalWords: number;
+    }
+  >;
+  groups: Record<
+    string,
+    BaseGroup & {
+      totalSignificantWords: number;
+      totalWords: number;
+    }
+  >;
+};
+
 export type StatsData = {
   writtings: {
     date: string;
@@ -76,6 +93,8 @@ export type WritterStats = {
   portrait: string;
   presences?: Record<string, PresenceItem[]>;
   presencesStats?: Record<string, PresenceStatItem>;
+  totalWords: number;
+  totalSignificantWords: number;
 } & StatsData;
 
 export type Writter = {

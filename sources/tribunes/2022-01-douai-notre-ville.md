@@ -93,7 +93,7 @@ Nous espérons que l’année 2022, qui sera celle d’échéances majeures pour
 
 Nous vous présentons nos meilleurs vœux pour cette année nouvelle, qu’elle soit synonyme de bonheur.
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

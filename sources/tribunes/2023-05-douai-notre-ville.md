@@ -46,7 +46,7 @@ Véritable succès populaire depuis 2005, La Nuit européenne des musées sera l
 
 En effet, un projet engagé dans la démarche Cité éducative transformera le musée en lieu de rencontre artistique avec la danse hip-hop. Décloisonner, rendre accessible sont les maître-mots de la politique culturelle que nous menons.
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

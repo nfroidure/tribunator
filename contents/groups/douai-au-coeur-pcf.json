@@ -5,1221 +5,18 @@
   "partyAbbr": "PCF",
   "type": "Majorité municipale",
   "logo": "pcf.svg",
-  "totalWords": 1559,
-  "writtings": [
-    {
-      "date": "2020-09-01T00:00:00Z",
-      "id": "2020-09-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2020-10-01T00:00:00Z",
-      "id": "2020-10-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2020-11-01T00:00:00Z",
-      "id": "2020-11-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2020-12-01T00:00:00Z",
-      "id": "2020-12-douai-notre-ville-jessy-kaboul"
-    },
-    {
-      "date": "2021-01-01T00:00:00Z",
-      "id": "2021-01-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2021-02-01T00:00:00Z",
-      "id": "2021-02-douai-notre-ville-eric-lemaitre"
-    },
-    {
-      "date": "2021-03-01T00:00:00Z",
-      "id": "2021-03-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2021-04-01T00:00:00Z",
-      "id": "2021-04-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2021-05-01T00:00:00Z",
-      "id": "2021-05-douai-notre-ville-jessy-kaboul"
-    },
-    {
-      "date": "2021-06-01T00:00:00Z",
-      "id": "2021-06-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2021-07-01T00:00:00Z",
-      "id": "2021-07-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2021-09-01T00:00:00Z",
-      "id": "2021-09-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2021-10-01T00:00:00Z",
-      "id": "2021-10-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2021-11-01T00:00:00Z",
-      "id": "2021-11-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2021-12-01T00:00:00Z",
-      "id": "2021-12-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2022-01-01T00:00:00Z",
-      "id": "2022-01-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2022-02-01T00:00:00Z",
-      "id": "2022-02-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2022-03-01T00:00:00Z",
-      "id": "2022-03-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2022-04-01T00:00:00Z",
-      "id": "2022-04-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2022-05-01T00:00:00Z",
-      "id": "2022-05-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2022-06-01T00:00:00Z",
-      "id": "2022-06-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2022-07-01T00:00:00Z",
-      "id": "2022-07-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2022-09-01T00:00:00Z",
-      "id": "2022-09-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2022-10-01T00:00:00Z",
-      "id": "2022-10-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2022-11-01T00:00:00Z",
-      "id": "2022-11-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2022-12-01T00:00:00Z",
-      "id": "2022-12-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2023-01-01T00:00:00Z",
-      "id": "2023-01-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2023-02-01T00:00:00Z",
-      "id": "2023-02-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2023-03-01T00:00:00Z",
-      "id": "2023-03-douai-notre-ville-nora-cherki"
-    },
-    {
-      "date": "2023-04-01T00:00:00Z",
-      "id": "2023-04-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2023-05-01T00:00:00Z",
-      "id": "2023-05-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2023-06-01T00:00:00Z",
-      "id": "2023-06-douai-notre-ville-auriane-ait-lasri"
-    },
-    {
-      "date": "2023-07-01T00:00:00Z",
-      "id": "2023-07-douai-notre-ville-auriane-ait-lasri"
-    }
-  ],
-  "sentences": [
-    {
-      "id": "2020-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-09-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2020-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-10-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2020-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-11-01T00:00:00Z",
-      "count": 6
-    },
-    {
-      "id": "2020-12-douai-notre-ville-jessy-kaboul",
-      "date": "2020-12-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2021-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-01-01T00:00:00Z",
-      "count": 6
-    },
-    {
-      "id": "2021-02-douai-notre-ville-eric-lemaitre",
-      "date": "2021-02-01T00:00:00Z",
-      "count": 7
-    },
-    {
-      "id": "2021-03-douai-notre-ville-nora-cherki",
-      "date": "2021-03-01T00:00:00Z",
-      "count": 4
-    },
-    {
-      "id": "2021-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-04-01T00:00:00Z",
-      "count": 6
-    },
-    {
-      "id": "2021-05-douai-notre-ville-jessy-kaboul",
-      "date": "2021-05-01T00:00:00Z",
-      "count": 7
-    },
-    {
-      "id": "2021-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-06-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2021-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-07-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2021-09-douai-notre-ville-nora-cherki",
-      "date": "2021-09-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2021-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-10-01T00:00:00Z",
-      "count": 2
-    },
-    {
-      "id": "2021-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-11-01T00:00:00Z",
-      "count": 6
-    },
-    {
-      "id": "2021-12-douai-notre-ville-nora-cherki",
-      "date": "2021-12-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2022-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-01-01T00:00:00Z",
-      "count": 4
-    },
-    {
-      "id": "2022-02-douai-notre-ville-nora-cherki",
-      "date": "2022-02-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2022-03-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-03-01T00:00:00Z",
-      "count": 6
-    },
-    {
-      "id": "2022-04-douai-notre-ville-nora-cherki",
-      "date": "2022-04-01T00:00:00Z",
-      "count": 6
-    },
-    {
-      "id": "2022-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-05-01T00:00:00Z",
-      "count": 4
-    },
-    {
-      "id": "2022-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-06-01T00:00:00Z",
-      "count": 4
-    },
-    {
-      "id": "2022-07-douai-notre-ville-nora-cherki",
-      "date": "2022-07-01T00:00:00Z",
-      "count": 2
-    },
-    {
-      "id": "2022-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-09-01T00:00:00Z",
-      "count": 7
-    },
-    {
-      "id": "2022-10-douai-notre-ville-nora-cherki",
-      "date": "2022-10-01T00:00:00Z",
-      "count": 4
-    },
-    {
-      "id": "2022-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-11-01T00:00:00Z",
-      "count": 7
-    },
-    {
-      "id": "2022-12-douai-notre-ville-nora-cherki",
-      "date": "2022-12-01T00:00:00Z",
-      "count": 5
-    },
-    {
-      "id": "2023-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-01-01T00:00:00Z",
-      "count": 4
-    },
-    {
-      "id": "2023-02-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-02-01T00:00:00Z",
-      "count": 6
-    },
-    {
-      "id": "2023-03-douai-notre-ville-nora-cherki",
-      "date": "2023-03-01T00:00:00Z",
-      "count": 3
-    },
-    {
-      "id": "2023-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-04-01T00:00:00Z",
-      "count": 9
-    },
-    {
-      "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-05-01T00:00:00Z",
-      "count": 6
-    },
-    {
-      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-06-01T00:00:00Z",
-      "count": 7
-    },
-    {
-      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-07-01T00:00:00Z",
-      "count": 5
-    }
-  ],
-  "sentiments": [
-    {
-      "id": "2020-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-09-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 4,
-      "negative": 0
-    },
-    {
-      "id": "2020-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-10-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 4,
-      "negative": 1
-    },
-    {
-      "id": "2020-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-11-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 5,
-      "negative": 1
-    },
-    {
-      "id": "2020-12-douai-notre-ville-jessy-kaboul",
-      "date": "2020-12-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 3,
-      "negative": 1
-    },
-    {
-      "id": "2021-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-01-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 6,
-      "negative": 0
-    },
-    {
-      "id": "2021-02-douai-notre-ville-eric-lemaitre",
-      "date": "2021-02-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 7,
-      "negative": 0
-    },
-    {
-      "id": "2021-03-douai-notre-ville-nora-cherki",
-      "date": "2021-03-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 4,
-      "negative": 0
-    },
-    {
-      "id": "2021-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-04-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 6,
-      "negative": 0
-    },
-    {
-      "id": "2021-05-douai-notre-ville-jessy-kaboul",
-      "date": "2021-05-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 7,
-      "negative": 0
-    },
-    {
-      "id": "2021-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-06-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 4,
-      "negative": 1
-    },
-    {
-      "id": "2021-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-07-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 4,
-      "negative": 0
-    },
-    {
-      "id": "2021-09-douai-notre-ville-nora-cherki",
-      "date": "2021-09-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 3,
-      "negative": 1
-    },
-    {
-      "id": "2021-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-10-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 2,
-      "negative": 0
-    },
-    {
-      "id": "2021-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-11-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 4,
-      "negative": 1
-    },
-    {
-      "id": "2021-12-douai-notre-ville-nora-cherki",
-      "date": "2021-12-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 4,
-      "negative": 1
-    },
-    {
-      "id": "2022-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-01-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 3,
-      "negative": 1
-    },
-    {
-      "id": "2022-02-douai-notre-ville-nora-cherki",
-      "date": "2022-02-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 5,
-      "negative": 0
-    },
-    {
-      "id": "2022-03-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-03-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 4,
-      "negative": 1
-    },
-    {
-      "id": "2022-04-douai-notre-ville-nora-cherki",
-      "date": "2022-04-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 5,
-      "negative": 1
-    },
-    {
-      "id": "2022-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-05-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 4,
-      "negative": 0
-    },
-    {
-      "id": "2022-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-06-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 4,
-      "negative": 0
-    },
-    {
-      "id": "2022-07-douai-notre-ville-nora-cherki",
-      "date": "2022-07-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 1,
-      "negative": 0
-    },
-    {
-      "id": "2022-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-09-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 7,
-      "negative": 0
-    },
-    {
-      "id": "2022-10-douai-notre-ville-nora-cherki",
-      "date": "2022-10-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 4,
-      "negative": 0
-    },
-    {
-      "id": "2022-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-11-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 7,
-      "negative": 0
-    },
-    {
-      "id": "2022-12-douai-notre-ville-nora-cherki",
-      "date": "2022-12-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 5,
-      "negative": 0
-    },
-    {
-      "id": "2023-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-01-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 2,
-      "negative": 2
-    },
-    {
-      "id": "2023-02-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-02-01T00:00:00Z",
-      "positive": 2,
-      "neutral": 4,
-      "negative": 0
-    },
-    {
-      "id": "2023-03-douai-notre-ville-nora-cherki",
-      "date": "2023-03-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 2,
-      "negative": 1
-    },
-    {
-      "id": "2023-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-04-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 8,
-      "negative": 1
-    },
-    {
-      "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-05-01T00:00:00Z",
-      "positive": 3,
-      "neutral": 2,
-      "negative": 1
-    },
-    {
-      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-06-01T00:00:00Z",
-      "positive": 1,
-      "neutral": 5,
-      "negative": 1
-    },
-    {
-      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-07-01T00:00:00Z",
-      "positive": 2,
-      "neutral": 3,
-      "negative": 0
-    }
-  ],
-  "exclamations": [
-    {
-      "id": "2020-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-12-douai-notre-ville-jessy-kaboul",
-      "date": "2020-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-02-douai-notre-ville-eric-lemaitre",
-      "date": "2021-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-03-douai-notre-ville-nora-cherki",
-      "date": "2021-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-05-douai-notre-ville-jessy-kaboul",
-      "date": "2021-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-07-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-09-douai-notre-ville-nora-cherki",
-      "date": "2021-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-12-douai-notre-ville-nora-cherki",
-      "date": "2021-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-02-douai-notre-ville-nora-cherki",
-      "date": "2022-02-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2022-03-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-04-douai-notre-ville-nora-cherki",
-      "date": "2022-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-05-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2022-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-07-douai-notre-ville-nora-cherki",
-      "date": "2022-07-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-10-douai-notre-ville-nora-cherki",
-      "date": "2022-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-12-douai-notre-ville-nora-cherki",
-      "date": "2022-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-02-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-03-douai-notre-ville-nora-cherki",
-      "date": "2023-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-05-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-06-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-07-01T00:00:00Z",
-      "count": 0
-    }
-  ],
-  "questions": [
-    {
-      "id": "2020-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-12-douai-notre-ville-jessy-kaboul",
-      "date": "2020-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-02-douai-notre-ville-eric-lemaitre",
-      "date": "2021-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-03-douai-notre-ville-nora-cherki",
-      "date": "2021-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-05-douai-notre-ville-jessy-kaboul",
-      "date": "2021-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-07-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-09-douai-notre-ville-nora-cherki",
-      "date": "2021-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-12-douai-notre-ville-nora-cherki",
-      "date": "2021-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-02-douai-notre-ville-nora-cherki",
-      "date": "2022-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-03-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-04-douai-notre-ville-nora-cherki",
-      "date": "2022-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-07-douai-notre-ville-nora-cherki",
-      "date": "2022-07-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-10-douai-notre-ville-nora-cherki",
-      "date": "2022-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-12-douai-notre-ville-nora-cherki",
-      "date": "2022-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-02-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-03-douai-notre-ville-nora-cherki",
-      "date": "2023-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-07-01T00:00:00Z",
-      "count": 0
-    }
-  ],
-  "bolds": [
-    {
-      "id": "2020-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-12-douai-notre-ville-jessy-kaboul",
-      "date": "2020-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-02-douai-notre-ville-eric-lemaitre",
-      "date": "2021-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-03-douai-notre-ville-nora-cherki",
-      "date": "2021-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-05-douai-notre-ville-jessy-kaboul",
-      "date": "2021-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-07-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-09-douai-notre-ville-nora-cherki",
-      "date": "2021-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-12-douai-notre-ville-nora-cherki",
-      "date": "2021-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-02-douai-notre-ville-nora-cherki",
-      "date": "2022-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-03-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-04-douai-notre-ville-nora-cherki",
-      "date": "2022-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-07-douai-notre-ville-nora-cherki",
-      "date": "2022-07-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-10-douai-notre-ville-nora-cherki",
-      "date": "2022-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-12-douai-notre-ville-nora-cherki",
-      "date": "2022-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-02-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-03-douai-notre-ville-nora-cherki",
-      "date": "2023-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-06-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-07-01T00:00:00Z",
-      "count": 0
-    }
-  ],
-  "caps": [
-    {
-      "id": "2020-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-10-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2020-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2020-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2020-12-douai-notre-ville-jessy-kaboul",
-      "date": "2020-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-01-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2021-02-douai-notre-ville-eric-lemaitre",
-      "date": "2021-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-03-douai-notre-ville-nora-cherki",
-      "date": "2021-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-05-douai-notre-ville-jessy-kaboul",
-      "date": "2021-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-07-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2021-09-douai-notre-ville-nora-cherki",
-      "date": "2021-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-10-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-10-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2021-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2021-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2021-12-douai-notre-ville-nora-cherki",
-      "date": "2021-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-02-douai-notre-ville-nora-cherki",
-      "date": "2022-02-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-03-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-04-douai-notre-ville-nora-cherki",
-      "date": "2022-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-05-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2022-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-06-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2022-07-douai-notre-ville-nora-cherki",
-      "date": "2022-07-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-09-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-09-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-10-douai-notre-ville-nora-cherki",
-      "date": "2022-10-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-11-douai-notre-ville-auriane-ait-lasri",
-      "date": "2022-11-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2022-12-douai-notre-ville-nora-cherki",
-      "date": "2022-12-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-01-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-01-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-02-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-02-01T00:00:00Z",
-      "count": 1
-    },
-    {
-      "id": "2023-03-douai-notre-ville-nora-cherki",
-      "date": "2023-03-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-04-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-04-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-05-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-05-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-06-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-06-01T00:00:00Z",
-      "count": 0
-    },
-    {
-      "id": "2023-07-douai-notre-ville-auriane-ait-lasri",
-      "date": "2023-07-01T00:00:00Z",
-      "count": 1
-    }
-  ],
   "words": [
     {
       "word": "cher",
-      "count": 28
+      "count": 29
     },
     {
       "word": "douaisiens",
-      "count": 21
+      "count": 22
     },
     {
       "word": "public",
-      "count": 20
+      "count": 21
     },
     {
       "word": "année",
@@ -1235,15 +32,15 @@
     },
     {
       "word": "service",
-      "count": 13
+      "count": 14
+    },
+    {
+      "word": "crise",
+      "count": 12
     },
     {
       "word": "grand",
       "count": 12
-    },
-    {
-      "word": "crise",
-      "count": 11
     },
     {
       "word": "sanitaire",
@@ -1266,6 +63,10 @@
       "count": 10
     },
     {
+      "word": "famille",
+      "count": 9
+    },
+    {
       "word": "habitant",
       "count": 9
     },
@@ -1282,7 +83,7 @@
       "count": 8
     },
     {
-      "word": "famille",
+      "word": "doit",
       "count": 8
     },
     {
@@ -1294,30 +95,1264 @@
       "count": 8
     },
     {
-      "word": "doit",
+      "word": "enfant",
+      "count": 8
+    },
+    {
+      "word": "rentrée",
       "count": 7
     },
     {
-      "word": "jour",
+      "word": "souhaiton",
+      "count": 7
+    }
+  ],
+  "writtings": [
+    {
+      "date": "2020-09-01T00:00:00Z",
+      "id": "2020-09-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2020-10-01T00:00:00Z",
+      "id": "2020-10-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2020-11-01T00:00:00Z",
+      "id": "2020-11-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2020-12-01T00:00:00Z",
+      "id": "2020-12-douai-notre-ville-jessy-kaboul"
+    },
+    {
+      "date": "2021-01-01T00:00:00Z",
+      "id": "2021-01-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2021-02-01T00:00:00Z",
+      "id": "2021-02-douai-notre-ville-eric-lemaitre"
+    },
+    {
+      "date": "2021-03-01T00:00:00Z",
+      "id": "2021-03-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2021-04-01T00:00:00Z",
+      "id": "2021-04-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "id": "2021-05-douai-notre-ville-jessy-kaboul"
+    },
+    {
+      "date": "2021-06-01T00:00:00Z",
+      "id": "2021-06-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2021-07-01T00:00:00Z",
+      "id": "2021-07-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2021-09-01T00:00:00Z",
+      "id": "2021-09-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2021-10-01T00:00:00Z",
+      "id": "2021-10-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2021-11-01T00:00:00Z",
+      "id": "2021-11-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2021-12-01T00:00:00Z",
+      "id": "2021-12-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2022-01-01T00:00:00Z",
+      "id": "2022-01-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2022-02-01T00:00:00Z",
+      "id": "2022-02-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2022-03-01T00:00:00Z",
+      "id": "2022-03-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2022-04-01T00:00:00Z",
+      "id": "2022-04-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2022-05-01T00:00:00Z",
+      "id": "2022-05-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2022-06-01T00:00:00Z",
+      "id": "2022-06-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2022-07-01T00:00:00Z",
+      "id": "2022-07-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2022-09-01T00:00:00Z",
+      "id": "2022-09-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2022-10-01T00:00:00Z",
+      "id": "2022-10-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2022-11-01T00:00:00Z",
+      "id": "2022-11-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2022-12-01T00:00:00Z",
+      "id": "2022-12-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2023-01-01T00:00:00Z",
+      "id": "2023-01-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2023-02-01T00:00:00Z",
+      "id": "2023-02-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2023-03-01T00:00:00Z",
+      "id": "2023-03-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2023-04-01T00:00:00Z",
+      "id": "2023-04-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2023-05-01T00:00:00Z",
+      "id": "2023-05-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2023-06-01T00:00:00Z",
+      "id": "2023-06-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2023-07-01T00:00:00Z",
+      "id": "2023-07-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2023-09-01T00:00:00Z",
+      "id": "2023-09-douai-notre-ville-auriane-delbarre"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "2020-09-douai-notre-ville-auriane-delbarre",
+      "date": "2020-09-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2020-10-douai-notre-ville-auriane-delbarre",
+      "date": "2020-10-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2020-11-douai-notre-ville-auriane-delbarre",
+      "date": "2020-11-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
+      "date": "2020-12-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2021-01-douai-notre-ville-auriane-delbarre",
+      "date": "2021-01-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
+      "date": "2021-02-01T00:00:00Z",
       "count": 7
     },
     {
-      "word": "politique",
+      "id": "2021-03-douai-notre-ville-nora-cherki",
+      "date": "2021-03-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "id": "2021-04-douai-notre-ville-auriane-delbarre",
+      "date": "2021-04-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
+      "date": "2021-05-01T00:00:00Z",
       "count": 7
     },
     {
-      "word": "comprendre",
+      "id": "2021-06-douai-notre-ville-auriane-delbarre",
+      "date": "2021-06-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2021-07-douai-notre-ville-auriane-delbarre",
+      "date": "2021-07-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
+      "date": "2021-09-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2021-10-douai-notre-ville-auriane-delbarre",
+      "date": "2021-10-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "id": "2021-11-douai-notre-ville-auriane-delbarre",
+      "date": "2021-11-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
+      "date": "2021-12-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2022-01-douai-notre-ville-auriane-delbarre",
+      "date": "2022-01-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
+      "date": "2022-02-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2022-03-douai-notre-ville-auriane-delbarre",
+      "date": "2022-03-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
+      "date": "2022-04-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2022-05-douai-notre-ville-auriane-delbarre",
+      "date": "2022-05-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "id": "2022-06-douai-notre-ville-auriane-delbarre",
+      "date": "2022-06-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
+      "date": "2022-07-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "id": "2022-09-douai-notre-ville-auriane-delbarre",
+      "date": "2022-09-01T00:00:00Z",
       "count": 7
+    },
+    {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
+      "date": "2022-10-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "id": "2022-11-douai-notre-ville-auriane-delbarre",
+      "date": "2022-11-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
+      "date": "2022-12-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2023-01-douai-notre-ville-auriane-delbarre",
+      "date": "2023-01-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "id": "2023-02-douai-notre-ville-auriane-delbarre",
+      "date": "2023-02-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
+      "date": "2023-03-01T00:00:00Z",
+      "count": 3
+    },
+    {
+      "id": "2023-04-douai-notre-ville-auriane-delbarre",
+      "date": "2023-04-01T00:00:00Z",
+      "count": 9
+    },
+    {
+      "id": "2023-05-douai-notre-ville-auriane-delbarre",
+      "date": "2023-05-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-delbarre",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 7
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-delbarre",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2023-09-douai-notre-ville-auriane-delbarre",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 7
+    }
+  ],
+  "sentiments": [
+    {
+      "id": "2020-09-douai-notre-ville-auriane-delbarre",
+      "date": "2020-09-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2020-10-douai-notre-ville-auriane-delbarre",
+      "date": "2020-10-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "id": "2020-11-douai-notre-ville-auriane-delbarre",
+      "date": "2020-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
+      "date": "2020-12-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "id": "2021-01-douai-notre-ville-auriane-delbarre",
+      "date": "2021-01-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
+      "date": "2021-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
+      "date": "2021-03-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2021-04-douai-notre-ville-auriane-delbarre",
+      "date": "2021-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
+      "date": "2021-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "id": "2021-06-douai-notre-ville-auriane-delbarre",
+      "date": "2021-06-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "id": "2021-07-douai-notre-ville-auriane-delbarre",
+      "date": "2021-07-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
+      "date": "2021-09-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "id": "2021-10-douai-notre-ville-auriane-delbarre",
+      "date": "2021-10-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    {
+      "id": "2021-11-douai-notre-ville-auriane-delbarre",
+      "date": "2021-11-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
+      "date": "2021-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "id": "2022-01-douai-notre-ville-auriane-delbarre",
+      "date": "2022-01-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
+      "date": "2022-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "id": "2022-03-douai-notre-ville-auriane-delbarre",
+      "date": "2022-03-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
+      "date": "2022-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    {
+      "id": "2022-05-douai-notre-ville-auriane-delbarre",
+      "date": "2022-05-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2022-06-douai-notre-ville-auriane-delbarre",
+      "date": "2022-06-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
+      "date": "2022-07-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    {
+      "id": "2022-09-douai-notre-ville-auriane-delbarre",
+      "date": "2022-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
+      "date": "2022-10-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2022-11-douai-notre-ville-auriane-delbarre",
+      "date": "2022-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
+      "date": "2022-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    {
+      "id": "2023-01-douai-notre-ville-auriane-delbarre",
+      "date": "2023-01-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 2,
+      "negative": 2
+    },
+    {
+      "id": "2023-02-douai-notre-ville-auriane-delbarre",
+      "date": "2023-02-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
+      "date": "2023-03-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    {
+      "id": "2023-04-douai-notre-ville-auriane-delbarre",
+      "date": "2023-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    {
+      "id": "2023-05-douai-notre-ville-auriane-delbarre",
+      "date": "2023-05-01T00:00:00Z",
+      "positive": 3,
+      "neutral": 2,
+      "negative": 1
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-delbarre",
+      "date": "2023-06-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-delbarre",
+      "date": "2023-07-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-auriane-delbarre",
+      "date": "2023-09-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    }
+  ],
+  "exclamations": [
+    {
+      "id": "2020-09-douai-notre-ville-auriane-delbarre",
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-10-douai-notre-ville-auriane-delbarre",
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-11-douai-notre-ville-auriane-delbarre",
+      "date": "2020-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
+      "date": "2020-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-01-douai-notre-ville-auriane-delbarre",
+      "date": "2021-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-04-douai-notre-ville-auriane-delbarre",
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
+      "date": "2021-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-06-douai-notre-ville-auriane-delbarre",
+      "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-07-douai-notre-ville-auriane-delbarre",
+      "date": "2021-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-10-douai-notre-ville-auriane-delbarre",
+      "date": "2021-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-11-douai-notre-ville-auriane-delbarre",
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
+      "date": "2021-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-01-douai-notre-ville-auriane-delbarre",
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
+      "date": "2022-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2022-03-douai-notre-ville-auriane-delbarre",
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-05-douai-notre-ville-auriane-delbarre",
+      "date": "2022-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2022-06-douai-notre-ville-auriane-delbarre",
+      "date": "2022-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
+      "date": "2022-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-09-douai-notre-ville-auriane-delbarre",
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-11-douai-notre-ville-auriane-delbarre",
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-01-douai-notre-ville-auriane-delbarre",
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-02-douai-notre-ville-auriane-delbarre",
+      "date": "2023-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-04-douai-notre-ville-auriane-delbarre",
+      "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-05-douai-notre-ville-auriane-delbarre",
+      "date": "2023-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-delbarre",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-delbarre",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-auriane-delbarre",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "questions": [
+    {
+      "id": "2020-09-douai-notre-ville-auriane-delbarre",
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-10-douai-notre-ville-auriane-delbarre",
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-11-douai-notre-ville-auriane-delbarre",
+      "date": "2020-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
+      "date": "2020-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-01-douai-notre-ville-auriane-delbarre",
+      "date": "2021-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-04-douai-notre-ville-auriane-delbarre",
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
+      "date": "2021-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-06-douai-notre-ville-auriane-delbarre",
+      "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-07-douai-notre-ville-auriane-delbarre",
+      "date": "2021-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-10-douai-notre-ville-auriane-delbarre",
+      "date": "2021-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-11-douai-notre-ville-auriane-delbarre",
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
+      "date": "2021-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-01-douai-notre-ville-auriane-delbarre",
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
+      "date": "2022-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-03-douai-notre-ville-auriane-delbarre",
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-05-douai-notre-ville-auriane-delbarre",
+      "date": "2022-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-06-douai-notre-ville-auriane-delbarre",
+      "date": "2022-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
+      "date": "2022-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-09-douai-notre-ville-auriane-delbarre",
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-11-douai-notre-ville-auriane-delbarre",
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-01-douai-notre-ville-auriane-delbarre",
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-02-douai-notre-ville-auriane-delbarre",
+      "date": "2023-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-04-douai-notre-ville-auriane-delbarre",
+      "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-05-douai-notre-ville-auriane-delbarre",
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-delbarre",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-delbarre",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-auriane-delbarre",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "bolds": [
+    {
+      "id": "2020-09-douai-notre-ville-auriane-delbarre",
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-10-douai-notre-ville-auriane-delbarre",
+      "date": "2020-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-11-douai-notre-ville-auriane-delbarre",
+      "date": "2020-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
+      "date": "2020-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-01-douai-notre-ville-auriane-delbarre",
+      "date": "2021-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-04-douai-notre-ville-auriane-delbarre",
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
+      "date": "2021-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-06-douai-notre-ville-auriane-delbarre",
+      "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-07-douai-notre-ville-auriane-delbarre",
+      "date": "2021-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-10-douai-notre-ville-auriane-delbarre",
+      "date": "2021-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-11-douai-notre-ville-auriane-delbarre",
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
+      "date": "2021-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-01-douai-notre-ville-auriane-delbarre",
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
+      "date": "2022-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-03-douai-notre-ville-auriane-delbarre",
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-05-douai-notre-ville-auriane-delbarre",
+      "date": "2022-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-06-douai-notre-ville-auriane-delbarre",
+      "date": "2022-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
+      "date": "2022-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-09-douai-notre-ville-auriane-delbarre",
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-11-douai-notre-ville-auriane-delbarre",
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-01-douai-notre-ville-auriane-delbarre",
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-02-douai-notre-ville-auriane-delbarre",
+      "date": "2023-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-04-douai-notre-ville-auriane-delbarre",
+      "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-05-douai-notre-ville-auriane-delbarre",
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-delbarre",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-delbarre",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-09-douai-notre-ville-auriane-delbarre",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
+    }
+  ],
+  "caps": [
+    {
+      "id": "2020-09-douai-notre-ville-auriane-delbarre",
+      "date": "2020-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-10-douai-notre-ville-auriane-delbarre",
+      "date": "2020-10-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2020-11-douai-notre-ville-auriane-delbarre",
+      "date": "2020-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2020-12-douai-notre-ville-jessy-kaboul",
+      "date": "2020-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-01-douai-notre-ville-auriane-delbarre",
+      "date": "2021-01-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2021-02-douai-notre-ville-eric-lemaitre",
+      "date": "2021-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-03-douai-notre-ville-nora-cherki",
+      "date": "2021-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-04-douai-notre-ville-auriane-delbarre",
+      "date": "2021-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-05-douai-notre-ville-jessy-kaboul",
+      "date": "2021-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-06-douai-notre-ville-auriane-delbarre",
+      "date": "2021-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-07-douai-notre-ville-auriane-delbarre",
+      "date": "2021-07-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2021-09-douai-notre-ville-nora-cherki",
+      "date": "2021-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-10-douai-notre-ville-auriane-delbarre",
+      "date": "2021-10-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2021-11-douai-notre-ville-auriane-delbarre",
+      "date": "2021-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2021-12-douai-notre-ville-nora-cherki",
+      "date": "2021-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-01-douai-notre-ville-auriane-delbarre",
+      "date": "2022-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-02-douai-notre-ville-nora-cherki",
+      "date": "2022-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-03-douai-notre-ville-auriane-delbarre",
+      "date": "2022-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-04-douai-notre-ville-nora-cherki",
+      "date": "2022-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-05-douai-notre-ville-auriane-delbarre",
+      "date": "2022-05-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2022-06-douai-notre-ville-auriane-delbarre",
+      "date": "2022-06-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2022-07-douai-notre-ville-nora-cherki",
+      "date": "2022-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-09-douai-notre-ville-auriane-delbarre",
+      "date": "2022-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-10-douai-notre-ville-nora-cherki",
+      "date": "2022-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-11-douai-notre-ville-auriane-delbarre",
+      "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2022-12-douai-notre-ville-nora-cherki",
+      "date": "2022-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-01-douai-notre-ville-auriane-delbarre",
+      "date": "2023-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-02-douai-notre-ville-auriane-delbarre",
+      "date": "2023-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2023-03-douai-notre-ville-nora-cherki",
+      "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-04-douai-notre-ville-auriane-delbarre",
+      "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-05-douai-notre-ville-auriane-delbarre",
+      "date": "2023-05-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-06-douai-notre-ville-auriane-delbarre",
+      "date": "2023-06-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-07-douai-notre-ville-auriane-delbarre",
+      "date": "2023-07-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2023-09-douai-notre-ville-auriane-delbarre",
+      "date": "2023-09-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
     {
-      "id": "auriane-ait-lasri",
-      "name": "Auriane AIT LASRI",
+      "id": "auriane-delbarre",
+      "name": "Auriane DELBARRE",
       "mandates": [
         "Adjointe au maire"
       ],
-      "portrait": "auriane-ait-lasri.jpg"
+      "portrait": "auriane-delbarre.jpg"
     },
     {
       "id": "jessy-kaboul",
@@ -1346,16 +1381,18 @@
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 1613,
+  "totalSignificantWords": 805,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 173,
-        "total": 33
+        "count": 180,
+        "total": 34
       },
       "min": {
         "value": 2,
         "ids": [
-          "2021-10-douai-notre-ville-auriane-ait-lasri",
+          "2021-10-douai-notre-ville-auriane-delbarre",
           "2022-07-douai-notre-ville-nora-cherki"
         ],
         "restLength": 0
@@ -1363,7 +1400,7 @@
       "max": {
         "value": 9,
         "ids": [
-          "2023-04-douai-notre-ville-auriane-ait-lasri"
+          "2023-04-douai-notre-ville-auriane-delbarre"
         ],
         "restLength": 0
       }
@@ -1371,26 +1408,26 @@
     "exclamations": {
       "mean": {
         "count": 4,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
         "ids": [
-          "2020-09-douai-notre-ville-auriane-ait-lasri",
-          "2020-10-douai-notre-ville-auriane-ait-lasri",
-          "2020-11-douai-notre-ville-auriane-ait-lasri",
+          "2020-09-douai-notre-ville-auriane-delbarre",
+          "2020-10-douai-notre-ville-auriane-delbarre",
+          "2020-11-douai-notre-ville-auriane-delbarre",
           "2020-12-douai-notre-ville-jessy-kaboul",
-          "2021-01-douai-notre-ville-auriane-ait-lasri"
+          "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 24
+        "restLength": 25
       },
       "max": {
         "value": 1,
         "ids": [
           "2022-02-douai-notre-ville-nora-cherki",
-          "2022-05-douai-notre-ville-auriane-ait-lasri",
-          "2023-05-douai-notre-ville-auriane-ait-lasri",
-          "2023-06-douai-notre-ville-auriane-ait-lasri"
+          "2022-05-douai-notre-ville-auriane-delbarre",
+          "2023-05-douai-notre-ville-auriane-delbarre",
+          "2023-06-douai-notre-ville-auriane-delbarre"
         ],
         "restLength": 0
       }
@@ -1398,51 +1435,51 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
         "ids": [
-          "2020-09-douai-notre-ville-auriane-ait-lasri",
-          "2020-10-douai-notre-ville-auriane-ait-lasri",
-          "2020-11-douai-notre-ville-auriane-ait-lasri",
+          "2020-09-douai-notre-ville-auriane-delbarre",
+          "2020-10-douai-notre-ville-auriane-delbarre",
+          "2020-11-douai-notre-ville-auriane-delbarre",
           "2020-12-douai-notre-ville-jessy-kaboul",
-          "2021-01-douai-notre-ville-auriane-ait-lasri"
+          "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 28
+        "restLength": 29
       },
       "max": {
         "value": 0,
         "ids": [
-          "2020-09-douai-notre-ville-auriane-ait-lasri",
-          "2020-10-douai-notre-ville-auriane-ait-lasri",
-          "2020-11-douai-notre-ville-auriane-ait-lasri",
+          "2020-09-douai-notre-ville-auriane-delbarre",
+          "2020-10-douai-notre-ville-auriane-delbarre",
+          "2020-11-douai-notre-ville-auriane-delbarre",
           "2020-12-douai-notre-ville-jessy-kaboul",
-          "2021-01-douai-notre-ville-auriane-ait-lasri"
+          "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 28
+        "restLength": 29
       }
     },
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
         "ids": [
-          "2020-09-douai-notre-ville-auriane-ait-lasri",
-          "2020-10-douai-notre-ville-auriane-ait-lasri",
-          "2020-11-douai-notre-ville-auriane-ait-lasri",
+          "2020-09-douai-notre-ville-auriane-delbarre",
+          "2020-10-douai-notre-ville-auriane-delbarre",
+          "2020-11-douai-notre-ville-auriane-delbarre",
           "2020-12-douai-notre-ville-jessy-kaboul",
-          "2021-01-douai-notre-ville-auriane-ait-lasri"
+          "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 27
+        "restLength": 28
       },
       "max": {
         "value": 1,
         "ids": [
-          "2023-06-douai-notre-ville-auriane-ait-lasri"
+          "2023-06-douai-notre-ville-auriane-delbarre"
         ],
         "restLength": 0
       }
@@ -1450,27 +1487,27 @@
     "caps": {
       "mean": {
         "count": 8,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
         "ids": [
-          "2020-09-douai-notre-ville-auriane-ait-lasri",
-          "2020-11-douai-notre-ville-auriane-ait-lasri",
+          "2020-09-douai-notre-ville-auriane-delbarre",
+          "2020-11-douai-notre-ville-auriane-delbarre",
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-02-douai-notre-ville-eric-lemaitre",
           "2021-03-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 20
+        "restLength": 21
       },
       "max": {
         "value": 1,
         "ids": [
-          "2020-10-douai-notre-ville-auriane-ait-lasri",
-          "2021-01-douai-notre-ville-auriane-ait-lasri",
-          "2021-07-douai-notre-ville-auriane-ait-lasri",
-          "2021-10-douai-notre-ville-auriane-ait-lasri",
-          "2022-05-douai-notre-ville-auriane-ait-lasri"
+          "2020-10-douai-notre-ville-auriane-delbarre",
+          "2021-01-douai-notre-ville-auriane-delbarre",
+          "2021-07-douai-notre-ville-auriane-delbarre",
+          "2021-10-douai-notre-ville-auriane-delbarre",
+          "2022-05-douai-notre-ville-auriane-delbarre"
         ],
         "restLength": 3
       }
@@ -1479,31 +1516,31 @@
       "positive": {
         "mean": {
           "count": 15,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
           "ids": [
-            "2020-10-douai-notre-ville-auriane-ait-lasri",
-            "2020-11-douai-notre-ville-auriane-ait-lasri",
-            "2021-01-douai-notre-ville-auriane-ait-lasri",
+            "2020-10-douai-notre-ville-auriane-delbarre",
+            "2020-11-douai-notre-ville-auriane-delbarre",
+            "2021-01-douai-notre-ville-auriane-delbarre",
             "2021-02-douai-notre-ville-eric-lemaitre",
             "2021-03-douai-notre-ville-nora-cherki"
           ],
-          "restLength": 17
+          "restLength": 18
         },
         "max": {
           "value": 3,
           "ids": [
-            "2023-05-douai-notre-ville-auriane-ait-lasri"
+            "2023-05-douai-notre-ville-auriane-delbarre"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 142,
-          "total": 33
+          "count": 149,
+          "total": 34
         },
         "min": {
           "value": 1,
@@ -1515,7 +1552,7 @@
         "max": {
           "value": 8,
           "ids": [
-            "2023-04-douai-notre-ville-auriane-ait-lasri"
+            "2023-04-douai-notre-ville-auriane-delbarre"
           ],
           "restLength": 0
         }
@@ -1523,23 +1560,23 @@
       "negative": {
         "mean": {
           "count": 16,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
           "ids": [
-            "2020-09-douai-notre-ville-auriane-ait-lasri",
-            "2021-01-douai-notre-ville-auriane-ait-lasri",
+            "2020-09-douai-notre-ville-auriane-delbarre",
+            "2021-01-douai-notre-ville-auriane-delbarre",
             "2021-02-douai-notre-ville-eric-lemaitre",
             "2021-03-douai-notre-ville-nora-cherki",
-            "2021-04-douai-notre-ville-auriane-ait-lasri"
+            "2021-04-douai-notre-ville-auriane-delbarre"
           ],
-          "restLength": 13
+          "restLength": 14
         },
         "max": {
           "value": 2,
           "ids": [
-            "2023-01-douai-notre-ville-auriane-ait-lasri"
+            "2023-01-douai-notre-ville-auriane-delbarre"
           ],
           "restLength": 0
         }

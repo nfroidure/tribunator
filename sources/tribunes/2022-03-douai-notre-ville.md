@@ -34,8 +34,7 @@ Conseillère municipale
 Élus d’opposition : Douai dynamique et durable
 
 **Contrat de sécurité intégré : la municipalité Douaisienne n’est pas à la hauteur des enjeux !**
-Récemment, la majorité a confirmé son manque d’ambition en matière de sécurité. Alors que l’État vient de déployer des moyens importants, avec notamment 26 policiers nationaux supplémen-
-taires, le Maire de Douai ne prévoit que le minimum en matière d’investissements, humain et matériel. Quand Arras et Valenciennes auront respectivement 40 et 60 agents de police municipale dans leurs effectifs, Douai en comptera presque 4 fois moins ! Quand Cuincy, et prochainement Sin-le-Noble, auront une police municipale armée, la majorité Douaisienne s’entête et refuse de poser ce débat sur la table. Nous regrettons que votre sécurité ne soit pas leur priorité.
+Récemment, la majorité a confirmé son manque d’ambition en matière de sécurité. Alors que l’État vient de déployer des moyens importants, avec notamment 26 policiers nationaux supplémentaires, le Maire de Douai ne prévoit que le minimum en matière d’investissements, humain et matériel. Quand Arras et Valenciennes auront respectivement 40 et 60 agents de police municipale dans leurs effectifs, Douai en comptera presque 4 fois moins ! Quand Cuincy, et prochainement Sin-le-Noble, auront une police municipale armée, la majorité Douaisienne s’entête et refuse de poser ce débat sur la table. Nous regrettons que votre sécurité ne soit pas leur priorité.
 
 Coline CRAEYE
 Conseillère municipale d’opposition
@@ -75,7 +74,7 @@ Les 10 et 24 avril 2022 aura lieu l’élection présidentielle. Beaucoup d’en
 
 Nous vous invitons à vous inscrire en ligne ou au service des élections à l’hôtel de ville au plus tard le 4 mars. En attendant des jours heureux, nous continuerons de défendre l’intérêt des Douaisiennes et des Douaisiens et les services publics, notamment les services de santé. L’hôpital public est en souffrance et la seule réponse à cette crise doit être sanitaire et ne pas devenir un objet politique.
 
-Auriane AIT LASRI
+Auriane DELBARRE
 Adjointe au maire
 
 ---

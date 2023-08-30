@@ -1,5 +1,5 @@
 {
-  "totalWords": 736,
+  "id": "jacques-vernier",
   "writtings": [
     {
       "date": "2012-01-01T00:00:00Z",
@@ -176,9 +176,9 @@
     {
       "id": "2012-07-douai-notre-ville-jacques-vernier",
       "date": "2012-07-01T00:00:00Z",
-      "positive": 0,
-      "neutral": 7,
-      "negative": 1
+      "positive": 2,
+      "neutral": 6,
+      "negative": 0
     },
     {
       "id": "2012-09-douai-notre-ville-jacques-vernier",
@@ -616,7 +616,7 @@
       "count": 4
     },
     {
-      "word": "jour",
+      "word": "insalubre",
       "count": 4
     }
   ],
@@ -632,12 +632,14 @@
       "name": "Jacques Vernier",
       "type": "Majorité municipale",
       "party": "Union pour un Mouvement Populaire",
-      "abbr": "UMP",
+      "partyAbbr": "UMP",
       "logo": "default.svg"
     }
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 734,
+  "totalSignificantWords": 426,
   "summary": {
     "sentences": {
       "mean": {
@@ -763,7 +765,7 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 5,
+          "count": 7,
           "total": 14
         },
         "min": {
@@ -775,23 +777,19 @@
             "2012-05-douai-notre-ville-jacques-vernier",
             "2012-06-douai-notre-ville-jacques-vernier"
           ],
-          "restLength": 4
+          "restLength": 3
         },
         "max": {
-          "value": 1,
+          "value": 2,
           "ids": [
-            "2012-03-douai-notre-ville-jacques-vernier",
-            "2012-09-douai-notre-ville-jacques-vernier",
-            "2012-10-douai-notre-ville-jacques-vernier",
-            "2012-12-douai-notre-ville-jacques-vernier",
-            "2013-03-douai-notre-ville-jacques-vernier"
+            "2012-07-douai-notre-ville-jacques-vernier"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 107,
+          "count": 106,
           "total": 14
         },
         "min": {
@@ -813,7 +811,7 @@
       },
       "negative": {
         "mean": {
-          "count": 8,
+          "count": 7,
           "total": 14
         },
         "min": {
@@ -822,10 +820,10 @@
             "2012-02-douai-notre-ville-jacques-vernier",
             "2012-03-douai-notre-ville-jacques-vernier",
             "2012-05-douai-notre-ville-jacques-vernier",
-            "2012-10-douai-notre-ville-jacques-vernier",
-            "2012-11-douai-notre-ville-jacques-vernier"
+            "2012-07-douai-notre-ville-jacques-vernier",
+            "2012-10-douai-notre-ville-jacques-vernier"
           ],
-          "restLength": 3
+          "restLength": 4
         },
         "max": {
           "value": 2,

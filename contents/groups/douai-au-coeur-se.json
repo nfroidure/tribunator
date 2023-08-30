@@ -5,7 +5,108 @@
   "partyAbbr": "SE",
   "type": "Majorité municipale",
   "logo": "douai-au-coeur.svg",
-  "totalWords": 1343,
+  "words": [
+    {
+      "word": "ville",
+      "count": 19
+    },
+    {
+      "word": "année",
+      "count": 16
+    },
+    {
+      "word": "faire",
+      "count": 13
+    },
+    {
+      "word": "association",
+      "count": 11
+    },
+    {
+      "word": "femme",
+      "count": 11
+    },
+    {
+      "word": "enfant",
+      "count": 9
+    },
+    {
+      "word": "autre",
+      "count": 9
+    },
+    {
+      "word": "école",
+      "count": 8
+    },
+    {
+      "word": "rendre",
+      "count": 8
+    },
+    {
+      "word": "avoir",
+      "count": 8
+    },
+    {
+      "word": "nouveau",
+      "count": 8
+    },
+    {
+      "word": "travail",
+      "count": 8
+    },
+    {
+      "word": "place",
+      "count": 7
+    },
+    {
+      "word": "service",
+      "count": 7
+    },
+    {
+      "word": "conseil",
+      "count": 7
+    },
+    {
+      "word": "fête",
+      "count": 7
+    },
+    {
+      "word": "quartier",
+      "count": 7
+    },
+    {
+      "word": "habitant",
+      "count": 7
+    },
+    {
+      "word": "proposer",
+      "count": 6
+    },
+    {
+      "word": "pouvoir",
+      "count": 6
+    },
+    {
+      "word": "municipal",
+      "count": 6
+    },
+    {
+      "word": "famille",
+      "count": 6
+    },
+    {
+      "word": "projet",
+      "count": 5
+    },
+    {
+      "word": "cadre",
+      "count": 5
+    },
+    {
+      "word": "aller",
+      "count": 5
+    }
+  ],
   "writtings": [
     {
       "date": "2020-10-01T00:00:00Z",
@@ -1028,108 +1129,6 @@
       "count": 0
     }
   ],
-  "words": [
-    {
-      "word": "ville",
-      "count": 19
-    },
-    {
-      "word": "année",
-      "count": 16
-    },
-    {
-      "word": "faire",
-      "count": 13
-    },
-    {
-      "word": "association",
-      "count": 11
-    },
-    {
-      "word": "femme",
-      "count": 11
-    },
-    {
-      "word": "enfant",
-      "count": 9
-    },
-    {
-      "word": "autre",
-      "count": 9
-    },
-    {
-      "word": "école",
-      "count": 8
-    },
-    {
-      "word": "rendre",
-      "count": 8
-    },
-    {
-      "word": "avoir",
-      "count": 8
-    },
-    {
-      "word": "nouveau",
-      "count": 8
-    },
-    {
-      "word": "travail",
-      "count": 8
-    },
-    {
-      "word": "place",
-      "count": 7
-    },
-    {
-      "word": "service",
-      "count": 7
-    },
-    {
-      "word": "conseil",
-      "count": 7
-    },
-    {
-      "word": "fête",
-      "count": 7
-    },
-    {
-      "word": "quartier",
-      "count": 7
-    },
-    {
-      "word": "habitant",
-      "count": 7
-    },
-    {
-      "word": "proposer",
-      "count": 6
-    },
-    {
-      "word": "pouvoir",
-      "count": 6
-    },
-    {
-      "word": "municipal",
-      "count": 6
-    },
-    {
-      "word": "famille",
-      "count": 6
-    },
-    {
-      "word": "projet",
-      "count": 5
-    },
-    {
-      "word": "cadre",
-      "count": 5
-    },
-    {
-      "word": "aller",
-      "count": 5
-    }
-  ],
   "authors": [
     {
       "id": "anne-sophie-audegond",
@@ -1262,6 +1261,8 @@
   ],
   "locality": "Douai",
   "country": "France",
+  "totalWords": 1342,
+  "totalSignificantWords": 797,
   "summary": {
     "sentences": {
       "mean": {
