@@ -34,7 +34,7 @@ Certes, comme ailleurs, les galeries quittent les villes, zones commerciales et 
 
 Vivons Douai en Enfants de Gayant pour la faire rayonner autour de nous et dans nos cœurs.
 
-Nadia BONY,
+Nadia BONY
 Conseillère municipale
 
 ---
@@ -76,7 +76,7 @@ Alors que nous clôturons cette année scolaire, je tiens à adresser mes félic
 
 Je vous souhaite à tous de merveilleuses vacances et encore félicitations pour vos résultats.
 
-Thibaut FRANCOIS,
+Thibaut FRANÇOIS
 Conseiller municipal d’opposition
 
 ---
@@ -89,7 +89,7 @@ Le sport c’est avant tout de l'humain, des valeurs, du lien social pour nos en
 Nous avons donc proposé une politique de "bonus" qui viendrait récompenser les clubs plutôt que de les pénaliser.
 Une proposition rejetée par la majorité.
 
-Coline CRAEYE,
+Coline CRAEYE
 Conseillère municipale d’opposition
 
 ---

@@ -2,7 +2,7 @@
 id: "2023-07-douai-notre-ville-nadia-bony"
 authors:
 - id: "nadia-bony"
-  name: "Nadia BONY,"
+  name: "Nadia BONY"
   mandates: 
   - "Conseillère municipale"
   portrait: "nadia-bony.jpg"

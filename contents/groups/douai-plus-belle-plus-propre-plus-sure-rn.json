@@ -8,7 +8,7 @@
   "words": [
     {
       "word": "ville",
-      "count": 32
+      "count": 35
     },
     {
       "word": "douaisiens",
@@ -16,11 +16,15 @@
     },
     {
       "word": "année",
-      "count": 22
+      "count": 24
     },
     {
       "word": "socialiste",
-      "count": 20
+      "count": 23
+    },
+    {
+      "word": "maire",
+      "count": 21
     },
     {
       "word": "commerçant",
@@ -29,10 +33,6 @@
     {
       "word": "cher",
       "count": 19
-    },
-    {
-      "word": "maire",
-      "count": 18
     },
     {
       "word": "aller",
@@ -47,11 +47,11 @@
       "count": 12
     },
     {
-      "word": "pouvoir",
-      "count": 11
+      "word": "souhaiter",
+      "count": 12
     },
     {
-      "word": "souhaiter",
+      "word": "pouvoir",
       "count": 11
     },
     {
@@ -63,27 +63,39 @@
       "count": 10
     },
     {
+      "word": "mairie",
+      "count": 10
+    },
+    {
+      "word": "habitant",
+      "count": 10
+    },
+    {
+      "word": "devoir",
+      "count": 9
+    },
+    {
       "word": "fermeture",
       "count": 9
     },
     {
-      "word": "mairie",
-      "count": 9
+      "word": "famille",
+      "count": 8
+    },
+    {
+      "word": "fête",
+      "count": 8
     },
     {
       "word": "politique",
       "count": 8
     },
     {
-      "word": "habitant",
-      "count": 8
-    },
-    {
-      "word": "devoir",
+      "word": "municipal",
       "count": 7
     },
     {
-      "word": "famille",
+      "word": "élève",
       "count": 7
     },
     {
@@ -91,19 +103,7 @@
       "count": 7
     },
     {
-      "word": "fête",
-      "count": 7
-    },
-    {
       "word": "français",
-      "count": 7
-    },
-    {
-      "word": "insécurité",
-      "count": 7
-    },
-    {
-      "word": "mauvais",
       "count": 7
     }
   ],
@@ -243,6 +243,18 @@
     {
       "date": "2023-09-01T00:00:00Z",
       "id": "2023-09-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2023-10-01T00:00:00Z",
+      "id": "2023-10-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2023-11-01T00:00:00Z",
+      "id": "2023-11-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2023-12-01T00:00:00Z",
+      "id": "2023-12-douai-notre-ville-thibaut-francois"
     }
   ],
   "sentences": [
@@ -414,6 +426,21 @@
     {
       "id": "2023-09-douai-notre-ville-thibaut-francois",
       "date": "2023-09-01T00:00:00Z",
+      "count": 4
+    },
+    {
+      "id": "2023-10-douai-notre-ville-coline-craeye",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 12
+    },
+    {
+      "id": "2023-11-douai-notre-ville-thibaut-francois",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2023-12-douai-notre-ville-thibaut-francois",
+      "date": "2023-12-01T00:00:00Z",
       "count": 4
     }
   ],
@@ -655,6 +682,27 @@
       "positive": 0,
       "neutral": 4,
       "negative": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-coline-craeye",
+      "date": "2023-10-01T00:00:00Z",
+      "positive": 3,
+      "neutral": 8,
+      "negative": 1
+    },
+    {
+      "id": "2023-11-douai-notre-ville-thibaut-francois",
+      "date": "2023-11-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-thibaut-francois",
+      "date": "2023-12-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -827,6 +875,21 @@
       "id": "2023-09-douai-notre-ville-thibaut-francois",
       "date": "2023-09-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-coline-craeye",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "id": "2023-11-douai-notre-ville-thibaut-francois",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-thibaut-francois",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 2
     }
   ],
   "questions": [
@@ -998,6 +1061,21 @@
     {
       "id": "2023-09-douai-notre-ville-thibaut-francois",
       "date": "2023-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-coline-craeye",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-thibaut-francois",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-thibaut-francois",
+      "date": "2023-12-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1171,6 +1249,21 @@
       "id": "2023-09-douai-notre-ville-thibaut-francois",
       "date": "2023-09-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-coline-craeye",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 2
+    },
+    {
+      "id": "2023-11-douai-notre-ville-thibaut-francois",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-thibaut-francois",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -1343,9 +1436,32 @@
       "id": "2023-09-douai-notre-ville-thibaut-francois",
       "date": "2023-09-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-coline-craeye",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-thibaut-francois",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-thibaut-francois",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
+    {
+      "id": "coline-craeye",
+      "name": "Coline CRAEYE",
+      "mandates": [
+        "Conseillère municipale d’opposition"
+      ],
+      "portrait": "coline-craeye.jpg"
+    },
     {
       "id": "guy-cannie",
       "name": "Guy CANNIE",
@@ -1353,22 +1469,6 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "guy-cannie.jpg"
-    },
-    {
-      "id": "thibaut-francois",
-      "name": "Thibaut FRANCOIS",
-      "mandates": [
-        "Conseiller municipal d’opposition"
-      ],
-      "portrait": "thibaut-francois.jpg"
-    },
-    {
-      "id": "thibaut-francois",
-      "name": "Thibaut FRANCOIS,",
-      "mandates": [
-        "Conseiller municipal d’opposition"
-      ],
-      "portrait": "thibaut-francois.jpg"
     },
     {
       "id": "thibaut-francois",
@@ -1381,13 +1481,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1487,
-  "totalSignificantWords": 750,
+  "totalWords": 1679,
+  "totalSignificantWords": 846,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 188,
-        "total": 34
+        "count": 209,
+        "total": 37
       },
       "min": {
         "value": 3,
@@ -1397,19 +1497,17 @@
         "restLength": 0
       },
       "max": {
-        "value": 8,
+        "value": 12,
         "ids": [
-          "2020-12-douai-notre-ville-thibaut-francois",
-          "2021-02-douai-notre-ville-thibaut-francois",
-          "2021-04-douai-notre-ville-thibaut-francois"
+          "2023-10-douai-notre-ville-coline-craeye"
         ],
         "restLength": 0
       }
     },
     "exclamations": {
       "mean": {
-        "count": 84,
-        "total": 34
+        "count": 88,
+        "total": 37
       },
       "min": {
         "value": 0,
@@ -1420,7 +1518,7 @@
           "2022-02-douai-notre-ville-guy-cannie",
           "2022-09-douai-notre-ville-thibaut-francois"
         ],
-        "restLength": 9
+        "restLength": 10
       },
       "max": {
         "value": 8,
@@ -1434,7 +1532,7 @@
     "questions": {
       "mean": {
         "count": 3,
-        "total": 34
+        "total": 37
       },
       "min": {
         "value": 0,
@@ -1445,7 +1543,7 @@
           "2021-01-douai-notre-ville-guy-cannie",
           "2021-02-douai-notre-ville-thibaut-francois"
         ],
-        "restLength": 26
+        "restLength": 29
       },
       "max": {
         "value": 1,
@@ -1459,8 +1557,8 @@
     },
     "bolds": {
       "mean": {
-        "count": 13,
-        "total": 34
+        "count": 15,
+        "total": 37
       },
       "min": {
         "value": 0,
@@ -1471,24 +1569,20 @@
           "2021-12-douai-notre-ville-thibaut-francois",
           "2022-03-douai-notre-ville-thibaut-francois"
         ],
-        "restLength": 16
+        "restLength": 18
       },
       "max": {
-        "value": 1,
+        "value": 2,
         "ids": [
-          "2020-10-douai-notre-ville-thibaut-francois",
-          "2020-12-douai-notre-ville-thibaut-francois",
-          "2021-01-douai-notre-ville-guy-cannie",
-          "2021-02-douai-notre-ville-thibaut-francois",
-          "2021-03-douai-notre-ville-thibaut-francois"
+          "2023-10-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 8
+        "restLength": 0
       }
     },
     "caps": {
       "mean": {
         "count": 8,
-        "total": 34
+        "total": 37
       },
       "min": {
         "value": 0,
@@ -1499,7 +1593,7 @@
           "2021-02-douai-notre-ville-thibaut-francois",
           "2021-03-douai-notre-ville-thibaut-francois"
         ],
-        "restLength": 25
+        "restLength": 28
       },
       "max": {
         "value": 4,
@@ -1512,8 +1606,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 11,
-          "total": 34
+          "count": 16,
+          "total": 37
         },
         "min": {
           "value": 0,
@@ -1527,19 +1621,17 @@
           "restLength": 21
         },
         "max": {
-          "value": 2,
+          "value": 3,
           "ids": [
-            "2021-03-douai-notre-ville-thibaut-francois",
-            "2022-07-douai-notre-ville-thibaut-francois",
-            "2023-03-douai-notre-ville-thibaut-francois"
+            "2023-10-douai-notre-ville-coline-craeye"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 156,
-          "total": 34
+          "count": 171,
+          "total": 37
         },
         "min": {
           "value": 2,
@@ -1552,15 +1644,16 @@
         "max": {
           "value": 8,
           "ids": [
-            "2021-04-douai-notre-ville-thibaut-francois"
+            "2021-04-douai-notre-ville-thibaut-francois",
+            "2023-10-douai-notre-ville-coline-craeye"
           ],
           "restLength": 0
         }
       },
       "negative": {
         "mean": {
-          "count": 21,
-          "total": 34
+          "count": 22,
+          "total": 37
         },
         "min": {
           "value": 0,
@@ -1571,7 +1664,7 @@
             "2021-06-douai-notre-ville-thibaut-francois",
             "2021-07-douai-notre-ville-guy-cannie"
           ],
-          "restLength": 10
+          "restLength": 12
         },
         "max": {
           "value": 2,

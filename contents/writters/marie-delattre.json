@@ -24,6 +24,10 @@
     {
       "date": "2023-04-01T00:00:00Z",
       "id": "2023-04-douai-notre-ville-marie-delattre"
+    },
+    {
+      "date": "2023-11-01T00:00:00Z",
+      "id": "2023-11-douai-notre-ville-marie-delattre"
     }
   ],
   "sentences": [
@@ -56,6 +60,11 @@
       "id": "2023-04-douai-notre-ville-marie-delattre",
       "date": "2023-04-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2023-11-douai-notre-ville-marie-delattre",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 6
     }
   ],
   "sentiments": [
@@ -100,6 +109,13 @@
       "positive": 0,
       "neutral": 4,
       "negative": 1
+    },
+    {
+      "id": "2023-11-douai-notre-ville-marie-delattre",
+      "date": "2023-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -131,6 +147,11 @@
     {
       "id": "2023-04-douai-notre-ville-marie-delattre",
       "date": "2023-04-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2023-11-douai-notre-ville-marie-delattre",
+      "date": "2023-11-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -164,6 +185,11 @@
       "id": "2023-04-douai-notre-ville-marie-delattre",
       "date": "2023-04-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-marie-delattre",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 3
     }
   ],
   "bolds": [
@@ -195,6 +221,11 @@
     {
       "id": "2023-04-douai-notre-ville-marie-delattre",
       "date": "2023-04-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-marie-delattre",
+      "date": "2023-11-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -228,20 +259,25 @@
       "id": "2023-04-douai-notre-ville-marie-delattre",
       "date": "2023-04-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-11-douai-notre-ville-marie-delattre",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "quartier",
-      "count": 14
-    },
-    {
-      "word": "aménagement",
-      "count": 10
+      "count": 20
     },
     {
       "word": "conseil",
-      "count": 8
+      "count": 13
+    },
+    {
+      "word": "aménagement",
+      "count": 11
     },
     {
       "word": "habitant",
@@ -249,23 +285,23 @@
     },
     {
       "word": "public",
-      "count": 6
+      "count": 7
     },
     {
       "word": "consultation",
       "count": 6
     },
     {
-      "word": "projet",
+      "word": "démocratie",
       "count": 5
     },
     {
-      "word": "démocratie",
-      "count": 4
+      "word": "participatif",
+      "count": 5
     },
     {
-      "word": "participatif",
-      "count": 4
+      "word": "projet",
+      "count": 5
     },
     {
       "word": "citoyen",
@@ -277,6 +313,10 @@
     },
     {
       "word": "pouvoir",
+      "count": 4
+    },
+    {
+      "word": "réalisation",
       "count": 4
     },
     {
@@ -304,6 +344,18 @@
       "count": 3
     },
     {
+      "word": "membre",
+      "count": 3
+    },
+    {
+      "word": "espace",
+      "count": 3
+    },
+    {
+      "word": "école",
+      "count": 3
+    },
+    {
       "word": "logement",
       "count": 3
     },
@@ -313,22 +365,6 @@
     },
     {
       "word": "participation",
-      "count": 2
-    },
-    {
-      "word": "cœur",
-      "count": 2
-    },
-    {
-      "word": "remercier",
-      "count": 2
-    },
-    {
-      "word": "mobiliser",
-      "count": 2
-    },
-    {
-      "word": "mobilisation",
       "count": 2
     }
   ],
@@ -349,13 +385,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 296,
-  "totalSignificantWords": 183,
+  "totalWords": 345,
+  "totalSignificantWords": 202,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 32,
-        "total": 6
+        "count": 38,
+        "total": 7
       },
       "min": {
         "value": 4,
@@ -374,8 +410,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 3,
-        "total": 6
+        "count": 4,
+        "total": 7
       },
       "min": {
         "value": 0,
@@ -397,8 +433,8 @@
     },
     "questions": {
       "mean": {
-        "count": 1,
-        "total": 6
+        "count": 4,
+        "total": 7
       },
       "min": {
         "value": 0,
@@ -412,9 +448,9 @@
         "restLength": 0
       },
       "max": {
-        "value": 1,
+        "value": 3,
         "ids": [
-          "2021-04-douai-notre-ville-marie-delattre"
+          "2023-11-douai-notre-ville-marie-delattre"
         ],
         "restLength": 0
       }
@@ -422,7 +458,7 @@
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 6
+        "total": 7
       },
       "min": {
         "value": 0,
@@ -433,7 +469,7 @@
           "2022-06-douai-notre-ville-marie-delattre",
           "2022-11-douai-notre-ville-marie-delattre"
         ],
-        "restLength": 1
+        "restLength": 2
       },
       "max": {
         "value": 0,
@@ -444,13 +480,13 @@
           "2022-06-douai-notre-ville-marie-delattre",
           "2022-11-douai-notre-ville-marie-delattre"
         ],
-        "restLength": 1
+        "restLength": 2
       }
     },
     "caps": {
       "mean": {
         "count": 1,
-        "total": 6
+        "total": 7
       },
       "min": {
         "value": 0,
@@ -461,7 +497,7 @@
           "2022-06-douai-notre-ville-marie-delattre",
           "2022-11-douai-notre-ville-marie-delattre"
         ],
-        "restLength": 0
+        "restLength": 1
       },
       "max": {
         "value": 1,
@@ -475,7 +511,7 @@
       "positive": {
         "mean": {
           "count": 3,
-          "total": 6
+          "total": 7
         },
         "min": {
           "value": 0,
@@ -483,7 +519,8 @@
             "2021-11-douai-notre-ville-marie-delattre",
             "2022-06-douai-notre-ville-marie-delattre",
             "2022-11-douai-notre-ville-marie-delattre",
-            "2023-04-douai-notre-ville-marie-delattre"
+            "2023-04-douai-notre-ville-marie-delattre",
+            "2023-11-douai-notre-ville-marie-delattre"
           ],
           "restLength": 0
         },
@@ -497,8 +534,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 24,
-          "total": 6
+          "count": 29,
+          "total": 7
         },
         "min": {
           "value": 2,
@@ -511,15 +548,16 @@
           "value": 5,
           "ids": [
             "2020-11-douai-notre-ville-marie-delattre",
-            "2021-04-douai-notre-ville-marie-delattre"
+            "2021-04-douai-notre-ville-marie-delattre",
+            "2023-11-douai-notre-ville-marie-delattre"
           ],
           "restLength": 0
         }
       },
       "negative": {
         "mean": {
-          "count": 5,
-          "total": 6
+          "count": 6,
+          "total": 7
         },
         "min": {
           "value": 0,
@@ -537,171 +575,6 @@
           "restLength": 0
         }
       }
-    }
-  },
-  "presences": {
-    "cm-douai": [
-      {
-        "date": "2020-07-15T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-09-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-10-15T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-11-13T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-11-28T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-12-11T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-01-22T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-02-19T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-03-25T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-04-23T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-05-28T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "stephanie-stiernon",
-          "name": "Stéphanie STIERNON"
-        }
-      },
-      {
-        "date": "2021-06-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-07-08T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-09-24T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-10-22T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-11-19T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-12-10T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-01-27T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-03-04T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-04-01T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-04-29T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-05-19T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-06-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-07-08T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-09-23T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-10-21T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-11-18T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-12-16T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "yves-piquot",
-          "name": "Yves PIQUOT"
-        }
-      },
-      {
-        "date": "2023-01-20T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-02-10T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-03-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-04-07T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "stephanie-stiernon",
-          "name": "Stéphanie STIERNON"
-        }
-      },
-      {
-        "date": "2023-05-26T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-06-09T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-06-30T19:00:00Z",
-        "present": true
-      }
-    ]
-  },
-  "presencesStats": {
-    "cm-douai": {
-      "total": 35,
-      "present": 32,
-      "arrivedLate": 0,
-      "leftBeforeTheEnd": 0,
-      "delegation": 3
     }
   }
 }

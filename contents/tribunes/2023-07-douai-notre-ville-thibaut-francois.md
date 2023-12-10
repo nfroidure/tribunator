@@ -2,7 +2,7 @@
 id: "2023-07-douai-notre-ville-thibaut-francois"
 authors:
 - id: "thibaut-francois"
-  name: "Thibaut FRANCOIS,"
+  name: "Thibaut FRANÇOIS"
   mandates: 
   - "Conseiller municipal d’opposition"
   portrait: "thibaut-francois.jpg"

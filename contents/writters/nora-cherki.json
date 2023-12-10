@@ -36,6 +36,14 @@
     {
       "date": "2023-03-01T00:00:00Z",
       "id": "2023-03-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2023-10-01T00:00:00Z",
+      "id": "2023-10-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2023-12-01T00:00:00Z",
+      "id": "2023-12-douai-notre-ville-nora-cherki"
     }
   ],
   "sentences": [
@@ -83,6 +91,16 @@
       "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "count": 3
+    },
+    {
+      "id": "2023-10-douai-notre-ville-nora-cherki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nora-cherki",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 6
     }
   ],
   "sentiments": [
@@ -148,6 +166,20 @@
       "positive": 0,
       "neutral": 2,
       "negative": 1
+    },
+    {
+      "id": "2023-10-douai-notre-ville-nora-cherki",
+      "date": "2023-10-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nora-cherki",
+      "date": "2023-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2
     }
   ],
   "exclamations": [
@@ -194,6 +226,16 @@
     {
       "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-nora-cherki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nora-cherki",
+      "date": "2023-12-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -242,6 +284,16 @@
       "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-nora-cherki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nora-cherki",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -288,6 +340,16 @@
     {
       "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-nora-cherki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nora-cherki",
+      "date": "2023-12-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -336,35 +398,53 @@
       "id": "2023-03-douai-notre-ville-nora-cherki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-nora-cherki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nora-cherki",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "cher",
-      "count": 9
+      "count": 12
     },
     {
       "word": "douaisiennes",
-      "count": 8
+      "count": 10
     },
     {
       "word": "douaisiens",
-      "count": 8
+      "count": 10
     },
     {
       "word": "année",
-      "count": 8
+      "count": 10
     },
     {
       "word": "habitant",
+      "count": 9
+    },
+    {
+      "word": "association",
       "count": 7
     },
     {
       "word": "chère",
+      "count": 7
+    },
+    {
+      "word": "grand",
       "count": 6
     },
     {
-      "word": "association",
+      "word": "famille",
       "count": 5
     },
     {
@@ -372,11 +452,15 @@
       "count": 5
     },
     {
+      "word": "face",
+      "count": 4
+    },
+    {
       "word": "jeune",
       "count": 4
     },
     {
-      "word": "famille",
+      "word": "période",
       "count": 4
     },
     {
@@ -384,7 +468,31 @@
       "count": 4
     },
     {
-      "word": "grand",
+      "word": "particulier",
+      "count": 4
+    },
+    {
+      "word": "pouvoir",
+      "count": 4
+    },
+    {
+      "word": "peuple",
+      "count": 4
+    },
+    {
+      "word": "groupe",
+      "count": 4
+    },
+    {
+      "word": "quartier",
+      "count": 4
+    },
+    {
+      "word": "fête",
+      "count": 4
+    },
+    {
+      "word": "solidaire",
       "count": 4
     },
     {
@@ -396,47 +504,11 @@
       "count": 3
     },
     {
-      "word": "face",
-      "count": 3
-    },
-    {
       "word": "crise",
       "count": 3
     },
     {
-      "word": "période",
-      "count": 3
-    },
-    {
       "word": "souhaiton",
-      "count": 3
-    },
-    {
-      "word": "augmentation",
-      "count": 3
-    },
-    {
-      "word": "prix",
-      "count": 3
-    },
-    {
-      "word": "énergie",
-      "count": 3
-    },
-    {
-      "word": "public",
-      "count": 3
-    },
-    {
-      "word": "particulier",
-      "count": 3
-    },
-    {
-      "word": "pouvoir",
-      "count": 3
-    },
-    {
-      "word": "école",
       "count": 3
     }
   ],
@@ -458,13 +530,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 403,
-  "totalSignificantWords": 267,
+  "totalWords": 501,
+  "totalSignificantWords": 311,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 39,
-        "total": 9
+        "count": 50,
+        "total": 11
       },
       "min": {
         "value": 2,
@@ -476,7 +548,8 @@
       "max": {
         "value": 6,
         "ids": [
-          "2022-04-douai-notre-ville-nora-cherki"
+          "2022-04-douai-notre-ville-nora-cherki",
+          "2023-12-douai-notre-ville-nora-cherki"
         ],
         "restLength": 0
       }
@@ -484,7 +557,7 @@
     "exclamations": {
       "mean": {
         "count": 1,
-        "total": 9
+        "total": 11
       },
       "min": {
         "value": 0,
@@ -495,7 +568,7 @@
           "2022-04-douai-notre-ville-nora-cherki",
           "2022-07-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 3
+        "restLength": 5
       },
       "max": {
         "value": 1,
@@ -508,7 +581,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 9
+        "total": 11
       },
       "min": {
         "value": 0,
@@ -519,7 +592,7 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 4
+        "restLength": 6
       },
       "max": {
         "value": 0,
@@ -530,13 +603,13 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 4
+        "restLength": 6
       }
     },
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 9
+        "total": 11
       },
       "min": {
         "value": 0,
@@ -547,7 +620,7 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 4
+        "restLength": 6
       },
       "max": {
         "value": 0,
@@ -558,13 +631,13 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 4
+        "restLength": 6
       }
     },
     "caps": {
       "mean": {
         "count": 0,
-        "total": 9
+        "total": 11
       },
       "min": {
         "value": 0,
@@ -575,7 +648,7 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 4
+        "restLength": 6
       },
       "max": {
         "value": 0,
@@ -586,14 +659,14 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 4
+        "restLength": 6
       }
     },
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 2,
-          "total": 9
+          "count": 3,
+          "total": 11
         },
         "min": {
           "value": 0,
@@ -604,21 +677,22 @@
             "2022-04-douai-notre-ville-nora-cherki",
             "2022-10-douai-notre-ville-nora-cherki"
           ],
-          "restLength": 2
+          "restLength": 3
         },
         "max": {
           "value": 1,
           "ids": [
             "2021-09-douai-notre-ville-nora-cherki",
-            "2022-07-douai-notre-ville-nora-cherki"
+            "2022-07-douai-notre-ville-nora-cherki",
+            "2023-10-douai-notre-ville-nora-cherki"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 33,
-          "total": 9
+          "count": 40,
+          "total": 11
         },
         "min": {
           "value": 1,
@@ -639,8 +713,8 @@
       },
       "negative": {
         "mean": {
-          "count": 4,
-          "total": 9
+          "count": 7,
+          "total": 11
         },
         "min": {
           "value": 0,
@@ -654,186 +728,13 @@
           "restLength": 0
         },
         "max": {
-          "value": 1,
+          "value": 2,
           "ids": [
-            "2021-09-douai-notre-ville-nora-cherki",
-            "2021-12-douai-notre-ville-nora-cherki",
-            "2022-04-douai-notre-ville-nora-cherki",
-            "2023-03-douai-notre-ville-nora-cherki"
+            "2023-12-douai-notre-ville-nora-cherki"
           ],
           "restLength": 0
         }
       }
-    }
-  },
-  "presences": {
-    "cm-douai": [
-      {
-        "date": "2020-07-15T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-09-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-10-15T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-11-13T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-11-28T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-12-11T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-01-22T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-02-19T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-03-25T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-04-23T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-05-28T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-06-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-07-08T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-09-24T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-10-22T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-11-19T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-12-10T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-01-27T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-03-04T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-04-01T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-04-29T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-05-19T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-06-17T19:00:00Z",
-        "present": true,
-        "arrivedLate": true
-      },
-      {
-        "date": "2022-07-08T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-09-23T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-10-21T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-11-18T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-12-16T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "avida-oulahcene",
-          "name": "Avida OULAHCENE"
-        }
-      },
-      {
-        "date": "2023-01-20T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-02-10T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-03-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-04-07T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "avida-oulahcene",
-          "name": "Avida OULAHCENE"
-        }
-      },
-      {
-        "date": "2023-05-26T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "auriane-delbarre",
-          "name": "Auriane DELBARRE"
-        }
-      },
-      {
-        "date": "2023-06-09T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-06-30T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "auriane-delbarre",
-          "name": "Auriane DELBARRE"
-        }
-      }
-    ]
-  },
-  "presencesStats": {
-    "cm-douai": {
-      "total": 35,
-      "present": 31,
-      "arrivedLate": 1,
-      "leftBeforeTheEnd": 0,
-      "delegation": 4
     }
   }
 }

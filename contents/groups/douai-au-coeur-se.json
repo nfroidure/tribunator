@@ -8,15 +8,19 @@
   "words": [
     {
       "word": "ville",
-      "count": 19
+      "count": 22
     },
     {
       "word": "année",
-      "count": 16
+      "count": 17
     },
     {
       "word": "faire",
       "count": 13
+    },
+    {
+      "word": "service",
+      "count": 11
     },
     {
       "word": "association",
@@ -27,11 +31,23 @@
       "count": 11
     },
     {
+      "word": "autre",
+      "count": 10
+    },
+    {
+      "word": "avoir",
+      "count": 10
+    },
+    {
       "word": "enfant",
       "count": 9
     },
     {
-      "word": "autre",
+      "word": "conseil",
+      "count": 9
+    },
+    {
+      "word": "nouveau",
       "count": 9
     },
     {
@@ -39,15 +55,15 @@
       "count": 8
     },
     {
+      "word": "fête",
+      "count": 8
+    },
+    {
       "word": "rendre",
       "count": 8
     },
     {
-      "word": "avoir",
-      "count": 8
-    },
-    {
-      "word": "nouveau",
+      "word": "famille",
       "count": 8
     },
     {
@@ -55,56 +71,40 @@
       "count": 8
     },
     {
+      "word": "quartier",
+      "count": 8
+    },
+    {
+      "word": "habitant",
+      "count": 8
+    },
+    {
       "word": "place",
       "count": 7
     },
     {
-      "word": "service",
-      "count": 7
-    },
-    {
-      "word": "conseil",
-      "count": 7
-    },
-    {
-      "word": "fête",
-      "count": 7
-    },
-    {
-      "word": "quartier",
-      "count": 7
-    },
-    {
-      "word": "habitant",
-      "count": 7
-    },
-    {
       "word": "proposer",
-      "count": 6
+      "count": 7
     },
     {
       "word": "pouvoir",
-      "count": 6
+      "count": 7
     },
     {
       "word": "municipal",
-      "count": 6
+      "count": 7
     },
     {
-      "word": "famille",
-      "count": 6
+      "word": "premier",
+      "count": 7
     },
     {
       "word": "projet",
-      "count": 5
+      "count": 6
     },
     {
-      "word": "cadre",
-      "count": 5
-    },
-    {
-      "word": "aller",
-      "count": 5
+      "word": "logement",
+      "count": 6
     }
   ],
   "writtings": [
@@ -219,6 +219,18 @@
     {
       "date": "2023-07-01T00:00:00Z",
       "id": "2023-07-douai-notre-ville-nadia-bony"
+    },
+    {
+      "date": "2023-10-01T00:00:00Z",
+      "id": "2023-10-douai-notre-ville-mohamed-kheraki"
+    },
+    {
+      "date": "2023-11-01T00:00:00Z",
+      "id": "2023-11-douai-notre-ville-hocine-mazy"
+    },
+    {
+      "date": "2023-12-01T00:00:00Z",
+      "id": "2023-12-douai-notre-ville-nathalie-apers"
     }
   ],
   "sentences": [
@@ -361,6 +373,21 @@
       "id": "2023-07-douai-notre-ville-nadia-bony",
       "date": "2023-07-01T00:00:00Z",
       "count": 6
+    },
+    {
+      "id": "2023-10-douai-notre-ville-mohamed-kheraki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2023-11-douai-notre-ville-hocine-mazy",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 6
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nathalie-apers",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 7
     }
   ],
   "sentiments": [
@@ -559,6 +586,27 @@
       "positive": 1,
       "neutral": 5,
       "negative": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-mohamed-kheraki",
+      "date": "2023-10-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    {
+      "id": "2023-11-douai-notre-ville-hocine-mazy",
+      "date": "2023-11-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nathalie-apers",
+      "date": "2023-12-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 2
     }
   ],
   "exclamations": [
@@ -701,6 +749,21 @@
       "id": "2023-07-douai-notre-ville-nadia-bony",
       "date": "2023-07-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2023-10-douai-notre-ville-mohamed-kheraki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-hocine-mazy",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nathalie-apers",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -843,6 +906,21 @@
       "id": "2023-07-douai-notre-ville-nadia-bony",
       "date": "2023-07-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2023-10-douai-notre-ville-mohamed-kheraki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-hocine-mazy",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nathalie-apers",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -984,6 +1062,21 @@
     {
       "id": "2023-07-douai-notre-ville-nadia-bony",
       "date": "2023-07-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-mohamed-kheraki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-hocine-mazy",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nathalie-apers",
+      "date": "2023-12-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1127,6 +1220,21 @@
       "id": "2023-07-douai-notre-ville-nadia-bony",
       "date": "2023-07-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-10-douai-notre-ville-mohamed-kheraki",
+      "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-hocine-mazy",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-12-douai-notre-ville-nathalie-apers",
+      "date": "2023-12-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1211,8 +1319,16 @@
       "portrait": "mohamed-kheraki.jpg"
     },
     {
+      "id": "mohamed-kheraki",
+      "name": "Mohamed KHÉRAKI",
+      "mandates": [
+        "Adjoint au maire"
+      ],
+      "portrait": "mohamed-kheraki.jpg"
+    },
+    {
       "id": "nadia-bony",
-      "name": "Nadia BONY,",
+      "name": "Nadia BONY",
       "mandates": [
         "Conseillère municipale"
       ],
@@ -1261,13 +1377,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1342,
-  "totalSignificantWords": 797,
+  "totalWords": 1497,
+  "totalSignificantWords": 853,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 170,
-        "total": 28
+        "count": 188,
+        "total": 31
       },
       "min": {
         "value": 3,
@@ -1286,8 +1402,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 25,
-        "total": 28
+        "count": 26,
+        "total": 31
       },
       "min": {
         "value": 0,
@@ -1298,7 +1414,7 @@
           "2021-11-douai-notre-ville-anne-sophie-audegond",
           "2022-01-douai-notre-ville-maxime-decupper-laud"
         ],
-        "restLength": 8
+        "restLength": 10
       },
       "max": {
         "value": 3,
@@ -1311,7 +1427,7 @@
     "questions": {
       "mean": {
         "count": 4,
-        "total": 28
+        "total": 31
       },
       "min": {
         "value": 0,
@@ -1322,7 +1438,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 19
+        "restLength": 22
       },
       "max": {
         "value": 1,
@@ -1338,7 +1454,7 @@
     "bolds": {
       "mean": {
         "count": 6,
-        "total": 28
+        "total": 31
       },
       "min": {
         "value": 0,
@@ -1349,7 +1465,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 21
+        "restLength": 24
       },
       "max": {
         "value": 5,
@@ -1362,7 +1478,7 @@
     "caps": {
       "mean": {
         "count": 10,
-        "total": 28
+        "total": 31
       },
       "min": {
         "value": 0,
@@ -1373,7 +1489,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-03-douai-notre-ville-yvon-sipieter"
         ],
-        "restLength": 20
+        "restLength": 23
       },
       "max": {
         "value": 7,
@@ -1386,8 +1502,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 7,
-          "total": 28
+          "count": 9,
+          "total": 31
         },
         "min": {
           "value": 0,
@@ -1398,7 +1514,7 @@
             "2021-03-douai-notre-ville-yvon-sipieter",
             "2021-04-douai-notre-ville-khadija-ahantat"
           ],
-          "restLength": 16
+          "restLength": 17
         },
         "max": {
           "value": 1,
@@ -1409,13 +1525,13 @@
             "2022-07-douai-notre-ville-nathalie-apers",
             "2022-09-douai-notre-ville-jean-michel-leroy"
           ],
-          "restLength": 2
+          "restLength": 4
         }
       },
       "neutral": {
         "mean": {
-          "count": 144,
-          "total": 28
+          "count": 156,
+          "total": 31
         },
         "min": {
           "value": 2,
@@ -1436,8 +1552,8 @@
       },
       "negative": {
         "mean": {
-          "count": 19,
-          "total": 28
+          "count": 23,
+          "total": 31
         },
         "min": {
           "value": 0,

@@ -2,7 +2,7 @@
 id: "2023-07-douai-notre-ville-coline-craeye"
 authors:
 - id: "coline-craeye"
-  name: "Coline CRAEYE,"
+  name: "Coline CRAEYE"
   mandates: 
   - "Conseillère municipale d’opposition"
   portrait: "coline-craeye.jpg"

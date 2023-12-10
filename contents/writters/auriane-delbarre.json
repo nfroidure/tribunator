@@ -88,6 +88,10 @@
     {
       "date": "2023-09-01T00:00:00Z",
       "id": "2023-09-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2023-11-01T00:00:00Z",
+      "id": "2023-11-douai-notre-ville-auriane-delbarre"
     }
   ],
   "sentences": [
@@ -200,6 +204,11 @@
       "id": "2023-09-douai-notre-ville-auriane-delbarre",
       "date": "2023-09-01T00:00:00Z",
       "count": 7
+    },
+    {
+      "id": "2023-11-douai-notre-ville-auriane-delbarre",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -356,6 +365,13 @@
       "positive": 0,
       "neutral": 7,
       "negative": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-auriane-delbarre",
+      "date": "2023-11-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -467,6 +483,11 @@
     {
       "id": "2023-09-douai-notre-ville-auriane-delbarre",
       "date": "2023-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-auriane-delbarre",
+      "date": "2023-11-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -580,6 +601,11 @@
       "id": "2023-09-douai-notre-ville-auriane-delbarre",
       "date": "2023-09-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-auriane-delbarre",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -691,6 +717,11 @@
     {
       "id": "2023-09-douai-notre-ville-auriane-delbarre",
       "date": "2023-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-auriane-delbarre",
+      "date": "2023-11-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -804,24 +835,29 @@
       "id": "2023-09-douai-notre-ville-auriane-delbarre",
       "date": "2023-09-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2023-11-douai-notre-ville-auriane-delbarre",
+      "date": "2023-11-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "public",
-      "count": 18
+      "count": 19
     },
     {
       "word": "cher",
-      "count": 17
+      "count": 18
     },
     {
       "word": "douaisiens",
-      "count": 13
+      "count": 14
     },
     {
       "word": "service",
-      "count": 11
+      "count": 12
     },
     {
       "word": "année",
@@ -836,6 +872,14 @@
       "count": 10
     },
     {
+      "word": "chère",
+      "count": 9
+    },
+    {
+      "word": "douaisiennes",
+      "count": 9
+    },
+    {
       "word": "crise",
       "count": 8
     },
@@ -844,15 +888,15 @@
       "count": 8
     },
     {
-      "word": "chère",
-      "count": 8
-    },
-    {
-      "word": "douaisiennes",
-      "count": 8
+      "word": "pouvoir",
+      "count": 7
     },
     {
       "word": "culturel",
+      "count": 7
+    },
+    {
+      "word": "nouveau",
       "count": 7
     },
     {
@@ -868,15 +912,15 @@
       "count": 7
     },
     {
+      "word": "doit",
+      "count": 7
+    },
+    {
       "word": "sanitaire",
       "count": 6
     },
     {
       "word": "ville",
-      "count": 6
-    },
-    {
-      "word": "nouveau",
       "count": 6
     },
     {
@@ -888,7 +932,7 @@
       "count": 6
     },
     {
-      "word": "doit",
+      "word": "rendre",
       "count": 6
     },
     {
@@ -897,14 +941,6 @@
     },
     {
       "word": "fait",
-      "count": 5
-    },
-    {
-      "word": "association",
-      "count": 5
-    },
-    {
-      "word": "rentrée",
       "count": 5
     }
   ],
@@ -925,13 +961,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1065,
-  "totalSignificantWords": 609,
+  "totalWords": 1119,
+  "totalSignificantWords": 627,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 122,
-        "total": 22
+        "count": 126,
+        "total": 23
       },
       "min": {
         "value": 2,
@@ -951,7 +987,7 @@
     "exclamations": {
       "mean": {
         "count": 3,
-        "total": 22
+        "total": 23
       },
       "min": {
         "value": 0,
@@ -962,7 +998,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 14
+        "restLength": 15
       },
       "max": {
         "value": 1,
@@ -977,7 +1013,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 22
+        "total": 23
       },
       "min": {
         "value": 0,
@@ -988,7 +1024,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 17
+        "restLength": 18
       },
       "max": {
         "value": 0,
@@ -999,13 +1035,13 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 17
+        "restLength": 18
       }
     },
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 22
+        "total": 23
       },
       "min": {
         "value": 0,
@@ -1016,7 +1052,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 16
+        "restLength": 17
       },
       "max": {
         "value": 1,
@@ -1029,7 +1065,7 @@
     "caps": {
       "mean": {
         "count": 8,
-        "total": 22
+        "total": 23
       },
       "min": {
         "value": 0,
@@ -1040,7 +1076,7 @@
           "2021-06-douai-notre-ville-auriane-delbarre",
           "2021-11-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 9
+        "restLength": 10
       },
       "max": {
         "value": 1,
@@ -1058,7 +1094,7 @@
       "positive": {
         "mean": {
           "count": 12,
-          "total": 22
+          "total": 23
         },
         "min": {
           "value": 0,
@@ -1069,7 +1105,7 @@
             "2021-04-douai-notre-ville-auriane-delbarre",
             "2021-06-douai-notre-ville-auriane-delbarre"
           ],
-          "restLength": 9
+          "restLength": 10
         },
         "max": {
           "value": 3,
@@ -1081,8 +1117,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 99,
-          "total": 22
+          "count": 102,
+          "total": 23
         },
         "min": {
           "value": 2,
@@ -1103,8 +1139,8 @@
       },
       "negative": {
         "mean": {
-          "count": 11,
-          "total": 22
+          "count": 12,
+          "total": 23
         },
         "min": {
           "value": 0,
@@ -1125,184 +1161,6 @@
           "restLength": 0
         }
       }
-    }
-  },
-  "presences": {
-    "cm-douai": [
-      {
-        "date": "2020-07-15T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-09-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-10-15T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-11-13T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-11-28T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2020-12-11T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-01-22T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-02-19T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "jessy-kaboul",
-          "name": "Jessy KABOUL"
-        }
-      },
-      {
-        "date": "2021-03-25T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-04-23T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-05-28T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-06-17T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-07-08T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-09-24T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-10-22T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-11-19T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2021-12-10T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-01-27T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-03-04T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-04-01T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-04-29T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-05-19T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "nora-cherki",
-          "name": "Nora CHERKI"
-        }
-      },
-      {
-        "date": "2022-06-17T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "frederic-chereau",
-          "name": "Frédéric CHÉREAU"
-        }
-      },
-      {
-        "date": "2022-07-08T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-09-23T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-10-21T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2022-11-18T19:00:00Z",
-        "present": true,
-        "arrivedLate": true
-      },
-      {
-        "date": "2022-12-16T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "hocine-mazy",
-          "name": "Hocine MAZY"
-        }
-      },
-      {
-        "date": "2023-01-20T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-02-10T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-03-17T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "nora-cherki",
-          "name": "Nora CHERKI"
-        }
-      },
-      {
-        "date": "2023-04-07T19:00:00Z",
-        "present": false,
-        "delegation": {
-          "id": "hocine-mazy",
-          "name": "Hocine MAZY"
-        }
-      },
-      {
-        "date": "2023-05-26T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-06-09T19:00:00Z",
-        "present": true
-      },
-      {
-        "date": "2023-06-30T19:00:00Z",
-        "present": true
-      }
-    ]
-  },
-  "presencesStats": {
-    "cm-douai": {
-      "total": 35,
-      "present": 29,
-      "arrivedLate": 1,
-      "leftBeforeTheEnd": 0,
-      "delegation": 6
     }
   }
 }

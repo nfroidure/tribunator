@@ -76,7 +76,7 @@ Face aux départs en retraite de sept médecins cette année, il est urgent d’
 
 Un grand merci,
 
-Thibaut FRANCOIS
+Thibaut FRANÇOIS
 Conseiller municipal d’opposition
 
 ---
