@@ -40,6 +40,10 @@
     {
       "date": "2023-09-01T00:00:00Z",
       "id": "2023-09-douai-notre-ville-stephanie-stiernon"
+    },
+    {
+      "date": "2024-01-01T00:00:00Z",
+      "id": "2024-01-douai-notre-ville-stephanie-stiernon"
     }
   ],
   "sentences": [
@@ -92,6 +96,11 @@
       "id": "2023-09-douai-notre-ville-stephanie-stiernon",
       "date": "2023-09-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2024-01-douai-notre-ville-stephanie-stiernon",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 7
     }
   ],
   "sentiments": [
@@ -164,6 +173,13 @@
       "positive": 0,
       "neutral": 5,
       "negative": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-stephanie-stiernon",
+      "date": "2024-01-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -216,6 +232,11 @@
       "id": "2023-09-douai-notre-ville-stephanie-stiernon",
       "date": "2023-09-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2024-01-douai-notre-ville-stephanie-stiernon",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -267,6 +288,11 @@
     {
       "id": "2023-09-douai-notre-ville-stephanie-stiernon",
       "date": "2023-09-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-stephanie-stiernon",
+      "date": "2024-01-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -320,6 +346,11 @@
       "id": "2023-09-douai-notre-ville-stephanie-stiernon",
       "date": "2023-09-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-stephanie-stiernon",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -372,12 +403,21 @@
       "id": "2023-09-douai-notre-ville-stephanie-stiernon",
       "date": "2023-09-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-stephanie-stiernon",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "ville",
       "count": 10
+    },
+    {
+      "word": "citoyen",
+      "count": 7
     },
     {
       "word": "climatique",
@@ -392,7 +432,7 @@
       "count": 5
     },
     {
-      "word": "citoyen",
+      "word": "solidarité",
       "count": 5
     },
     {
@@ -408,7 +448,19 @@
       "count": 4
     },
     {
+      "word": "avoir",
+      "count": 4
+    },
+    {
+      "word": "budget",
+      "count": 4
+    },
+    {
       "word": "conseil",
+      "count": 4
+    },
+    {
+      "word": "public",
       "count": 4
     },
     {
@@ -420,7 +472,11 @@
       "count": 4
     },
     {
-      "word": "solidarité",
+      "word": "question",
+      "count": 4
+    },
+    {
+      "word": "autre",
       "count": 4
     },
     {
@@ -452,27 +508,7 @@
       "count": 3
     },
     {
-      "word": "avoir",
-      "count": 3
-    },
-    {
       "word": "chose",
-      "count": 3
-    },
-    {
-      "word": "budget",
-      "count": 3
-    },
-    {
-      "word": "municipal",
-      "count": 3
-    },
-    {
-      "word": "développement",
-      "count": 3
-    },
-    {
-      "word": "public",
       "count": 3
     }
   ],
@@ -493,13 +529,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 502,
-  "totalSignificantWords": 361,
+  "totalWords": 548,
+  "totalSignificantWords": 381,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 49,
-        "total": 10
+        "count": 56,
+        "total": 11
       },
       "min": {
         "value": 4,
@@ -513,15 +549,16 @@
       "max": {
         "value": 7,
         "ids": [
-          "2020-09-douai-notre-ville-stephanie-stiernon"
+          "2020-09-douai-notre-ville-stephanie-stiernon",
+          "2024-01-douai-notre-ville-stephanie-stiernon"
         ],
         "restLength": 0
       }
     },
     "exclamations": {
       "mean": {
-        "count": 4,
-        "total": 10
+        "count": 5,
+        "total": 11
       },
       "min": {
         "value": 0,
@@ -545,7 +582,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 10
+        "total": 11
       },
       "min": {
         "value": 0,
@@ -556,7 +593,7 @@
           "2021-09-douai-notre-ville-stephanie-stiernon",
           "2022-03-douai-notre-ville-stephanie-stiernon"
         ],
-        "restLength": 5
+        "restLength": 6
       },
       "max": {
         "value": 0,
@@ -567,13 +604,13 @@
           "2021-09-douai-notre-ville-stephanie-stiernon",
           "2022-03-douai-notre-ville-stephanie-stiernon"
         ],
-        "restLength": 5
+        "restLength": 6
       }
     },
     "bolds": {
       "mean": {
         "count": 4,
-        "total": 10
+        "total": 11
       },
       "min": {
         "value": 0,
@@ -584,7 +621,7 @@
           "2021-09-douai-notre-ville-stephanie-stiernon",
           "2022-03-douai-notre-ville-stephanie-stiernon"
         ],
-        "restLength": 4
+        "restLength": 5
       },
       "max": {
         "value": 4,
@@ -597,7 +634,7 @@
     "caps": {
       "mean": {
         "count": 0,
-        "total": 10
+        "total": 11
       },
       "min": {
         "value": 0,
@@ -608,7 +645,7 @@
           "2021-09-douai-notre-ville-stephanie-stiernon",
           "2022-03-douai-notre-ville-stephanie-stiernon"
         ],
-        "restLength": 5
+        "restLength": 6
       },
       "max": {
         "value": 0,
@@ -619,14 +656,14 @@
           "2021-09-douai-notre-ville-stephanie-stiernon",
           "2022-03-douai-notre-ville-stephanie-stiernon"
         ],
-        "restLength": 5
+        "restLength": 6
       }
     },
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 4,
-          "total": 10
+          "count": 5,
+          "total": 11
         },
         "min": {
           "value": 0,
@@ -645,15 +682,16 @@
             "2020-09-douai-notre-ville-stephanie-stiernon",
             "2021-03-douai-notre-ville-stephanie-stiernon",
             "2022-05-douai-notre-ville-stephanie-stiernon",
-            "2023-05-douai-notre-ville-stephanie-stiernon"
+            "2023-05-douai-notre-ville-stephanie-stiernon",
+            "2024-01-douai-notre-ville-stephanie-stiernon"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 43,
-          "total": 10
+          "count": 48,
+          "total": 11
         },
         "min": {
           "value": 2,
@@ -672,8 +710,8 @@
       },
       "negative": {
         "mean": {
-          "count": 2,
-          "total": 10
+          "count": 3,
+          "total": 11
         },
         "min": {
           "value": 0,
@@ -690,7 +728,8 @@
           "value": 1,
           "ids": [
             "2021-06-douai-notre-ville-stephanie-stiernon",
-            "2022-05-douai-notre-ville-stephanie-stiernon"
+            "2022-05-douai-notre-ville-stephanie-stiernon",
+            "2024-01-douai-notre-ville-stephanie-stiernon"
           ],
           "restLength": 0
         }

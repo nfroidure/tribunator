@@ -10,10 +10,10 @@
     "build": "next build && touch out/.nojekyll && echo 'keskidiz.nicolasfroidure.fr' > out/CNAME",
     "start": "next start",
     "types": "tsc --pretty --noEmit",
-    "presences": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/presences.ts",
-    "tribunes": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/tribunes.ts",
-    "stats": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/stats.ts",
-    "profiles": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/profiles.ts"
+    "presences": "tsx bin/presences.ts",
+    "tribunes": "tsx bin/tribunes.ts",
+    "stats": "tsx bin/stats.ts",
+    "profiles": "tsx bin/profiles.ts"
   },
   "dependencies": {
     "@types/inline-style-prefixer": "^5.0.0",
@@ -24,7 +24,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark-parse": "^10.0.1",
-    "ts-node": "^10.9.1",
     "unified": "^10.1.2",
     "yaml": "^2.3.1",
     "yerror": "^6.2.1"

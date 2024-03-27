@@ -12,7 +12,7 @@
     },
     {
       "word": "année",
-      "count": 17
+      "count": 18
     },
     {
       "word": "faire",
@@ -20,7 +20,7 @@
     },
     {
       "word": "service",
-      "count": 11
+      "count": 12
     },
     {
       "word": "association",
@@ -39,7 +39,15 @@
       "count": 10
     },
     {
+      "word": "travail",
+      "count": 10
+    },
+    {
       "word": "enfant",
+      "count": 9
+    },
+    {
+      "word": "école",
       "count": 9
     },
     {
@@ -49,10 +57,6 @@
     {
       "word": "nouveau",
       "count": 9
-    },
-    {
-      "word": "école",
-      "count": 8
     },
     {
       "word": "fête",
@@ -67,16 +71,16 @@
       "count": 8
     },
     {
-      "word": "travail",
-      "count": 8
-    },
-    {
       "word": "quartier",
       "count": 8
     },
     {
       "word": "habitant",
       "count": 8
+    },
+    {
+      "word": "projet",
+      "count": 7
     },
     {
       "word": "place",
@@ -97,10 +101,6 @@
     {
       "word": "premier",
       "count": 7
-    },
-    {
-      "word": "projet",
-      "count": 6
     },
     {
       "word": "logement",
@@ -231,6 +231,10 @@
     {
       "date": "2023-12-01T00:00:00Z",
       "id": "2023-12-douai-notre-ville-nathalie-apers"
+    },
+    {
+      "date": "2024-01-01T00:00:00Z",
+      "id": "2024-01-douai-notre-ville-jean-michel-leroy"
     }
   ],
   "sentences": [
@@ -388,6 +392,11 @@
       "id": "2023-12-douai-notre-ville-nathalie-apers",
       "date": "2023-12-01T00:00:00Z",
       "count": 7
+    },
+    {
+      "id": "2024-01-douai-notre-ville-jean-michel-leroy",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 5
     }
   ],
   "sentiments": [
@@ -607,6 +616,13 @@
       "positive": 0,
       "neutral": 5,
       "negative": 2
+    },
+    {
+      "id": "2024-01-douai-notre-ville-jean-michel-leroy",
+      "date": "2024-01-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -763,6 +779,11 @@
     {
       "id": "2023-12-douai-notre-ville-nathalie-apers",
       "date": "2023-12-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2024-01-douai-notre-ville-jean-michel-leroy",
+      "date": "2024-01-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -921,6 +942,11 @@
       "id": "2023-12-douai-notre-ville-nathalie-apers",
       "date": "2023-12-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-jean-michel-leroy",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -1077,6 +1103,11 @@
     {
       "id": "2023-12-douai-notre-ville-nathalie-apers",
       "date": "2023-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-jean-michel-leroy",
+      "date": "2024-01-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1235,6 +1266,11 @@
       "id": "2023-12-douai-notre-ville-nathalie-apers",
       "date": "2023-12-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-jean-michel-leroy",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1377,13 +1413,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1497,
-  "totalSignificantWords": 853,
+  "totalWords": 1541,
+  "totalSignificantWords": 862,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 188,
-        "total": 31
+        "count": 193,
+        "total": 32
       },
       "min": {
         "value": 3,
@@ -1402,8 +1438,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 26,
-        "total": 31
+        "count": 27,
+        "total": 32
       },
       "min": {
         "value": 0,
@@ -1427,7 +1463,7 @@
     "questions": {
       "mean": {
         "count": 4,
-        "total": 31
+        "total": 32
       },
       "min": {
         "value": 0,
@@ -1438,7 +1474,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 22
+        "restLength": 23
       },
       "max": {
         "value": 1,
@@ -1454,7 +1490,7 @@
     "bolds": {
       "mean": {
         "count": 6,
-        "total": 31
+        "total": 32
       },
       "min": {
         "value": 0,
@@ -1465,7 +1501,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 24
+        "restLength": 25
       },
       "max": {
         "value": 5,
@@ -1478,7 +1514,7 @@
     "caps": {
       "mean": {
         "count": 10,
-        "total": 31
+        "total": 32
       },
       "min": {
         "value": 0,
@@ -1489,7 +1525,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-03-douai-notre-ville-yvon-sipieter"
         ],
-        "restLength": 23
+        "restLength": 24
       },
       "max": {
         "value": 7,
@@ -1503,7 +1539,7 @@
       "positive": {
         "mean": {
           "count": 9,
-          "total": 31
+          "total": 32
         },
         "min": {
           "value": 0,
@@ -1514,7 +1550,7 @@
             "2021-03-douai-notre-ville-yvon-sipieter",
             "2021-04-douai-notre-ville-khadija-ahantat"
           ],
-          "restLength": 17
+          "restLength": 18
         },
         "max": {
           "value": 1,
@@ -1530,8 +1566,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 156,
-          "total": 31
+          "count": 160,
+          "total": 32
         },
         "min": {
           "value": 2,
@@ -1552,8 +1588,8 @@
       },
       "negative": {
         "mean": {
-          "count": 23,
-          "total": 31
+          "count": 24,
+          "total": 32
         },
         "min": {
           "value": 0,

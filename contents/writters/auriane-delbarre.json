@@ -92,6 +92,10 @@
     {
       "date": "2023-11-01T00:00:00Z",
       "id": "2023-11-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2024-01-01T00:00:00Z",
+      "id": "2024-01-douai-notre-ville-auriane-delbarre"
     }
   ],
   "sentences": [
@@ -209,6 +213,11 @@
       "id": "2023-11-douai-notre-ville-auriane-delbarre",
       "date": "2023-11-01T00:00:00Z",
       "count": 4
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 8
     }
   ],
   "sentiments": [
@@ -372,6 +381,13 @@
       "positive": 0,
       "neutral": 3,
       "negative": 1
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 5,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -488,6 +504,11 @@
     {
       "id": "2023-11-douai-notre-ville-auriane-delbarre",
       "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -606,6 +627,11 @@
       "id": "2023-11-douai-notre-ville-auriane-delbarre",
       "date": "2023-11-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -722,6 +748,11 @@
     {
       "id": "2023-11-douai-notre-ville-auriane-delbarre",
       "date": "2023-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -840,27 +871,36 @@
       "id": "2023-11-douai-notre-ville-auriane-delbarre",
       "date": "2023-11-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
+    {
+      "word": "cher",
+      "count": 19
+    },
     {
       "word": "public",
       "count": 19
     },
     {
-      "word": "cher",
-      "count": 18
+      "word": "douaisiens",
+      "count": 15
     },
     {
-      "word": "douaisiens",
-      "count": 14
+      "word": "année",
+      "count": 13
     },
     {
       "word": "service",
       "count": 12
     },
     {
-      "word": "année",
+      "word": "monde",
       "count": 11
     },
     {
@@ -868,15 +908,19 @@
       "count": 10
     },
     {
-      "word": "monde",
+      "word": "chère",
       "count": 10
     },
     {
-      "word": "chère",
+      "word": "douaisiennes",
+      "count": 10
+    },
+    {
+      "word": "grand",
       "count": 9
     },
     {
-      "word": "douaisiennes",
+      "word": "doit",
       "count": 9
     },
     {
@@ -884,7 +928,7 @@
       "count": 8
     },
     {
-      "word": "grand",
+      "word": "nouveau",
       "count": 8
     },
     {
@@ -893,10 +937,6 @@
     },
     {
       "word": "culturel",
-      "count": 7
-    },
-    {
-      "word": "nouveau",
       "count": 7
     },
     {
@@ -909,10 +949,6 @@
     },
     {
       "word": "musée",
-      "count": 7
-    },
-    {
-      "word": "doit",
       "count": 7
     },
     {
@@ -961,13 +997,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1119,
-  "totalSignificantWords": 627,
+  "totalWords": 1167,
+  "totalSignificantWords": 648,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 126,
-        "total": 23
+        "count": 134,
+        "total": 24
       },
       "min": {
         "value": 2,
@@ -987,7 +1023,7 @@
     "exclamations": {
       "mean": {
         "count": 3,
-        "total": 23
+        "total": 24
       },
       "min": {
         "value": 0,
@@ -998,7 +1034,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 15
+        "restLength": 16
       },
       "max": {
         "value": 1,
@@ -1013,7 +1049,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 23
+        "total": 24
       },
       "min": {
         "value": 0,
@@ -1024,7 +1060,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 18
+        "restLength": 19
       },
       "max": {
         "value": 0,
@@ -1035,13 +1071,13 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 18
+        "restLength": 19
       }
     },
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 23
+        "total": 24
       },
       "min": {
         "value": 0,
@@ -1052,7 +1088,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 17
+        "restLength": 18
       },
       "max": {
         "value": 1,
@@ -1065,7 +1101,7 @@
     "caps": {
       "mean": {
         "count": 8,
-        "total": 23
+        "total": 24
       },
       "min": {
         "value": 0,
@@ -1076,7 +1112,7 @@
           "2021-06-douai-notre-ville-auriane-delbarre",
           "2021-11-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 10
+        "restLength": 11
       },
       "max": {
         "value": 1,
@@ -1093,8 +1129,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 12,
-          "total": 23
+          "count": 14,
+          "total": 24
         },
         "min": {
           "value": 0,
@@ -1117,8 +1153,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 102,
-          "total": 23
+          "count": 107,
+          "total": 24
         },
         "min": {
           "value": 2,
@@ -1139,8 +1175,8 @@
       },
       "negative": {
         "mean": {
-          "count": 12,
-          "total": 23
+          "count": 13,
+          "total": 24
         },
         "min": {
           "value": 0,

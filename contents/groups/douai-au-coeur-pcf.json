@@ -8,27 +8,27 @@
   "words": [
     {
       "word": "cher",
-      "count": 33
+      "count": 34
     },
     {
       "word": "douaisiens",
-      "count": 25
+      "count": 26
+    },
+    {
+      "word": "année",
+      "count": 24
     },
     {
       "word": "public",
       "count": 22
     },
     {
-      "word": "année",
+      "word": "douaisiennes",
       "count": 22
     },
     {
-      "word": "douaisiennes",
-      "count": 21
-    },
-    {
       "word": "chère",
-      "count": 17
+      "count": 18
     },
     {
       "word": "service",
@@ -36,18 +36,18 @@
     },
     {
       "word": "grand",
-      "count": 14
+      "count": 15
     },
     {
       "word": "association",
       "count": 13
     },
     {
-      "word": "crise",
-      "count": 12
+      "word": "monde",
+      "count": 13
     },
     {
-      "word": "monde",
+      "word": "crise",
       "count": 12
     },
     {
@@ -63,6 +63,10 @@
       "count": 11
     },
     {
+      "word": "doit",
+      "count": 11
+    },
+    {
       "word": "ville",
       "count": 11
     },
@@ -75,15 +79,11 @@
       "count": 10
     },
     {
-      "word": "doit",
-      "count": 9
+      "word": "nouveau",
+      "count": 10
     },
     {
       "word": "projet",
-      "count": 9
-    },
-    {
-      "word": "nouveau",
       "count": 9
     },
     {
@@ -255,6 +255,10 @@
     {
       "date": "2023-12-01T00:00:00Z",
       "id": "2023-12-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2024-01-01T00:00:00Z",
+      "id": "2024-01-douai-notre-ville-auriane-delbarre"
     }
   ],
   "sentences": [
@@ -442,6 +446,11 @@
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
       "count": 6
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 8
     }
   ],
   "sentiments": [
@@ -703,6 +712,13 @@
       "positive": 0,
       "neutral": 4,
       "negative": 2
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 5,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -889,6 +905,11 @@
     {
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1077,6 +1098,11 @@
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -1263,6 +1289,11 @@
     {
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1451,12 +1482,25 @@
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-01-douai-notre-ville-auriane-delbarre",
+      "date": "2024-01-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
     {
       "id": "auriane-delbarre",
       "name": "Auriane DELBARRE",
+      "mandates": [
+        "Adjointe au maire"
+      ],
+      "portrait": "auriane-delbarre.jpg"
+    },
+    {
+      "id": "auriane-delbarre",
+      "name": "Auriane DELBARRE,",
       "mandates": [
         "Adjointe au maire"
       ],
@@ -1489,13 +1533,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1765,
-  "totalSignificantWords": 849,
+  "totalWords": 1813,
+  "totalSignificantWords": 866,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 195,
-        "total": 37
+        "count": 203,
+        "total": 38
       },
       "min": {
         "value": 2,
@@ -1516,7 +1560,7 @@
     "exclamations": {
       "mean": {
         "count": 4,
-        "total": 37
+        "total": 38
       },
       "min": {
         "value": 0,
@@ -1527,7 +1571,7 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 28
+        "restLength": 29
       },
       "max": {
         "value": 1,
@@ -1543,7 +1587,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 37
+        "total": 38
       },
       "min": {
         "value": 0,
@@ -1554,7 +1598,7 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 32
+        "restLength": 33
       },
       "max": {
         "value": 0,
@@ -1565,13 +1609,13 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 32
+        "restLength": 33
       }
     },
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 37
+        "total": 38
       },
       "min": {
         "value": 0,
@@ -1582,7 +1626,7 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 31
+        "restLength": 32
       },
       "max": {
         "value": 1,
@@ -1595,7 +1639,7 @@
     "caps": {
       "mean": {
         "count": 8,
-        "total": 37
+        "total": 38
       },
       "min": {
         "value": 0,
@@ -1606,7 +1650,7 @@
           "2021-02-douai-notre-ville-eric-lemaitre",
           "2021-03-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 24
+        "restLength": 25
       },
       "max": {
         "value": 1,
@@ -1623,8 +1667,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 16,
-          "total": 37
+          "count": 18,
+          "total": 38
         },
         "min": {
           "value": 0,
@@ -1647,8 +1691,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 159,
-          "total": 37
+          "count": 164,
+          "total": 38
         },
         "min": {
           "value": 1,
@@ -1667,8 +1711,8 @@
       },
       "negative": {
         "mean": {
-          "count": 20,
-          "total": 37
+          "count": 21,
+          "total": 38
         },
         "min": {
           "value": 0,
