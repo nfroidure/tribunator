@@ -136,6 +136,10 @@
     {
       "date": "2024-02-01T00:00:00Z",
       "id": "2024-02-douai-notre-ville-thibaut-francois"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-thibaut-francois"
     }
   ],
   "sentences": [
@@ -308,6 +312,11 @@
       "id": "2024-02-douai-notre-ville-thibaut-francois",
       "date": "2024-02-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2024-03-douai-notre-ville-thibaut-francois",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -548,6 +557,13 @@
       "positive": 1,
       "neutral": 3,
       "negative": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-thibaut-francois",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -720,6 +736,11 @@
       "id": "2024-02-douai-notre-ville-thibaut-francois",
       "date": "2024-02-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-thibaut-francois",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 2
     }
   ],
   "questions": [
@@ -891,6 +912,11 @@
     {
       "id": "2024-02-douai-notre-ville-thibaut-francois",
       "date": "2024-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-thibaut-francois",
+      "date": "2024-03-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1064,6 +1090,11 @@
       "id": "2024-02-douai-notre-ville-thibaut-francois",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-thibaut-francois",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -1236,28 +1267,33 @@
       "id": "2024-02-douai-notre-ville-thibaut-francois",
       "date": "2024-02-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-thibaut-francois",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "ville",
-      "count": 37
+      "count": 38
     },
     {
       "word": "année",
-      "count": 27
+      "count": 28
+    },
+    {
+      "word": "socialiste",
+      "count": 25
     },
     {
       "word": "douaisiens",
       "count": 24
     },
     {
-      "word": "socialiste",
-      "count": 24
-    },
-    {
       "word": "maire",
-      "count": 21
+      "count": 22
     },
     {
       "word": "commerçant",
@@ -1265,11 +1301,11 @@
     },
     {
       "word": "cher",
-      "count": 19
+      "count": 20
     },
     {
       "word": "habitant",
-      "count": 16
+      "count": 17
     },
     {
       "word": "aller",
@@ -1320,6 +1356,14 @@
       "count": 8
     },
     {
+      "word": "conseil",
+      "count": 7
+    },
+    {
+      "word": "municipal",
+      "count": 7
+    },
+    {
       "word": "gouvernement",
       "count": 7
     },
@@ -1330,14 +1374,6 @@
     {
       "word": "mauvais",
       "count": 7
-    },
-    {
-      "word": "conseil",
-      "count": 6
-    },
-    {
-      "word": "municipal",
-      "count": 6
     }
   ],
   "portrait": "thibaut-francois.jpg",
@@ -1358,13 +1394,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1483,
-  "totalSignificantWords": 733,
+  "totalWords": 1534,
+  "totalSignificantWords": 751,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 183,
-        "total": 34
+        "count": 187,
+        "total": 35
       },
       "min": {
         "value": 3,
@@ -1385,8 +1421,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 89,
-        "total": 34
+        "count": 91,
+        "total": 35
       },
       "min": {
         "value": 0,
@@ -1411,7 +1447,7 @@
     "questions": {
       "mean": {
         "count": 2,
-        "total": 34
+        "total": 35
       },
       "min": {
         "value": 0,
@@ -1422,7 +1458,7 @@
           "2021-02-douai-notre-ville-thibaut-francois",
           "2021-03-douai-notre-ville-thibaut-francois"
         ],
-        "restLength": 27
+        "restLength": 28
       },
       "max": {
         "value": 1,
@@ -1436,7 +1472,7 @@
     "bolds": {
       "mean": {
         "count": 9,
-        "total": 34
+        "total": 35
       },
       "min": {
         "value": 0,
@@ -1447,7 +1483,7 @@
           "2021-12-douai-notre-ville-thibaut-francois",
           "2022-03-douai-notre-ville-thibaut-francois"
         ],
-        "restLength": 20
+        "restLength": 21
       },
       "max": {
         "value": 1,
@@ -1464,7 +1500,7 @@
     "caps": {
       "mean": {
         "count": 3,
-        "total": 34
+        "total": 35
       },
       "min": {
         "value": 0,
@@ -1475,7 +1511,7 @@
           "2021-02-douai-notre-ville-thibaut-francois",
           "2021-03-douai-notre-ville-thibaut-francois"
         ],
-        "restLength": 26
+        "restLength": 27
       },
       "max": {
         "value": 1,
@@ -1490,8 +1526,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 12,
-          "total": 34
+          "count": 13,
+          "total": 35
         },
         "min": {
           "value": 0,
@@ -1516,8 +1552,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 152,
-          "total": 34
+          "count": 155,
+          "total": 35
         },
         "min": {
           "value": 2,
@@ -1538,7 +1574,7 @@
       "negative": {
         "mean": {
           "count": 19,
-          "total": 34
+          "total": 35
         },
         "min": {
           "value": 0,
@@ -1549,7 +1585,7 @@
             "2021-06-douai-notre-ville-thibaut-francois",
             "2021-11-douai-notre-ville-thibaut-francois"
           ],
-          "restLength": 12
+          "restLength": 13
         },
         "max": {
           "value": 2,

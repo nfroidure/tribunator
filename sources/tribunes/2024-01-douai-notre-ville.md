@@ -31,7 +31,6 @@ Conseiller municipal d’opposition
 
 ---
 
-
 Élus d’opposition : Douai, plus belle, plus propre, plus sûre (Rassemblement National)
 
 Permettez-moi, ainsi qu’au nom du Groupe Rassemblement National Douai, d’exprimer tous mes vœux les plus sincères pour l'année 2024. Nous espérons que cette nouvelle année vous apportera prospérité dans vos projets, malgré les défis liés à l'inflation qui peuvent rendre nos vies plus difficiles. De plus, nous formulons le vœu que Douai retrouve le chemin de la sérénité, de la sécurité et de son attractivité. Conscients des enjeux complexes qui se présentent, nous tenons à souligner notre engagement inébranlable à contribuer activement à l'amélioration de la qualité de vie de l'ensemble des Douaisiens !

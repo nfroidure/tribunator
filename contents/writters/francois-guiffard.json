@@ -156,6 +156,10 @@
     {
       "date": "2024-02-01T00:00:00Z",
       "id": "2024-02-douai-notre-ville-francois-guiffard"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-francois-guiffard"
     }
   ],
   "sentences": [
@@ -353,6 +357,11 @@
       "id": "2024-02-douai-notre-ville-francois-guiffard",
       "date": "2024-02-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2024-03-douai-notre-ville-francois-guiffard",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -628,6 +637,13 @@
       "positive": 1,
       "neutral": 4,
       "negative": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-francois-guiffard",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 2,
+      "negative": 2
     }
   ],
   "exclamations": [
@@ -824,6 +840,11 @@
     {
       "id": "2024-02-douai-notre-ville-francois-guiffard",
       "date": "2024-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-francois-guiffard",
+      "date": "2024-03-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1022,6 +1043,11 @@
       "id": "2024-02-douai-notre-ville-francois-guiffard",
       "date": "2024-02-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-francois-guiffard",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -1218,6 +1244,11 @@
     {
       "id": "2024-02-douai-notre-ville-francois-guiffard",
       "date": "2024-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-francois-guiffard",
+      "date": "2024-03-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -1416,12 +1447,17 @@
       "id": "2024-02-douai-notre-ville-francois-guiffard",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-francois-guiffard",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "ville",
-      "count": 33
+      "count": 34
     },
     {
       "word": "pouvoir",
@@ -1432,15 +1468,19 @@
       "count": 17
     },
     {
+      "word": "faire",
+      "count": 16
+    },
+    {
       "word": "année",
       "count": 16
     },
     {
-      "word": "faire",
-      "count": 15
+      "word": "autre",
+      "count": 12
     },
     {
-      "word": "autre",
+      "word": "projet",
       "count": 12
     },
     {
@@ -1448,12 +1488,12 @@
       "count": 11
     },
     {
-      "word": "projet",
+      "word": "avoir",
       "count": 11
     },
     {
-      "word": "avoir",
-      "count": 11
+      "word": "municipal",
+      "count": 10
     },
     {
       "word": "dernier",
@@ -1464,7 +1504,7 @@
       "count": 10
     },
     {
-      "word": "municipal",
+      "word": "conseil",
       "count": 9
     },
     {
@@ -1474,10 +1514,6 @@
     {
       "word": "commerce",
       "count": 9
-    },
-    {
-      "word": "conseil",
-      "count": 8
     },
     {
       "word": "agir",
@@ -1493,6 +1529,10 @@
     },
     {
       "word": "cœur",
+      "count": 8
+    },
+    {
+      "word": "sujet",
       "count": 8
     },
     {
@@ -1512,11 +1552,7 @@
       "count": 7
     },
     {
-      "word": "faillir",
-      "count": 7
-    },
-    {
-      "word": "premier",
+      "word": "travail",
       "count": 7
     }
   ],
@@ -1537,18 +1573,19 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1954,
-  "totalSignificantWords": 1007,
+  "totalWords": 2003,
+  "totalSignificantWords": 1028,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 291,
-        "total": 39
+        "count": 295,
+        "total": 40
       },
       "min": {
         "value": 4,
         "ids": [
-          "2022-01-douai-notre-ville-francois-guiffard"
+          "2022-01-douai-notre-ville-francois-guiffard",
+          "2024-03-douai-notre-ville-francois-guiffard"
         ],
         "restLength": 0
       },
@@ -1563,7 +1600,7 @@
     "exclamations": {
       "mean": {
         "count": 34,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1574,7 +1611,7 @@
           "2021-01-douai-notre-ville-francois-guiffard",
           "2021-06-douai-notre-ville-francois-guiffard"
         ],
-        "restLength": 11
+        "restLength": 12
       },
       "max": {
         "value": 2,
@@ -1591,7 +1628,7 @@
     "questions": {
       "mean": {
         "count": 10,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1602,7 +1639,7 @@
           "2021-01-douai-notre-ville-francois-guiffard",
           "2021-02-douai-notre-ville-francois-guiffard"
         ],
-        "restLength": 27
+        "restLength": 28
       },
       "max": {
         "value": 3,
@@ -1614,8 +1651,8 @@
     },
     "bolds": {
       "mean": {
-        "count": 15,
-        "total": 39
+        "count": 16,
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1637,13 +1674,13 @@
           "2022-12-douai-notre-ville-francois-guiffard",
           "2023-02-douai-notre-ville-francois-guiffard"
         ],
-        "restLength": 10
+        "restLength": 11
       }
     },
     "caps": {
       "mean": {
         "count": 1,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1654,7 +1691,7 @@
           "2020-12-douai-notre-ville-francois-guiffard",
           "2021-01-douai-notre-ville-francois-guiffard"
         ],
-        "restLength": 33
+        "restLength": 34
       },
       "max": {
         "value": 1,
@@ -1668,7 +1705,7 @@
       "positive": {
         "mean": {
           "count": 25,
-          "total": 39
+          "total": 40
         },
         "min": {
           "value": 0,
@@ -1679,7 +1716,7 @@
             "2021-04-douai-notre-ville-francois-guiffard",
             "2021-07-douai-notre-ville-francois-guiffard"
           ],
-          "restLength": 14
+          "restLength": 15
         },
         "max": {
           "value": 2,
@@ -1695,14 +1732,15 @@
       },
       "neutral": {
         "mean": {
-          "count": 247,
-          "total": 39
+          "count": 249,
+          "total": 40
         },
         "min": {
           "value": 2,
           "ids": [
             "2022-01-douai-notre-ville-francois-guiffard",
-            "2023-06-douai-notre-ville-francois-guiffard"
+            "2023-06-douai-notre-ville-francois-guiffard",
+            "2024-03-douai-notre-ville-francois-guiffard"
           ],
           "restLength": 0
         },
@@ -1716,8 +1754,8 @@
       },
       "negative": {
         "mean": {
-          "count": 19,
-          "total": 39
+          "count": 21,
+          "total": 40
         },
         "min": {
           "value": 0,
@@ -1734,7 +1772,8 @@
           "value": 2,
           "ids": [
             "2022-06-douai-notre-ville-francois-guiffard",
-            "2023-10-douai-notre-ville-francois-guiffard"
+            "2023-10-douai-notre-ville-francois-guiffard",
+            "2024-03-douai-notre-ville-francois-guiffard"
           ],
           "restLength": 0
         }

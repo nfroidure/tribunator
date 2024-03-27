@@ -8,11 +8,15 @@
   "words": [
     {
       "word": "ville",
-      "count": 22
+      "count": 23
     },
     {
       "word": "année",
       "count": 19
+    },
+    {
+      "word": "femme",
+      "count": 14
     },
     {
       "word": "faire",
@@ -29,10 +33,6 @@
     {
       "word": "association",
       "count": 12
-    },
-    {
-      "word": "femme",
-      "count": 11
     },
     {
       "word": "école",
@@ -55,23 +55,31 @@
       "count": 9
     },
     {
+      "word": "rendre",
+      "count": 9
+    },
+    {
       "word": "nouveau",
       "count": 9
+    },
+    {
+      "word": "premier",
+      "count": 9
+    },
+    {
+      "word": "place",
+      "count": 8
+    },
+    {
+      "word": "pouvoir",
+      "count": 8
     },
     {
       "word": "fête",
       "count": 8
     },
     {
-      "word": "rendre",
-      "count": 8
-    },
-    {
       "word": "famille",
-      "count": 8
-    },
-    {
-      "word": "premier",
       "count": 8
     },
     {
@@ -87,15 +95,7 @@
       "count": 7
     },
     {
-      "word": "place",
-      "count": 7
-    },
-    {
       "word": "proposer",
-      "count": 7
-    },
-    {
-      "word": "pouvoir",
       "count": 7
     },
     {
@@ -103,8 +103,8 @@
       "count": 7
     },
     {
-      "word": "logement",
-      "count": 6
+      "word": "sport",
+      "count": 7
     }
   ],
   "writtings": [
@@ -239,6 +239,10 @@
     {
       "date": "2024-02-01T00:00:00Z",
       "id": "2024-02-douai-notre-ville-yvon-sipieter"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-jamila-mekki"
     }
   ],
   "sentences": [
@@ -406,6 +410,11 @@
       "id": "2024-02-douai-notre-ville-yvon-sipieter",
       "date": "2024-02-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 8
     }
   ],
   "sentiments": [
@@ -639,6 +648,13 @@
       "positive": 0,
       "neutral": 4,
       "negative": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -806,6 +822,11 @@
       "id": "2024-02-douai-notre-ville-yvon-sipieter",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -972,6 +993,11 @@
     {
       "id": "2024-02-douai-notre-ville-yvon-sipieter",
       "date": "2024-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1140,6 +1166,11 @@
       "id": "2024-02-douai-notre-ville-yvon-sipieter",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -1307,6 +1338,11 @@
       "id": "2024-02-douai-notre-ville-yvon-sipieter",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1449,13 +1485,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1589,
-  "totalSignificantWords": 878,
+  "totalWords": 1642,
+  "totalSignificantWords": 898,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 198,
-        "total": 33
+        "count": 206,
+        "total": 34
       },
       "min": {
         "value": 3,
@@ -1474,8 +1510,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 27,
-        "total": 33
+        "count": 28,
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1499,7 +1535,7 @@
     "questions": {
       "mean": {
         "count": 4,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1510,7 +1546,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 24
+        "restLength": 25
       },
       "max": {
         "value": 1,
@@ -1526,7 +1562,7 @@
     "bolds": {
       "mean": {
         "count": 6,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1537,7 +1573,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 26
+        "restLength": 27
       },
       "max": {
         "value": 5,
@@ -1550,7 +1586,7 @@
     "caps": {
       "mean": {
         "count": 10,
-        "total": 33
+        "total": 34
       },
       "min": {
         "value": 0,
@@ -1561,7 +1597,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-03-douai-notre-ville-yvon-sipieter"
         ],
-        "restLength": 25
+        "restLength": 26
       },
       "max": {
         "value": 7,
@@ -1575,7 +1611,7 @@
       "positive": {
         "mean": {
           "count": 9,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1586,7 +1622,7 @@
             "2021-03-douai-notre-ville-yvon-sipieter",
             "2021-04-douai-notre-ville-khadija-ahantat"
           ],
-          "restLength": 19
+          "restLength": 20
         },
         "max": {
           "value": 1,
@@ -1602,8 +1638,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 164,
-          "total": 33
+          "count": 172,
+          "total": 34
         },
         "min": {
           "value": 2,
@@ -1617,7 +1653,8 @@
           "value": 8,
           "ids": [
             "2021-11-douai-notre-ville-anne-sophie-audegond",
-            "2022-10-douai-notre-ville-khadija-ahantat"
+            "2022-10-douai-notre-ville-khadija-ahantat",
+            "2024-03-douai-notre-ville-jamila-mekki"
           ],
           "restLength": 0
         }
@@ -1625,7 +1662,7 @@
       "negative": {
         "mean": {
           "count": 25,
-          "total": 33
+          "total": 34
         },
         "min": {
           "value": 0,
@@ -1636,7 +1673,7 @@
             "2021-10-douai-notre-ville-salima-boukentar",
             "2022-01-douai-notre-ville-maxime-decupper-laud"
           ],
-          "restLength": 8
+          "restLength": 9
         },
         "max": {
           "value": 3,

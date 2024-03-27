@@ -8,15 +8,15 @@
   "words": [
     {
       "word": "ville",
-      "count": 249
+      "count": 251
     },
     {
       "word": "année",
-      "count": 145
+      "count": 147
     },
     {
       "word": "nouveau",
-      "count": 94
+      "count": 96
     },
     {
       "word": "quartier",
@@ -24,23 +24,23 @@
     },
     {
       "word": "avoir",
-      "count": 73
+      "count": 74
     },
     {
       "word": "pouvoir",
-      "count": 68
+      "count": 69
     },
     {
       "word": "grand",
-      "count": 62
+      "count": 63
+    },
+    {
+      "word": "place",
+      "count": 59
     },
     {
       "word": "fête",
       "count": 59
-    },
-    {
-      "word": "place",
-      "count": 58
     },
     {
       "word": "service",
@@ -75,6 +75,10 @@
       "count": 47
     },
     {
+      "word": "autre",
+      "count": 46
+    },
+    {
       "word": "cœur",
       "count": 45
     },
@@ -83,12 +87,12 @@
       "count": 45
     },
     {
-      "word": "autre",
-      "count": 45
+      "word": "lieu",
+      "count": 43
     },
     {
-      "word": "lieu",
-      "count": 42
+      "word": "faire",
+      "count": 41
     },
     {
       "word": "souhaiter",
@@ -101,10 +105,6 @@
     {
       "word": "beau",
       "count": 40
-    },
-    {
-      "word": "faire",
-      "count": 39
     }
   ],
   "writtings": [
@@ -555,6 +555,10 @@
     {
       "date": "2024-02-01T00:00:00Z",
       "id": "2024-02-douai-notre-ville-frederic-chereau"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-frederic-chereau"
     }
   ],
   "sentences": [
@@ -1117,6 +1121,11 @@
       "id": "2024-02-douai-notre-ville-frederic-chereau",
       "date": "2024-02-01T00:00:00Z",
       "count": 18
+    },
+    {
+      "id": "2024-03-douai-notre-ville-frederic-chereau",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 13
     }
   ],
   "sentiments": [
@@ -1903,6 +1912,13 @@
       "positive": 0,
       "neutral": 17,
       "negative": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-frederic-chereau",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 4,
+      "neutral": 7,
+      "negative": 2
     }
   ],
   "exclamations": [
@@ -2465,6 +2481,11 @@
       "id": "2024-02-douai-notre-ville-frederic-chereau",
       "date": "2024-02-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2024-03-douai-notre-ville-frederic-chereau",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 4
     }
   ],
   "questions": [
@@ -3026,6 +3047,11 @@
     {
       "id": "2024-02-douai-notre-ville-frederic-chereau",
       "date": "2024-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-frederic-chereau",
+      "date": "2024-03-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -3589,6 +3615,11 @@
       "id": "2024-02-douai-notre-ville-frederic-chereau",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-frederic-chereau",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -4151,6 +4182,11 @@
       "id": "2024-02-douai-notre-ville-frederic-chereau",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-frederic-chereau",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -4189,13 +4225,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 11214,
-  "totalSignificantWords": 2624,
+  "totalWords": 11317,
+  "totalSignificantWords": 2637,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 1400,
-        "total": 112
+        "count": 1413,
+        "total": 113
       },
       "min": {
         "value": 5,
@@ -4215,8 +4251,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 215,
-        "total": 112
+        "count": 219,
+        "total": 113
       },
       "min": {
         "value": 0,
@@ -4240,7 +4276,7 @@
     "questions": {
       "mean": {
         "count": 25,
-        "total": 112
+        "total": 113
       },
       "min": {
         "value": 0,
@@ -4251,7 +4287,7 @@
           "2014-10-douai-notre-ville-frederic-chereau",
           "2014-11-douai-notre-ville-frederic-chereau"
         ],
-        "restLength": 89
+        "restLength": 90
       },
       "max": {
         "value": 3,
@@ -4265,31 +4301,7 @@
     "bolds": {
       "mean": {
         "count": 7,
-        "total": 112
-      },
-      "min": {
-        "value": 0,
-        "ids": [
-          "2014-05-douai-notre-ville-frederic-chereau",
-          "2014-07-douai-notre-ville-frederic-chereau",
-          "2014-09-douai-notre-ville-frederic-chereau",
-          "2014-11-douai-notre-ville-frederic-chereau",
-          "2014-12-douai-notre-ville-frederic-chereau"
-        ],
-        "restLength": 102
-      },
-      "max": {
-        "value": 3,
-        "ids": [
-          "2021-06-douai-notre-ville-frederic-chereau"
-        ],
-        "restLength": 0
-      }
-    },
-    "caps": {
-      "mean": {
-        "count": 5,
-        "total": 112
+        "total": 113
       },
       "min": {
         "value": 0,
@@ -4303,6 +4315,30 @@
         "restLength": 103
       },
       "max": {
+        "value": 3,
+        "ids": [
+          "2021-06-douai-notre-ville-frederic-chereau"
+        ],
+        "restLength": 0
+      }
+    },
+    "caps": {
+      "mean": {
+        "count": 5,
+        "total": 113
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-05-douai-notre-ville-frederic-chereau",
+          "2014-07-douai-notre-ville-frederic-chereau",
+          "2014-09-douai-notre-ville-frederic-chereau",
+          "2014-11-douai-notre-ville-frederic-chereau",
+          "2014-12-douai-notre-ville-frederic-chereau"
+        ],
+        "restLength": 104
+      },
+      "max": {
         "value": 2,
         "ids": [
           "2015-10-douai-notre-ville-frederic-chereau"
@@ -4313,8 +4349,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 144,
-          "total": 112
+          "count": 148,
+          "total": 113
         },
         "min": {
           "value": 0,
@@ -4336,13 +4372,13 @@
             "2021-07-douai-notre-ville-frederic-chereau",
             "2023-01-douai-notre-ville-frederic-chereau"
           ],
-          "restLength": 0
+          "restLength": 1
         }
       },
       "neutral": {
         "mean": {
-          "count": 1081,
-          "total": 112
+          "count": 1088,
+          "total": 113
         },
         "min": {
           "value": 2,
@@ -4361,8 +4397,8 @@
       },
       "negative": {
         "mean": {
-          "count": 174,
-          "total": 112
+          "count": 176,
+          "total": 113
         },
         "min": {
           "value": 0,

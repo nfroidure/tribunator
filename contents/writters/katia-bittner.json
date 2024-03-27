@@ -28,6 +28,10 @@
     {
       "date": "2023-10-01T00:00:00Z",
       "id": "2023-10-douai-notre-ville-katia-bittner"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-katia-bittner"
     }
   ],
   "sentences": [
@@ -65,6 +69,11 @@
       "id": "2023-10-douai-notre-ville-katia-bittner",
       "date": "2023-10-01T00:00:00Z",
       "count": 8
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 9
     }
   ],
   "sentiments": [
@@ -116,6 +125,13 @@
       "positive": 0,
       "neutral": 7,
       "negative": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -153,6 +169,11 @@
       "id": "2023-10-douai-notre-ville-katia-bittner",
       "date": "2023-10-01T00:00:00Z",
       "count": 6
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -189,6 +210,11 @@
     {
       "id": "2023-10-douai-notre-ville-katia-bittner",
       "date": "2023-10-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -227,6 +253,11 @@
       "id": "2023-10-douai-notre-ville-katia-bittner",
       "date": "2023-10-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -264,27 +295,44 @@
       "id": "2023-10-douai-notre-ville-katia-bittner",
       "date": "2023-10-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "santé",
-      "count": 21
+      "count": 23
     },
     {
       "word": "sport",
-      "count": 11
+      "count": 16
     },
     {
       "word": "sportif",
-      "count": 8
+      "count": 10
     },
     {
       "word": "parc",
       "count": 6
     },
     {
+      "word": "année",
+      "count": 5
+    },
+    {
       "word": "faire",
+      "count": 4
+    },
+    {
+      "word": "activité",
+      "count": 4
+    },
+    {
+      "word": "permettre",
       "count": 4
     },
     {
@@ -296,11 +344,23 @@
       "count": 4
     },
     {
+      "word": "ordonnance",
+      "count": 4
+    },
+    {
+      "word": "adapter",
+      "count": 4
+    },
+    {
+      "word": "association",
+      "count": 4
+    },
+    {
       "word": "école",
       "count": 4
     },
     {
-      "word": "année",
+      "word": "pouvoir",
       "count": 4
     },
     {
@@ -312,10 +372,6 @@
       "count": 3
     },
     {
-      "word": "activité",
-      "count": 3
-    },
-    {
       "word": "physique",
       "count": 3
     },
@@ -324,15 +380,11 @@
       "count": 3
     },
     {
-      "word": "ordonnance",
+      "word": "développer",
       "count": 3
     },
     {
-      "word": "adapter",
-      "count": 3
-    },
-    {
-      "word": "association",
+      "word": "côté",
       "count": 3
     },
     {
@@ -348,24 +400,8 @@
       "count": 3
     },
     {
-      "word": "pouvoir",
+      "word": "priorité",
       "count": 3
-    },
-    {
-      "word": "cadre",
-      "count": 3
-    },
-    {
-      "word": "occuper",
-      "count": 3
-    },
-    {
-      "word": "piscine",
-      "count": 3
-    },
-    {
-      "word": "succès",
-      "count": 2
     }
   ],
   "portrait": "katia-bittner.jpg",
@@ -385,13 +421,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 365,
-  "totalSignificantWords": 234,
+  "totalWords": 418,
+  "totalSignificantWords": 258,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 42,
-        "total": 7
+        "count": 51,
+        "total": 8
       },
       "min": {
         "value": 4,
@@ -401,17 +437,17 @@
         "restLength": 0
       },
       "max": {
-        "value": 8,
+        "value": 9,
         "ids": [
-          "2023-10-douai-notre-ville-katia-bittner"
+          "2024-03-douai-notre-ville-katia-bittner"
         ],
         "restLength": 0
       }
     },
     "exclamations": {
       "mean": {
-        "count": 18,
-        "total": 7
+        "count": 19,
+        "total": 8
       },
       "min": {
         "value": 0,
@@ -431,7 +467,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 7
+        "total": 8
       },
       "min": {
         "value": 0,
@@ -442,7 +478,7 @@
           "2022-07-douai-notre-ville-katia-bittner",
           "2023-01-douai-notre-ville-katia-bittner"
         ],
-        "restLength": 2
+        "restLength": 3
       },
       "max": {
         "value": 0,
@@ -453,13 +489,13 @@
           "2022-07-douai-notre-ville-katia-bittner",
           "2023-01-douai-notre-ville-katia-bittner"
         ],
-        "restLength": 2
+        "restLength": 3
       }
     },
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 7
+        "total": 8
       },
       "min": {
         "value": 0,
@@ -470,7 +506,7 @@
           "2022-07-douai-notre-ville-katia-bittner",
           "2023-01-douai-notre-ville-katia-bittner"
         ],
-        "restLength": 2
+        "restLength": 3
       },
       "max": {
         "value": 0,
@@ -481,13 +517,13 @@
           "2022-07-douai-notre-ville-katia-bittner",
           "2023-01-douai-notre-ville-katia-bittner"
         ],
-        "restLength": 2
+        "restLength": 3
       }
     },
     "caps": {
       "mean": {
         "count": 1,
-        "total": 7
+        "total": 8
       },
       "min": {
         "value": 0,
@@ -498,7 +534,7 @@
           "2023-01-douai-notre-ville-katia-bittner",
           "2023-06-douai-notre-ville-katia-bittner"
         ],
-        "restLength": 1
+        "restLength": 2
       },
       "max": {
         "value": 1,
@@ -511,8 +547,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 2,
-          "total": 7
+          "count": 3,
+          "total": 8
         },
         "min": {
           "value": 0,
@@ -529,15 +565,16 @@
           "value": 1,
           "ids": [
             "2021-05-douai-notre-ville-katia-bittner",
-            "2022-07-douai-notre-ville-katia-bittner"
+            "2022-07-douai-notre-ville-katia-bittner",
+            "2024-03-douai-notre-ville-katia-bittner"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 35,
-          "total": 7
+          "count": 42,
+          "total": 8
         },
         "min": {
           "value": 3,
@@ -550,15 +587,16 @@
           "value": 7,
           "ids": [
             "2023-01-douai-notre-ville-katia-bittner",
-            "2023-10-douai-notre-ville-katia-bittner"
+            "2023-10-douai-notre-ville-katia-bittner",
+            "2024-03-douai-notre-ville-katia-bittner"
           ],
           "restLength": 0
         }
       },
       "negative": {
         "mean": {
-          "count": 5,
-          "total": 7
+          "count": 6,
+          "total": 8
         },
         "min": {
           "value": 0,

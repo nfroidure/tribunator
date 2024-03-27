@@ -96,6 +96,10 @@
     {
       "date": "2024-01-01T00:00:00Z",
       "id": "2024-01-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-auriane-delbarre"
     }
   ],
   "sentences": [
@@ -218,6 +222,11 @@
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
       "count": 8
+    },
+    {
+      "id": "2024-03-douai-notre-ville-auriane-delbarre",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 6
     }
   ],
   "sentiments": [
@@ -388,6 +397,13 @@
       "positive": 2,
       "neutral": 5,
       "negative": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-auriane-delbarre",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 2,
+      "neutral": 2,
+      "negative": 2
     }
   ],
   "exclamations": [
@@ -509,6 +525,11 @@
     {
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-auriane-delbarre",
+      "date": "2024-03-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -632,6 +653,11 @@
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-auriane-delbarre",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -753,6 +779,11 @@
     {
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-auriane-delbarre",
+      "date": "2024-03-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -876,6 +907,11 @@
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-auriane-delbarre",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
@@ -889,11 +925,11 @@
     },
     {
       "word": "douaisiens",
-      "count": 15
+      "count": 16
     },
     {
       "word": "année",
-      "count": 13
+      "count": 14
     },
     {
       "word": "service",
@@ -905,6 +941,10 @@
     },
     {
       "word": "culture",
+      "count": 10
+    },
+    {
+      "word": "musée",
       "count": 10
     },
     {
@@ -932,11 +972,19 @@
       "count": 8
     },
     {
+      "word": "nationale",
+      "count": 7
+    },
+    {
       "word": "pouvoir",
       "count": 7
     },
     {
       "word": "culturel",
+      "count": 7
+    },
+    {
+      "word": "ville",
       "count": 7
     },
     {
@@ -948,15 +996,7 @@
       "count": 7
     },
     {
-      "word": "musée",
-      "count": 7
-    },
-    {
       "word": "sanitaire",
-      "count": 6
-    },
-    {
-      "word": "ville",
       "count": 6
     },
     {
@@ -974,10 +1014,6 @@
     {
       "word": "jour",
       "count": 6
-    },
-    {
-      "word": "fait",
-      "count": 5
     }
   ],
   "portrait": "auriane-delbarre.jpg",
@@ -997,13 +1033,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1167,
-  "totalSignificantWords": 648,
+  "totalWords": 1215,
+  "totalSignificantWords": 669,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 134,
-        "total": 24
+        "count": 140,
+        "total": 25
       },
       "min": {
         "value": 2,
@@ -1023,7 +1059,7 @@
     "exclamations": {
       "mean": {
         "count": 3,
-        "total": 24
+        "total": 25
       },
       "min": {
         "value": 0,
@@ -1034,7 +1070,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 16
+        "restLength": 17
       },
       "max": {
         "value": 1,
@@ -1049,7 +1085,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 24
+        "total": 25
       },
       "min": {
         "value": 0,
@@ -1060,7 +1096,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 19
+        "restLength": 20
       },
       "max": {
         "value": 0,
@@ -1071,13 +1107,13 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 19
+        "restLength": 20
       }
     },
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 24
+        "total": 25
       },
       "min": {
         "value": 0,
@@ -1088,7 +1124,7 @@
           "2021-01-douai-notre-ville-auriane-delbarre",
           "2021-04-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 18
+        "restLength": 19
       },
       "max": {
         "value": 1,
@@ -1101,7 +1137,7 @@
     "caps": {
       "mean": {
         "count": 8,
-        "total": 24
+        "total": 25
       },
       "min": {
         "value": 0,
@@ -1112,7 +1148,7 @@
           "2021-06-douai-notre-ville-auriane-delbarre",
           "2021-11-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 11
+        "restLength": 12
       },
       "max": {
         "value": 1,
@@ -1129,8 +1165,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 14,
-          "total": 24
+          "count": 16,
+          "total": 25
         },
         "min": {
           "value": 0,
@@ -1153,15 +1189,16 @@
       },
       "neutral": {
         "mean": {
-          "count": 107,
-          "total": 24
+          "count": 109,
+          "total": 25
         },
         "min": {
           "value": 2,
           "ids": [
             "2021-10-douai-notre-ville-auriane-delbarre",
             "2023-01-douai-notre-ville-auriane-delbarre",
-            "2023-05-douai-notre-ville-auriane-delbarre"
+            "2023-05-douai-notre-ville-auriane-delbarre",
+            "2024-03-douai-notre-ville-auriane-delbarre"
           ],
           "restLength": 0
         },
@@ -1175,8 +1212,8 @@
       },
       "negative": {
         "mean": {
-          "count": 13,
-          "total": 24
+          "count": 15,
+          "total": 25
         },
         "min": {
           "value": 0,
@@ -1192,7 +1229,8 @@
         "max": {
           "value": 2,
           "ids": [
-            "2023-01-douai-notre-ville-auriane-delbarre"
+            "2023-01-douai-notre-ville-auriane-delbarre",
+            "2024-03-douai-notre-ville-auriane-delbarre"
           ],
           "restLength": 0
         }

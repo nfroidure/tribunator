@@ -11,16 +11,20 @@
       "count": 32
     },
     {
+      "word": "santé",
+      "count": 24
+    },
+    {
       "word": "quartier",
       "count": 24
     },
     {
-      "word": "santé",
-      "count": 22
-    },
-    {
       "word": "conseil",
       "count": 19
+    },
+    {
+      "word": "sport",
+      "count": 18
     },
     {
       "word": "aménagement",
@@ -31,15 +35,19 @@
       "count": 15
     },
     {
+      "word": "année",
+      "count": 15
+    },
+    {
+      "word": "pouvoir",
+      "count": 14
+    },
+    {
       "word": "public",
       "count": 14
     },
     {
       "word": "citoyen",
-      "count": 14
-    },
-    {
-      "word": "année",
       "count": 14
     },
     {
@@ -51,12 +59,8 @@
       "count": 13
     },
     {
-      "word": "pouvoir",
-      "count": 13
-    },
-    {
-      "word": "sport",
-      "count": 13
+      "word": "sportif",
+      "count": 12
     },
     {
       "word": "face",
@@ -67,15 +71,15 @@
       "count": 12
     },
     {
+      "word": "avoir",
+      "count": 11
+    },
+    {
       "word": "cadre",
       "count": 10
     },
     {
-      "word": "avoir",
-      "count": 10
-    },
-    {
-      "word": "sportif",
+      "word": "association",
       "count": 10
     },
     {
@@ -87,11 +91,11 @@
       "count": 10
     },
     {
-      "word": "jardin",
+      "word": "permettre",
       "count": 9
     },
     {
-      "word": "association",
+      "word": "jardin",
       "count": 9
     },
     {
@@ -100,10 +104,6 @@
     },
     {
       "word": "transition",
-      "count": 8
-    },
-    {
-      "word": "faire",
       "count": 8
     }
   ],
@@ -263,6 +263,10 @@
     {
       "date": "2024-02-01T00:00:00Z",
       "id": "2024-02-douai-notre-ville-yves-piquot"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-katia-bittner"
     }
   ],
   "sentences": [
@@ -460,6 +464,11 @@
       "id": "2024-02-douai-notre-ville-yves-piquot",
       "date": "2024-02-01T00:00:00Z",
       "count": 4
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 9
     }
   ],
   "sentiments": [
@@ -735,6 +744,13 @@
       "positive": 1,
       "neutral": 3,
       "negative": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -931,6 +947,11 @@
     {
       "id": "2024-02-douai-notre-ville-yves-piquot",
       "date": "2024-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -1129,6 +1150,11 @@
       "id": "2024-02-douai-notre-ville-yves-piquot",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -1325,6 +1351,11 @@
     {
       "id": "2024-02-douai-notre-ville-yves-piquot",
       "date": "2024-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1523,6 +1554,11 @@
       "id": "2024-02-douai-notre-ville-yves-piquot",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-katia-bittner",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1585,13 +1621,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1932,
-  "totalSignificantWords": 928,
+  "totalWords": 1985,
+  "totalSignificantWords": 943,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 213,
-        "total": 39
+        "count": 222,
+        "total": 40
       },
       "min": {
         "value": 4,
@@ -1607,15 +1643,16 @@
       "max": {
         "value": 9,
         "ids": [
-          "2022-12-douai-notre-ville-guy-caruyer"
+          "2022-12-douai-notre-ville-guy-caruyer",
+          "2024-03-douai-notre-ville-katia-bittner"
         ],
         "restLength": 0
       }
     },
     "exclamations": {
       "mean": {
-        "count": 32,
-        "total": 39
+        "count": 33,
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1639,7 +1676,7 @@
     "questions": {
       "mean": {
         "count": 6,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1650,7 +1687,7 @@
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-01-douai-notre-ville-jean-christophe-leclercq"
         ],
-        "restLength": 30
+        "restLength": 31
       },
       "max": {
         "value": 3,
@@ -1663,7 +1700,7 @@
     "bolds": {
       "mean": {
         "count": 4,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1674,7 +1711,7 @@
           "2020-12-douai-notre-ville-yves-piquot",
           "2021-01-douai-notre-ville-jean-christophe-leclercq"
         ],
-        "restLength": 33
+        "restLength": 34
       },
       "max": {
         "value": 4,
@@ -1687,7 +1724,7 @@
     "caps": {
       "mean": {
         "count": 5,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1698,7 +1735,7 @@
           "2021-01-douai-notre-ville-jean-christophe-leclercq",
           "2021-02-douai-notre-ville-guy-caruyer"
         ],
-        "restLength": 30
+        "restLength": 31
       },
       "max": {
         "value": 2,
@@ -1711,8 +1748,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 18,
-          "total": 39
+          "count": 19,
+          "total": 40
         },
         "min": {
           "value": 0,
@@ -1735,8 +1772,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 172,
-          "total": 39
+          "count": 179,
+          "total": 40
         },
         "min": {
           "value": 1,
@@ -1755,8 +1792,8 @@
       },
       "negative": {
         "mean": {
-          "count": 23,
-          "total": 39
+          "count": 24,
+          "total": 40
         },
         "min": {
           "value": 0,

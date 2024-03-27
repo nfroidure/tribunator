@@ -8,6 +8,10 @@
     {
       "date": "2023-03-01T00:00:00Z",
       "id": "2023-03-douai-notre-ville-jamila-mekki"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-jamila-mekki"
     }
   ],
   "sentences": [
@@ -20,6 +24,11 @@
       "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 7
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 8
     }
   ],
   "sentiments": [
@@ -36,6 +45,13 @@
       "positive": 0,
       "neutral": 6,
       "negative": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -47,6 +63,11 @@
     {
       "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -60,6 +81,11 @@
       "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -72,6 +98,11 @@
       "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -84,12 +115,21 @@
       "id": "2023-03-douai-notre-ville-jamila-mekki",
       "date": "2023-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-jamila-mekki",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "femme",
-      "count": 6
+      "count": 9
+    },
+    {
+      "word": "olympique",
+      "count": 5
     },
     {
       "word": "journée",
@@ -104,7 +144,15 @@
       "count": 3
     },
     {
+      "word": "ville",
+      "count": 3
+    },
+    {
       "word": "marquer",
+      "count": 2
+    },
+    {
+      "word": "date",
       "count": 2
     },
     {
@@ -116,15 +164,19 @@
       "count": 2
     },
     {
+      "word": "rappeler",
+      "count": 2
+    },
+    {
+      "word": "reste",
+      "count": 2
+    },
+    {
       "word": "domaine",
       "count": 2
     },
     {
       "word": "associatif",
-      "count": 2
-    },
-    {
-      "word": "ville",
       "count": 2
     },
     {
@@ -136,6 +188,10 @@
       "count": 2
     },
     {
+      "word": "rendre",
+      "count": 2
+    },
+    {
       "word": "autre",
       "count": 2
     },
@@ -144,8 +200,16 @@
       "count": 2
     },
     {
-      "word": "date",
-      "count": 1
+      "word": "dire",
+      "count": 2
+    },
+    {
+      "word": "accueillir",
+      "count": 2
+    },
+    {
+      "word": "sport",
+      "count": 2
     },
     {
       "word": "servir",
@@ -157,34 +221,6 @@
     },
     {
       "word": "conscience",
-      "count": 1
-    },
-    {
-      "word": "rappeler",
-      "count": 1
-    },
-    {
-      "word": "dysfonctionnement",
-      "count": 1
-    },
-    {
-      "word": "société",
-      "count": 1
-    },
-    {
-      "word": "effort",
-      "count": 1
-    },
-    {
-      "word": "reste",
-      "count": 1
-    },
-    {
-      "word": "fierté",
-      "count": 1
-    },
-    {
-      "word": "hommes-femmes",
       "count": 1
     }
   ],
@@ -205,13 +241,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 100,
-  "totalSignificantWords": 74,
+  "totalWords": 153,
+  "totalSignificantWords": 110,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 14,
-        "total": 2
+        "count": 22,
+        "total": 3
       },
       "min": {
         "value": 7,
@@ -222,18 +258,17 @@
         "restLength": 0
       },
       "max": {
-        "value": 7,
+        "value": 8,
         "ids": [
-          "2022-03-douai-notre-ville-jamila-mekki",
-          "2023-03-douai-notre-ville-jamila-mekki"
+          "2024-03-douai-notre-ville-jamila-mekki"
         ],
         "restLength": 0
       }
     },
     "exclamations": {
       "mean": {
-        "count": 1,
-        "total": 2
+        "count": 2,
+        "total": 3
       },
       "min": {
         "value": 0,
@@ -245,7 +280,8 @@
       "max": {
         "value": 1,
         "ids": [
-          "2023-03-douai-notre-ville-jamila-mekki"
+          "2023-03-douai-notre-ville-jamila-mekki",
+          "2024-03-douai-notre-ville-jamila-mekki"
         ],
         "restLength": 0
       }
@@ -253,13 +289,14 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2022-03-douai-notre-ville-jamila-mekki",
-          "2023-03-douai-notre-ville-jamila-mekki"
+          "2023-03-douai-notre-ville-jamila-mekki",
+          "2024-03-douai-notre-ville-jamila-mekki"
         ],
         "restLength": 0
       },
@@ -267,7 +304,8 @@
         "value": 0,
         "ids": [
           "2022-03-douai-notre-ville-jamila-mekki",
-          "2023-03-douai-notre-ville-jamila-mekki"
+          "2023-03-douai-notre-ville-jamila-mekki",
+          "2024-03-douai-notre-ville-jamila-mekki"
         ],
         "restLength": 0
       }
@@ -275,12 +313,13 @@
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
-          "2022-03-douai-notre-ville-jamila-mekki"
+          "2022-03-douai-notre-ville-jamila-mekki",
+          "2024-03-douai-notre-ville-jamila-mekki"
         ],
         "restLength": 0
       },
@@ -295,13 +334,14 @@
     "caps": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2022-03-douai-notre-ville-jamila-mekki",
-          "2023-03-douai-notre-ville-jamila-mekki"
+          "2023-03-douai-notre-ville-jamila-mekki",
+          "2024-03-douai-notre-ville-jamila-mekki"
         ],
         "restLength": 0
       },
@@ -309,7 +349,8 @@
         "value": 0,
         "ids": [
           "2022-03-douai-notre-ville-jamila-mekki",
-          "2023-03-douai-notre-ville-jamila-mekki"
+          "2023-03-douai-notre-ville-jamila-mekki",
+          "2024-03-douai-notre-ville-jamila-mekki"
         ],
         "restLength": 0
       }
@@ -318,12 +359,13 @@
       "positive": {
         "mean": {
           "count": 1,
-          "total": 2
+          "total": 3
         },
         "min": {
           "value": 0,
           "ids": [
-            "2023-03-douai-notre-ville-jamila-mekki"
+            "2023-03-douai-notre-ville-jamila-mekki",
+            "2024-03-douai-notre-ville-jamila-mekki"
           ],
           "restLength": 0
         },
@@ -337,8 +379,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 11,
-          "total": 2
+          "count": 19,
+          "total": 3
         },
         "min": {
           "value": 5,
@@ -348,9 +390,9 @@
           "restLength": 0
         },
         "max": {
-          "value": 6,
+          "value": 8,
           "ids": [
-            "2023-03-douai-notre-ville-jamila-mekki"
+            "2024-03-douai-notre-ville-jamila-mekki"
           ],
           "restLength": 0
         }
@@ -358,13 +400,12 @@
       "negative": {
         "mean": {
           "count": 2,
-          "total": 2
+          "total": 3
         },
         "min": {
-          "value": 1,
+          "value": 0,
           "ids": [
-            "2022-03-douai-notre-ville-jamila-mekki",
-            "2023-03-douai-notre-ville-jamila-mekki"
+            "2024-03-douai-notre-ville-jamila-mekki"
           ],
           "restLength": 0
         },

@@ -112,6 +112,10 @@
     {
       "date": "2024-02-01T00:00:00Z",
       "id": "2024-02-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2024-03-01T00:00:00Z",
+      "id": "2024-03-douai-notre-ville-coline-craeye"
     }
   ],
   "sentences": [
@@ -254,6 +258,11 @@
       "id": "2024-02-douai-notre-ville-coline-craeye",
       "date": "2024-02-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2024-03-douai-notre-ville-coline-craeye",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -452,6 +461,13 @@
       "positive": 0,
       "neutral": 4,
       "negative": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-coline-craeye",
+      "date": "2024-03-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -593,6 +609,11 @@
     {
       "id": "2024-02-douai-notre-ville-coline-craeye",
       "date": "2024-02-01T00:00:00Z",
+      "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-coline-craeye",
+      "date": "2024-03-01T00:00:00Z",
       "count": 1
     }
   ],
@@ -736,6 +757,11 @@
       "id": "2024-02-douai-notre-ville-coline-craeye",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-coline-craeye",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -878,6 +904,11 @@
       "id": "2024-02-douai-notre-ville-coline-craeye",
       "date": "2024-02-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-03-douai-notre-ville-coline-craeye",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 2
     }
   ],
   "caps": [
@@ -1020,16 +1051,21 @@
       "id": "2024-02-douai-notre-ville-coline-craeye",
       "date": "2024-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-03-douai-notre-ville-coline-craeye",
+      "date": "2024-03-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "année",
-      "count": 21
+      "count": 22
     },
     {
       "word": "sécurité",
-      "count": 17
+      "count": 18
     },
     {
       "word": "enfant",
@@ -1041,7 +1077,15 @@
     },
     {
       "word": "faire",
-      "count": 11
+      "count": 12
+    },
+    {
+      "word": "investissement",
+      "count": 12
+    },
+    {
+      "word": "école",
+      "count": 12
     },
     {
       "word": "majorité",
@@ -1052,15 +1096,15 @@
       "count": 11
     },
     {
-      "word": "investissement",
-      "count": 11
-    },
-    {
-      "word": "école",
-      "count": 11
-    },
-    {
       "word": "rentrée",
+      "count": 10
+    },
+    {
+      "word": "équipe",
+      "count": 10
+    },
+    {
+      "word": "moyen",
       "count": 10
     },
     {
@@ -1072,15 +1116,7 @@
       "count": 10
     },
     {
-      "word": "équipe",
-      "count": 9
-    },
-    {
       "word": "douaisiens",
-      "count": 9
-    },
-    {
-      "word": "moyen",
       "count": 9
     },
     {
@@ -1089,6 +1125,10 @@
     },
     {
       "word": "santé",
+      "count": 8
+    },
+    {
+      "word": "municipal",
       "count": 8
     },
     {
@@ -1118,10 +1158,6 @@
     {
       "word": "municipale",
       "count": 7
-    },
-    {
-      "word": "municipal",
-      "count": 6
     }
   ],
   "portrait": "coline-craeye.jpg",
@@ -1141,13 +1177,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1446,
-  "totalSignificantWords": 769,
+  "totalWords": 1498,
+  "totalSignificantWords": 786,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 171,
-        "total": 28
+        "count": 175,
+        "total": 29
       },
       "min": {
         "value": 3,
@@ -1166,8 +1202,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 43,
-        "total": 28
+        "count": 44,
+        "total": 29
       },
       "min": {
         "value": 0,
@@ -1194,7 +1230,7 @@
     "questions": {
       "mean": {
         "count": 4,
-        "total": 28
+        "total": 29
       },
       "min": {
         "value": 0,
@@ -1205,7 +1241,7 @@
           "2021-01-douai-notre-ville-coline-craeye",
           "2021-02-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 19
+        "restLength": 20
       },
       "max": {
         "value": 1,
@@ -1220,8 +1256,8 @@
     },
     "bolds": {
       "mean": {
-        "count": 27,
-        "total": 28
+        "count": 29,
+        "total": 29
       },
       "min": {
         "value": 0,
@@ -1238,7 +1274,8 @@
         "ids": [
           "2021-12-douai-notre-ville-coline-craeye",
           "2023-06-douai-notre-ville-coline-craeye",
-          "2023-10-douai-notre-ville-coline-craeye"
+          "2023-10-douai-notre-ville-coline-craeye",
+          "2024-03-douai-notre-ville-coline-craeye"
         ],
         "restLength": 0
       }
@@ -1246,7 +1283,7 @@
     "caps": {
       "mean": {
         "count": 3,
-        "total": 28
+        "total": 29
       },
       "min": {
         "value": 0,
@@ -1257,7 +1294,7 @@
           "2021-04-douai-notre-ville-coline-craeye",
           "2021-06-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 20
+        "restLength": 21
       },
       "max": {
         "value": 1,
@@ -1273,7 +1310,7 @@
       "positive": {
         "mean": {
           "count": 20,
-          "total": 28
+          "total": 29
         },
         "min": {
           "value": 0,
@@ -1284,7 +1321,7 @@
             "2021-12-douai-notre-ville-coline-craeye",
             "2022-07-douai-notre-ville-coline-craeye"
           ],
-          "restLength": 9
+          "restLength": 10
         },
         "max": {
           "value": 3,
@@ -1297,8 +1334,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 132,
-          "total": 28
+          "count": 136,
+          "total": 29
         },
         "min": {
           "value": 2,
@@ -1322,7 +1359,7 @@
       "negative": {
         "mean": {
           "count": 19,
-          "total": 28
+          "total": 29
         },
         "min": {
           "value": 0,
@@ -1333,7 +1370,7 @@
             "2021-09-douai-notre-ville-coline-craeye",
             "2021-12-douai-notre-ville-coline-craeye"
           ],
-          "restLength": 8
+          "restLength": 9
         },
         "max": {
           "value": 2,
