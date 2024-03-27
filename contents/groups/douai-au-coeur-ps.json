@@ -19,20 +19,20 @@
       "count": 96
     },
     {
+      "word": "avoir",
+      "count": 75
+    },
+    {
       "word": "quartier",
       "count": 75
     },
     {
-      "word": "avoir",
-      "count": 74
-    },
-    {
       "word": "pouvoir",
-      "count": 69
+      "count": 70
     },
     {
       "word": "grand",
-      "count": 63
+      "count": 64
     },
     {
       "word": "place",
@@ -52,7 +52,15 @@
     },
     {
       "word": "travail",
-      "count": 52
+      "count": 53
+    },
+    {
+      "word": "conseil",
+      "count": 49
+    },
+    {
+      "word": "association",
+      "count": 49
     },
     {
       "word": "enfant",
@@ -63,15 +71,7 @@
       "count": 49
     },
     {
-      "word": "association",
-      "count": 48
-    },
-    {
       "word": "habitant",
-      "count": 47
-    },
-    {
-      "word": "conseil",
       "count": 47
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "word": "faire",
-      "count": 41
+      "count": 42
     },
     {
       "word": "souhaiter",
@@ -559,6 +559,10 @@
     {
       "date": "2024-03-01T00:00:00Z",
       "id": "2024-03-douai-notre-ville-frederic-chereau"
+    },
+    {
+      "date": "2024-04-01T00:00:00Z",
+      "id": "2024-04-douai-notre-ville-frederic-chereau"
     }
   ],
   "sentences": [
@@ -1126,6 +1130,11 @@
       "id": "2024-03-douai-notre-ville-frederic-chereau",
       "date": "2024-03-01T00:00:00Z",
       "count": 13
+    },
+    {
+      "id": "2024-04-douai-notre-ville-frederic-chereau",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 14
     }
   ],
   "sentiments": [
@@ -1919,6 +1928,13 @@
       "positive": 4,
       "neutral": 7,
       "negative": 2
+    },
+    {
+      "id": "2024-04-douai-notre-ville-frederic-chereau",
+      "date": "2024-04-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -2486,6 +2502,11 @@
       "id": "2024-03-douai-notre-ville-frederic-chereau",
       "date": "2024-03-01T00:00:00Z",
       "count": 4
+    },
+    {
+      "id": "2024-04-douai-notre-ville-frederic-chereau",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -3052,6 +3073,11 @@
     {
       "id": "2024-03-douai-notre-ville-frederic-chereau",
       "date": "2024-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-frederic-chereau",
+      "date": "2024-04-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -3620,6 +3646,11 @@
       "id": "2024-03-douai-notre-ville-frederic-chereau",
       "date": "2024-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-frederic-chereau",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -4187,6 +4218,11 @@
       "id": "2024-03-douai-notre-ville-frederic-chereau",
       "date": "2024-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-frederic-chereau",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -4215,6 +4251,14 @@
       "portrait": "frederic-chereau.jpg"
     },
     {
+      "id": "frederic-chereau",
+      "name": "Frédéric CHÉREAU,",
+      "mandates": [
+        "Maire de Douai"
+      ],
+      "portrait": "frederic-chereau.jpg"
+    },
+    {
       "id": "jean-marie-dupire",
       "name": "Jean-Marie DUPIRE",
       "mandates": [
@@ -4225,13 +4269,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 11317,
-  "totalSignificantWords": 2637,
+  "totalWords": 11429,
+  "totalSignificantWords": 2650,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 1413,
-        "total": 113
+        "count": 1427,
+        "total": 114
       },
       "min": {
         "value": 5,
@@ -4251,8 +4295,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 219,
-        "total": 113
+        "count": 220,
+        "total": 114
       },
       "min": {
         "value": 0,
@@ -4276,7 +4320,7 @@
     "questions": {
       "mean": {
         "count": 25,
-        "total": 113
+        "total": 114
       },
       "min": {
         "value": 0,
@@ -4287,7 +4331,7 @@
           "2014-10-douai-notre-ville-frederic-chereau",
           "2014-11-douai-notre-ville-frederic-chereau"
         ],
-        "restLength": 90
+        "restLength": 91
       },
       "max": {
         "value": 3,
@@ -4301,31 +4345,7 @@
     "bolds": {
       "mean": {
         "count": 7,
-        "total": 113
-      },
-      "min": {
-        "value": 0,
-        "ids": [
-          "2014-05-douai-notre-ville-frederic-chereau",
-          "2014-07-douai-notre-ville-frederic-chereau",
-          "2014-09-douai-notre-ville-frederic-chereau",
-          "2014-11-douai-notre-ville-frederic-chereau",
-          "2014-12-douai-notre-ville-frederic-chereau"
-        ],
-        "restLength": 103
-      },
-      "max": {
-        "value": 3,
-        "ids": [
-          "2021-06-douai-notre-ville-frederic-chereau"
-        ],
-        "restLength": 0
-      }
-    },
-    "caps": {
-      "mean": {
-        "count": 5,
-        "total": 113
+        "total": 114
       },
       "min": {
         "value": 0,
@@ -4339,6 +4359,30 @@
         "restLength": 104
       },
       "max": {
+        "value": 3,
+        "ids": [
+          "2021-06-douai-notre-ville-frederic-chereau"
+        ],
+        "restLength": 0
+      }
+    },
+    "caps": {
+      "mean": {
+        "count": 5,
+        "total": 114
+      },
+      "min": {
+        "value": 0,
+        "ids": [
+          "2014-05-douai-notre-ville-frederic-chereau",
+          "2014-07-douai-notre-ville-frederic-chereau",
+          "2014-09-douai-notre-ville-frederic-chereau",
+          "2014-11-douai-notre-ville-frederic-chereau",
+          "2014-12-douai-notre-ville-frederic-chereau"
+        ],
+        "restLength": 105
+      },
+      "max": {
         "value": 2,
         "ids": [
           "2015-10-douai-notre-ville-frederic-chereau"
@@ -4349,8 +4393,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 148,
-          "total": 113
+          "count": 149,
+          "total": 114
         },
         "min": {
           "value": 0,
@@ -4377,8 +4421,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 1088,
-          "total": 113
+          "count": 1100,
+          "total": 114
         },
         "min": {
           "value": 2,
@@ -4397,8 +4441,8 @@
       },
       "negative": {
         "mean": {
-          "count": 176,
-          "total": 113
+          "count": 177,
+          "total": 114
         },
         "min": {
           "value": 0,

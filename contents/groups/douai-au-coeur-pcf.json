@@ -24,18 +24,22 @@
     },
     {
       "word": "public",
-      "count": 22
+      "count": 23
     },
     {
       "word": "chère",
       "count": 19
     },
     {
+      "word": "grand",
+      "count": 16
+    },
+    {
       "word": "service",
       "count": 15
     },
     {
-      "word": "grand",
+      "word": "monde",
       "count": 15
     },
     {
@@ -43,8 +47,8 @@
       "count": 14
     },
     {
-      "word": "monde",
-      "count": 13
+      "word": "ville",
+      "count": 14
     },
     {
       "word": "crise",
@@ -52,10 +56,6 @@
     },
     {
       "word": "famille",
-      "count": 12
-    },
-    {
-      "word": "ville",
       "count": 12
     },
     {
@@ -79,11 +79,11 @@
       "count": 11
     },
     {
-      "word": "culture",
-      "count": 10
+      "word": "musée",
+      "count": 11
     },
     {
-      "word": "musée",
+      "word": "culture",
       "count": 10
     },
     {
@@ -91,19 +91,19 @@
       "count": 9
     },
     {
+      "word": "comprendre",
+      "count": 9
+    },
+    {
       "word": "nombreux",
       "count": 8
     },
     {
+      "word": "bonheur",
+      "count": 8
+    },
+    {
       "word": "culturel",
-      "count": 8
-    },
-    {
-      "word": "fête",
-      "count": 8
-    },
-    {
-      "word": "enfant",
       "count": 8
     }
   ],
@@ -267,6 +267,10 @@
     {
       "date": "2024-03-01T00:00:00Z",
       "id": "2024-03-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2024-04-01T00:00:00Z",
+      "id": "2024-04-douai-notre-ville-auriane-delbarre"
     }
   ],
   "sentences": [
@@ -469,6 +473,11 @@
       "id": "2024-03-douai-notre-ville-auriane-delbarre",
       "date": "2024-03-01T00:00:00Z",
       "count": 6
+    },
+    {
+      "id": "2024-04-douai-notre-ville-auriane-delbarre",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -751,6 +760,13 @@
       "positive": 2,
       "neutral": 2,
       "negative": 2
+    },
+    {
+      "id": "2024-04-douai-notre-ville-auriane-delbarre",
+      "date": "2024-04-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -953,6 +969,11 @@
       "id": "2024-03-douai-notre-ville-auriane-delbarre",
       "date": "2024-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-auriane-delbarre",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -1154,6 +1175,11 @@
     {
       "id": "2024-03-douai-notre-ville-auriane-delbarre",
       "date": "2024-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-auriane-delbarre",
+      "date": "2024-04-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1357,6 +1383,11 @@
       "id": "2024-03-douai-notre-ville-auriane-delbarre",
       "date": "2024-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-auriane-delbarre",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -1559,6 +1590,11 @@
       "id": "2024-03-douai-notre-ville-auriane-delbarre",
       "date": "2024-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-auriane-delbarre",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 1
     }
   ],
   "authors": [
@@ -1605,13 +1641,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1906,
-  "totalSignificantWords": 901,
+  "totalWords": 1951,
+  "totalSignificantWords": 919,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 213,
-        "total": 40
+        "count": 217,
+        "total": 41
       },
       "min": {
         "value": 2,
@@ -1631,8 +1667,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 4,
-        "total": 40
+        "count": 5,
+        "total": 41
       },
       "min": {
         "value": 0,
@@ -1651,7 +1687,8 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-05-douai-notre-ville-auriane-delbarre",
           "2023-05-douai-notre-ville-auriane-delbarre",
-          "2023-06-douai-notre-ville-auriane-delbarre"
+          "2023-06-douai-notre-ville-auriane-delbarre",
+          "2024-04-douai-notre-ville-auriane-delbarre"
         ],
         "restLength": 0
       }
@@ -1659,7 +1696,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 40
+        "total": 41
       },
       "min": {
         "value": 0,
@@ -1670,7 +1707,7 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 35
+        "restLength": 36
       },
       "max": {
         "value": 0,
@@ -1681,13 +1718,13 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 35
+        "restLength": 36
       }
     },
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 40
+        "total": 41
       },
       "min": {
         "value": 0,
@@ -1698,7 +1735,7 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 34
+        "restLength": 35
       },
       "max": {
         "value": 1,
@@ -1710,8 +1747,8 @@
     },
     "caps": {
       "mean": {
-        "count": 8,
-        "total": 40
+        "count": 9,
+        "total": 41
       },
       "min": {
         "value": 0,
@@ -1733,14 +1770,14 @@
           "2021-10-douai-notre-ville-auriane-delbarre",
           "2022-05-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 3
+        "restLength": 4
       }
     },
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 21,
-          "total": 40
+          "count": 22,
+          "total": 41
         },
         "min": {
           "value": 0,
@@ -1763,8 +1800,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 169,
-          "total": 40
+          "count": 172,
+          "total": 41
         },
         "min": {
           "value": 1,
@@ -1784,7 +1821,7 @@
       "negative": {
         "mean": {
           "count": 23,
-          "total": 40
+          "total": 41
         },
         "min": {
           "value": 0,
@@ -1795,7 +1832,7 @@
             "2021-03-douai-notre-ville-nora-cherki",
             "2021-04-douai-notre-ville-auriane-delbarre"
           ],
-          "restLength": 15
+          "restLength": 16
         },
         "max": {
           "value": 2,

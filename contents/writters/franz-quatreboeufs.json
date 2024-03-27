@@ -44,6 +44,10 @@
     {
       "date": "2022-02-01T00:00:00Z",
       "id": "2022-02-douai-notre-ville-franz-quatreboeufs"
+    },
+    {
+      "date": "2024-04-01T00:00:00Z",
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs"
     }
   ],
   "sentences": [
@@ -101,6 +105,11 @@
       "id": "2022-02-douai-notre-ville-franz-quatreboeufs",
       "date": "2022-02-01T00:00:00Z",
       "count": 4
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 5
     }
   ],
   "sentiments": [
@@ -180,6 +189,13 @@
       "positive": 1,
       "neutral": 2,
       "negative": 1
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -237,6 +253,11 @@
       "id": "2022-02-douai-notre-ville-franz-quatreboeufs",
       "date": "2022-02-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 2
     }
   ],
   "questions": [
@@ -293,6 +314,11 @@
     {
       "id": "2022-02-douai-notre-ville-franz-quatreboeufs",
       "date": "2022-02-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -351,6 +377,11 @@
       "id": "2022-02-douai-notre-ville-franz-quatreboeufs",
       "date": "2022-02-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -408,6 +439,11 @@
       "id": "2022-02-douai-notre-ville-franz-quatreboeufs",
       "date": "2022-02-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
@@ -418,6 +454,10 @@
     {
       "word": "taxe",
       "count": 8
+    },
+    {
+      "word": "commune",
+      "count": 7
     },
     {
       "word": "pouvoir",
@@ -432,7 +472,7 @@
       "count": 6
     },
     {
-      "word": "commune",
+      "word": "maire",
       "count": 6
     },
     {
@@ -440,15 +480,11 @@
       "count": 6
     },
     {
-      "word": "conseil",
-      "count": 5
-    },
-    {
-      "word": "maire",
-      "count": 5
-    },
-    {
       "word": "centre ville",
+      "count": 6
+    },
+    {
+      "word": "conseil",
       "count": 5
     },
     {
@@ -473,6 +509,14 @@
     },
     {
       "word": "fiscal",
+      "count": 4
+    },
+    {
+      "word": "même",
+      "count": 4
+    },
+    {
+      "word": "temps",
       "count": 4
     },
     {
@@ -502,14 +546,6 @@
     {
       "word": "annonce",
       "count": 3
-    },
-    {
-      "word": "dernier",
-      "count": 3
-    },
-    {
-      "word": "départ",
-      "count": 3
     }
   ],
   "portrait": "franz-quatreboeufs.jpg",
@@ -529,13 +565,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 610,
-  "totalSignificantWords": 421,
+  "totalWords": 658,
+  "totalSignificantWords": 456,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 60,
-        "total": 11
+        "count": 65,
+        "total": 12
       },
       "min": {
         "value": 3,
@@ -554,8 +590,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 12,
-        "total": 11
+        "count": 14,
+        "total": 12
       },
       "min": {
         "value": 0,
@@ -570,7 +606,8 @@
         "ids": [
           "2015-02-douai-notre-ville-franz-quatreboeufs",
           "2016-05-douai-notre-ville-franz-quatreboeufs",
-          "2020-11-douai-notre-ville-franz-quatreboeufs"
+          "2020-11-douai-notre-ville-franz-quatreboeufs",
+          "2024-04-douai-notre-ville-franz-quatreboeufs"
         ],
         "restLength": 0
       }
@@ -578,7 +615,7 @@
     "questions": {
       "mean": {
         "count": 5,
-        "total": 11
+        "total": 12
       },
       "min": {
         "value": 0,
@@ -589,7 +626,7 @@
           "2019-02-douai-notre-ville-franz-quatreboeufs",
           "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
-        "restLength": 3
+        "restLength": 4
       },
       "max": {
         "value": 3,
@@ -602,7 +639,7 @@
     "bolds": {
       "mean": {
         "count": 4,
-        "total": 11
+        "total": 12
       },
       "min": {
         "value": 0,
@@ -613,7 +650,7 @@
           "2018-03-douai-notre-ville-franz-quatreboeufs",
           "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
         ],
-        "restLength": 2
+        "restLength": 3
       },
       "max": {
         "value": 1,
@@ -629,7 +666,7 @@
     "caps": {
       "mean": {
         "count": 4,
-        "total": 11
+        "total": 12
       },
       "min": {
         "value": 0,
@@ -640,7 +677,7 @@
           "2018-03-douai-notre-ville-franz-quatreboeufs",
           "2019-02-douai-notre-ville-franz-quatreboeufs"
         ],
-        "restLength": 3
+        "restLength": 4
       },
       "max": {
         "value": 2,
@@ -654,7 +691,7 @@
       "positive": {
         "mean": {
           "count": 6,
-          "total": 11
+          "total": 12
         },
         "min": {
           "value": 0,
@@ -665,7 +702,7 @@
             "2019-04-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
             "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain"
           ],
-          "restLength": 1
+          "restLength": 2
         },
         "max": {
           "value": 2,
@@ -677,8 +714,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 46,
-          "total": 11
+          "count": 51,
+          "total": 12
         },
         "min": {
           "value": 2,
@@ -700,7 +737,7 @@
       "negative": {
         "mean": {
           "count": 8,
-          "total": 11
+          "total": 12
         },
         "min": {
           "value": 0,
@@ -711,7 +748,7 @@
             "2019-12-douai-notre-ville-francoise-prouvost-franz-quatreboeufs-marie-delecambre-cyril-carbonnel-chantal-rybak-bruno-bufquin-isabelle-chatelain",
             "2020-05-douai-notre-ville-franz-quatreboeufs"
           ],
-          "restLength": 1
+          "restLength": 2
         },
         "max": {
           "value": 2,

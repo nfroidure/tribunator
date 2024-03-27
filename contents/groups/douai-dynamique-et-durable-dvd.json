@@ -27,6 +27,10 @@
       "count": 15
     },
     {
+      "word": "municipale",
+      "count": 15
+    },
+    {
       "word": "pouvoir",
       "count": 15
     },
@@ -36,10 +40,6 @@
     },
     {
       "word": "faire",
-      "count": 14
-    },
-    {
-      "word": "municipale",
       "count": 14
     },
     {
@@ -59,11 +59,11 @@
       "count": 12
     },
     {
-      "word": "rentrée",
-      "count": 11
+      "word": "maire",
+      "count": 12
     },
     {
-      "word": "maire",
+      "word": "rentrée",
       "count": 11
     },
     {
@@ -80,6 +80,10 @@
     },
     {
       "word": "municipal",
+      "count": 9
+    },
+    {
+      "word": "projet",
       "count": 9
     },
     {
@@ -100,10 +104,6 @@
     },
     {
       "word": "santé",
-      "count": 8
-    },
-    {
-      "word": "conseil",
       "count": 8
     }
   ],
@@ -263,6 +263,10 @@
     {
       "date": "2024-03-01T00:00:00Z",
       "id": "2024-03-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2024-04-01T00:00:00Z",
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs"
     }
   ],
   "sentences": [
@@ -460,6 +464,11 @@
       "id": "2024-03-douai-notre-ville-coline-craeye",
       "date": "2024-03-01T00:00:00Z",
       "count": 4
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 5
     }
   ],
   "sentiments": [
@@ -735,6 +744,13 @@
       "positive": 0,
       "neutral": 4,
       "negative": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -932,6 +948,11 @@
       "id": "2024-03-douai-notre-ville-coline-craeye",
       "date": "2024-03-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 2
     }
   ],
   "questions": [
@@ -1128,6 +1149,11 @@
     {
       "id": "2024-03-douai-notre-ville-coline-craeye",
       "date": "2024-03-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1326,6 +1352,11 @@
       "id": "2024-03-douai-notre-ville-coline-craeye",
       "date": "2024-03-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -1523,6 +1554,11 @@
       "id": "2024-03-douai-notre-ville-coline-craeye",
       "date": "2024-03-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-franz-quatreboeufs",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1585,13 +1621,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1929,
-  "totalSignificantWords": 953,
+  "totalWords": 1977,
+  "totalSignificantWords": 982,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 222,
-        "total": 39
+        "count": 227,
+        "total": 40
       },
       "min": {
         "value": 1,
@@ -1611,8 +1647,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 56,
-        "total": 39
+        "count": 58,
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1639,7 +1675,7 @@
     "questions": {
       "mean": {
         "count": 10,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1650,7 +1686,7 @@
           "2021-01-douai-notre-ville-coline-craeye",
           "2021-02-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 26
+        "restLength": 27
       },
       "max": {
         "value": 2,
@@ -1664,7 +1700,7 @@
     "bolds": {
       "mean": {
         "count": 33,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1675,7 +1711,7 @@
           "2021-03-douai-notre-ville-xavier-thierry",
           "2021-09-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 4
+        "restLength": 5
       },
       "max": {
         "value": 2,
@@ -1690,7 +1726,7 @@
     "caps": {
       "mean": {
         "count": 5,
-        "total": 39
+        "total": 40
       },
       "min": {
         "value": 0,
@@ -1701,7 +1737,7 @@
           "2021-03-douai-notre-ville-xavier-thierry",
           "2021-04-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 29
+        "restLength": 30
       },
       "max": {
         "value": 1,
@@ -1719,7 +1755,7 @@
       "positive": {
         "mean": {
           "count": 21,
-          "total": 39
+          "total": 40
         },
         "min": {
           "value": 0,
@@ -1730,7 +1766,7 @@
             "2021-07-douai-notre-ville-anne-colin",
             "2021-09-douai-notre-ville-coline-craeye"
           ],
-          "restLength": 18
+          "restLength": 19
         },
         "max": {
           "value": 3,
@@ -1742,8 +1778,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 178,
-          "total": 39
+          "count": 183,
+          "total": 40
         },
         "min": {
           "value": 0,
@@ -1765,7 +1801,7 @@
       "negative": {
         "mean": {
           "count": 23,
-          "total": 39
+          "total": 40
         },
         "min": {
           "value": 0,
@@ -1776,7 +1812,7 @@
             "2021-01-douai-notre-ville-coline-craeye",
             "2021-05-douai-notre-ville-chantal-rybak"
           ],
-          "restLength": 16
+          "restLength": 17
         },
         "max": {
           "value": 2,

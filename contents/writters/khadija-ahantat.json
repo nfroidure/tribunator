@@ -8,6 +8,10 @@
     {
       "date": "2022-10-01T00:00:00Z",
       "id": "2022-10-douai-notre-ville-khadija-ahantat"
+    },
+    {
+      "date": "2024-04-01T00:00:00Z",
+      "id": "2024-04-douai-notre-ville-khadija-ahantat"
     }
   ],
   "sentences": [
@@ -19,6 +23,11 @@
     {
       "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
+      "count": 8
+    },
+    {
+      "id": "2024-04-douai-notre-ville-khadija-ahantat",
+      "date": "2024-04-01T00:00:00Z",
       "count": 8
     }
   ],
@@ -36,6 +45,13 @@
       "positive": 0,
       "neutral": 8,
       "negative": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-khadija-ahantat",
+      "date": "2024-04-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -48,6 +64,11 @@
       "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2024-04-douai-notre-ville-khadija-ahantat",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -60,6 +81,11 @@
       "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-khadija-ahantat",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 1
     }
   ],
   "bolds": [
@@ -72,6 +98,11 @@
       "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 5
+    },
+    {
+      "id": "2024-04-douai-notre-ville-khadija-ahantat",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 4
     }
   ],
   "caps": [
@@ -84,16 +115,21 @@
       "id": "2022-10-douai-notre-ville-khadija-ahantat",
       "date": "2022-10-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-04-douai-notre-ville-khadija-ahantat",
+      "date": "2024-04-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "association",
-      "count": 6
+      "count": 11
     },
     {
       "word": "caritatif",
-      "count": 2
+      "count": 3
     },
     {
       "word": "logistique",
@@ -116,11 +152,51 @@
       "count": 2
     },
     {
+      "word": "engagement",
+      "count": 2
+    },
+    {
       "word": "partage",
       "count": 2
     },
     {
+      "word": "aide",
+      "count": 2
+    },
+    {
+      "word": "bénévole",
+      "count": 2
+    },
+    {
+      "word": "reconnaissance",
+      "count": 2
+    },
+    {
       "word": "être",
+      "count": 2
+    },
+    {
+      "word": "pousser",
+      "count": 2
+    },
+    {
+      "word": "porte",
+      "count": 2
+    },
+    {
+      "word": "quartier",
+      "count": 2
+    },
+    {
+      "word": "associatif",
+      "count": 2
+    },
+    {
+      "word": "monde",
+      "count": 2
+    },
+    {
+      "word": "temps",
       "count": 2
     },
     {
@@ -146,46 +222,6 @@
     {
       "word": "touchée",
       "count": 1
-    },
-    {
-      "word": "chômage",
-      "count": 1
-    },
-    {
-      "word": "étudiant",
-      "count": 1
-    },
-    {
-      "word": "lien",
-      "count": 1
-    },
-    {
-      "word": "social",
-      "count": 1
-    },
-    {
-      "word": "humain",
-      "count": 1
-    },
-    {
-      "word": "manque",
-      "count": 1
-    },
-    {
-      "word": "prise",
-      "count": 1
-    },
-    {
-      "word": "aspect",
-      "count": 1
-    },
-    {
-      "word": "devoir",
-      "count": 1
-    },
-    {
-      "word": "crise",
-      "count": 1
     }
   ],
   "portrait": "khadija-ahantat.jpg",
@@ -205,13 +241,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 105,
-  "totalSignificantWords": 91,
+  "totalWords": 153,
+  "totalSignificantWords": 123,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 13,
-        "total": 2
+        "count": 21,
+        "total": 3
       },
       "min": {
         "value": 5,
@@ -223,15 +259,16 @@
       "max": {
         "value": 8,
         "ids": [
-          "2022-10-douai-notre-ville-khadija-ahantat"
+          "2022-10-douai-notre-ville-khadija-ahantat",
+          "2024-04-douai-notre-ville-khadija-ahantat"
         ],
         "restLength": 0
       }
     },
     "exclamations": {
       "mean": {
-        "count": 2,
-        "total": 2
+        "count": 3,
+        "total": 3
       },
       "min": {
         "value": 0,
@@ -250,8 +287,8 @@
     },
     "questions": {
       "mean": {
-        "count": 0,
-        "total": 2
+        "count": 1,
+        "total": 3
       },
       "min": {
         "value": 0,
@@ -262,18 +299,17 @@
         "restLength": 0
       },
       "max": {
-        "value": 0,
+        "value": 1,
         "ids": [
-          "2021-04-douai-notre-ville-khadija-ahantat",
-          "2022-10-douai-notre-ville-khadija-ahantat"
+          "2024-04-douai-notre-ville-khadija-ahantat"
         ],
         "restLength": 0
       }
     },
     "bolds": {
       "mean": {
-        "count": 5,
-        "total": 2
+        "count": 9,
+        "total": 3
       },
       "min": {
         "value": 0,
@@ -293,13 +329,14 @@
     "caps": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2021-04-douai-notre-ville-khadija-ahantat",
-          "2022-10-douai-notre-ville-khadija-ahantat"
+          "2022-10-douai-notre-ville-khadija-ahantat",
+          "2024-04-douai-notre-ville-khadija-ahantat"
         ],
         "restLength": 0
       },
@@ -307,7 +344,8 @@
         "value": 0,
         "ids": [
           "2021-04-douai-notre-ville-khadija-ahantat",
-          "2022-10-douai-notre-ville-khadija-ahantat"
+          "2022-10-douai-notre-ville-khadija-ahantat",
+          "2024-04-douai-notre-ville-khadija-ahantat"
         ],
         "restLength": 0
       }
@@ -315,8 +353,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 0,
-          "total": 2
+          "count": 1,
+          "total": 3
         },
         "min": {
           "value": 0,
@@ -327,18 +365,17 @@
           "restLength": 0
         },
         "max": {
-          "value": 0,
+          "value": 1,
           "ids": [
-            "2021-04-douai-notre-ville-khadija-ahantat",
-            "2022-10-douai-notre-ville-khadija-ahantat"
+            "2024-04-douai-notre-ville-khadija-ahantat"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 12,
-          "total": 2
+          "count": 19,
+          "total": 3
         },
         "min": {
           "value": 4,
@@ -358,12 +395,13 @@
       "negative": {
         "mean": {
           "count": 1,
-          "total": 2
+          "total": 3
         },
         "min": {
           "value": 0,
           "ids": [
-            "2022-10-douai-notre-ville-khadija-ahantat"
+            "2022-10-douai-notre-ville-khadija-ahantat",
+            "2024-04-douai-notre-ville-khadija-ahantat"
           ],
           "restLength": 0
         },
