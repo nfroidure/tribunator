@@ -108,6 +108,10 @@
     {
       "date": "2024-01-01T00:00:00Z",
       "id": "2024-01-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2024-02-01T00:00:00Z",
+      "id": "2024-02-douai-notre-ville-coline-craeye"
     }
   ],
   "sentences": [
@@ -244,6 +248,11 @@
     {
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
       "count": 5
     }
   ],
@@ -436,6 +445,13 @@
       "positive": 1,
       "neutral": 4,
       "negative": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -573,6 +589,11 @@
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -709,6 +730,11 @@
     {
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -847,6 +873,11 @@
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 1
     }
   ],
   "caps": [
@@ -984,6 +1015,11 @@
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
@@ -996,11 +1032,15 @@
       "count": 17
     },
     {
+      "word": "enfant",
+      "count": 13
+    },
+    {
       "word": "ville",
       "count": 12
     },
     {
-      "word": "enfant",
+      "word": "faire",
       "count": 11
     },
     {
@@ -1008,11 +1048,19 @@
       "count": 11
     },
     {
-      "word": "rentrée",
-      "count": 10
+      "word": "pouvoir",
+      "count": 11
     },
     {
-      "word": "faire",
+      "word": "investissement",
+      "count": 11
+    },
+    {
+      "word": "école",
+      "count": 11
+    },
+    {
+      "word": "rentrée",
       "count": 10
     },
     {
@@ -1024,10 +1072,6 @@
       "count": 10
     },
     {
-      "word": "investissement",
-      "count": 10
-    },
-    {
       "word": "équipe",
       "count": 9
     },
@@ -1036,12 +1080,16 @@
       "count": 9
     },
     {
-      "word": "pouvoir",
+      "word": "moyen",
       "count": 9
     },
     {
       "word": "fête",
       "count": 9
+    },
+    {
+      "word": "santé",
+      "count": 8
     },
     {
       "word": "éducatif",
@@ -1052,7 +1100,7 @@
       "count": 8
     },
     {
-      "word": "santé",
+      "word": "avoir",
       "count": 7
     },
     {
@@ -1072,19 +1120,7 @@
       "count": 7
     },
     {
-      "word": "école",
-      "count": 7
-    },
-    {
       "word": "municipal",
-      "count": 6
-    },
-    {
-      "word": "quartier",
-      "count": 6
-    },
-    {
-      "word": "avoir",
       "count": 6
     }
   ],
@@ -1105,13 +1141,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1396,
-  "totalSignificantWords": 755,
+  "totalWords": 1446,
+  "totalSignificantWords": 769,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 166,
-        "total": 27
+        "count": 171,
+        "total": 28
       },
       "min": {
         "value": 3,
@@ -1130,8 +1166,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 42,
-        "total": 27
+        "count": 43,
+        "total": 28
       },
       "min": {
         "value": 0,
@@ -1158,7 +1194,7 @@
     "questions": {
       "mean": {
         "count": 4,
-        "total": 27
+        "total": 28
       },
       "min": {
         "value": 0,
@@ -1169,7 +1205,7 @@
           "2021-01-douai-notre-ville-coline-craeye",
           "2021-02-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 18
+        "restLength": 19
       },
       "max": {
         "value": 1,
@@ -1184,8 +1220,8 @@
     },
     "bolds": {
       "mean": {
-        "count": 26,
-        "total": 27
+        "count": 27,
+        "total": 28
       },
       "min": {
         "value": 0,
@@ -1210,7 +1246,7 @@
     "caps": {
       "mean": {
         "count": 3,
-        "total": 27
+        "total": 28
       },
       "min": {
         "value": 0,
@@ -1221,7 +1257,7 @@
           "2021-04-douai-notre-ville-coline-craeye",
           "2021-06-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 19
+        "restLength": 20
       },
       "max": {
         "value": 1,
@@ -1237,7 +1273,7 @@
       "positive": {
         "mean": {
           "count": 20,
-          "total": 27
+          "total": 28
         },
         "min": {
           "value": 0,
@@ -1248,7 +1284,7 @@
             "2021-12-douai-notre-ville-coline-craeye",
             "2022-07-douai-notre-ville-coline-craeye"
           ],
-          "restLength": 8
+          "restLength": 9
         },
         "max": {
           "value": 3,
@@ -1261,8 +1297,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 128,
-          "total": 27
+          "count": 132,
+          "total": 28
         },
         "min": {
           "value": 2,
@@ -1285,8 +1321,8 @@
       },
       "negative": {
         "mean": {
-          "count": 18,
-          "total": 27
+          "count": 19,
+          "total": 28
         },
         "min": {
           "value": 0,

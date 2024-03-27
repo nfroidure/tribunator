@@ -12,10 +12,14 @@
     },
     {
       "word": "année",
-      "count": 18
+      "count": 19
     },
     {
       "word": "faire",
+      "count": 13
+    },
+    {
+      "word": "travail",
       "count": 13
     },
     {
@@ -24,11 +28,15 @@
     },
     {
       "word": "association",
-      "count": 11
+      "count": 12
     },
     {
       "word": "femme",
       "count": 11
+    },
+    {
+      "word": "école",
+      "count": 10
     },
     {
       "word": "autre",
@@ -39,15 +47,7 @@
       "count": 10
     },
     {
-      "word": "travail",
-      "count": 10
-    },
-    {
       "word": "enfant",
-      "count": 9
-    },
-    {
-      "word": "école",
       "count": 9
     },
     {
@@ -68,6 +68,10 @@
     },
     {
       "word": "famille",
+      "count": 8
+    },
+    {
+      "word": "premier",
       "count": 8
     },
     {
@@ -96,10 +100,6 @@
     },
     {
       "word": "municipal",
-      "count": 7
-    },
-    {
-      "word": "premier",
       "count": 7
     },
     {
@@ -235,6 +235,10 @@
     {
       "date": "2024-01-01T00:00:00Z",
       "id": "2024-01-douai-notre-ville-jean-michel-leroy"
+    },
+    {
+      "date": "2024-02-01T00:00:00Z",
+      "id": "2024-02-douai-notre-ville-yvon-sipieter"
     }
   ],
   "sentences": [
@@ -396,6 +400,11 @@
     {
       "id": "2024-01-douai-notre-ville-jean-michel-leroy",
       "date": "2024-01-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
       "count": 5
     }
   ],
@@ -623,6 +632,13 @@
       "positive": 0,
       "neutral": 4,
       "negative": 1
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -785,6 +801,11 @@
       "id": "2024-01-douai-notre-ville-jean-michel-leroy",
       "date": "2024-01-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "questions": [
@@ -946,6 +967,11 @@
     {
       "id": "2024-01-douai-notre-ville-jean-michel-leroy",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1109,6 +1135,11 @@
       "id": "2024-01-douai-notre-ville-jean-michel-leroy",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "caps": [
@@ -1271,6 +1302,11 @@
       "id": "2024-01-douai-notre-ville-jean-michel-leroy",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1413,13 +1449,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1541,
-  "totalSignificantWords": 862,
+  "totalWords": 1589,
+  "totalSignificantWords": 878,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 193,
-        "total": 32
+        "count": 198,
+        "total": 33
       },
       "min": {
         "value": 3,
@@ -1439,7 +1475,7 @@
     "exclamations": {
       "mean": {
         "count": 27,
-        "total": 32
+        "total": 33
       },
       "min": {
         "value": 0,
@@ -1450,7 +1486,7 @@
           "2021-11-douai-notre-ville-anne-sophie-audegond",
           "2022-01-douai-notre-ville-maxime-decupper-laud"
         ],
-        "restLength": 10
+        "restLength": 11
       },
       "max": {
         "value": 3,
@@ -1463,7 +1499,7 @@
     "questions": {
       "mean": {
         "count": 4,
-        "total": 32
+        "total": 33
       },
       "min": {
         "value": 0,
@@ -1474,7 +1510,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 23
+        "restLength": 24
       },
       "max": {
         "value": 1,
@@ -1490,7 +1526,7 @@
     "bolds": {
       "mean": {
         "count": 6,
-        "total": 32
+        "total": 33
       },
       "min": {
         "value": 0,
@@ -1501,7 +1537,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-02-douai-notre-ville-jean-michel-leroy"
         ],
-        "restLength": 25
+        "restLength": 26
       },
       "max": {
         "value": 5,
@@ -1514,7 +1550,7 @@
     "caps": {
       "mean": {
         "count": 10,
-        "total": 32
+        "total": 33
       },
       "min": {
         "value": 0,
@@ -1525,7 +1561,7 @@
           "2021-01-douai-notre-ville-hocine-mazy",
           "2021-03-douai-notre-ville-yvon-sipieter"
         ],
-        "restLength": 24
+        "restLength": 25
       },
       "max": {
         "value": 7,
@@ -1539,7 +1575,7 @@
       "positive": {
         "mean": {
           "count": 9,
-          "total": 32
+          "total": 33
         },
         "min": {
           "value": 0,
@@ -1550,7 +1586,7 @@
             "2021-03-douai-notre-ville-yvon-sipieter",
             "2021-04-douai-notre-ville-khadija-ahantat"
           ],
-          "restLength": 18
+          "restLength": 19
         },
         "max": {
           "value": 1,
@@ -1566,8 +1602,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 160,
-          "total": 32
+          "count": 164,
+          "total": 33
         },
         "min": {
           "value": 2,
@@ -1588,8 +1624,8 @@
       },
       "negative": {
         "mean": {
-          "count": 24,
-          "total": 32
+          "count": 25,
+          "total": 33
         },
         "min": {
           "value": 0,

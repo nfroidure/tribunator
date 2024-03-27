@@ -98,8 +98,8 @@
         "Maire de Douai"
       ],
       "portrait": "frederic-chereau.jpg",
-      "totalSignificantWords": 2612,
-      "totalWords": 10932
+      "totalSignificantWords": 2623,
+      "totalWords": 11050
     },
     "jackie-avenel": {
       "id": "jackie-avenel",
@@ -208,8 +208,8 @@
         "Conseillère municipale d’opposition"
       ],
       "portrait": "coline-craeye.jpg",
-      "totalSignificantWords": 755,
-      "totalWords": 1396
+      "totalSignificantWords": 769,
+      "totalWords": 1446
     },
     "francois-guiffard": {
       "id": "francois-guiffard",
@@ -218,8 +218,8 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "francois-guiffard.jpg",
-      "totalSignificantWords": 988,
-      "totalWords": 1903
+      "totalSignificantWords": 1007,
+      "totalWords": 1954
     },
     "thibaut-francois": {
       "id": "thibaut-francois",
@@ -228,8 +228,8 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "thibaut-francois.jpg",
-      "totalSignificantWords": 714,
-      "totalWords": 1437
+      "totalSignificantWords": 733,
+      "totalWords": 1483
     },
     "agnes-dupuis": {
       "id": "agnes-dupuis",
@@ -318,8 +318,8 @@
         "Conseiller municipal"
       ],
       "portrait": "yves-piquot.jpg",
-      "totalSignificantWords": 190,
-      "totalWords": 249
+      "totalSignificantWords": 217,
+      "totalWords": 288
     },
     "jessy-kaboul": {
       "id": "jessy-kaboul",
@@ -388,8 +388,8 @@
         "Adjoint au maire"
       ],
       "portrait": "yvon-sipieter.jpg",
-      "totalSignificantWords": 76,
-      "totalWords": 95
+      "totalSignificantWords": 112,
+      "totalWords": 143
     },
     "nora-cherki": {
       "id": "nora-cherki",
@@ -398,8 +398,8 @@
         "Adjointe au maire"
       ],
       "portrait": "nora-cherki.jpg",
-      "totalSignificantWords": 311,
-      "totalWords": 501
+      "totalSignificantWords": 335,
+      "totalWords": 546
     },
     "xavier-thierry": {
       "id": "xavier-thierry",
@@ -518,8 +518,8 @@
         "Conseiller municipal d’opposition"
       ],
       "portrait": "mohamed-felouki.jpg",
-      "totalSignificantWords": 141,
-      "totalWords": 188
+      "totalSignificantWords": 167,
+      "totalWords": 227
     },
     "avida-oulahcene": {
       "id": "avida-oulahcene",
@@ -646,8 +646,8 @@
       "party": "Parti Socialiste",
       "partyAbbr": "PS",
       "logo": "ps.png",
-      "totalWords": 11096,
-      "totalSignificantWords": 2614
+      "totalWords": 11214,
+      "totalSignificantWords": 2624
     },
     "rassemblement-douai-bleu-marine-rn": {
       "id": "rassemblement-douai-bleu-marine-rn",
@@ -666,8 +666,8 @@
       "party": "Parti Communiste Français",
       "partyAbbr": "PCF",
       "logo": "pcf.svg",
-      "totalWords": 1813,
-      "totalSignificantWords": 866
+      "totalWords": 1858,
+      "totalSignificantWords": 884
     },
     "douai-dynamique-et-durable-dvd": {
       "id": "douai-dynamique-et-durable-dvd",
@@ -676,8 +676,8 @@
       "party": "Alliance LReM-Modem",
       "partyAbbr": "DVD",
       "logo": "default.svg",
-      "totalWords": 1827,
-      "totalSignificantWords": 925
+      "totalWords": 1877,
+      "totalSignificantWords": 937
     },
     "ensemble-faisons-douai-se": {
       "id": "ensemble-faisons-douai-se",
@@ -686,8 +686,8 @@
       "party": "Sans-Étiquette",
       "partyAbbr": "SE",
       "logo": "default.svg",
-      "totalWords": 1903,
-      "totalSignificantWords": 988
+      "totalWords": 1954,
+      "totalSignificantWords": 1007
     },
     "douai-au-coeur-eelv": {
       "id": "douai-au-coeur-eelv",
@@ -696,8 +696,8 @@
       "party": "Europe Écologie-Les Verts",
       "partyAbbr": "EELV",
       "logo": "eelv-douaisis.svg",
-      "totalWords": 1893,
-      "totalSignificantWords": 915
+      "totalWords": 1932,
+      "totalSignificantWords": 928
     },
     "douai-plus-belle-plus-propre-plus-sure-rn": {
       "id": "douai-plus-belle-plus-propre-plus-sure-rn",
@@ -706,8 +706,8 @@
       "party": "Rassemblement National",
       "partyAbbr": "RN",
       "logo": "default.svg",
-      "totalWords": 1718,
-      "totalSignificantWords": 862
+      "totalWords": 1764,
+      "totalSignificantWords": 877
     },
     "douai-au-coeur-se": {
       "id": "douai-au-coeur-se",
@@ -716,8 +716,8 @@
       "party": "Citoyen·nes de Vivre Douai",
       "partyAbbr": "SE",
       "logo": "douai-au-coeur.svg",
-      "totalWords": 1541,
-      "totalSignificantWords": 862
+      "totalWords": 1589,
+      "totalSignificantWords": 878
     },
     "douai-pour-les-quartiers-se": {
       "id": "douai-pour-les-quartiers-se",
@@ -726,8 +726,8 @@
       "party": "Sans-Étiquette",
       "partyAbbr": "SE",
       "logo": "default.svg",
-      "totalWords": 138,
-      "totalSignificantWords": 103
+      "totalWords": 177,
+      "totalSignificantWords": 131
     },
     "la-grande-roue-qui-avait-laisse-sa-place-quelques-temps-a-d-autres-attractions-le-dome-qui-vibrera-de-spectacles-tout-le-mois-de-decembre-le-marche-de-noel-completement-repense-et-la-visite-des-rois-mages-autour-d-une-galette-debut-janvier-se": {
       "id": "la-grande-roue-qui-avait-laisse-sa-place-quelques-temps-a-d-autres-attractions-le-dome-qui-vibrera-de-spectacles-tout-le-mois-de-decembre-le-marche-de-noel-completement-repense-et-la-visite-des-rois-mages-autour-d-une-galette-debut-janvier-se",
@@ -743,7 +743,7 @@
   "sentences": {
     "mean": {
       "count": 14,
-      "total": 497
+      "total": 505
     },
     "min": {
       "value": 1,
@@ -763,7 +763,7 @@
   "exclamations": {
     "mean": {
       "count": 14,
-      "total": 497
+      "total": 505
     },
     "min": {
       "value": 0,
@@ -774,7 +774,7 @@
         "2012-09-douai-notre-ville-odile-hage",
         "2014-05-douai-notre-ville-francoise-prouvost"
       ],
-      "restLength": 194
+      "restLength": 198
     },
     "max": {
       "value": 8,
@@ -788,7 +788,7 @@
   "questions": {
     "mean": {
       "count": 14,
-      "total": 497
+      "total": 505
     },
     "min": {
       "value": 0,
@@ -799,7 +799,7 @@
         "2012-07-douai-notre-ville-jacques-vernier",
         "2012-09-douai-notre-ville-jacques-vernier"
       ],
-      "restLength": 395
+      "restLength": 402
     },
     "max": {
       "value": 7,
@@ -812,7 +812,7 @@
   "bolds": {
     "mean": {
       "count": 14,
-      "total": 497
+      "total": 505
     },
     "min": {
       "value": 0,
@@ -823,7 +823,7 @@
         "2014-11-douai-notre-ville-marie-delecambre",
         "2014-12-douai-notre-ville-chantal-rybak"
       ],
-      "restLength": 326
+      "restLength": 332
     },
     "max": {
       "value": 5,
@@ -836,7 +836,7 @@
   "caps": {
     "mean": {
       "count": 14,
-      "total": 497
+      "total": 505
     },
     "min": {
       "value": 0,
@@ -847,7 +847,7 @@
         "2012-06-douai-notre-ville-jacques-vernier",
         "2012-07-douai-notre-ville-jacques-vernier"
       ],
-      "restLength": 433
+      "restLength": 440
     },
     "max": {
       "value": 7,
@@ -861,7 +861,7 @@
     "positive": {
       "mean": {
         "count": 14,
-        "total": 497
+        "total": 505
       },
       "min": {
         "value": 0,
@@ -872,7 +872,7 @@
           "2012-05-douai-notre-ville-jacques-vernier",
           "2012-06-douai-notre-ville-jacques-vernier"
         ],
-        "restLength": 253
+        "restLength": 257
       },
       "max": {
         "value": 4,
@@ -889,7 +889,7 @@
     "neutral": {
       "mean": {
         "count": 14,
-        "total": 497
+        "total": 505
       },
       "min": {
         "value": 0,
@@ -909,7 +909,7 @@
     "negative": {
       "mean": {
         "count": 14,
-        "total": 497
+        "total": 505
       },
       "min": {
         "value": 0,
@@ -920,7 +920,7 @@
           "2012-07-douai-notre-ville-jacques-vernier",
           "2012-10-douai-notre-ville-jacques-vernier"
         ],
-        "restLength": 210
+        "restLength": 214
       },
       "max": {
         "value": 6,

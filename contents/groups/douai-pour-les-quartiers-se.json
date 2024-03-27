@@ -8,6 +8,10 @@
   "words": [
     {
       "word": "pouvoir",
+      "count": 6
+    },
+    {
+      "word": "quartier",
       "count": 5
     },
     {
@@ -19,7 +23,7 @@
       "count": 4
     },
     {
-      "word": "quartier",
+      "word": "jour",
       "count": 4
     },
     {
@@ -32,10 +36,6 @@
     },
     {
       "word": "homme",
-      "count": 3
-    },
-    {
-      "word": "jour",
       "count": 3
     },
     {
@@ -55,7 +55,15 @@
       "count": 3
     },
     {
+      "word": "premier",
+      "count": 2
+    },
+    {
       "word": "naturel",
+      "count": 2
+    },
+    {
+      "word": "quotidien",
       "count": 2
     },
     {
@@ -67,7 +75,15 @@
       "count": 2
     },
     {
+      "word": "centre ville",
+      "count": 2
+    },
+    {
       "word": "cadeau",
+      "count": 2
+    },
+    {
+      "word": "faire",
       "count": 2
     },
     {
@@ -75,36 +91,20 @@
       "count": 2
     },
     {
+      "word": "douaisien",
+      "count": 2
+    },
+    {
       "word": "meilleur",
       "count": 2
     },
     {
-      "word": "commencer",
-      "count": 1
+      "word": "place",
+      "count": 2
     },
     {
-      "word": "premier",
-      "count": 1
-    },
-    {
-      "word": "tribune",
-      "count": 1
-    },
-    {
-      "word": "pensée",
-      "count": 1
-    },
-    {
-      "word": "victime",
-      "count": 1
-    },
-    {
-      "word": "mort",
-      "count": 1
-    },
-    {
-      "word": "voir",
-      "count": 1
+      "word": "rendre",
+      "count": 2
     }
   ],
   "writtings": [
@@ -119,6 +119,10 @@
     {
       "date": "2024-01-01T00:00:00Z",
       "id": "2024-01-douai-notre-ville-mohamed-felouki"
+    },
+    {
+      "date": "2024-02-01T00:00:00Z",
+      "id": "2024-02-douai-notre-ville-mohamed-felouki"
     }
   ],
   "sentences": [
@@ -135,6 +139,11 @@
     {
       "id": "2024-01-douai-notre-ville-mohamed-felouki",
       "date": "2024-01-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2024-02-douai-notre-ville-mohamed-felouki",
+      "date": "2024-02-01T00:00:00Z",
       "count": 5
     }
   ],
@@ -159,6 +168,13 @@
       "positive": 3,
       "neutral": 1,
       "negative": 1
+    },
+    {
+      "id": "2024-02-douai-notre-ville-mohamed-felouki",
+      "date": "2024-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -175,6 +191,11 @@
     {
       "id": "2024-01-douai-notre-ville-mohamed-felouki",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-mohamed-felouki",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -193,6 +214,11 @@
       "id": "2024-01-douai-notre-ville-mohamed-felouki",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-mohamed-felouki",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -209,6 +235,11 @@
     {
       "id": "2024-01-douai-notre-ville-mohamed-felouki",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-mohamed-felouki",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -227,6 +258,11 @@
       "id": "2024-01-douai-notre-ville-mohamed-felouki",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-mohamed-felouki",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -241,20 +277,21 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 138,
-  "totalSignificantWords": 103,
+  "totalWords": 177,
+  "totalSignificantWords": 131,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 15,
-        "total": 3
+        "count": 20,
+        "total": 4
       },
       "min": {
         "value": 5,
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
           "2023-12-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       },
@@ -263,7 +300,8 @@
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
           "2023-12-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       }
@@ -271,13 +309,14 @@
     "exclamations": {
       "mean": {
         "count": 1,
-        "total": 3
+        "total": 4
       },
       "min": {
         "value": 0,
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       },
@@ -292,14 +331,15 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 3
+        "total": 4
       },
       "min": {
         "value": 0,
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
           "2023-12-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       },
@@ -308,7 +348,8 @@
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
           "2023-12-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       }
@@ -316,14 +357,15 @@
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 3
+        "total": 4
       },
       "min": {
         "value": 0,
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
           "2023-12-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       },
@@ -332,7 +374,8 @@
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
           "2023-12-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       }
@@ -340,14 +383,15 @@
     "caps": {
       "mean": {
         "count": 0,
-        "total": 3
+        "total": 4
       },
       "min": {
         "value": 0,
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
           "2023-12-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       },
@@ -356,7 +400,8 @@
         "ids": [
           "2023-11-douai-notre-ville-mohamed-felouki",
           "2023-12-douai-notre-ville-mohamed-felouki",
-          "2024-01-douai-notre-ville-mohamed-felouki"
+          "2024-01-douai-notre-ville-mohamed-felouki",
+          "2024-02-douai-notre-ville-mohamed-felouki"
         ],
         "restLength": 0
       }
@@ -365,12 +410,13 @@
       "positive": {
         "mean": {
           "count": 4,
-          "total": 3
+          "total": 4
         },
         "min": {
           "value": 0,
           "ids": [
-            "2023-12-douai-notre-ville-mohamed-felouki"
+            "2023-12-douai-notre-ville-mohamed-felouki",
+            "2024-02-douai-notre-ville-mohamed-felouki"
           ],
           "restLength": 0
         },
@@ -384,8 +430,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 9,
-          "total": 3
+          "count": 14,
+          "total": 4
         },
         "min": {
           "value": 1,
@@ -395,10 +441,9 @@
           "restLength": 0
         },
         "max": {
-          "value": 4,
+          "value": 5,
           "ids": [
-            "2023-11-douai-notre-ville-mohamed-felouki",
-            "2023-12-douai-notre-ville-mohamed-felouki"
+            "2024-02-douai-notre-ville-mohamed-felouki"
           ],
           "restLength": 0
         }
@@ -406,12 +451,13 @@
       "negative": {
         "mean": {
           "count": 2,
-          "total": 3
+          "total": 4
         },
         "min": {
           "value": 0,
           "ids": [
-            "2023-11-douai-notre-ville-mohamed-felouki"
+            "2023-11-douai-notre-ville-mohamed-felouki",
+            "2024-02-douai-notre-ville-mohamed-felouki"
           ],
           "restLength": 0
         },

@@ -44,6 +44,10 @@
     {
       "date": "2023-12-01T00:00:00Z",
       "id": "2023-12-douai-notre-ville-nora-cherki"
+    },
+    {
+      "date": "2024-02-01T00:00:00Z",
+      "id": "2024-02-douai-notre-ville-nora-cherki"
     }
   ],
   "sentences": [
@@ -101,6 +105,11 @@
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
       "count": 6
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -180,6 +189,13 @@
       "positive": 0,
       "neutral": 4,
       "negative": 2
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -236,6 +252,11 @@
     {
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -294,6 +315,11 @@
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -350,6 +376,11 @@
     {
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -408,24 +439,29 @@
       "id": "2023-12-douai-notre-ville-nora-cherki",
       "date": "2023-12-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "cher",
-      "count": 12
+      "count": 13
     },
     {
       "word": "douaisiennes",
-      "count": 10
+      "count": 12
     },
     {
       "word": "douaisiens",
-      "count": 10
+      "count": 11
     },
     {
       "word": "année",
-      "count": 10
+      "count": 11
     },
     {
       "word": "habitant",
@@ -433,10 +469,14 @@
     },
     {
       "word": "association",
-      "count": 7
+      "count": 8
     },
     {
       "word": "chère",
+      "count": 8
+    },
+    {
+      "word": "famille",
       "count": 7
     },
     {
@@ -444,11 +484,11 @@
       "count": 6
     },
     {
-      "word": "famille",
+      "word": "enfant",
       "count": 5
     },
     {
-      "word": "enfant",
+      "word": "quartier",
       "count": 5
     },
     {
@@ -476,15 +516,15 @@
       "count": 4
     },
     {
+      "word": "nouveau",
+      "count": 4
+    },
+    {
       "word": "peuple",
       "count": 4
     },
     {
       "word": "groupe",
-      "count": 4
-    },
-    {
-      "word": "quartier",
       "count": 4
     },
     {
@@ -506,10 +546,6 @@
     {
       "word": "crise",
       "count": 3
-    },
-    {
-      "word": "souhaiton",
-      "count": 3
     }
   ],
   "portrait": "nora-cherki.jpg",
@@ -530,13 +566,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 501,
-  "totalSignificantWords": 311,
+  "totalWords": 546,
+  "totalSignificantWords": 335,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 50,
-        "total": 11
+        "count": 54,
+        "total": 12
       },
       "min": {
         "value": 2,
@@ -557,7 +593,7 @@
     "exclamations": {
       "mean": {
         "count": 1,
-        "total": 11
+        "total": 12
       },
       "min": {
         "value": 0,
@@ -568,7 +604,7 @@
           "2022-04-douai-notre-ville-nora-cherki",
           "2022-07-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 5
+        "restLength": 6
       },
       "max": {
         "value": 1,
@@ -581,7 +617,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 11
+        "total": 12
       },
       "min": {
         "value": 0,
@@ -592,7 +628,7 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 6
+        "restLength": 7
       },
       "max": {
         "value": 0,
@@ -603,13 +639,13 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 6
+        "restLength": 7
       }
     },
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 11
+        "total": 12
       },
       "min": {
         "value": 0,
@@ -620,7 +656,7 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 6
+        "restLength": 7
       },
       "max": {
         "value": 0,
@@ -631,13 +667,13 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 6
+        "restLength": 7
       }
     },
     "caps": {
       "mean": {
         "count": 0,
-        "total": 11
+        "total": 12
       },
       "min": {
         "value": 0,
@@ -648,7 +684,7 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 6
+        "restLength": 7
       },
       "max": {
         "value": 0,
@@ -659,14 +695,14 @@
           "2022-02-douai-notre-ville-nora-cherki",
           "2022-04-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 6
+        "restLength": 7
       }
     },
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 3,
-          "total": 11
+          "count": 4,
+          "total": 12
         },
         "min": {
           "value": 0,
@@ -684,15 +720,16 @@
           "ids": [
             "2021-09-douai-notre-ville-nora-cherki",
             "2022-07-douai-notre-ville-nora-cherki",
-            "2023-10-douai-notre-ville-nora-cherki"
+            "2023-10-douai-notre-ville-nora-cherki",
+            "2024-02-douai-notre-ville-nora-cherki"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 40,
-          "total": 11
+          "count": 43,
+          "total": 12
         },
         "min": {
           "value": 1,
@@ -714,7 +751,7 @@
       "negative": {
         "mean": {
           "count": 7,
-          "total": 11
+          "total": 12
         },
         "min": {
           "value": 0,
@@ -725,7 +762,7 @@
             "2022-10-douai-notre-ville-nora-cherki",
             "2022-12-douai-notre-ville-nora-cherki"
           ],
-          "restLength": 0
+          "restLength": 1
         },
         "max": {
           "value": 2,

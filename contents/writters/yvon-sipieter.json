@@ -8,6 +8,10 @@
     {
       "date": "2022-11-01T00:00:00Z",
       "id": "2022-11-douai-notre-ville-yvon-sipieter"
+    },
+    {
+      "date": "2024-02-01T00:00:00Z",
+      "id": "2024-02-douai-notre-ville-yvon-sipieter"
     }
   ],
   "sentences": [
@@ -19,6 +23,11 @@
     {
       "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
       "count": 5
     }
   ],
@@ -36,6 +45,13 @@
       "positive": 0,
       "neutral": 4,
       "negative": 1
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -47,6 +63,11 @@
     {
       "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -60,6 +81,11 @@
       "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -71,6 +97,11 @@
     {
       "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -84,11 +115,28 @@
       "id": "2022-11-douai-notre-ville-yvon-sipieter",
       "date": "2022-11-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-yvon-sipieter",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "words": [
     {
       "word": "énergie",
+      "count": 5
+    },
+    {
+      "word": "économie",
+      "count": 4
+    },
+    {
+      "word": "investissement",
+      "count": 4
+    },
+    {
+      "word": "travail",
       "count": 4
     },
     {
@@ -96,7 +144,15 @@
       "count": 3
     },
     {
-      "word": "économie",
+      "word": "domaine",
+      "count": 3
+    },
+    {
+      "word": "coût",
+      "count": 3
+    },
+    {
+      "word": "bâtiment",
       "count": 3
     },
     {
@@ -109,6 +165,10 @@
     },
     {
       "word": "tarif",
+      "count": 2
+    },
+    {
+      "word": "école",
       "count": 2
     },
     {
@@ -128,15 +188,7 @@
       "count": 2
     },
     {
-      "word": "coût",
-      "count": 2
-    },
-    {
       "word": "augmentation",
-      "count": 2
-    },
-    {
-      "word": "bâtiment",
       "count": 2
     },
     {
@@ -170,22 +222,6 @@
     {
       "word": "compteur",
       "count": 1
-    },
-    {
-      "word": "bleu",
-      "count": 1
-    },
-    {
-      "word": "alimenter",
-      "count": 1
-    },
-    {
-      "word": "édifice",
-      "count": 1
-    },
-    {
-      "word": "école",
-      "count": 1
     }
   ],
   "portrait": "yvon-sipieter.jpg",
@@ -205,13 +241,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 95,
-  "totalSignificantWords": 76,
+  "totalWords": 143,
+  "totalSignificantWords": 112,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 9,
-        "total": 2
+        "count": 14,
+        "total": 3
       },
       "min": {
         "value": 4,
@@ -223,7 +259,8 @@
       "max": {
         "value": 5,
         "ids": [
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       }
@@ -231,13 +268,14 @@
     "exclamations": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2021-03-douai-notre-ville-yvon-sipieter",
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       },
@@ -245,7 +283,8 @@
         "value": 0,
         "ids": [
           "2021-03-douai-notre-ville-yvon-sipieter",
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       }
@@ -253,13 +292,14 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2021-03-douai-notre-ville-yvon-sipieter",
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       },
@@ -267,7 +307,8 @@
         "value": 0,
         "ids": [
           "2021-03-douai-notre-ville-yvon-sipieter",
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       }
@@ -275,13 +316,14 @@
     "bolds": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2021-03-douai-notre-ville-yvon-sipieter",
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       },
@@ -289,7 +331,8 @@
         "value": 0,
         "ids": [
           "2021-03-douai-notre-ville-yvon-sipieter",
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       }
@@ -297,13 +340,14 @@
     "caps": {
       "mean": {
         "count": 0,
-        "total": 2
+        "total": 3
       },
       "min": {
         "value": 0,
         "ids": [
           "2021-03-douai-notre-ville-yvon-sipieter",
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       },
@@ -311,7 +355,8 @@
         "value": 0,
         "ids": [
           "2021-03-douai-notre-ville-yvon-sipieter",
-          "2022-11-douai-notre-ville-yvon-sipieter"
+          "2022-11-douai-notre-ville-yvon-sipieter",
+          "2024-02-douai-notre-ville-yvon-sipieter"
         ],
         "restLength": 0
       }
@@ -320,13 +365,14 @@
       "positive": {
         "mean": {
           "count": 0,
-          "total": 2
+          "total": 3
         },
         "min": {
           "value": 0,
           "ids": [
             "2021-03-douai-notre-ville-yvon-sipieter",
-            "2022-11-douai-notre-ville-yvon-sipieter"
+            "2022-11-douai-notre-ville-yvon-sipieter",
+            "2024-02-douai-notre-ville-yvon-sipieter"
           ],
           "restLength": 0
         },
@@ -334,15 +380,16 @@
           "value": 0,
           "ids": [
             "2021-03-douai-notre-ville-yvon-sipieter",
-            "2022-11-douai-notre-ville-yvon-sipieter"
+            "2022-11-douai-notre-ville-yvon-sipieter",
+            "2024-02-douai-notre-ville-yvon-sipieter"
           ],
           "restLength": 0
         }
       },
       "neutral": {
         "mean": {
-          "count": 6,
-          "total": 2
+          "count": 10,
+          "total": 3
         },
         "min": {
           "value": 2,
@@ -354,20 +401,22 @@
         "max": {
           "value": 4,
           "ids": [
-            "2022-11-douai-notre-ville-yvon-sipieter"
+            "2022-11-douai-notre-ville-yvon-sipieter",
+            "2024-02-douai-notre-ville-yvon-sipieter"
           ],
           "restLength": 0
         }
       },
       "negative": {
         "mean": {
-          "count": 3,
-          "total": 2
+          "count": 4,
+          "total": 3
         },
         "min": {
           "value": 1,
           "ids": [
-            "2022-11-douai-notre-ville-yvon-sipieter"
+            "2022-11-douai-notre-ville-yvon-sipieter",
+            "2024-02-douai-notre-ville-yvon-sipieter"
           ],
           "restLength": 0
         },

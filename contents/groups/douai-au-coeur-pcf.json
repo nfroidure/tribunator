@@ -8,14 +8,18 @@
   "words": [
     {
       "word": "cher",
-      "count": 34
+      "count": 35
     },
     {
       "word": "douaisiens",
-      "count": 26
+      "count": 27
     },
     {
       "word": "année",
+      "count": 25
+    },
+    {
+      "word": "douaisiennes",
       "count": 24
     },
     {
@@ -23,12 +27,8 @@
       "count": 22
     },
     {
-      "word": "douaisiennes",
-      "count": 22
-    },
-    {
       "word": "chère",
-      "count": 18
+      "count": 19
     },
     {
       "word": "service",
@@ -40,7 +40,7 @@
     },
     {
       "word": "association",
-      "count": 13
+      "count": 14
     },
     {
       "word": "monde",
@@ -48,6 +48,14 @@
     },
     {
       "word": "crise",
+      "count": 12
+    },
+    {
+      "word": "famille",
+      "count": 12
+    },
+    {
+      "word": "nouveau",
       "count": 12
     },
     {
@@ -71,15 +79,7 @@
       "count": 11
     },
     {
-      "word": "famille",
-      "count": 10
-    },
-    {
       "word": "culture",
-      "count": 10
-    },
-    {
-      "word": "nouveau",
       "count": 10
     },
     {
@@ -259,6 +259,10 @@
     {
       "date": "2024-01-01T00:00:00Z",
       "id": "2024-01-douai-notre-ville-auriane-delbarre"
+    },
+    {
+      "date": "2024-02-01T00:00:00Z",
+      "id": "2024-02-douai-notre-ville-nora-cherki"
     }
   ],
   "sentences": [
@@ -451,6 +455,11 @@
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
       "count": 8
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 4
     }
   ],
   "sentiments": [
@@ -719,6 +728,13 @@
       "positive": 2,
       "neutral": 5,
       "negative": 1
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
     }
   ],
   "exclamations": [
@@ -910,6 +926,11 @@
     {
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1103,6 +1124,11 @@
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "bolds": [
@@ -1294,6 +1320,11 @@
     {
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1487,6 +1518,11 @@
       "id": "2024-01-douai-notre-ville-auriane-delbarre",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-nora-cherki",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1533,13 +1569,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1813,
-  "totalSignificantWords": 866,
+  "totalWords": 1858,
+  "totalSignificantWords": 884,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 203,
-        "total": 38
+        "count": 207,
+        "total": 39
       },
       "min": {
         "value": 2,
@@ -1560,7 +1596,7 @@
     "exclamations": {
       "mean": {
         "count": 4,
-        "total": 38
+        "total": 39
       },
       "min": {
         "value": 0,
@@ -1571,7 +1607,7 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 29
+        "restLength": 30
       },
       "max": {
         "value": 1,
@@ -1587,7 +1623,7 @@
     "questions": {
       "mean": {
         "count": 0,
-        "total": 38
+        "total": 39
       },
       "min": {
         "value": 0,
@@ -1598,7 +1634,7 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 33
+        "restLength": 34
       },
       "max": {
         "value": 0,
@@ -1609,13 +1645,13 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 33
+        "restLength": 34
       }
     },
     "bolds": {
       "mean": {
         "count": 1,
-        "total": 38
+        "total": 39
       },
       "min": {
         "value": 0,
@@ -1626,7 +1662,7 @@
           "2020-12-douai-notre-ville-jessy-kaboul",
           "2021-01-douai-notre-ville-auriane-delbarre"
         ],
-        "restLength": 32
+        "restLength": 33
       },
       "max": {
         "value": 1,
@@ -1639,7 +1675,7 @@
     "caps": {
       "mean": {
         "count": 8,
-        "total": 38
+        "total": 39
       },
       "min": {
         "value": 0,
@@ -1650,7 +1686,7 @@
           "2021-02-douai-notre-ville-eric-lemaitre",
           "2021-03-douai-notre-ville-nora-cherki"
         ],
-        "restLength": 25
+        "restLength": 26
       },
       "max": {
         "value": 1,
@@ -1667,8 +1703,8 @@
     "sentiments": {
       "positive": {
         "mean": {
-          "count": 18,
-          "total": 38
+          "count": 19,
+          "total": 39
         },
         "min": {
           "value": 0,
@@ -1691,8 +1727,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 164,
-          "total": 38
+          "count": 167,
+          "total": 39
         },
         "min": {
           "value": 1,
@@ -1712,7 +1748,7 @@
       "negative": {
         "mean": {
           "count": 21,
-          "total": 38
+          "total": 39
         },
         "min": {
           "value": 0,
@@ -1723,7 +1759,7 @@
             "2021-03-douai-notre-ville-nora-cherki",
             "2021-04-douai-notre-ville-auriane-delbarre"
           ],
-          "restLength": 14
+          "restLength": 15
         },
         "max": {
           "value": 2,

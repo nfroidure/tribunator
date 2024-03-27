@@ -19,12 +19,16 @@
       "count": 18
     },
     {
+      "word": "enfant",
+      "count": 16
+    },
+    {
       "word": "majorité",
       "count": 15
     },
     {
-      "word": "enfant",
-      "count": 14
+      "word": "pouvoir",
+      "count": 15
     },
     {
       "word": "municipale",
@@ -35,19 +39,19 @@
       "count": 14
     },
     {
-      "word": "pouvoir",
+      "word": "école",
+      "count": 14
+    },
+    {
+      "word": "faire",
+      "count": 13
+    },
+    {
+      "word": "investissement",
       "count": 13
     },
     {
       "word": "douaisiens",
-      "count": 12
-    },
-    {
-      "word": "faire",
-      "count": 12
-    },
-    {
-      "word": "investissement",
       "count": 12
     },
     {
@@ -63,15 +67,19 @@
       "count": 11
     },
     {
+      "word": "nombreux",
+      "count": 10
+    },
+    {
       "word": "beau",
       "count": 10
     },
     {
-      "word": "école",
-      "count": 10
+      "word": "avoir",
+      "count": 9
     },
     {
-      "word": "nombreux",
+      "word": "moyen",
       "count": 9
     },
     {
@@ -83,27 +91,19 @@
       "count": 9
     },
     {
+      "word": "santé",
+      "count": 8
+    },
+    {
       "word": "fait",
       "count": 8
     },
     {
+      "word": "priorité",
+      "count": 8
+    },
+    {
       "word": "quartier",
-      "count": 8
-    },
-    {
-      "word": "avoir",
-      "count": 8
-    },
-    {
-      "word": "cœur",
-      "count": 8
-    },
-    {
-      "word": "force",
-      "count": 8
-    },
-    {
-      "word": "grâce",
       "count": 8
     }
   ],
@@ -255,6 +255,10 @@
     {
       "date": "2024-01-01T00:00:00Z",
       "id": "2024-01-douai-notre-ville-coline-craeye"
+    },
+    {
+      "date": "2024-02-01T00:00:00Z",
+      "id": "2024-02-douai-notre-ville-coline-craeye"
     }
   ],
   "sentences": [
@@ -441,6 +445,11 @@
     {
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
+      "count": 5
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
       "count": 5
     }
   ],
@@ -703,6 +712,13 @@
       "positive": 1,
       "neutral": 4,
       "negative": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
     }
   ],
   "exclamations": [
@@ -890,6 +906,11 @@
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
       "count": 2
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 1
     }
   ],
   "questions": [
@@ -1076,6 +1097,11 @@
     {
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
+      "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
       "count": 0
     }
   ],
@@ -1264,6 +1290,11 @@
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
       "count": 1
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 1
     }
   ],
   "caps": [
@@ -1451,6 +1482,11 @@
       "id": "2024-01-douai-notre-ville-coline-craeye",
       "date": "2024-01-01T00:00:00Z",
       "count": 0
+    },
+    {
+      "id": "2024-02-douai-notre-ville-coline-craeye",
+      "date": "2024-02-01T00:00:00Z",
+      "count": 0
     }
   ],
   "authors": [
@@ -1513,13 +1549,13 @@
   ],
   "locality": "Douai",
   "country": "France",
-  "totalWords": 1827,
-  "totalSignificantWords": 925,
+  "totalWords": 1877,
+  "totalSignificantWords": 937,
   "summary": {
     "sentences": {
       "mean": {
-        "count": 213,
-        "total": 37
+        "count": 218,
+        "total": 38
       },
       "min": {
         "value": 1,
@@ -1539,8 +1575,8 @@
     },
     "exclamations": {
       "mean": {
-        "count": 54,
-        "total": 37
+        "count": 55,
+        "total": 38
       },
       "min": {
         "value": 0,
@@ -1567,7 +1603,7 @@
     "questions": {
       "mean": {
         "count": 10,
-        "total": 37
+        "total": 38
       },
       "min": {
         "value": 0,
@@ -1578,7 +1614,7 @@
           "2021-01-douai-notre-ville-coline-craeye",
           "2021-02-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 24
+        "restLength": 25
       },
       "max": {
         "value": 2,
@@ -1591,8 +1627,8 @@
     },
     "bolds": {
       "mean": {
-        "count": 30,
-        "total": 37
+        "count": 31,
+        "total": 38
       },
       "min": {
         "value": 0,
@@ -1617,7 +1653,7 @@
     "caps": {
       "mean": {
         "count": 5,
-        "total": 37
+        "total": 38
       },
       "min": {
         "value": 0,
@@ -1628,7 +1664,7 @@
           "2021-03-douai-notre-ville-xavier-thierry",
           "2021-04-douai-notre-ville-coline-craeye"
         ],
-        "restLength": 27
+        "restLength": 28
       },
       "max": {
         "value": 1,
@@ -1646,7 +1682,7 @@
       "positive": {
         "mean": {
           "count": 21,
-          "total": 37
+          "total": 38
         },
         "min": {
           "value": 0,
@@ -1657,7 +1693,7 @@
             "2021-07-douai-notre-ville-anne-colin",
             "2021-09-douai-notre-ville-coline-craeye"
           ],
-          "restLength": 16
+          "restLength": 17
         },
         "max": {
           "value": 3,
@@ -1669,8 +1705,8 @@
       },
       "neutral": {
         "mean": {
-          "count": 170,
-          "total": 37
+          "count": 174,
+          "total": 38
         },
         "min": {
           "value": 0,
@@ -1691,8 +1727,8 @@
       },
       "negative": {
         "mean": {
-          "count": 22,
-          "total": 37
+          "count": 23,
+          "total": 38
         },
         "min": {
           "value": 0,
